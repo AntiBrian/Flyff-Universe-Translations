@@ -1,0 +1,17 @@
+﻿#b#cff0000ff* Reward#nb#nc
+#b#cff0000ff* Reward Red Chips#nb#nc
+- Winning Guild: 34 x number of participating guilds
+- Second Guild: 24 x number of participating guilds
+- Third Guild: 14 x number of participating guilds
+- Fourth Guild: 8 x number of participating guilds
+- Fifth Guild: 4 x number of participating guilds
+#b#cff0000ff* Reward Money#nb#nc
+- Winning Guild: 35% of total applying money
+- Best Player: 15% of total applying money
+#b#cff0000ff* Reward Present#nb#nc
+- 1 victory: Dragon Cloak of the Initiate, All stats +5
+- 2 victories in a row: Dragon Cloak of the Adept, All stats +6, HP MAX+100
+- 3 victories in a row: Dragon Cloak of the Master, All stats +7 , HP MAX+100
+- 4 victories in a row: Dragon Cloak of the Hero, All stats +8, HP MAX+100
+#b#cffff0000* A button is shown up with which can create Dragon Cloak freely in the Guild bank.#nb#nc
+* Dragon Cloak can be put on only before the next Guild Combat begins.

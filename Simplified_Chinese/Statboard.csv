@@ -1,0 +1,27 @@
+﻿Key,English,Simplified_Chinese
+STATBOARD_TXT_000000,1. General,1. 通用
+STATBOARD_TXT_000001,2. Time,2. 时间
+STATBOARD_TXT_000002,3. Class,3. 职业
+STATBOARD_TXT_000003,Total Damage,总伤害
+STATBOARD_TXT_000004,Skill Damage,技能伤害
+STATBOARD_TXT_000005,Damage Taken,承受伤害
+STATBOARD_TXT_000006,Healing Done,治疗量
+STATBOARD_TXT_000007,Total Kills,总击杀
+STATBOARD_TXT_000008,Total Deaths,总死亡
+STATBOARD_TXT_000009,Damage Per Death,伤害 (每次死亡)
+STATBOARD_TXT_000010,Tanking Per Death,承伤 (每次死亡)
+STATBOARD_TXT_000011,Healing Per Death,治疗 (每次死亡)
+STATBOARD_TXT_000012,Kills Per Death,击杀 (每次死亡)
+STATBOARD_TXT_000013,Damage Per Min,伤害 (每分钟)
+STATBOARD_TXT_000014,Tanking Per Min,承伤 (每分钟)
+STATBOARD_TXT_000015,Healing Per Min,治疗 (每分钟)
+STATBOARD_TXT_000016,Deaths Per Min,死亡 (每分钟)
+STATBOARD_TXT_000017,Time Spent CC'd,Time Spent CC'd
+STATBOARD_TXT_000018,CC's applied,CC's applied
+STATBOARD_TXT_000019,Damage Amped,伤害增幅
+STATBOARD_TXT_000020,Damage Mitigated,伤害缩减
+STATBOARD_TXT_000021,Damage Reflected,反弹伤害
+STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,玩家被群体控制的总时间。
+STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,群体控制其他玩家的总时间。
+STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.",玩家通过释放例如神圣惩戒、刺伤等技能提升的总伤害。
+STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.",玩家通过释放例如伤害转移等技能减少的总伤害。

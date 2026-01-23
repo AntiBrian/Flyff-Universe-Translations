@@ -1,0 +1,27 @@
+﻿Key,English,Thai
+STATBOARD_TXT_000000,1. General,1. ทั่วไป
+STATBOARD_TXT_000001,2. Time,2. เวลา
+STATBOARD_TXT_000002,3. Class,3. Class
+STATBOARD_TXT_000003,Total Damage,Damage ทั้งหมด
+STATBOARD_TXT_000004,Skill Damage,Skill Damage
+STATBOARD_TXT_000005,Damage Taken,Damage ที่ได้รับ
+STATBOARD_TXT_000006,Healing Done,ผลการ Healing
+STATBOARD_TXT_000007,Total Kills,จำนวน Kills
+STATBOARD_TXT_000008,Total Deaths,จำนวนครั้งที่ตาย
+STATBOARD_TXT_000009,Damage Per Death,Damage ต่อรอบการตาย
+STATBOARD_TXT_000010,Tanking Per Death,Tanking ต่อรอบการตาย
+STATBOARD_TXT_000011,Healing Per Death,Healing ต่อรอบการตาย
+STATBOARD_TXT_000012,Kills Per Death,Kills ต่อรอบการตาย
+STATBOARD_TXT_000013,Damage Per Min,Damage ต่อนาที
+STATBOARD_TXT_000014,Tanking Per Min,Tanking ต่อนาที
+STATBOARD_TXT_000015,Healing Per Min,Healing ต่อนาที
+STATBOARD_TXT_000016,Deaths Per Min,จำนวนตายต่อนาที
+STATBOARD_TXT_000017,Time Spent CC'd,เวลาที่ใช้ CC'd
+STATBOARD_TXT_000018,CC's applied,การใช้ CC
+STATBOARD_TXT_000019,Damage Amped,Damage Amped
+STATBOARD_TXT_000020,Damage Mitigated,Damage Mitigated
+STATBOARD_TXT_000021,Damage Reflected,การสะท้อน Damage
+STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,จำนวนเวลา (วินาที) ที่ถูกสกิลประเภท crowd-controlled
+STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,จำนวนเวลา (วินาที) ที่ใช้สกิลประเภท crowd-controlled กับผู้เล่นอื่น
+STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Damage ทั้งหมดที่ผู้เล่นได้รับน้อยลงผ่านเอฟเฟกต์ต่างๆ เช่น Holycross, Swordcross เป็นต้น"
+STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.","Damage ทั้งหมดที่ผู้เล่นได้รับน้อยลงผ่านเอฟเฟกต์ต่างๆ เช่น Holycross, Swordcross เป็นต้น"

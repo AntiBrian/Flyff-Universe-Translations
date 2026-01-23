@@ -1,0 +1,334 @@
+﻿Key,English,Thai
+PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,คำขอ $QUEST_END_ITEM_NAME$ ออกไปแล้ว คุณจะยอมรับภารกิจนี้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,คำขอผ้าพันแผลของ Grrr ได้ออกไปแล้ว
+PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,คำขอของ Amperes ออกไปแล้ว
+PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,มีการร้องขอให้ Boopoison ทำยาแก้พิษ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000458,A request has gone out for $QUEST_END_ITEM_NAME$.,มีการส่งคำขอสำหรับ $QUEST_END_ITEM_NAME$ แล้ว
+PROPQUEST_REQUESTBOX_INC_000519,A request has gone out for Rootioe to be used as woodworking material. Will you help?,มีการร้องขอให้ Rootioe ใช้เป็นวัสดุสำหรับงานไม้ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000366,You can get $QUEST_END_ITEM_NAME$ from any type of $QUEST_END_ITEM_MON$.,คุณสามารถรับ $QUEST_END_ITEM_NAME$ จาก $QUEST_END_ITEM_MON$ ประเภทใดก็ได้
+PROPQUEST_REQUESTBOX_INC_000322,You can collect $QUEST_END_ITEM_NAME$ from all types of $QUEST_END_ITEM_MON$.,คุณสามารถรวบรวม $QUEST_END_ITEM_NAME$ จาก $QUEST_END_ITEM_MON$ ทุกประเภท
+PROPQUEST_REQUESTBOX_INC_000014,You can collect $QUEST_END_ITEM_NAME$ near a bridge in north.,คุณสามารถรวบรวม $QUEST_END_ITEM_NAME$ ใกล้สะพานทางเหนือ
+PROPQUEST_REQUESTBOX_INC_000025,You can collect Unknown Certificates near the Bangs.,คุณสามารถรวบรวม Unknown Certificates ใกล้ Bangs
+PROPQUEST_REQUESTBOX_INC_000091,You can collect nyanyang near the Giant Nyangnyang.,คุณสามารถรวบรวม nyanyang ใกล้ Giant Nyangnyang
+PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,คุณสามารถรวบรวมเอกสารสำนักงานใกล้ Mias
+PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,คุณไม่ต้องการจะเก็บมันงั้นเรอะ? เข้าใจแล้ว
+PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,คุณต้องการ $QUEST_END_ITEM_NAME$ เพิ่มอีก
+PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,คุณมี $QUEST_END_ITEM_NAME$ ไม่เพียงพอ
+PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,ทำได้ดีมาก คุณทำภารกิจสำเร็จแล้ว
+PROPQUEST_REQUESTBOX_INC_000357,Good Job! You successfully completed the quest. Take this for your trouble.,ทำได้ดีมาก! คุณทำภารกิจสำเร็จแล้ว ใช้สิ่งนี้สำหรับปัญหาของคุณ
+PROPQUEST_REQUESTBOX_INC_000362,$QUEST_END_NPC_NAME$ was happy that the quest was completed.,$QUEST_END_NPC_NAME$ มีความสุขที่ภารกิจเสร็จสิ้น
+PROPQUEST_REQUESTBOX_INC_000307,$QUEST_END_NPC_NAME$ was happy to see the quest completed.,$QUEST_END_NPC_NAME$ มีความสุขที่ภารกิจเสร็จสิ้น
+PROPQUEST_REQUESTBOX_INC_000582,$QUEST_END_NPC_NAME$ is very grateful to you for completing this quest.,$QUEST_END_NPC_NAME$ รู้สึกขอบคุณเป็นอย่างยิ่งที่คุณทำภารกิจนี้สำเร็จ
+PROPQUEST_REQUESTBOX_INC_000001,Party of Is,ปาร์ตี้ของ Is
+PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,Is ต้องการให้คุณรวบรวม Chupim สำหรับงานปาร์ตี้ของเธอ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000007,Is asking you to collect Chupim for her party.,Is กำลังขอให้คุณรวบรวม Chupim สำหรับงานปาร์ตี้ของเธอ
+PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),สถานการณ์ที่ไม่รู้จัก (1)
+PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,Flaris Pang ต้องการให้คุณรวบรวมจดหมายที่ไม่รู้จัก คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,Flaris Pang ต้องการให้คุณรวบรวม $QUEST_END_ITEM_NAME$
+PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,Flaris Pang ต้องการให้คุณรวบรวม Unknown Certificates คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000034,Flying Board,Flying Board
+PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,Dior ต้องการให้คุณรวบรวม Peakyrinds คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,Dior ต้องการให้คุณรวบรวม Peakyrinds
+PROPQUEST_REQUESTBOX_INC_000045,Fresh Start for Mop,การเริ่มต้นใหม่สำหรับม็อบ
+PROPQUEST_REQUESTBOX_INC_000046,House of Children needs you to collect Mop for their children. Will you help?,House of Children ต้องการให้คุณรวบรวม Mop สำหรับลูกๆ ของพวกเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000051,House of Children wants you to collect 3 Mop.,House of Children อยากให้คุณเก็บ 3 Mop
+PROPQUEST_REQUESTBOX_INC_000056,Gems for Wands,อัญมณีสำหรับไม้กายสิทธิ์
+PROPQUEST_REQUESTBOX_INC_000057,Madrigal Magician Union wants you to collect Poporam for their wands. Will you help?,Madrigal Magician Union ต้องการให้คุณรวบรวม Poporam สำหรับไม้กายสิทธิ์ของพวกเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000062,Madrigal Magician Union wants you to collect 4 Poporam.,Madrigal Magician Union ต้องการให้คุณรวบรวม 4 Poporam
+PROPQUEST_REQUESTBOX_INC_000067,"Cookie Machine, Valin Baget",เครื่องทำคุกกี้ Valin Baget
+PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,Valin ต้องการให้คุณรวบรวม Slain เพื่อเติมเชื้อเพลิงให้กับ Cookie Machine ของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000073,Valin needs you to collect Slain for his cookie machine.,Valin ต้องการให้คุณรวบรวม Slain สำหรับเครื่องทำคุกกี้ของเขา
+PROPQUEST_REQUESTBOX_INC_000078,Magic Quill,ปากกาวิเศษ
+PROPQUEST_REQUESTBOX_INC_000079,Mule wants you to collect Tarin roots so he can make a new magic quill. Will you help?,Mule ต้องการให้คุณรวบรวมราก Tarin เพื่อให้เขาสามารถสร้างปากกาวิเศษใหม่ได้ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000084,Mule needs you to collect Tarin roots.,Mule ต้องการให้คุณรวบรวมราก Tarin
+PROPQUEST_REQUESTBOX_INC_000089,Lyangglatang,Lyangglatang
+PROPQUEST_REQUESTBOX_INC_000090,Rooney wants you to collect Nyanyangs for her party. Will you help?,Rooney ต้องการให้คุณรวบรวม Nyanyang สำหรับงานปาร์ตี้ของเธอ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000095,Rooney needs you to collect Nyanyangs.,Rooney ต้องการให้คุณรวบรวม Nyanyang
+PROPQUEST_REQUESTBOX_INC_000100,10 Year anniversary gift,ของขวัญครบรอบ 10 ปี
+PROPQUEST_REQUESTBOX_INC_000101,Marche wants you to collect Starstones to make a 10 year anniversary gift. Will you help?,Marche ต้องการให้คุณรวบรวม Starstones เพื่อทำของขวัญครบรอบ 10 ปี คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000106,Marche needs Starstones,Marche ต้องการให้คุณรวบรวม Starstones
+PROPQUEST_REQUESTBOX_INC_000111,Liquor for Dunkan,เครื่องดื่มสำหรับ Dunkan
+PROPQUEST_REQUESTBOX_INC_000112,Dunkan needs you to collect Golden Wings to make a new liquor. Will you help?,Dunkan ต้องการให้คุณรวบรวม Golden Wings เพื่อทำเครื่องดื่มใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000117,Dunkan wants Golden Wings.,Dunkan ต้องการให้คุณรวบรวม Golden Wings
+PROPQUEST_REQUESTBOX_INC_000122,Sweet Dessert,ขนมหวานแสนอร่อย
+PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,Damian ต้องการให้คุณรวบรวม Blue Honey เพื่อทำขนมใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,Damian ต้องการให้คุณรวบรวม Blue Honey
+PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,ตุ๊กตาอวยพร
+PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,House of Children ต้องการให้คุณรวบรวม Mia Dolls เป็นของขวัญสำหรับเด็ก คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,House of Children ต้องการให้คุณรวบรวม Mia Dolls
+PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,เอกสารที่หายไป
+PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,Julia ต้องการให้คุณรวบรวมเอกสารสำนักงานที่ Mias โมยไป คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,Julia ต้องการให้คุณรวบรวมเอกสารสำนักงานที่ Mias โมยไป
+PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,เปลวไฟที่แผดเผา
+PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,Bozman ต้องการให้คุณรวบรวมไม้ขีดไฟเพื่อใช้ที่เตาหลอมของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,Bozman ต้องการให้คุณรวบรวมไม้ขีดไฟ
+PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),สถานการณ์ที่ไม่รู้จัก (2)
+PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,Flaris Pang ต้องการให้คุณรวบรวมจดหมายที่ไม่รู้จัก
+PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,Flaris Pang ต้องการจดหมายที่ไม่รู้จักอีกครั้ง
+PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,ซอสแสนอร่อย
+PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,Kalin ต้องการให้คุณรวบรวม Cardrin เพื่อทำซอสแสนอร่อย
+PROPQUEST_REQUESTBOX_INC_000183,Kalin wants Cardrin.,Kalin ต้องการให้คุณรวบรวม Cardrin
+PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,ลูกแก้ววิเศษ
+PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,Martin ต้องการ Hammarble เพื่อสร้าง Magic Orb คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,Martin ต้องการ Hammarble
+PROPQUEST_REQUESTBOX_INC_000199,Mark of Bill,เครื่องหมายของบิล
+PROPQUEST_REQUESTBOX_INC_000200,Bill needs you to collect Gigglande so that he can make his mark. Will you help?,Bill ต้องการให้คุณรวบรวม Gigglande เพื่อที่เขาจะได้ทำเครื่องหมายของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000205,Bill wants Gigglande.,Bill ต้องการให้คุณรวบรวม Gigglande
+PROPQUEST_REQUESTBOX_INC_000210,Repair Work on Saint Hall,งานซ่อมที่ Saint Hall
+PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,Helena ต้องการให้คุณรวบรวม Crescent Stones เพื่อซ่อมแซม Saint Hall คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,เฮเลน่าต้องการ $QUEST_END_ITEM_NAME$
+PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,ช่วยเหลือสัตว์บาดเจ็บ
+PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,Madrigal Animal Association ต้องการให้คุณรวบรวม Bobbands เพื่อช่วยสัตว์ที่ได้รับบาดเจ็บ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,Madrigal Animal Association ต้องการ Bobbands
+PROPQUEST_REQUESTBOX_INC_000232,Strange Collector,นักสะสมของแปลก
+PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,นักสะสมของแปลกต้องการให้คุณรวบรวม Dumblings สำหรับคอลเลกชันของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000243,For the Wife,เพื่อภรรยา
+PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,Mayer ต้องการให้ Kalin ทำของขวัญให้ภรรยาของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,Mayer ต้องการให้ Kalin ทำของขวัญให้
+PROPQUEST_REQUESTBOX_INC_000254,Weak Heart,หัวใจที่อ่อนแอ
+PROPQUEST_REQUESTBOX_INC_000255,Helena needs clock hearts to make a new heart for her sick brother. Will you help?,Helena ต้องการนาฬิกาหัวใจเพื่อสร้างหัวใจใหม่ให้กับน้องชายที่ป่วยของเธอ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000265,Devil Marble,Devil Marble
+PROPQUEST_REQUESTBOX_INC_000266,Bill needs Tomb Marbles to make the Devil Marble. Will you help?,Bill ต้องการ Tomb Marbles เพื่อสร้าง Devil Marble คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000271,Bill wants Tomb Marbles.,Bill ต้องการ Tomb Marbles
+PROPQUEST_REQUESTBOX_INC_000276,Dream of the Fighter,ความฝันของนักสู้
+PROPQUEST_REQUESTBOX_INC_000277,Fighter needs you to collect Golden Fists to make a golden glove. Will you help?,นักสู้ต้องการให้คุณรวบรวม Golden Fists เพื่อทำถุงมือทองคำ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000282,Fighter wants Golden Fists.,นักสู้ต้องการ Golden Fists
+PROPQUEST_REQUESTBOX_INC_000287,Marbles for the Son,ลูกแก้วสำหรับลูกชาย
+PROPQUEST_REQUESTBOX_INC_000288,Mayer needs orbin to make marbles for his son. Will you help?,Mayer ต้องการออร์บินเพื่อทำลูกแก้วให้ลูกชายของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000293,Mayer wants orbin.,Mayer ต้องการออร์บิน
+PROPQUEST_REQUESTBOX_INC_000298,Strange Collector (2),นักสะสมของแปลก (2)
+PROPQUEST_REQUESTBOX_INC_000299,Strange Collector needs you to collect $QUEST_END_ITEM_NAME$ for his collection. Will you help?,นักสะสมของแปลกต้องการให้คุณรวบรวม $QUEST_END_ITEM_NAME$ สำหรับคอลเล็กชันของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000304,Strange Collector wants $QUEST_END_ITEM_NAME$.,นักสะสมของแปลกต้องการ $QUEST_END_ITEM_NAME$
+PROPQUEST_REQUESTBOX_INC_000309,Lens of Olien,เลนส์ของ Olien
+PROPQUEST_REQUESTBOX_INC_000310,Olien needs you to collect steam tears to make a new lens. Will you help?,Olien ต้องการให้คุณรวบรวม Steam Tears เพื่อสร้างเลนส์ใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000315,Olien wants steam tears.,Olien ต้องการให้ Steam Tears
+PROPQUEST_REQUESTBOX_INC_000320,Red Muffler,ผ้าพันคอสีแดง
+PROPQUEST_REQUESTBOX_INC_000321,Soldier needs you to collect knightlers to make a new scarf. Will you help?,ทหารต้องการให้คุณรวบรวม Knightlers เพื่อทำผ้าพันคอใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000326,Soldier wants knightler.,ทหารต้องการ Knightlers
+PROPQUEST_REQUESTBOX_INC_000331,Dwarpet Festival,เทศกาล Dwarpet
+PROPQUEST_REQUESTBOX_INC_000332,The Dwarpet needs you to collect wheeshoes for their festival. Will you help?,Dwarpet ต้องการให้คุณรวบรวม Wheeshoes สำหรับเทศกาลของพวกเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000337,The Dwarpet wants wheesoes.,Dwarpet ต้องการ Wheeshoes
+PROPQUEST_REQUESTBOX_INC_000342,Crane Repair,ซ่อมเครน
+PROPQUEST_REQUESTBOX_INC_000343,The Erons Industrial Manager needs Droil to repair their crane. Will you help?,ผู้จัดการฝ่ายอุตสาหกรรมของ Erons ต้องการ Droil มาซ่อมแซมเครน คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000348,Erons want Droils.,Erons ต้องการ Droil
+PROPQUEST_REQUESTBOX_INC_000353,Urgently looking for a Bandage,หาผ้าพันแผลโดยด่วน
+PROPQUEST_REQUESTBOX_INC_000364,Portable Power,พลังงานแบบพกพา
+PROPQUEST_REQUESTBOX_INC_000375,Strange Collector (3),นักสะสมของแปลก (3)
+PROPQUEST_REQUESTBOX_INC_000386,Replacement Tires,ยางอะไหล่
+PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,Dwarpet ต้องการให้คุณรวบรวม Dumptires เพื่อเปลี่ยนยางที่แบนของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000392,The Dwarpet wants Dumptire.,Dwarpet ต้องการ Dumptires
+PROPQUEST_REQUESTBOX_INC_000397,Strange Collector (4),นักสะสมของแปลก (4)
+PROPQUEST_REQUESTBOX_INC_000398,Mysterious collector needs Garbageton for his collection. Will you help?,นักสะสมลึกลับต้องการ Garbageton สำหรับคอลเลกชันของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000408,Relics of a Husband,เรลิคของสามี
+PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,หญิงม่ายขอให้คุณรวบรวม Eronior เพื่อที่เธอจะได้ทำแหวนให้สามีของเธอใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000414,A widow wants some Eronior.,หญิงม่ายต้องการ Eronior
+PROPQUEST_REQUESTBOX_INC_000419,Disguise of Remina,การปลอมตัวของ Remina
+PROPQUEST_REQUESTBOX_INC_000420,Remina needs you to collect repygle to make a pair of disguising sunglasses. Will you help?,Remina ต้องการให้คุณรวบรวม Repygle เพื่อทำแว่นกันแดดปลอมตัว คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000425,Remina wants $QUEST_END_ITEM_NAME$.,Remina ต้องการ $QUEST_END_ITEM_NAME$
+PROPQUEST_REQUESTBOX_INC_000430,Beautiful Keil Wallpaper,วอลล์เปเปอร์ Keil ที่สวยงาม
+PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,Haven ต้องการให้คุณรวบรวม Sycale เพื่อสร้างโมเดล Magic Shop ใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000436,Heaven wants Sycale.,สวรรค์ต้องการ Sycale
+PROPQUEST_REQUESTBOX_INC_000441,Strange Collector (5),นักสะสมของแปลก (5)
+PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,นักสะสมของแปลกต้องการ $QUEST_END_ITEM_NAME$ สำหรับคอลเล็กชันของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000447,Strange collector want Mong Tear,นักสะสมของแปลกต้องการ Mong Tear
+PROPQUEST_REQUESTBOX_INC_000452,Anesthetic Needs,ความต้องการยาชา
+PROPQUEST_REQUESTBOX_INC_000463,New Kind of Firework,ดอกไม้ไฟชนิดใหม่
+PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,ผู้ผลิตดอกไม้ไฟต้องการ Bomb Timers เพื่อสร้างดอกไม้ไฟรูปแบบใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000465,You get bombtimers from any type of Carrierbomb.,ผู้ผลิตดอกไม้ไฟต้องการ Bomb Timers จาก Carrierbomb ทุกประเภท
+PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,ผู้ผลิตดอกไม้ไฟต้องการ Bomb Timers
+PROPQUEST_REQUESTBOX_INC_000474,Snack for the Children,ขนมสำหรับเด็กๆ
+PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,Bolpor ต้องการ Prewing เพื่อทำขนมให้กับเด็กๆ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,Bolpor ต้องการ Prewing
+PROPQUEST_REQUESTBOX_INC_000485,Mushroom Farm of Chitller,ฟาร์มเห็ดของ Chitller
+PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,Chitller ต้องการให้คุณรวบรวม Poiespore สำหรับฟาร์มเห็ดของเขา คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000491,Chitller wants Poiespore.,Chitller ต้องการ Poiespore
+PROPQUEST_REQUESTBOX_INC_000496,New Yo-Yo,โยโย่อันใหม่
+PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,มาสเตอร์ Acrobat ต้องการให้คุณรวบรวม Renyken เพื่อสร้าง Yo-Yo ใหม่ คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000502,An Acrobat master wants Renyken.,มาสเตอร์ Acrobat ต้องการ Renyken
+PROPQUEST_REQUESTBOX_INC_000507,Disguise of a Native,การปลอมตัวของชนพื้นเมือง
+PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,ชาว Darkon ต้องการให้คุณรวบรวม Tangkask คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000513,Darkon natives want Tankask.,ชาว Darkon ต้องการ Tankask
+PROPQUEST_REQUESTBOX_INC_000518,Woodworking Material,วัสดุงานไม้
+PROPQUEST_REQUESTBOX_INC_000529,The Best Shield,โล่ที่ดีที่สุด
+PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,Remina ต้องการ Luchest เพื่อสร้างโล่ที่แข็งแกร่งที่สุดในโลก คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000540,Beauty Contest Award,รางวัลประกวดนางงาม
+PROPQUEST_REQUESTBOX_INC_000541,The Madrigal Beauty Contest needs Eronsimint for making an award. Will you help?,งานประกวดนางงาม Madrigal ต้องการ Eronsimint สำหรับทำรางวัล คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000546,The Madrigal Beauty Contest sponsor wants Eronsimint.,ผู้สนับสนุนงานประกวดนางงาม Madrigal ต้องการ Eronsimint
+PROPQUEST_REQUESTBOX_INC_000551,Lucky Tool,เครื่องมือนำโชค
+PROPQUEST_REQUESTBOX_INC_000552,Lucky needs Hammamer to make a lucky hammer. Will you help?,Lucky ต้องการ Hammamer เพื่อทำค้อนนำโชค คุณจะช่วยไหม
+PROPQUEST_REQUESTBOX_INC_000557,Lucky wants Hammamer.,Lucky ต้องการ Hammamer
+PROPQUEST_REQUESTBOX_INC_000562,Strange Collector (6),นักสะสมของแปลก (6)
+PROPQUEST_REQUESTBOX_INC_000573,Request of Lurif,คำขอของ Lurif
+PROPQUEST_REQUESTBOX_INC_000574,Could you do me a favor? I need Phanbubble. Can you help me please?,คุณช่วยฉันหน่อยได้ไหม ฉันต้องการ Phanbubble ได้โปรดช่วยฉันหน่อยได้ไหม?
+PROPQUEST_REQUESTBOX_INC_000579,Lurif needs many Phanbubbles.,Lurif ต้องการ Phanbubble จำนวนมาก
+PROPQUEST_REQUESTBOX_INC_000815,Mysterious Magic Material,วัสดุเวทย์มนตร์ลึกลับ
+PROPQUEST_REQUESTBOX_INC_000816,Magician Master requested you to collect Merahook which is a magic material. Will you accept this request?,Magician Master ขอให้คุณรวบรวม Merahook ซึ่งเป็นวัสดุเวทย์มนตร์ คุณจะยอมรับคำขอนี้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_000817,You can collect them from the group of Chimeradon in the Deadwallderness.,คุณสามารถรวบรวมได้จากกลุ่มของ Chimeradon ใน Deadwallderness
+PROPQUEST_REQUESTBOX_INC_000826,Avenge Nerky,ล้างแค้น Nerky
+PROPQUEST_REQUESTBOX_INC_000827,Krinton's pet Bearnerky got killed by the other Bearnerky. Krinton requested you to collect NerkyMane for revenge. Will you accept this request?,Bearnerky สัตว์เลี้ยงของ Krinton ถูก Bearnerky อีกคนฆ่า Krinton ขอให้คุณรวบรวม NerkyMane เพื่อแก้แค้น คุณจะยอมรับคำขอนี้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_000828,You can collect them from the group of Bearnerky in the Deadwallderness.,คุณสามารถรวบรวมได้จากกลุ่ม Bearnerky ใน Deadwallderness
+PROPQUEST_REQUESTBOX_INC_000837,Bolpor's favor,ความโปรดปรานของ Bolpor
+PROPQUEST_REQUESTBOX_INC_000838,Bolpor requested you to collect Rincruet for making some special food. Will you accept this request?,Bolpor ขอให้คุณรวบรวม Rincruet เพื่อทำอาหารพิเศษ คุณจะยอมรับคำขอนี้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_000839,You can collect them from the group of Muffrin in the Deadwallderness.,คุณสามารถรวบรวมได้จากกลุ่ม Muffrin ใน Deadwallderness
+PROPQUEST_REQUESTBOX_INC_000848,Toy Materials,วัสดุของเล่น
+PROPQUEST_REQUESTBOX_INC_000849,A toy merchant requested you to collect Popshift for making fancy toys. Will you accept this request?,พ่อค้าของเล่นขอให้คุณรวบรวม Popshift เพื่อทำของเล่นแฟนซี คุณจะยอมรับคำขอนี้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_000850,You can collect them from the group of Popcrank in the Deadwallderness.,คุณสามารถรวบรวมได้จากกลุ่ม Popcrank ใน Deadwallderness
+PROPQUEST_REQUESTBOX_INC_000859,Evil Eyed Red Dragon,มังกรแดงชั่วร้าย
+PROPQUEST_REQUESTBOX_INC_000860,Can you please go find Dragon Tooth of the Meteonyker Dragon for me? The Arena Manager Lay requested 5 of them.,คุณช่วยไปหา Dragon Tooth of the Meteonyker Dragon ให้ฉันได้ไหม Lay ผู้จัดการอารีน่าขอ 5 ชิ้น
+PROPQUEST_REQUESTBOX_INC_000861,"You can collect them from Meteonyker. I heard it's in Dekane Dungeon. Be careful, the Meteonyker is very strong! It's  best if you go with a party!",คุณสามารถรวบรวมได้จาก Meteonyker ฉันได้ยินมาว่ามันอยู่ใน Dekane Dungeon ระวังนะ Meteonyker แข็งแกร่งมาก! ถ้าคุณไปกับปาร์ตี้จะดีกว่า!
+PROPQUEST_REQUESTBOX_INC_010000,Moth Infestation,การระบาดของ Moth
+PROPQUEST_REQUESTBOX_INC_010001,Tina asked for help with reducing the Mothbee population as they're causing problems with transport. Could you kill 15 of them?,Tina ขอความช่วยเหลือเรื่องการลดจำนวนของ Mothbee เนื่องจากพวกมันกำลังสร้างปัญหาในการขนส่ง คุณสามารถฆ่าพวกมัน 15 ตัวได้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_010002,You can find Mothbee flying inbetween Northern Saint City & Flaris.,คุณสามารถหา Mothbee ที่บินอยู่ได้ระหว่าง Northern Saint City และ Flaris
+PROPQUEST_REQUESTBOX_INC_010003,You don't want to help? That's okay. We'll find somebody else.,คุณไม่อยากช่วยเหรอ? ไม่เป็นไร เราจะหาคนอื่น
+PROPQUEST_REQUESTBOX_INC_010004,You haven't finished the task yet.,คุณยังทำภารกิจไม่เสร็จเลย
+PROPQUEST_REQUESTBOX_INC_010005,Mutated Aibatts,Aibatts กลายพันธุ์
+PROPQUEST_REQUESTBOX_INC_010006,Tina has reported a new kind of Masquerpet called Zendros. Please could you kill 15 of them?,Tina ได้รายงานเรื่อง Masquerpet ชนิดใหม่ที่เรียกว่า Zendros คุณช่วยฆ่าพวกมัน 15 ตัวได้ไหม
+PROPQUEST_REQUESTBOX_INC_010007,You can find Zendros flying between Flaris and Saint morning continents.,คุณจะพบ Zendros ที่บินระหว่างเมือง Flaris และ Saint morning
+PROPQUEST_REQUESTBOX_INC_010008,Dragonflies,แมลงปอ
+PROPQUEST_REQUESTBOX_INC_010009,Tina asked for help with reducing the Neparuba population as they're causing problems with transport. Could you kill 15 of them?,Tina ขอความช่วยเหลือในการลดจำนวน Neparuba เนื่องจากพวกมันกำลังก่อให้เกิดปัญหากับการขนส่ง คุณสามารถฆ่าพวกมัน 15 ตัวได้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_010010,You can find Neparuba flying between Flaris and Saint morning continents.,คุณสามารถพบ Neparuba ที่บินระหว่างเมือง Flaris และ Saint morning
+PROPQUEST_REQUESTBOX_INC_010011,Flybrigen Brigade,กองพล Flybrigen
+PROPQUEST_REQUESTBOX_INC_010012,Tina asked for help with reducing the Flybrigen population as they're causing problems with transport. Could you kill 15 of them?,Tina ขอความช่วยเหลือเกี่ยวกับการลดจำนวน Flybrigen เนื่องจากปัญหาในการคมนาคมขนส่ง คุณสามารถฆ่าพวกมัน 15 ตัวได้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_010013,You can find Flybrigen flying between Saint Morning and Garden of Rhisis continents.,คุณสามารถค้นหา Flybrigen ที่บินระหว่างเมือง Saint Morning และ Garden of Rhisis
+PROPQUEST_REQUESTBOX_INC_010014,Moth Infestation (2),การระบาดของ Moth (2)
+PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?
+PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.
+PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),Aibatt กลายพันธุ์ (2)
+PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?
+PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,You can find the Lord Zendros flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010020,Dragonflies (2),แมลงปอ (2)
+PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?
+PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,You can find the Lord Neparuba flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),กองพล Flybrigen (2)
+PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?
+PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.
+PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,Flying Circus
+PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,Dior ขอความช่วยเหลือเกี่ยวกับการลดจำนวน Rockepeller เนื่องจากพวกเขากำลังสร้างปัญหากับการขนส่งระหว่าง Darkon และ Flaris คุณสามารถฆ่าพวกมัน 15 ตัวได้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,คุณจะพบ Rockepeller ระหว่างเมือง Flaris และ Darkon
+PROPQUEST_REQUESTBOX_INC_010029,Zenma Hunting,การล่า Zenma
+PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,Almani ขอความช่วยเหลือในการลดจำนวน Zenma เนื่องจากพวกเขากำลังก่อให้เกิดปัญหากับป่าไม้ใน Gouthan Mountains คุณสามารถฆ่าพวกมัน 15 ตัวได้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,คุณสามารถพบ Zenma บินอยู่เหนือ Gouthan Mountains
+PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!",ดูสิ หนูบินได้!
+PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?",Almani ขอให้ Longwings ถูกกำจัดเนื่องจากพวกมันโจมตีชาวเมือง คุณสามารถฆ่าพวกมัน 15 ตัวได้หรือไม่?
+PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,คุณจะพบ Longwings บินอยู่ทางตะวันออกเฉียงใต้ของ Clockworks Cage ในภูเขา
+PROPQUEST_REQUESTBOX_INC_010035,Baby Meteonyker,Baby Meteonyker
+PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?",Almani ขอให้ Fafnirs ถูกกำจัด ก่อนที่พวกมันจะเติบโตเป็น Dragons! คุณช่วยฆ่าพวกมัน 15 ตัวได้ไหม
+PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.",คุณสามารถหา Fafnir บินใกล้ภูเขาไฟได้ใน Darkon 3 Brekin
+PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,นกยุคก่อนประวัติศาสตร์
+PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,Almani ขอให้ Gorrudas ถูกกำจัด พวกมันเป็นภัยคุกคามที่ใกล้เข้ามา! คุณช่วยฆ่าพวกมัน 15 ตัวได้ไหม
+PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.",คุณจะพบ Gorrudas บินอยู่ทางตะวันตกของ Deadwallderness เหนือภูเขา
+PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),Flying Circus (2)
+PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?
+PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,You can find the Lord Rockepeller flying between Flaris and Darkon continents.
+PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)",ดูสิ หนูบินได้! (2)
+PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?
+PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.
+PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),Baby Meteonyker (2)
+PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),นกยุคก่อนประวัติศาสตร์ (2)
+PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?
+PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.",คุณจะพบ $QUEST_END_KILL_NAME$ ที่บินไปทางตะวันตกของ Deadwallderness เหนือภูเขา
+PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),การล่า Zenma (2)
+PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,You can find the Lord Zenma flying above Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,คุณสามารถรับ $QUEST_END_ITEM_NAME$ จาก Chimeradon ประเภทใดก็ได้
+PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,คุณสามารถรับ $QUEST_END_ITEM_NAME$ จาก Bearnerky ประเภทใดก็ได้
+PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,คุณสามารถรับ $QUEST_END_ITEM_NAME$ จาก Muffrin ประเภทใดก็ได้
+PROPQUEST_REQUESTBOX_INC_020003,You can get $QUEST_END_ITEM_NAME$ from any type of Popcrank.,คุณสามารถรับ $QUEST_END_ITEM_NAME$ จาก Popcrank ทุกประเภท
+PROPQUEST_REQUESTBOX_INC_020004,You can collect $QUEST_END_ITEM_NAME$ from all types of Red Mantis.,คุณสามารถรวบรวม $QUEST_END_ITEM_NAME$ จาก Red Mantis ทุกประเภท
+PROPQUEST_REQUESTBOX_INC_020005,Obsessed with Crystals! (1),หมกมุ่นอยู่กับคริสตัล! (1)
+PROPQUEST_REQUESTBOX_INC_020006,Obsessed with Crystals! (2),หมกมุ่นอยู่กับคริสตัล! (2)
+PROPQUEST_REQUESTBOX_INC_020007,Obsessed with Crystals! (3),หมกมุ่นอยู่กับคริสตัล! (3)
+PROPQUEST_REQUESTBOX_INC_020008,Obsessed with Crystals! (4),หมกมุ่นอยู่กับคริสตัล! (4)
+PROPQUEST_REQUESTBOX_INC_020009,Obsessed with Crystals! (5),หมกมุ่นอยู่กับคริสตัล! (5)
+PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,คริสตัล!! อืม... $QUEST_END_ITEM_NAME$s! คุณช่วยเอา $QUEST_END_ITEM_NAME$ มาให้หน่อยได้ไหม!
+PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,คุณสามารถรับ $เควส_เสร็จสิ้น_ชื่อ_ไอเท็ม$ จาก Medumet ประเภทใดก็ได้
+PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,คุณสามารถรับ$เควส_เสร็จสิ้น_ชื่อ_ไอเท็ม$ จาก Yetti ไหนก็ๆได้
+PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,คุณสามารถรับ $เควส_เสร็จสิ้น_ชื่อ_ไอเท็ม$ Augu ไหนก็ได้
+PROPQUEST_REQUESTBOX_INC_020014,You can get $QUEST_END_ITEM_NAME$ from any type of Ghost of the Forgotten.,คุณสามารถรับ $เควส_เสร็จสิ้น_ชื่อ_ไอเท็ม$ จากGhost of the Forgotten ไหนก็ได้
+PROPQUEST_REQUESTBOX_INC_020015,You can get $QUEST_END_ITEM_NAME$ from any type of Mammoth.,คุณสามารถรับ$เควส_เสร็จสิ้น_ชื่อ_ไอเท็ม$ จาก Mammoth ไหนก็ได้
+PROPQUEST_REQUESTBOX_INC_020016,You did it! Hooray! Here's your reward. Come back soon!,คุณทำได้! ไชโย! นี่คือรางวัลของคุณ กลับมาเร็ว ๆ นี้!
+PROPQUEST_REQUESTBOX_INC_020017,More! More!,มากกว่านี้! มากกว่านี้!
+PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,นำปีกที่หักกลับมา
+PROPQUEST_REQUESTBOX_INC_020019,Tigar Bites,รอยเสือกัด
+PROPQUEST_REQUESTBOX_INC_020020,Googly-Eyed Gogloo,ตาของ Gogloo
+PROPQUEST_REQUESTBOX_INC_020021,Nippy Waters,น้ำที่ว่องไว
+PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,กระดองแข็งของ Creper
+PROPQUEST_REQUESTBOX_INC_020023,Crumbly Purple Essence,ต้นตอพลังสีม่วงของ Crumbly
+PROPQUEST_REQUESTBOX_INC_020024,A Gray Picture of Dorian,ภาพถ่าย Dorian สีเทา
+PROPQUEST_REQUESTBOX_INC_020025,King of Coral Island,King of Coral Island
+PROPQUEST_REQUESTBOX_INC_020026,Letter in a Bottle,จดหมายในขวด
+PROPQUEST_REQUESTBOX_INC_020027,Hello adventurer... would you bring me $QUEST_END_ITEM_NAME$ from the Atrox? I want to build giant wings I can soar the skies with! Bring me all you can find...,สวัสดีนักผจญภัย... คุณจะนำ $QUEST_END_ITEM_NAME$ จาก Atrox มาให้ฉันได้ไหม ฉันอยากสร้างปีกยักษ์ที่บินได้บนท้องฟ้า! เอาที่คุณหาได้ทั้งหมดมาให้ฉัน...
+PROPQUEST_REQUESTBOX_INC_020028,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!,Tigars มีฟันที่แข็งแรงที่สุดใน Madrigal หากคุณเจอ $QUEST_END ITEM_NAME$ ช่วยเอามาให้ฉันสักสองสามอันได้ไหม ฉันกำลังประดิษฐ์มีดสั้นขนาดยักษ์... มันจะใหญญญญญญญญ่มาก!
+PROPQUEST_REQUESTBOX_INC_020029,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!,กระจก $QUEST_END_ITEM_NAME$ ที่อยู่ภายใน Meral สามารถเพิ่มระยะการมองเห็นได้สามเท่าจากระยะการมองเห็นปกติ ถ้ารวบรวมฉันมาได้เพียงพอ ฉันคงสร้างกล้องโทรทรรศน์เพื่อมองดูโลกได้ไกลออกไปครึ่งโลก!
+PROPQUEST_REQUESTBOX_INC_020030,"All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share...",คิดค้นสิ่งประดิษฐ์เนี่ย มันทำให้ฉันหิวมาก! คุณช่วยไปซื้อ $QUEST_END_ITEM_NAME$ ของ Kingster ให้ฉันหน่อยได้ไหม เราจะกินกันอย่างราชา! ไม่ต้องกังวล ฉันจะแบ่งให้...
+PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!",หลังจากกินอาหารทะเลหมดแล้ว ฉันก็กินอะไรไม่ได้อีกเลย! สำหรับการประดิษฐ์ครั้งต่อไป ฉันต้องการ $QUEST_END_ITEM_NAME$ จากปูตัวใหญ่ที่ชื่อว่า Creper ฉันจะประดิษฐ์ชุดเกราะที่แข็งแกร่งที่สุดจากกระดองที่แข็งของมัน ฉันคิดว่าเกราะนี้จะช่วยเกาะ Coral Island ได้!
+PROPQUEST_REQUESTBOX_INC_020032,"The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger.",Naga เป็นนักรบแห่งท้องทะเลผู้ทรงพลัง... มีการกล่าวกันว่า $QUEST_END_ITEM_NAME$ ของพวกมันมีพลังวิเศษที่สามารถใช้ควบคุมพลังงานสีม่วงได้ ฉันกลัวเวทมนตร์สีม่วงนั่นพอสมควร แต่สิ่งที่ฆ่าคุณไม่ได้จะทำให้คุณแข็งแกร่งขึ้น
+PROPQUEST_REQUESTBOX_INC_020033,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...,พวก Dorian ได้โผล่ขึ้นมาจากทะเลรอบๆ เกาะของเราแล้ว! โปรดปราบพวกมันและเก็บ $QUEST_END_ITEM_NAME$ ของพวกมันไว้เป็นหลักฐาน สิ่งประดิษฐ์ของฉันสามารถยับยั้งพวกมันไว้ได้เพียงชั่วระยะเวลาหนึ่งเท่านั้น...
+PROPQUEST_REQUESTBOX_INC_020034,"The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!",$QUEST_END_ITEM_NAME$ ของ Okean ต้องเป็นของฉัน! ฉันรู้ว่าการได้มงกุฎของพวกเขาจะไม่ทำให้ฉันกลายเป็นราชา แต่มันจะพาฉันไปสู่เส้นทางแห่งความฝันในการเป็นราชาแห่ง Coral Island!
+PROPQUEST_REQUESTBOX_INC_020035,"With the $QUEST_END_ITEM_NAME$ from the Kraken, I could finally write to all my friends across the oceans. There's never enough time to keep up with everyone...",ด้วย $QUEST_END_ITEM_NAME$ จาก Kraken ในที่สุดฉันก็สามารถเขียนจดหมายถึงเพื่อนๆ ของฉันทุกคนที่อยู่คนละฟากมหาสมุทรได้เสียที เวลาเลยไม่พอให้ครบทุกคนเลย...
+PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of the Atrox crawling around the island.,คุณอาจพบ $QUEST_END_ITEM_NAME$ จาก Atrox ที่คลานอยู่รอบเกาะ
+PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,คุณอาจพบ $QUEST_END_ITEM_NAME$ จาก Tigars ที่อยู่รอบเกาะ
+PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,คุณอาจพบ $QUEST_END_ITEM_NAME$ จาก Meral ที่ลาดตระเวณหาด
+PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,คุณอาจพบ $QUEST_END_ITEM_NAME$ แสนอร่อยจาก Kingsters ในบริเวณน้ำตื้นรอบเกาะ
+PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,คุณอาจพบ $QUEST_END_ITEM_NAME$ จาก Creper รอบๆ บริเวณชายหาด
+PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,คุณอาจพบ $QUEST_END_ITEM_NAME$ จาก Naga บริเวณ Coral Island
+PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,คุณอาจพบ $QUEST_END_ITEM_NAME$ ที่ Dorian ทิ้งไว้แถว Coral Island
+PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.",คุณอาจพบ $QUEST_END_ITEM_NAME$ อันงดงามจาก Okean ในท้องทะเลลึกของ Coral Island
+PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,คุณอาจพบ $QUEST_END_ITEM_NAME$ ในส่วนท้องของ Kraken ณ ท้องทะเลลึก
+PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!",ขอร้องอย่าให้ฉันต้องไปเก็บ $QUEST_END_ITEM_NAME$ คนเดียวเลย... ฉันยุ่งเกินไปกับการฝันถึงสิ่งประดิษฐ์ใหม่ๆ!
+PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ ทั้งหมดได้นะ นักผจญภัย! อีกไม่นาน ฉันจะบินขึ้นไปบนท้องฟ้าอย่างสบายๆ เจอกันที่ Rainbow Race!
+PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ ทั้งหมดนะนักผจญภัย! เร็วๆ นี้ ฉันจะได้มีดสั้นที่ใหญ่ที่สุดใน Madrigal แล้วล่ะ ฮ่าๆ คอยดูตอนฉันกำลังอวดพวก Demians!
+PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ นะนักผจญภัย! อีกไม่นาน ฉันคงได้ชมทิวทัศน์โดยไม่ต้องออกจากบ้านเลย!
+PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ ทั้งหมดมาได้นะนักผจญภัย! เราคงจะอิ่มมากแน่ๆ! รีบกินซะ ได้เวลาปาร์ตี้แล้ว!
+PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ ทั้งหมดได้นะ นักผจญภัย! อีกไม่นาน ฉันจะมีเกราะที่แกร่งพอจะป้องกัน Coral Island จากปีศาจร้ายทั้งหลาย!
+PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ ทั้งหมดมาได้นะ นักผจญภัย! เร็วๆ นี้ ฉันจะได้รู้เพิ่มเติมเกี่ยวกับเวทมนตร์สีม่วงนี้... บางทีสักวันหนึ่งอาจจะเพียงพอที่จะหยุดยั้งความชั่วร้ายไม่ให้เข้ายึด Coral Island ได้
+PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ ทั้งหมดได้นะ นักผจญภัย! สิ่งมีชีวิตคล้ายปลาเหล่านี้มีพลังประหลาดที่ทำให้พวกมันแก่ช้ากว่าสิ่งมีชีวิตอื่น บางทีการศึกษาฟันของพวกมันอาจช่วยให้เราเข้าใจถึงพลังพิเศษของ Dorian ได้
+PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ ทั้งหมดมาได้นะนักผจญภัย มันเป็นแค่ความฝัน... แต่ฉันหวังว่าสักวันหนึ่งฉันจะได้พบคุณอีกครั้งในฐานะราชาแห่ง Coral Island
+PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!",ขอบคุณที่รวบรวม $QUEST_END_ITEM_NAME$ มาให้ฉันนะนักผจญภัย! ฉันตัดสินใจเขียนจดหมายเหล่านี้และส่งเอง ขอบคุณสำหรับทุกอย่าง... ฉันหวังว่าจะได้พบคุณอีกในสักวัน!
+PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,นั่นยังไม่ใกล้เคียงเลยเลยสำหรับ $QUEST_END_ITEM_NAME$ ที่ฉันจะใช้สร้างสิ่งประดิษฐ์อันยิ่งใหญ่ของฉัน... โปรดนำกลับมาเพิ่มอีก!
+PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$ หัวเราะด้วยความยินดี! ในไม่ช้าสิ่งประดิษฐ์ของพวกเขาจะกลายเป็นความจริง
+PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,The Skulls of the Hundur Sharpfoot
+PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.","The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals."
+PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,I see… but these creatures are growing more aggressive. Come back if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.","You haven't gathered enough skulls yet… Keep going, each specimen is important to us."
+PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.
+PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,The Skulls of the Samoset
+PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.
+PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.
+PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,Very well… but their unrest intensifies each day. Return if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.","You still don't have enough… Keep going, we must understand what's disturbing them."
+PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,Perfect! These skulls will help us uncover the truth. Thank you for your help.
+PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,The Claws of the Kyouchish
+PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.
+PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.
+PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,I understand… but we're running out of remedies. Return if you wish to help.
+PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.","You're still missing some. The Kyouchish are dangerous, stay careful."
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.","Excellent! With these claws, our healers can prepare a proper antidote."
+PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
+PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
+PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.
+PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,A shame… several warriors are still waiting to be treated.
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","You don’t have enough yet. Hurry, every drop counts."
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.","Perfect! Thanks to you, we can finally treat our wounded."
+PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,The Magic Skulls of the Redcloud
+PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.
+PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.
+PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,Alright… but this magic could strengthen our defenses.
+PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,You don’t have enough energy-charged skulls yet. Keep going!
+PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,Excellent work! These skulls are a true source of power.
+PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,The Devil’s Teeth
+PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.
+PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.
+PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,I understand… but their influence spreads further each night. Return carefully.
+PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,Not enough teeth to contain the demonic energy yet. Keep gathering.
+PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,Very good! These teeth will be purified and neutralized. You’ve done us a great service.
+PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,The Bloodstained Fangs of the Hellhound
+PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.","Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back."
+PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.
+PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,Very well… but the Hellhounds still lurk around Kaillun.
+PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,You don’t have enough. Their fangs are essential to forge weapons that can repel them.
+PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.","Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors."
+PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!

@@ -1,0 +1,13 @@
+﻿#b#cff0000ff* Gagnant#nb#nc
+#b#cff0000ff* Priorité#nb#nc
+1. Le point final le plus élevé
+2. Le plus grand nombre de personnages survivants
+3. Le niveau moyen le plus bas de personnages survivants
+#b#cff0000ff* Gain de points#nb#nc
+Vaincre l'ennemi (+2)
+#b#cff0000ff* Gain de points bonus (le chevauchement est possible)#nb#nc
+- Tuer l'ennemi qui n'a pas été vaincu par le personnage auparavant (+1)
+- Tuer l'ennemi par le maître de guilde (+1)
+- Tuer le défenseur (+1)
+- Tuer l'ennemi lorsque les chances de respawn du personnage sont de 0 (+1)
+- À chaque respawn des personnages survivants (+1)

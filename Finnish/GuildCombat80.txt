@@ -1,0 +1,18 @@
+﻿#b#cff0000ff* Level 80 Guild Siege#nb#nc
+Welcome to the Level 80 Guild Siege! This competition is available to players level 80 and less.
+
+Please ask the [Guild Siege Manager] Donaris for more information about the fight.
+
+Pets cannot be summoned during this Guild Siege.
+
+#b#cff0000ff* Reward Blue Chips#nb#nc
+- Winning Guild: 17 x number of participating guilds
+- Second Guild: 12 x number of participating guilds
+- Third Guild: 7 x number of participating guilds
+- Fourth Guild: 4 x number of participating guilds
+- Fifth Guild: 2 x number of participating guilds
+- Sixth Guild: 1 x number of participating guilds
+- Seventh Guild: 1 x number of participating guilds
+- Eighth Guild: 1 x number of participating guilds
+- Ninth Guild: 1 x number of participating guilds
+- Tenth Guild: 1 x number of participating guilds

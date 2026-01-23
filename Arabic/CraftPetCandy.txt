@@ -1,0 +1,2 @@
+﻿#b#cff0000ff Pet Candy Crafting #nb#nc
+#bPet Candy#nb is crafted by combining harvesting materials with Penya. The tier of Pet Candy crafted depends on the harvesting material used.

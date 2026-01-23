@@ -1,0 +1,186 @@
+﻿Key,English,Simplified_Chinese
+MMI_0,Dialog,对话
+MMI_1,Quest,任务
+MMI_2,Trade,交易
+MMI_3,Attack,攻击
+MMI_4,Message,信息
+MMI_5,Add to my list,添加好友
+MMI_6,Invite to join party,剧团邀请
+MMI_7,Invite to join guild,公会邀请
+MMI_8,Place of Resurrection,设为复活点
+MMI_9,Bank,个人仓库
+MMI_10,Duel,申请对战
+MMI_11,Request party duel,申请剧团对战
+MMI_12,Follow,跟随
+MMI_13,Beauty Shop,理发店
+MMI_14,Repair,维修
+MMI_15,Guild Warehouse,公会仓库
+MMI_16,Guild ranking,公会排名
+MMI_17,Guild war ranking,公会战排名
+MMI_18,Overall guild war ranking,公会战总排名
+MMI_21,Put Bounty,发出悬赏
+MMI_22,See the Bounty List,查看悬赏名单
+MMI_24,View equipment,查看装备
+MMI_25,Mailbox,邮件
+MMI_26,Apply,应用
+MMI_27,Status,状态
+MMI_28,Cancel,取消
+MMI_29,Join,加入
+MMI_30,Ranking,排名
+MMI_31,Cheer,鼓励
+MMI_32,Remove piercing card,移除穿洞卡片
+MMI_33,Entry,组织参加者
+MMI_34,Receipt prize money and application money,领取奖金和申请费
+MMI_35,The information of prize money,奖金信息
+MMI_36,Acceptance of prize money for MVP,领取MVP奖金
+MMI_37,Information to Participate,参加资格
+MMI_38,Basic Rule,基本规则
+MMI_39,Condition to Win,获胜条件
+MMI_40,The information of a commission,委托信息
+MMI_41,The refund of application fee,申请费退款
+MMI_42,Cosmetic Upgrades,美容店
+MMI_44,Rock-Paper-Scissors,小游戏(剪刀-石头-布)
+MMI_49,Pet State,宠物状态
+MMI_50,Un-summon pet,宠物解除
+MMI_51,Create Shining Power Dice,制作闪亮的精炼骰子
+MMI_53,Create Jewels,制作宝石
+MMI_54,Create Unique Weapon,制作史诗武器
+MMI_59,Remove Element,解除属性卡
+MMI_71,Remove Level Reduction,移除降级效果
+MMI_74,Get Buffed!,获取buff!
+MMI_75,Exchange Rare Item Pieces,兑换稀有道具碎片
+MMI_76,Exchange Card Pieces,兑换卡片碎片
+MMI_79,Remove Premium Item Blessing,移除女神的祝福
+MMI_80,Enter Arena,传送到竞技场
+MMI_81,Leave Arena,离开竞技场地区
+MMI_82,Arena Ranking,竞技场排名
+MMI_83,Arena Reward,竞技场奖励
+MMI_134,Upgrading,精炼
+MMI_136,Piercing,Piercing
+MMI_167,Element Upgrading,属性精炼
+MMI_142,Store Pet,收回宠物
+MMI_272,Exchange RPS Coupon,兑换猜拳券
+MMI_309,Card Upgrade,卡片合成
+MMI_310,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
+MMI_311,Couple proposal,Couple proposal
+MMI_1000,Drop Filter,拾取过滤
+MMI_1001,Report,举报
+MMI_1002,Inspect,查看
+MMI_1003,Unbinding,解绑
+MMI_1004,Exchange,兑换
+MMI_1005,Combat Power Ranking,战斗力排行榜
+MMI_1006,Giant Hunt Ranking ,BOSS击杀排名 
+MMI_1007,Accessory Upgrade,首饰精炼
+MMI_1008,Mute,禁言
+MMI_1009,Unmute,解除禁言
+MMI_1010,Freeze,冻结
+MMI_1011,Unfreeze,解除冻结
+MMI_1012,Shadow Mute,不显示阴影
+MMI_1013,Pet Candy Crafting,制作宠物糖果
+MMI_1014,Exchange Dice,兑换骰子
+MMI_1015,Pet Sacrificing,宠物献祭
+MMI_1016,Red Chip Shop,红纸片商店
+MMI_1017,Cosmetic Wardrobe,魔法衣橱
+MMI_1018,Lv80 GS Apply,Lv80 公会战申请
+MMI_1019,Lv80 GS Status,Lv80 公会战战况
+MMI_1020,Lv80 GS Cancel,Lv80 公会战取消
+MMI_1021,Lv80 GS Join,Lv80 公会战入场
+MMI_1022,Lv80 GS Line Up,Lv80 公会战阵容
+MMI_1023,Lv80 GS Ranking,Lv80 公会战排名
+MMI_1024,Lv80 GS Information,Lv80 公会战信息
+MMI_1025,Lv60 GS Apply,Lv60 公会战申请
+MMI_1026,Lv60 GS Status,Lv60 公会战战况
+MMI_1027,Lv60 GS Cancel,Lv60 公会战取消
+MMI_1028,Lv60 GS Join,Lv60 公会战入场
+MMI_1029,Lv60 GS Line Up,Lv60 公会战阵容
+MMI_1030,Lv60 GS Ranking,Lv60 公会战排名
+MMI_1031,Lv60 GS Information,Lv60 公会战信息
+MMI_1032,Blue Chip Shop,蓝纸片商店
+MMI_1033,Valentine's Letter Exchange,情书兑换
+MMI_1034,Dungeon,地牢
+MMI_1035,PK Chip Shop,PK纸片商店
+MMI_1036,Exchange,兑换
+MMI_1037,Green Chip Shop,绿纸片商店
+MMI_1038,FWC Gear Exchange,FWC Gear Exchange
+MMI_1039,FWC Jewel Exchange,FWC Jewel Exchange
+MMI_1040,Use Capsule Coins,Use Capsule Coins
+MMI_1041,Music Festival Exchange,Music Festival Exchange
+MMI_1042,Fitting Room,试衣间
+MMI_1043,FWC PVP Registrations Board,FWC PVP Registrations Board
+MMI_1047,Join FWC PVP Arena,Join FWC PVP Arena
+MMI_1046,FWC PVP Ranking,FWC PVP Ranking
+MMI_1048,Spectate FWC PVP Contest,Spectate FWC PVP Contest
+MMI_1049,Rock Paper Scissors,Rock Paper Scissors
+MMI_1050,W-Token Shop,W-Token Shop
+MMI_1051,Costume Box Upgrade,Costume Box Upgrade
+MMI_1054,Exchange Rings,兑换戒指
+MMI_1055,Dismantle Item,分解道具
+MMI_1056,Buy that Guild House,Buy that Guild House
+MMI_1057,Enter in Guild House,Enter in Guild House
+MMI_1058,Enter Your House,进入你的房屋
+MMI_1059,Select House Template,选择房屋模板
+MMI_1060,Visit Friend's House,参观朋友的房屋
+MMI_1061,Edit,Edit
+MMI_1062,Remove,移除
+MMI_1063,Exchange Earrings,兑换耳环
+MMI_1064,Exchange Necklaces,兑换项链
+MMI_1065,Rainbow Race,Rainbow Race
+MMI_1066,Create Ultimate Weapon,制作终极武器
+MMI_1069,Open Guest Book,Open Guest Book
+MMI_1070,Orphanage Keeper Shop,Orphanage Keeper Shop
+MMI_1071,Kalgas Assault Registration,卡尔加斯突袭报名
+MMI_1072,Kalgas Assault Enter,卡尔加斯突袭入场
+MMI_1073,Kalgas Assault Rank,卡尔加斯突袭排名
+MMI_1074,Kalgas Assault Info,相关信息
+MMI_1075,Kalgas Chip Shop,卡尔加斯纸片商店
+MMI_1076,Couple's Storage,Couple's Storage
+MMI_1077,Create Ultimate Jewel,制作终极珠宝
+MMI_1078,Fuse Ultimate Jewel,融合终极珠宝
+MMI_1079,Teleport,Teleport
+MMI_1080,Sea Shell Upgrading,Sea Shell Upgrading
+MMI_1081,Fuse Rainbow Jewel,Fuse Rainbow Jewel
+MMI_1082,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
+MMI_1083,Pet Training,Pet Training
+MMI_1084,Teleport,Teleport
+MMI_1085,Individual Race (Item),Individual Race (Item)
+MMI_1086,Individual Race (Speed),Individual Race (Speed)
+MMI_1087,Duo Team Race (Item),Duo Team Race (Item)
+MMI_1088,Duo Team Race (Speed),Duo Team Race (Speed)
+MMI_1089,Sit,Sit
+MMI_1090,Sleep,Sleep
+MMI_1091,Yellow Chip Shop,黄纸片商店
+MMI_1092,Madrigal Tournament Registration,Madrigal Tournament Registration
+MMI_1093,Enter Madrigal Tournament,Enter Madrigal Tournament
+MMI_1094,Madrigal Tournament Ranking,Madrigal Tournament Ranking
+MMI_1095,Madrigal Tournament Reward,Madrigal Tournament Reward
+MMI_1096,Madrigal Tournament Bidding,Madrigal Tournament Bidding
+MMI_1097,Remove Ultimate Jewel,移除终极珠宝
+MMI_1098,Customize,Customize
+MMI_1099,Enter Couple House,Enter Couple House
+MMI_1100,Select Couple House Template,Select Couple House Template
+MMI_1101,Wandering Shop,Wandering Shop
+MMI_1102,Master Chip Shop - Alchemy,Master Chip Shop - Alchemy
+MMI_1103,Product Upgrade,Product Upgrade
+MMI_1104,Life Mastery Ranking,Life Mastery Ranking
+MMI_1105,Life Mastery Ranking Reward,Life Mastery Ranking Reward
+MMI_1106,Alchemy,Alchemy
+MMI_1107,Cooking,Cooking
+MMI_1108,Carpentry,Carpentry
+MMI_1109,Smithing,Smithing
+MMI_1110,Enter Race,Enter Race
+MMI_1111,Master Chip Shop - Cooking,Master Chip Shop - Cooking
+MMI_1112,Master Chip Shop - Carpentry,Master Chip Shop - Carpentry
+MMI_1113,Master Chip Shop - Smithing,Master Chip Shop - Smithing
+MMI_1115,Join Boss Raid,Join Boss Raid
+MMI_1120,3rd Anniversary Egg Upgrade Event,3rd Anniversary Egg Upgrade Event
+MMI_1121,Champion Coin Exchange,Champion Coin Exchange
+MMI_1116,Synthesize Ultimate Jewel,Synthesize Ultimate Jewel
+MMI_1117,Convert Ultimate Jewel,Convert Ultimate Jewel
+MMI_2025,PTS Exchange (Equipment),PTS Exchange (Equipment)
+MMI_2026,Give Feedback,Give Feedback
+MMI_2027,PTS Exchange (Materials),PTS Exchange (Materials)
+MMI_2028,PTS Exchange (Essentials),PTS Exchange (Essentials)
+MMI_2029,PTS Exchange (Jewelry),PTS Exchange (Jewelry)
+MMI_2030,PTS Exchange (Other Equipment),PTS Exchange (Other Equipment)
+MMI_2031,Reset Cooldowns,Reset Cooldowns
+MMI_2032,PTS Exchange (New Equipment),PTS Exchange (New Equipment)

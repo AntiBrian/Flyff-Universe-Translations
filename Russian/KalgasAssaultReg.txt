@@ -1,0 +1,12 @@
+﻿#cff0000ffRegistration#nc
+Kalgas Assault Match Time: Every %s %s ~ %s(Max. %d min)
+Level Limit : %d
+Registration Time: Every %s %s ~ %s %s
+Entry Time: %s ~ %s
+Current number of registered players : %d
+
+※ Only users who have registered for Kalgas Assault can participate.
+※ You will not be able to enter after the time limit has passed.
+※ Maximum 200 players per an instance (100 vs 100)
+※ The minimum number of players for ranking rewards is 20 or more, and if there are less than 20 players, only the winner reward will be given.
+※ Teams will be randomly selected. 

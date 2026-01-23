@@ -1,0 +1,725 @@
+﻿Key,English,Traditional_Chinese
+CLIENT_HELP_INC_000000,Basic Operations,基本操作
+CLIENT_HELP_INC_000001,This section will continue were the Info-Pang left off. You can expect a more in-depth explanation of the game mechanics and some unique features.,為了讓您能夠更容易更順暢的進行Flyff，我們將移動、飛行、戰鬥、物品裝備、撿取物品、丟棄物品、聊天、與NPC交易、玩家之間的交易等基本操作方法，做個詳細的解說。希望各位玩家們都能夠FLY FOR FUN！！
+CLIENT_HELP_INC_000002,If you read through this section and you still have questions you should visit the Official Website and Forums. These can be found at $WEBSITE$,若想要了解更詳細的內容，請參考夢想飛飛遊戲百科介紹。若遊戲中遇到問題，請至客服中心反應回報。
+CLIENT_HELP_INC_000003,Mouse,游標
+CLIENT_HELP_INC_000004,"Your mouse will be used constantly throughout game play. Left Clicking your mouse will be used most commonly for movement, targeting, and selecting menu options. The Right Click will be used predominately for controlling the camera and accessing the NPC Menu when a NPC is targeted. All of these features will be covered in the Help Menu.",開啟動作欄『熱鍵O』後，雙擊坐下圖示即可。（如果將坐下的動作設到綜合熱鍵欄裡面，使用起來會更方便喔！），若要站起來可再點擊坐下圖示或直接攻擊怪物即可。
+CLIENT_HELP_INC_000005,Movement,移動
+CLIENT_HELP_INC_000006,"To move using the keyboard, press the “W” Key to go forward, the “A” Key to go left, the “S” Key to go backwards, and the “D” Key to go right. You can also use the Left Click of the Mouse to move.",若要使用鍵盤移動，請按“W”鍵前進，按“A”鍵向左移動，按“S”鍵向後移動，按“D”鍵向右移動。 您也可以使用滑鼠左鍵點擊來移動。
+CLIENT_HELP_INC_000007,"To jump, simply press the spacebar. You can jump either from a standing position or while moving.",用鍵盤移動之時，可利用鍵盤上的『W、A、S、D』鍵來移動，跳躍按空白鍵或是同時按滑鼠的兩個鍵即可
+CLIENT_HELP_INC_000008,Camera,視角
+CLIENT_HELP_INC_000009,"You can control the camera view in many different ways. You can even lock the camera into place. To do this access the Start Menu, select Option and then toggle Camera Fix. This will allow you to control the Camera with the A and D keys. This overrides movement controls. If this setup does not feel comfortable to you, you can simply hold down the Right Mouse Button and move the mouse.",視角的變動可利用滑鼠滾輪或是右鍵操作。畫面的放大縮小可使用滑鼠滾輪縮放，而視角的旋轉可分為… 新版本：按住滑鼠右鍵後移動滑鼠。舊版本：按住滑鼠滾輪按鈕後移動滑鼠。
+CLIENT_HELP_INC_000010,"Regardless of how you choose to manipulate the camera, the zoom functions will always be the same. You can Zoom in and out with the mouse wheel or the Page Up and Page Down keys. In order to zoom in even further, press the Scroll Lock Button.",視角的旋轉也可使用鍵盤上的方向鍵操作。
+CLIENT_HELP_INC_000011,Flying,飛行
+CLIENT_HELP_INC_000012,A character that has reached level 20 and has finished the flying quest can take advantage of flying with broom and boards.,按『空白鍵』即可啟動飛行器，再按一次即可停止飛行。
+CLIENT_HELP_INC_000013,Station NPC's sell a variety of Brooms and Boards. If you feel like you would like to spice up your method of flying you can check the premium shop for faster and more unique items to fly on.,按住滑鼠右鍵移動滑鼠，飛行器也會隨著移動的方向前進。
+CLIENT_HELP_INC_000014,,
+CLIENT_HELP_INC_000015,,
+CLIENT_HELP_INC_000016,,
+CLIENT_HELP_INC_000017,,
+CLIENT_HELP_INC_000018,,
+CLIENT_HELP_INC_000019,How do I fly?,飛行
+CLIENT_HELP_INC_000020,"To fly, simply equip a flying board or broom and then press the Spacebar. You will automatically accelerate until your reach your maximum speed. To stop, press the Spacebar again.",要飛行，只需裝備滑板或掃帚，然後按空格鍵即可。將自動加速直到達到最大速度。再次按空格鍵即可停止。
+CLIENT_HELP_INC_000021,"You can steer while flying with your mouse or with the W,A,S,D keys.",您可以在飛行時使用滑鼠或 W、A、S、D 鍵進行轉向
+CLIENT_HELP_INC_000022,You can buy fuel to increase the speed of your broom or board. Double-click the fuel and press the X key to activate or de-activate the fuel.,你可以購買燃料增加飛行器的速度，雙擊燃料然後按下X鍵使用
+CLIENT_HELP_INC_000023,,
+CLIENT_HELP_INC_000024,,
+CLIENT_HELP_INC_000025,,
+CLIENT_HELP_INC_000026,,
+CLIENT_HELP_INC_000027,,
+CLIENT_HELP_INC_000028,Combat,戰鬥
+CLIENT_HELP_INC_000029,"You will encounter hundreds of hostile masquerpets in the land of Madrigal. Depending on what type of character you build, you will have multiple options on how to attack these villainous monsters. These methods will be explained in more detail here.",在馬德利賈的土地上，你會遇到數百個充滿敵意的怪物。根據您構建的角色類型，您將有多種選擇來攻擊這些邪惡的怪物。這裡將更詳細地解釋這些方法。
+CLIENT_HELP_INC_000030,"Along with these masquerpets, you can engage in intense PVP Combat if you have chosen to play on Demian. To attack players on Demian, you must hold down the Ctrl Key and then initiate your attack.",如果您選擇在丹丹上玩，除了這些偽裝之外，您還可以參與激烈的 PVP 戰鬥。 要攻擊丹丹，您必須按住 Ctrl 鍵然後發起攻擊。
+CLIENT_HELP_INC_000031,,
+CLIENT_HELP_INC_000032,Melee Attack,近距離連續攻擊
+CLIENT_HELP_INC_000033,"Melee attacks are done with all variations of close combat weapons, this includes swords, axes, staffs, and even knuckle weapons. To engage a enemy in a Melee attack simply equip your weapon, target your enemy, and then click on them.",近戰攻擊是用各種近戰武器完成，包括劍、斧頭、權杖，拳套。要在近戰攻擊中與敵人交戰，只需裝備你的武器，找到你的目標，然後點擊他們。
+CLIENT_HELP_INC_000034,Ranged Attack,遠距離連續攻擊
+CLIENT_HELP_INC_000035,"Ranged attacks are done with Yo-yos, and bows. To engage an enemy with a ranged attack, equip the appropriate weapon, target the enemy, and then Right Click on the target. Note that Bow require arrows to be used.",遠程攻擊是用溜溜球和弓來完成的。 若要對敵人進行遠程攻擊，請裝備適當的武器，瞄準敵人，然後右鍵點擊目標。 請注意，弓需要使用箭。
+CLIENT_HELP_INC_000036,Magic Attack,魔法攻擊
+CLIENT_HELP_INC_000037,Wands have the unique ability to shoot a charged magic attack. Do this by holding down the Right Mouse button after you have selected your target. Release the button to launch your attack.,魔法攻擊是使用法杖類的魔法道具進行攻擊的模式。按住滑鼠右鍵可集氣後發射魔法彈，放開按鍵發射攻擊。
+CLIENT_HELP_INC_000038,Equipping items,裝備物品
+CLIENT_HELP_INC_000039,"To equip an item, open your inventory then double click the item you want to equip. It will then automatically replace the item you currently have equipped in that slot. Double click on equipped item to unequip it.",武器類、防具類、裝飾類的物品，可使用雙擊來裝備物品。此時，物品將會自動裝備在所屬的部位上。如果該部位已裝備其他物品，則會自動替換成最後選取的物品。
+CLIENT_HELP_INC_000040,Using Items,使用物品
+CLIENT_HELP_INC_000041,You can use an item by double clicking it. You can also place items in your Extra Bags by simply opening them and then dragging it over. The item drops to the ground if you place the item outside your inventory.,直接在物品上雙擊滑鼠左鍵，即可使用物品。您也可以將物品放入額外背包，只需打開背包，然後將物品拖入即可。時若將物品拖曳到物品欄的外面，就會將物品丟棄到地上。
+CLIENT_HELP_INC_000042,You can place an item in the quick task bar located at the bottom of your screen. It is possible to use it instantly with the corresponding Hot Key or by clicking with your Mouse. Right click an item to remove the item from the quick slot.,物品可從物品欄內拖曳到下方的熱鍵欄中使用。若要移除熱鍵欄中的物品，可直接在熱鍵的物品上按滑鼠右鍵。
+CLIENT_HELP_INC_000043,,
+CLIENT_HELP_INC_000044,Chatting,聊天
+CLIENT_HELP_INC_000045,"Pressing enter will toggle the Chat Menu display on if you have closed it for any reason. Once the Chat Menu is open simply press Enter one time to toggle the chat function. Once you have typed your message simply press Enter again to send your message out. You will also see buttons for Whisper, Shout, Party, and Guild. These buttons will filter your message directly to those respective groups. There are also options for filtering your incoming chats, and viewing System Messages.",如果您不小心關閉了聊天選單，請按Enter鍵就可打開聊天選單。 打開聊天選單後，只需按一次Enter即可切換聊天功能。 輸入文字後，只需再次按 Enter 即可送出。您還將看到 悄悄話、呼叫、劇團和公會的按鈕。 這些按鈕會將您的消息直接過濾到相應的分類，還有過濾傳入聊天和查看系統訊息的選項。
+CLIENT_HELP_INC_000046,NPC Trading,與NPC交易
+CLIENT_HELP_INC_000047,"To trade with an NPC, left click the NPC and choose Trade.",若要向NPC購買物品，可直接用滑鼠點NPC後，選擇交易。
+CLIENT_HELP_INC_000048,You can purchase an item you want by dragging it into your inventory. The price of the item will show and if you accept the price a confirmation window will pop-up. Accept the confirmation window to finish the transaction.,若要購買物品，可直接從物品目錄中選擇自己想要購買的物品後，拖曳到自己的物品欄中，然後輸入數量即可。
+CLIENT_HELP_INC_000049,"If you are trying to sell items, just drag the item you want to sell from your inventory, into the NPC trade window.",販賣物品與上述相反，必須將想要販賣的物品拖曳到NPC的物品欄中。此時下方會顯示出販賣所獲得的金幣。
+CLIENT_HELP_INC_000050,Player Trading,玩家交易
+CLIENT_HELP_INC_000051,"If you would like to trade with another player, you can hold down the ALT key and Left Click on the player, or simply Right Click on the player . A menu will appear, select trade, and wait for the other player to approve the trade.",想要與玩家進行交易，必須先按住鍵盤上的『ALT』鍵，然後使用滑鼠左鍵點選準備進行交易的對象。此時會出現一列選項，選擇『交易』，即可開啟雙方的交易視窗。
+CLIENT_HELP_INC_000052,"Once the trade window opens you can drag items or Penya into the window. Make very sure that everything is just how you want it before clicking OK and ACCEPT. Never let anyone BORROW any items as they may not return what you lend them. Make sure you are getting the right items and right amount of Penya before you go through with a trade. All trades are done at your own risk so please be very careful. If you lose something, get the wrong item, or the wrong Penya amount there is nothing that can be done to get the item back. So be careful. If at any time you feel uncomfortable with a trade click the CANCEL button to end the trade.",開啟了交易視窗後，可從物品欄中拖曳想要交易的物品或金錢到交易視窗中。物品拖曳完畢後，雙方都按下確認鍵，就表示交易已完成。
+CLIENT_HELP_INC_000053,Once you put items in a trade window and select OK and ACCEPT the trade will go through and the items you traded for will be in your inventory. If your inventory box is full the trade will be canceled.,若其中一方沒有按下確認鍵，交易就無法完成。此時如果按下取消，就會將交易取消，所拖曳進交易視窗中的物品，將會回到自己的物品欄中。
+CLIENT_HELP_INC_000054,Quests,任務
+CLIENT_HELP_INC_000055,"NPC's with a Yellow ""!"" above their heads have a Quest you can complete. Select the NPC and then select New Quest. This will show you all of the available quests and the level required to accept the quest.",您可透過解任務來獲得一些經驗值與物品。任務可與NPC對話後接受，每種任務都有其限定的等級與職業。
+CLIENT_HELP_INC_000056,Complete as many quests as you can as they will give you many rewards along with valuable Exp bonuses!,盡可能多完成任務，他們會給你許多獎勵以及寶貴的經驗獎勵
+CLIENT_HELP_INC_000057,Interface,介面
+CLIENT_HELP_INC_000058,This Section will detail the various Menus you will be seeing and using while you play.,現在為您說明Flyff中所使用的各種視窗與欄位。
+CLIENT_HELP_INC_000059,Status Menu,狀態視窗
+CLIENT_HELP_INC_000060,"You can toggle this window by pressing the T Button. This Window will give you the overall status of your character. It includes your Health Points, Magic Points, Focus Points, Experience, and Bubble Time.",你可以用T鍵切換狀態視窗視窗，他可以看到你角色的所有狀態，包括HP、MP、FP、Exp和BT
+CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA, the more HP you have the longer you will live. MP is necessary for magician and assist skills. Your total MP increases as you increase your INT. FP is necessary for mercenary and acrobat skills, your total FP increases as you increase your STA.",你的HP會因你的體力增加，越多HP你會存活更久；MP是魔法使施展魔法攻擊或神職者施展輔助技能時所需，如果提升能力值中的智力，就會使MP最大量上升；FP是勇者和雜技使用攻擊技能時所需要的點數，如果提升能力值中的體力，就會使FP點數增加。 
+CLIENT_HELP_INC_000062,Exp notes the necessary amount of experience needed to level up. Exp is gained by hunting monsters and completing quests. Bubble Time is a special Buff that gives you bonus Exp. This is filled through the Guild House and is explained under that section of the Help Menu.,EXP(角色經驗值)是角色等級上升時所需的經驗值，經驗值只有在打怪或完成任務時，才能夠獲得；BT是特別的經驗加成，透過公會屋可以獲得，詳細請看幫助選單。
+CLIENT_HELP_INC_000063,Character Menu,角色視窗
+CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.",按下H鍵開啟，此視窗會顯示關於角色的各種情報。『基本』頁面中，可以看到角色的名字、職業、等級、伺服器名稱、分流情報等基本的說明，在『詳細』頁面中，當前使用的裝備和等級顯示角色狀態，PVP/PK追蹤你的PVP信息。
+CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.",當你升等時將獲得能力點，可以在這選單上使用。升級時會獲得能力點數，並且可以增加基礎能力
+CLIENT_HELP_INC_000066,"ATK represents your Attack Power, this is how much damage you can deliver to the enemy. DEF represents your Defense, this is how much damage you can absorb from an enemy's attack. Critical means how much chance you have to make a critical attack, and A. Speed shows how fast your character will attack.",攻擊力代表你可以對敵人造成多少傷害；防禦力是代表可以從敵人的攻擊中吸收多少傷害；爆擊代表著你有多少機會造成爆擊傷害；攻擊速度代表你的角色攻擊時的速度。
+CLIENT_HELP_INC_000067,"STR affects the attack power of all melee weapons. STA affects defense, max HP, max FP, and HP/FP restoration. DEX affects attack speed, dodge, blocking, critical chance and bow attack power. INT affects maximum MP, MP restoration, magical spell damage and magic defense.",力量會影響基本攻擊力和法杖以外的武器攻擊力；體力會影響防禦力、增加HP最大量、FP最大量及增加HP、FP恢復量；敏捷會增加攻擊速度、迴避率、命中率、爆擊率，還會影響弓系列武器的攻擊力；智力會影響最大MP量、MP恢復量、魔法攻擊力及魔法防禦力。
+CLIENT_HELP_INC_000068,The Fame/Master Tab will display of all the Titles you have earned. Select one of these Titles to show the world what you can accomplish!,名稱/大師標籤將顯示你所有獲得的稱號，選擇其一，讓大家知道你完成了什麼。
+CLIENT_HELP_INC_000069,Chat Menu,聊天視窗
+CLIENT_HELP_INC_000070,"Press Enter to activate this Menu and then you can type in it. Chat, Whisper, Shout, Party and Guild Chats are possible. You can click the System button to view any system messages that have been displayed.",聊天視窗位於熱鍵欄的上方。若想要聊天，可直接按一次『Enter』鍵，即可輸入文字進行聊天。可以使用一般聊天、密語、大喊、劇團聊天、公會聊天等。點擊SYSTEM項目後，就會開啟SYSTEM視窗，可以確定各種系統裡輸出的訊息。
+CLIENT_HELP_INC_000071,"If you want to copy a message and paste it with the Shortcut key then type the message into the chat window, don’t press enter, then drag the balloon mark located on the left side of the chat window to your quick slot.",若想要將同樣的對話內容製作成熱鍵時，首先在輸入完對話內容的狀態下，將輸入文字欄位前面的文字框框圖示拖曳到熱鍵欄中即可。
+CLIENT_HELP_INC_000072,Navigator,導航系統
+CLIENT_HELP_INC_000073,Press the N Button to toggle this Menu. The Navigator is the mini-map located at the upper-right of your screen.,按下N鍵，透過導航系統(小地圖)，您可以了解角色周圍的地理狀況與其他角色的位置。
+CLIENT_HELP_INC_000074,"NPC's will appear as purple dots, while other players will appear as white dots. NPC Shops will be displayed with an icon that indicates what shop they are. If you are turning in a quest look for a yellow and black dot. Yellow and orange dots indicate enemy mobs. If you use your mouse to roll over a dot, it will tell you the name of that specific target.",NPC 將顯示為紫色圓點，而其他玩家將顯示為白色圓點。 NPC 商店將顯示為圖標，表明他們是什麼商店。如果您需要提交任務，請尋找黃色和黑色的圓點。黃色和橙色圓點表示敵方生物。如果您使用滑鼠滾動想知道的那個點，他會顯示該特定目標的名稱。
+CLIENT_HELP_INC_000075,There are a few buttons on the Mini-Map to help you as well. You can zoom the mini-map in and out using the + and - icons. The drop down will allow you to filter what appears on your Mini-Map.,小地圖上也有一些按鈕可以幫助您。您可以使用 + 和 - 圖標放大和縮小小地圖，下拉選單可以讓你選擇你想看到的內容。
+CLIENT_HELP_INC_000076,Skill Menu,技能視窗
+CLIENT_HELP_INC_000077,Toggle this Menu with the K Button. This window displays the skills and skill tree of your character. You can upgrade skills if you have the necessary requirements.,以角色的職業顯示技能的視窗，隨角色等級及技能等級的提升，可以得到新的技能。
+CLIENT_HELP_INC_000078,"To use skills, drag the skill to the quick slots in the bottom center of the screen and use F1 - F9. Otherwise, drag the skill in the skill window to the Action Slot on the bottom right of the screen and press C.",要使用技能，請將技能拖到畫面底部中央的快速欄中，然後使用 F1 - F9。或者，將技能窗口中的技能拖到螢幕右下角的連技欄中，然後按C。
+CLIENT_HELP_INC_000079,"Skill points are necessary to level up your skill. Skill points are earned as you level up. Click the skill you want to increase and adjust the skill level with +,- button and click Finish.","若您想要提升技能等級，必需要有技能點數。技能點數在等級上升時會自動獲得。點擊您想要提升的技能後，使用『+』,『-』按鈕，可調整技能等級。"
+CLIENT_HELP_INC_000080,Inventory,物品欄
+CLIENT_HELP_INC_000081,"Your inventory shows you everything you currently have equipped and everything you are carrying. You can store weapons, armor, items, Penya and anything that isn't nailed down inside your inventory. View your inventory by Pressing the I Button.",按下I鍵，物品欄能夠看到遊戲內所使用的武器、防具、一般物品、任務道具、恢復類物品以及金幣等；還可以安裝或解除武器、防具、飾品、附費道具。
+CLIENT_HELP_INC_000082,Messenger Menu,即時通
+CLIENT_HELP_INC_000083,"You can talk to friends and Guildies as well as check their current connection status. It will be updated as you add friends and guild members. To add your friend, hold down ALT and left click the character, then select ‘add to my list’ or click the + icon located below the messenger window. Your Guild list will automatically update as players come and go. There is also a Tab to check you Mentor Pupil Status but that system is outlined later in the Help Guide.",在同一組伺服群的玩家，可透過即時通來互相傳訊聊天；若您想要將朋友加入即時通的名單內，只要在朋友附近，按住鍵盤上的『ALT』鍵，並且使用滑鼠左鍵點擊朋友的角色，然後選擇『追加到即時通』或點擊在即時通視窗下方的『+』圖示，就能夠新增朋友。公會成員加入公會或公會家長增加公會成員後，即時通都會自動更新。
+CLIENT_HELP_INC_000084,Quest Menu,任務視窗
+CLIENT_HELP_INC_000085,"By pressing the Q Button, you can check the progress of your current quests and other valuable information about your quests. This Menu is divided into tabs to better help you organize your quests. If you select a quest from the list it will be added to your on screen display to help you better track your progress quickly.",此視窗記錄著您在遊戲內所進行的各種任務的情報與進行的狀況。大致區分成為任務目錄、任務內容、獎勵目錄、任務條件等，能夠較易了解任務的進行過程。
+CLIENT_HELP_INC_000086,Motion Menu,動作欄
+CLIENT_HELP_INC_000087,This window displays emoticons and motion icons.,視窗中顯示動作和情緒圖示。
+CLIENT_HELP_INC_000088,You can open this Menu by pressing O. You can left click the icon to use it instantly or drag it the shortcut window and use it later.,按『O』鍵所開啟的視窗中，有許多的動作和臉譜。用滑鼠左鍵點擊想使用的動作或情緒，另外也可以拖曳到熱鍵中使用。
+CLIENT_HELP_INC_000089,,
+CLIENT_HELP_INC_000090,Party Menu,劇團視窗
+CLIENT_HELP_INC_000091,"This window manages your party. There are basic parties and advanced parties. Basic parties are groups that you share exp and items with, while an advanced party uses various party skills. When a basic party reaches level 10 you can change it to an advanced party and use party skills.",此視窗是管理劇團的視窗。劇團和組隊的概念很相似，可以區分為臨時劇團和巡迴劇團。臨時劇團只能做團員管理，變更為巡迴劇團後，可以使用許多的技能。臨時劇團的等級到了10級以後，就能夠變更為巡迴劇團，並且能給巡迴劇團取名字。
+CLIENT_HELP_INC_000092,Guild Menu,公會視窗
+CLIENT_HELP_INC_000093,"A Guild is a bigger community than a party and anyone level 40 or higher can create one. You have to complete the quest from NPC Helena to make a guild. The Info tab shows general information and notices, the member tab allows you to manage guild members, the title tab shows titles and allows you to pay members, and the duel tab shows info on your guild duels.",公會是比劇團更大型的團體，當等級到達40級之後，誰都可以創立。但是必需要到聖音特去找城鎮服務員海蓮娜，完成海蓮娜所給予的任務。視窗中有查看公會情報的頁面與管理成員的頁面。公會情報頁面中，可確認目前公會的公告事項。成員管理頁面可管理成員的稱號以及支付的薪水等等。
+CLIENT_HELP_INC_000094,Options Tab,影像&音效
+CLIENT_HELP_INC_000095,This window configures the basic details and options for the Game and can be found in the Start Tab. There are many settings here and they have been separated into two Tabs: Video and Game / Audio.,這是設定影像與音效的視窗。您可以從這裡調整適合自己電腦的設定來進行遊戲。
+CLIENT_HELP_INC_000096,Video,影像
+CLIENT_HELP_INC_000097,This window is for video settings. If you set the options to their highest settings you may encounter some additional lag. You will also see other settings for various visual elements.,此視窗為影像，如果將選項設置為最高設置，可能會遇到一些額外的延遲，你也可以看到其他視覺選項。
+CLIENT_HELP_INC_000098,Game / Audio,遊戲/音效
+CLIENT_HELP_INC_000099,"From this tab you can allow or block Trades, Whispers, Friend Requests, Duel Requests, Party Requests, along with numerous other options. You can also control the audio levels and Battle Music.",可以設定其他玩家傳來的邀請或訊息，是否要接收或顯示。交易、密語、好友邀請、PVP申請、劇團邀請等其他選項，你也可以控制音量和戰鬥音樂
+CLIENT_HELP_INC_000100,Helper Tab,幫助事項
+CLIENT_HELP_INC_000101,Selecting the Help Tab from the Start Menu will open various help texts. You can find all forms of helpful things in this area.,在開始選單選擇幫助事項，在這區域你可以找到所有有幫助的東西。
+CLIENT_HELP_INC_000102,Help,幫助
+CLIENT_HELP_INC_000103,This selection includes the Helper Tree you are currently looking at. There are numerous topics here that are described in detail to help give you a better understanding of the game.,這是讓您能夠更了解遊戲內基本事項的解說視窗。如果您有不了解的地方，可以先打開來參考。
+CLIENT_HELP_INC_000104,Tips,今日要訣
+CLIENT_HELP_INC_000105,This selection contains tips that help with game play and other things that are easily overlooked.,這裡面紀錄著許多進行遊戲時所需和其他容易被忽視的事情的要訣
+CLIENT_HELP_INC_000106,FAQ,FAQ
+CLIENT_HELP_INC_000107,This is the FAQ window. When you have questions you should start here as there are numerous answers to various questions.,這裡面紀錄著玩家在遊戲中常常碰到的問題與解答。若您想要發問時，請先看看這裡是否已經有答案了。
+CLIENT_HELP_INC_000108,Information Tab,資訊選項
+CLIENT_HELP_INC_000109,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.,此選項可讓你知道遊戲內通知，此處將不時列出各種消息和重大新聞，遊戲啟動時將會自動開啟顯示。 
+CLIENT_HELP_INC_000110,Revive Menu,復活視窗
+CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.",角色的生命力變成0時，就會自動開啟此視窗。您可選擇回到附近城鎮的『生命光柱』或使用持有的付費道具復活卷軸，在原地復活。這裡會出現能夠使用付費商店的付費商店選項。
+CLIENT_HELP_INC_000112,Trade Menu,交易視窗
+CLIENT_HELP_INC_000113,"If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed.",這是玩家之間進行物品或金錢交易時，所使用的視窗。必需要獲到雙方角色的同意，才能夠完成交易。
+CLIENT_HELP_INC_000114,Bank Menu,銀行選單
+CLIENT_HELP_INC_000115,This Menu will allow you to store various items and Penya without taking up space in your inventory. You can access your bank from the [Public Office] NPC in each major city.,將物品交給各城鎮的城鎮服務員NPC保管或領取保管的物品時，所使用的視窗。想存入金幣時，請在物品欄內點擊金幣的圖示後，拖曳到視窗裡放入即可。
+CLIENT_HELP_INC_000116,Task Bar,熱鍵欄
+CLIENT_HELP_INC_000117,"This section refers to the bar that runs along the bottom of your screen. It houses your Start Menu, System Slots, and Quick Action Slots.",在Flyff中所使用的各種功能、物品與技能，都可以放在熱鍵欄中使用。熱鍵欄位於畫面的最下方。
+CLIENT_HELP_INC_000118,Start Menu,開始目錄
+CLIENT_HELP_INC_000119,This Menu allows the user to access all of the game options and various game play functions. Many of the Hot Keyed Menus can be accessed through the Start Menu.,所有遊戲內的必要情報與目錄，全部都可在此目錄中尋找。此目錄位於熱鍵欄前方，上面寫著『開始』的按鈕，打開後會看到一列的選項。
+CLIENT_HELP_INC_000120,System Slots,系統熱鍵
+CLIENT_HELP_INC_000121,"This refers to the slots to the right of the Start Menu. These slots are used so that users can quickly access skills, save text strings, or other various tasks they want to repeat.",位在左方熱鍵欄的系統熱鍵，可將開始目錄裡面的選項拖曳到此熱鍵中使用。
+CLIENT_HELP_INC_000122,Hot Keys,綜合熱鍵
+CLIENT_HELP_INC_000123,This refers to the nine slots in the middle of the bottom bar labeled F1-F9. These slots are linked to the corresponding Function keys and can be triggered accordingly. Reserve these for your most important funtions!,位於熱鍵欄的中央，可放置遊戲裡物品與技能。
+CLIENT_HELP_INC_000124,Action Slot,技能熱鍵
+CLIENT_HELP_INC_000125,The Action Slot is located in the lower right corner of the screen.,位於右方熱鍵欄，可放置需要組合使用或連續使用的技能。
+CLIENT_HELP_INC_000126,What is the Action Slot,技能熱鍵的使用。
+CLIENT_HELP_INC_000127,The Action Slot allows you to trigger a pre-determined set of skills. You can place skills in the Action Slot from the Skills Menu.,技能熱鍵可觸發一組預先確定的技能，您可以從技能選單中將技能放置在連技欄中。
+CLIENT_HELP_INC_000128,Using the Action Slot,技能熱鍵連續使用
+CLIENT_HELP_INC_000129,"To actually use the Action Slot you will need to select a target and press ""C"". This can be done repeatedly.",先選定要攻擊的目標，然後按下『C』鍵，即可施展出連技欄中的技能。
+CLIENT_HELP_INC_000130,Order of the Action Slot,技能熱鍵組合
+CLIENT_HELP_INC_000131,Skills can be used in a succession as long as you follow the order of the different types of skills. The order is; Step > Circle > Finish. You can only use the action icons if the skills are in order.,在技能熱鍵中，除了物品及劇團技能外，其他攻擊技能都可放入。若要放入組合技能(拼圖)，必須依照拼圖的階段依序放入。
+CLIENT_HELP_INC_000132,Action Slot Cooldown,技能熱鍵冷卻
+CLIENT_HELP_INC_000133,There is a Cooldown for the Action Slot. As you cast you will notice a shadow the will begin covering the Action Slot. You will not be able to uses Skills that are covered in shadow. Simply wait and the shadow will vanish.,連技欄有一個冷卻時間。當施放時，會注意到陰影將開始覆蓋。將無法使用被陰影覆蓋的技能。 只需等待，陰影就會消失。
+CLIENT_HELP_INC_000134,Community,社群
+CLIENT_HELP_INC_000135,In order to make Flyff more social and entertaining we encourage users to band together. There is both an intricate Party System and a Guild System.,為了讓飛飛更具社交性和娛樂性，我們鼓勵玩家聯合起來。 有劇團系統，也有公會系統。
+CLIENT_HELP_INC_000136,Basic Party System,臨時劇團
+CLIENT_HELP_INC_000137,"Parties are used to help benefit users who band together for a short time. There are numerous benefits to joining a Party as opposed to playing alone. The Party Menu can be accessed by pressing ""P"".",按下P鍵開啟劇團視窗。劇團對短時間在一起遊玩的玩家有很多好處，比起單獨遊玩，參加劇團會有更多好處。
+CLIENT_HELP_INC_000138,Party Requirements,成立臨時劇團
+CLIENT_HELP_INC_000139,"To make a party, at least 2 people are needed. There are no job or level requirements to create normal party.",劇團最少可由2名玩家組織。而隨著劇團的成長，最多可有8位成員加入臨時劇團 (隨劇團等級增加成員)，臨時劇團的成員沒有職業與等級的限制。
+CLIENT_HELP_INC_000140,Inviting members to a Party,邀請劇團團員
+CLIENT_HELP_INC_000141,"To invite a player, either hold the ALT key and left click on the player or simply right click on the user. After accessing the Player Menu, simply select ""Invite to join party"".",要邀請玩家，請按住 ALT 鍵並左鍵單擊玩家或直接右鍵單擊玩家，進入玩家選單後，選擇“邀請加入劇團”
+CLIENT_HELP_INC_000142,Joining a Party,加入劇團
+CLIENT_HELP_INC_000143,Select ACCEPT when you are invited to join a party.,當被邀請加入劇團時，選擇接受。
+CLIENT_HELP_INC_000144,Leave a Party,退出劇團
+CLIENT_HELP_INC_000145,"To leave a Party, open the Party Menu and click on the LEAVE button. A Party will be disbanded automatically if everyone leaves the Party.",按下劇團介面裡的『退出』鍵，即可退出劇團。如果每個人都離開劇團，劇團將自動解散。
+CLIENT_HELP_INC_000146,Removing a Party member,逐出劇團團員
+CLIENT_HELP_INC_000147,"Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button.",團長在巡迴劇團的介面上選擇團員後，按『踢出』鍵，該團員就會被逐出。
+CLIENT_HELP_INC_000148,Changing Party Leader,變更劇團團長
+CLIENT_HELP_INC_000149,"To transfer leadership in a Basic Party the Leader must choose a Party member and click the Transfer button. In case the Leader leaves the party, then the Party member placed next to Leader becomes the Party Leader.",劇團的團長在選擇團員後，按下交接，就能夠讓該成員接任團長職位。要是劇團團長直接退出劇團時，在劇團界面上團長下方的成員會接任團長職位。
+CLIENT_HELP_INC_000150,Become an Advanced Party,成立巡迴劇團
+CLIENT_HELP_INC_000151,When a basic Party’s level reaches 10 it is able to change to an Advanced Party. Simply select the Change button on the Party Menu. Once your Party changes to an Advanced Party you will be able to name your Party. Once you have an Advanced Party you can begin to take advantage of the Skills Tab inside the Party Menu.,巡迴劇團是臨時劇團等級10級時，團長可將臨時劇團轉換成巡迴劇團。轉換時，可依巡迴劇團團長的選擇替巡迴劇團取個名稱，也可以使用劇團技能。
+CLIENT_HELP_INC_000152,Advanced Party System,巡迴劇團
+CLIENT_HELP_INC_000153,Advanced Parties evolve from Basic Parties. They are very beneficial for groups attempting to conquer the most difficult tasks!,以下是巡迴劇團的說明
+CLIENT_HELP_INC_000154,Become an Advanced Party,成立巡迴劇團
+CLIENT_HELP_INC_000155,When a basic Party’s level reaches 10 it is able to change to an Advanced Party. Simply select the Change button on the Party Menu. Once your Party changes to an Advanced Party you will be able to name your Party. Once you have an Advanced Party you can begin to take advantage of the Skills Tab inside the Party Menu.,巡迴劇團是臨時劇團等級10級時，團長可將臨時劇團轉換成巡迴劇團。轉換時，可依巡迴劇團團長的選擇替巡迴劇團取個名稱，也可以使用劇團技能。
+CLIENT_HELP_INC_000156,Inviting members to a Party,邀請劇團團員
+CLIENT_HELP_INC_000157,"To invite a player, either hold the ALT key and left click on the player or simply right click on the user. After accessing the Player Menu, simply select ""Invite to join party"".",要邀請玩家，請按住 ALT 鍵並左鍵單擊玩家或直接右鍵單擊玩家，進入玩家選單後，選擇“邀請加入劇團”
+CLIENT_HELP_INC_000158,Joining an advanced party.,加入巡迴劇團
+CLIENT_HELP_INC_000159,Select ACCEPT when you are invited to join a party.,當被邀請加入劇團時，選擇接受。
+CLIENT_HELP_INC_000160,Party Exp and Skills,劇團經驗和技能
+CLIENT_HELP_INC_000161,The Advanced Party will get stronger as your Party earns Exp which in turn gives the Party Points. These Party Points are then consumed to use Party Skills. The Party Skills and Points are different according to the level of the Party. Only the Party Leader can use the Party Skills.,巡迴劇團會依劇團獲得的經驗值成長。劇團點數會在成長時獲得。使用劇團技能時，點數會被消耗掉。巡迴劇團的技能和點數會隨著劇團等級的提升而增加，只有團長才能使用劇團技能。
+CLIENT_HELP_INC_000162,Leave a Party,退出劇團
+CLIENT_HELP_INC_000163,"To leave a Party, open the Party Menu and click on the LEAVE button. A Party will be disbanded automatically if everyone leaves the Party.",按下劇團介面裡的『退出』鍵，即可退出劇團。如果每個人都離開劇團，劇團將自動解散。
+CLIENT_HELP_INC_000164,Removing a Party member,逐出劇團團員
+CLIENT_HELP_INC_000165,"Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button.",團長在巡迴劇團的介面上選擇團員後，按『踢出』鍵，該團員就會被逐出。
+CLIENT_HELP_INC_000166,Changing Party Leader,變更劇團團長
+CLIENT_HELP_INC_000167,"To transfer leadership in an Advanced Party the Leader must choose a Party member and click the Transfer button. In case the Leader leaves the party, then the Party member placed next to Leader becomes the Party Leader.",巡迴劇團的團長在選擇團員後，按下交接，就能夠讓該成員接任團長職位。要是劇團團長直接退出劇團時，在劇團界面上團長下方的成員會接任團長職位。
+CLIENT_HELP_INC_000168,,
+CLIENT_HELP_INC_000169,,
+CLIENT_HELP_INC_000170,Advanced Party Skills,巡迴劇團的技能
+CLIENT_HELP_INC_000171,Only the Advanced Party Leader can use the Advanced Party Skills. The Advanced Party Skills will be acquired as you reach a certain Party Level. Party Points are consumed to use Skills.,巡迴劇團的技能只有團長可以使用。巡迴劇團的技能會在達到必要等級時，自動出現。使用技能時，某些技能會消耗巡迴劇團的點數。
+CLIENT_HELP_INC_000172,Call,集合
+CLIENT_HELP_INC_000173,Informs all Party members of the location of the Party Leader. It does not consume any Party Points.,告知所有團員團長的所在位置，使用時不會消耗巡迴劇團點數。
+CLIENT_HELP_INC_000174,Blitz,集中攻擊
+CLIENT_HELP_INC_000175,Party Leader orders Party members to attack a target. It does not consume any Party Points.,團長可以指定某個攻擊對象後，使用此技能來請團員集中攻擊所指定的對象。使用時不會消耗巡迴劇團點數。
+CLIENT_HELP_INC_000176,Retreat,撤退
+CLIENT_HELP_INC_000177,Party Leader orders all Party members to retreat. It does not consume any Party Points.,團長可使用此技能來通知團員撤退。使用時不會消耗巡迴劇團點數。
+CLIENT_HELP_INC_000179,,
+CLIENT_HELP_INC_000180,Precision,狂暴團長
+CLIENT_HELP_INC_000181,"Use this ability to gain an almost guaranteed critical hit on your next attack. Available at party level 17, consumes 1 Party Point.",使用此技能可在下次攻擊中獲得致命一擊。劇團等級 17 可用，消耗 1 劇團點數。
+CLIENT_HELP_INC_000182,Linked Attack,聲援團長
+CLIENT_HELP_INC_000183,"While the Party Leader is attacking a target, damage increase for all Party members attacking the same target. Available at party level 20, consumes 3 Party Points.",劇團20級時，就能夠使用。團長攻擊目標時，所有攻擊同一目標的隊員傷害增加。使用時會消耗點劇團3點數。 
+CLIENT_HELP_INC_000184,Lucky Drop,幸運降臨
+CLIENT_HELP_INC_000185,"Increases the chance of Masquerpets dropping unique items. Available at party level 25, consumes 5 Party Points.",劇團25級時，就能夠使用。使用技能的有效時間內，可增加怪物掉落特殊物品的機率。使用時會消耗5點劇團點數。
+CLIENT_HELP_INC_000186,Resting,寂靜的祝福
+CLIENT_HELP_INC_000187,"Party members recover 1.5 times faster. It the Party Leader is an Assist, Party members recover 1.8 times faster. Available at party level 30, consumes 2 Party Points.",巡迴劇團30級時就能使用。讓隊伍成員的恢復量變成1.5倍。若團長的職業是神職者則恢復量變成1.8倍。使用時會消耗2點劇團點數。
+CLIENT_HELP_INC_000188,Gift Box,愛的禮物
+CLIENT_HELP_INC_000189,"Increases the amount of items dropped by Masquerpets. Available at party level 40, consumes 8 Party Points.",巡迴劇團40級時就能使用。使用技能的有效時間內，讓怪物掉落的物品增加。使用時會消耗8點劇團點數。
+CLIENT_HELP_INC_000190,Jobs and their Skills,各職業技能說明
+CLIENT_HELP_INC_000191,This section details the various Jobs in Flyff and all of their corresponding skills. The Skill Menu can be pulled up by pressing the K Key.,接下來為您解說各職業的特徵與技能，技能視窗可以按下K鍵開啟。
+CLIENT_HELP_INC_000192,Players will receive Skill Points as they Level up their characters.,玩家在角色升級時將獲得技能點。
+CLIENT_HELP_INC_000193,These Skill Points can then be assigned to various skills to increase the strength of that particular Skill.,可以將這些技能點分配給各種技能，以增加該技能的強度。
+CLIENT_HELP_INC_000194,PH1,見習生
+CLIENT_HELP_INC_000195,Vagrants are the basic class everyone in Flyff starts with before they decide on their First Job Change. They use physical attacks and use melee weapons like swords and axes.,見習生是剛開始遊戲時的基本職業。此職業會使用物理攻擊並使用近戰武器，如劍和斧頭。
+CLIENT_HELP_INC_000196,Clean Hit,重擊
+CLIENT_HELP_INC_000197,"A powerful, downward strike. This skill is available at Level 3 and can be used with any Melee Weapon.",見習生等級3級時，可使用的前段技能。將力量集中後，瞬間爆發出威力的單手武器技能。
+CLIENT_HELP_INC_000198,Flurry,連擊
+CLIENT_HELP_INC_000199,A rapid stabbing attack that follows a Clean Hit in the Action Slot. This skill is available at Level 5 to Players who have at least 3 Skill Points in Clean Hit and can be used with any Melee Weapon.,在連技欄中，可在接在重擊之後的技能。 該技能在 5 級時，需要在重擊使用 3 個技能點的玩家才可使用，並且可以與任何近戰武器一起使用。
+CLIENT_HELP_INC_000200,Over Cutter,爆擊
+CLIENT_HELP_INC_000201,This attack gathers all of the power the vagrant has and unleashes it in a strong upwards finishing blow. Over Cutter completes the combo after Flurry in the Action Slot. This skill is available at Level 10 to Players who have at least 3 Skill Points in Flurry and can be used with any Melee Weapon.,爆擊在連技欄中需接在連擊之後才可使用。 該技能在 10 級時，需要在連擊使用 3 個技能點的玩家才可使用，並且可以與任何近戰武器一起使用。
+CLIENT_HELP_INC_000202,Mercenary,勇者
+CLIENT_HELP_INC_000203,"Mercenaries prefer to partake in close range combat. The main characteristics of this particular class involve physical strength, and a strong body that is able to withstand attacks.",勇者是擅長近戰的職業，主要特色是擁有強大的力量。此職業主要使用劍、斧類的武器來進行攻擊或使用技能。
+CLIENT_HELP_INC_000204,"Powerful and headstrong, the mercenary has both inner and physical strength. Mercenaries will become either a Blade or a Knight.",強大而意志堅定，勇者有內在的力量，也有身體的力量。勇者將轉職成為暗殺者或騎士。 
+CLIENT_HELP_INC_000205,PH2,月牙斬
+CLIENT_HELP_INC_000206,"Strikes the enemy two times, in rapid succession. This skill is available at Level 15 and can be used with any Axe or Sword.",連續攻擊敵人兩次。 該技能在 15 級時可使用，可以與任何斧頭或劍一起使用。
+CLIENT_HELP_INC_000207,PH3,旋風斬
+CLIENT_HELP_INC_000208,A continuous spinning attack. This skill is available at Level 18 to Players who have at least 4 Skill Points in Slash and can be used with any Axe or Sword.,急速旋轉身體並在空中施展迴旋斬來攻擊目標的單手劍技能，該技能在 18 級時需於在月牙斬使用 4 個技能點的玩家，並且可以與任何斧或劍一起使用。
+CLIENT_HELP_INC_000209,PH4,爆炎劍氣
+CLIENT_HELP_INC_000210,"A spinning, finishing move. This skill is available at Level 24 to Players who have at least 6 Skill Points in Keenwheel and can be used with any Axe or Sword.",一個旋轉收尾動作，該技能在24級時適用於在旋風斬中擁有至少 6個技能點的玩家，且可與任何斧頭或劍一起使用。
+CLIENT_HELP_INC_000211,Special Hit,衝刺
+CLIENT_HELP_INC_000212,A single powerful strike. This skill is available at Level 30 to Players who have at least 8 Skill Points in Blindside and can be used with any Axe or Sword.,一次強力一擊，該技能在30級時適用在爆炎劍氣中擁有至少8個技能點的玩家，且可與任何斧頭或劍一起使用。
+CLIENT_HELP_INC_000213,PH5,血之讚頌
+CLIENT_HELP_INC_000214,Drains life from an enemy. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slash and can be used with any Axe or Sword.,吸取敵人的生命，此技能在 20 級時適用於在月牙斬中具有至少 3個技能點的玩家，並且可以與任何斧頭或劍一起使用。 
+CLIENT_HELP_INC_000215,Reflex Hit,反擊
+CLIENT_HELP_INC_000216,This Skill absorbs one attack and releases it back at an enemy. This skill is available at Level 25 to Players who have at least 8 Skill Points in Bloody Strike and can be used with any Axe or Sword.,此技能吸收一次攻擊並將其釋放回敵人，此技能適用於25級血之讚頌技能點數至少為8點的玩家，可與任何斧或劍一起使用。 
+CLIENT_HELP_INC_000217,Guillotine,靈劍氣
+CLIENT_HELP_INC_000218,This attack begins from a short distance and then launches the player at the enemy in a fiery burst. This skill is available at Level 30 to Players who have at least 10 Skill Points in Reflex Hit and can be used with any Axe or Sword.,此攻擊從短距離開始，然後以火爆的方式將玩家發射到敵人身上。此技能在 30 級時適用於反擊技能點至少為 10點的玩家，並且可以與任何斧或劍一起使用 。 
+CLIENT_HELP_INC_000219,Protection,防禦術
+CLIENT_HELP_INC_000220,Increases the defense of a Shield against melee attacks. This skill is available at Level 15 and requires a shield.,增加盾對近戰攻擊的防禦。此技能在 15 級可用，需要盾。 
+CLIENT_HELP_INC_000221,Pan Barrier,霸體
+CLIENT_HELP_INC_000222,Increases the defense of a Shield against ranged attacks. This skill is available at Level 18 to Players who have at least 3 Skill Points in Protection and requires a shield.,增加盾對遠程攻擊的防禦。該技能在 18 級時適用於具有至少 3 個防禦術技能點且需要盾牌的玩家。
+CLIENT_HELP_INC_000223,Sneaker,勇者之網
+CLIENT_HELP_INC_000224,Holds an enemy in place with a net. This skill is available at Level 20 to Players who have at least 10 Skill Points in Pan Barrier and can be used with any Axe or Sword.,用網子將敵人套在原地。該技能等級為 20 級，技能點數至少為 10 技能點霸體的玩家可以使用該技能，並且可以與任何斧或劍一起使用。
+CLIENT_HELP_INC_000225,Empower Weapon,屬性之光
+CLIENT_HELP_INC_000226,This Skill strengthens the elemental damage of a weapon. It is not applied if there is no elemental attack power on the weapon. This skill is available at Level 20 to Players who have at least 5 Skill Points in Protection and can be used with any Axe or Sword.,該技能強化武器的元素傷害。如果武器上沒有元素攻擊力，則不適用。該技能在 20 級時可供擁有至少 5 個防禦術技能點的玩家使用，並且可以與任何斧或劍一起使用。
+CLIENT_HELP_INC_000227,Smite Axe,狂戰斧
+CLIENT_HELP_INC_000228,Increases the attack level of an Axe and gives additional defense. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Axe.,增加斧頭的攻擊等級並提供額外的防禦 該技能在 25 級時適用於在賦能武器中至少有 4 個技能點的玩家，並且可以與任何斧頭一起使用。
+CLIENT_HELP_INC_000229,Axe Mastery,斧之研習
+CLIENT_HELP_INC_000230,Increases the attack level of an Axe. This skill is available at Level 30 to Players who have at least 9 Skill Points in Smite Axe and can be used with any Axe.,提升斧的攻擊等級。該技能在 30 級時適用於在狂戰斧中擁有至少 9 點技能點的玩家，並且可以與任何斧頭一起使用。
+CLIENT_HELP_INC_000231,Blazing Sword,狂暴刃
+CLIENT_HELP_INC_000232,Increases the attack level and accuracy of a Sword. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Sword.,增加劍的攻擊等級和準度。該技能在 25 級時可供擁有至少 4 點強化武器技能點的玩家使用，並且可以與任何劍一起使用。
+CLIENT_HELP_INC_000233,Sword Mastery,劍之研習
+CLIENT_HELP_INC_000234,Increases the attack level of a Sword. This skill is available at Level 30 to Players who have at least 9 Skill Points in Blazing Sword and can be used with any Sword.,增加劍的攻擊等級。該技能在 30 級時適用於擁有至少 9 個狂暴刃技能點的玩家，並且可以與任何劍一起使用。
+CLIENT_HELP_INC_000235,Acrobat,雜技師 
+CLIENT_HELP_INC_000236,"Acrobats mainly wield long distance weapons such as Bows or Yo-Yos. Using tactics based on speed and accuracy, they are usually able to break anyone willing enough to fight them. Sly and witty, the acrobat is a cunning trickster.",雜技師主要使用長距離武器，如弓箭或溜刃，使用基於速度和準度的戰術，它們通常能擊敗任何願意與他們戰鬥的人。 狡猾而詼諧的雜技師是一個狡猾的騙子。 
+CLIENT_HELP_INC_000237,"An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger.",雜技師將MP用於弓箭技能，FP用於溜刃技能。 雜技師使用 FP於通用技能像幻影術。 雜技師之後將成為操偶師或浪人。
+CLIENT_HELP_INC_000238,Pulling,溜刃研習
+CLIENT_HELP_INC_000239,Pulls a target towards the player. This skill is available at Level 15 to Players and can be used with any Yo-Yo.,將目標拉向玩家。該技能在 15 級時可供玩家使用，並且可以與任何溜刃一起使用。
+CLIENT_HELP_INC_000240,Fast Walker,弓箭研習
+CLIENT_HELP_INC_000241,Increases the walking speed of the user for a limited time. This skill is available at Level 18 to Players who have at least 3 Skill Points in Pulling and can be used with any Bow or Yo-Yo.,在有限的時間內增加玩家的步行速度。該技能在 18 級時適用於零距離技能點數至少為 3 的玩家，並且可以與任何弓或溜刃一起使用。
+CLIENT_HELP_INC_000242,Dark Illusion,幻影術
+CLIENT_HELP_INC_000243,Turn a character invisible for a short time. This skill is available at Level 30 to Players who have at least 6 Skill Points in Fast Walker and can be used with any Bow or Yo-Yo.,讓角色在短時間內隱形。該技能在 30 級時適用於擁有至少 6 個加速術技能點的玩家，並且可以與任何弓或溜刃一起使用。
+CLIENT_HELP_INC_000244,Perfect Block,亂箭射殺
+CLIENT_HELP_INC_000245,Block rate will be increased. This skill is available at Level 45 to Players who have at least 8 Skill Points in Dark Illusion and can be used with any Bow or Yo-Yo.,格擋率將提高，該技能在 45 級適用於擁有至少 8 個幻影術技能點的玩家，並且可以與任何弓或溜刃一起使用。
+CLIENT_HELP_INC_000246,Slow Step,加速術
+CLIENT_HELP_INC_000247,You have a chance to decrease the moving speed of enemy. This skill is available at Level 15 and can be used with any Yo-Yo.,你有機會降低敵人的移動速度。該技能在 15 級時可用，並且可以與任何溜刃一起使用。
+CLIENT_HELP_INC_000248,Yo-Yo Mastery,溜刃研習
+CLIENT_HELP_INC_000249,Increases Yo-Yo damage. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slow Step and can be used with any Yo-Yo.,增加溜刃的傷害。該技能在 20 級時適用至少有 3 個緩速術技能點的玩家，並且可以與任何溜刃一起使用。
+CLIENT_HELP_INC_000250,Snatch,緩速術
+CLIENT_HELP_INC_000251,Steals Penya from the target; can only be used while in Dark Illusion from behind target. This skill is available at Level 35 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo.,從目標搶奪金幣；只能在目標背後使用幻影術中搶奪。該技能在 35 級時適用於擁有至少 8 個溜刃研習技能點的玩家，並且可以與任何溜刃一起使用。
+CLIENT_HELP_INC_000252,Deadly Swing,沉默射擊
+CLIENT_HELP_INC_000253,A critical attack that has a chance to cause the enemy to bleed. This skill is available at Level 50 to Players who have at least 10 Skill Points in Snatch and can be used with any Yo-Yo.,有機率使敵人失血的致命一擊。該技能在 50 級時適用於擁有至少 10 個強奪點的玩家，並且可以與任何 溜刃一起使用。
+CLIENT_HELP_INC_000254,Cross Line,絕對防禦
+CLIENT_HELP_INC_000255,Gather energy into your Yo-Yo in order to strike an enemy with a powerful attack that has the chance to stun your target. This skill is available at Level 30 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo. .,將能量集中在溜刃中，以強大的攻擊力攻擊敵人，並有機會擊暈目標。此技能 30 級時且玩家必須至少投入 8 個技能點在溜刃研習上，可以用在任何溜刃上。
+CLIENT_HELP_INC_000256,Counterattack,箭雨
+CLIENT_HELP_INC_000257,Evade the enemy's next attack and strike back with an attack of your own. This skill is available at Level 40 to Players who have at least 10 Skill Points in Cross Line and can be used with any Yo-Yo.,躲避敵人的下一次攻擊並用自己的攻擊進行反擊。 該技能在 40 級時適用於擁有至少 10 個十字爆氣技能點的玩家，並且可以與任何溜刃一起使用。
+CLIENT_HELP_INC_000258,Junk Arrow,十字爆氣
+CLIENT_HELP_INC_000259,This skill shoots four arrows very quickly but with reduced accuracy. This skill is available at Level 15 and can be used with any Bow.,該技能射出速度非常快的四支箭，但準度會降低。 該技能在 15 級時可用，可以與任何弓一起使用。
+CLIENT_HELP_INC_000260,Bow Mastery,弓術研習
+CLIENT_HELP_INC_000261,Increases Bow damage. This skill is available at Level 20 to Players who have at least 5 Skill Points in Junk Arrow and can be used with any Bow.,增加弓的傷害，該技能在 20 級時可供擁有至少 5 個亂箭射殺技能點的玩家使用，並且可以與任何弓一起使用。
+CLIENT_HELP_INC_000262,Silent Shot,強奪
+CLIENT_HELP_INC_000263,Delivers a powerful sneak attack to the target if you are in Dark Illusion. This skill is available at Level 30 to Players who have at least 4 Skill Points in Bow Mastery and can be used with any Bow.,如果你處於幻影術中，會對目標進行強大的偷襲。 該技能在 30 級時可供擁有至少 4 個弓研習技能點的玩家使用，並且可以與任何弓一起使用。
+CLIENT_HELP_INC_000264,Auto Shot,逆襲
+CLIENT_HELP_INC_000265,Attacks four times in succession without missing. Each hit is slightly less damaging than a hit from Junk Arrow. This skill is available at Level 45 to Players who have at least 9 Skill Points in Silent Shot and can be used with any Bow.,連續攻擊四次不失手。每次擊中的傷害都略低於垃亂箭射殺的擊中。 該技能在 45 級時適用於在擁有至少有 9 點沉默射擊技能點的玩家，並且可以與任何弓一起使用。
+CLIENT_HELP_INC_000266,Aimed Shot,致命之舞
+CLIENT_HELP_INC_000267,A carefully aimed shot that has a chance to deal double damage to the target. This skill is available at Level 35 to Players who have at least 5 Skill Points in Bow Mastery and can be used with any Bow.,精心瞄準的射擊，有機會對目標造成雙倍傷害。該技能在 35 級時可供擁有至少 5 個弓研習技能點的玩家使用，並且可以與任何弓一起使用。
+CLIENT_HELP_INC_000268,Arrow Rain,零距離
+CLIENT_HELP_INC_000269,A rain of arrows that will fall on all enemies in a wide circle around your target. This skill is available at Level 50 to Players who have at least 5 Skill Points in Aimed Shot and can be used with any Bow.,箭雨將落在目標周圍大範圍內的所有敵人身上。 該技能在 50 級時適用於狙擊技能點數至少為 5 的玩家，並且可以與任何弓一起使用。
+CLIENT_HELP_INC_000270,Assist,神職者
+CLIENT_HELP_INC_000271,"The Assist is the priest or medic of Flyff. The two primary builds for this job are a Full Support healer or a Buff Warrior. Both have the same skills to chose from. Where the Healer will need a partner to level, the Warrior can self-buff and fight alone.",擁有保護其他角色能力的職業。神職者可細分為加持系與攻擊系。加持系也就是輔助型，主要使用的武器是法棒。而攻擊系的神職者必須使用拳套來進行近身攻擊。
+CLIENT_HELP_INC_000272,The Assist may chose from Ringmaster or Billposter when the times comes to progress into a second Job.,當轉職進入第二個職業時，神職者可以從守護者或爆咒師中來選擇。
+CLIENT_HELP_INC_000273,Heal,治癒術
+CLIENT_HELP_INC_000274,"Primary healing spell, which recovers a portion of the target's HP. This skill is available at Level 15 and can be used with any Stick.",主要治療法術，可以恢復目標的一部分HP。該技能在 15 級時可用，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000275,Patience,生命的祝福
+CLIENT_HELP_INC_000276,Increases the target’s maximum HP. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,增加目標的最大HP。該技能在 18 級時適用於擁有至少 3 個治癒術技能點的玩家，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000277,Resurrection,復活術
+CLIENT_HELP_INC_000278,"Revives a dead Player, but only grants a portion of their HP. This skill is available at Level 20 to Players who have at least 4 Skill Points in Patience and can be used with any Stick.",復活死去的玩家，但只給予他們的一部分HP。該技能在 20 級時適用於擁有至少 4 點生命的祝福技能點的玩家使用，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000279,Circle Healing,集體治癒術
+CLIENT_HELP_INC_000280,Heals Party Members within a specified range of yourself. This skill is available at Level 25 to Players who have at least 4 Skill Points in Resurrection and can be used with any Stick.,治療自己指定範圍內的劇團成員。該技能在 25 級時適用於擁有至少為 4 復活術技能點數的玩家，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000281,Prevention,千鈞一髮
+CLIENT_HELP_INC_000282,This spell will automatically recover all of your HP if you drop below 10% HP. This skill is available at Level 30 to Players who have at least 4 Skill Points in Circle Healing and can be used with any Stick.,如果您的HP低於 10%，此法術將自動恢復您的所有HP。此技能在 30 級時適用於擁有至少 4 個集體治癒術技能點的玩家，並且可以與任何魔法棒一起使用。 
+CLIENT_HELP_INC_000283,Quick Step,風精之舞
+CLIENT_HELP_INC_000284,"Increases the target’s walking speed. The higher the level, the faster the target walks. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.",增加目標的行走速度，等級越高，向目標走得越快。 該技能在 20 級時可供擁有至少 3 點治癒術技能點的玩家使用，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000285,Haste,風精的祝福
+CLIENT_HELP_INC_000286,Increases the attack speed of a target Player. This skill is available at Level 25 to Players who have at least 3 Skill Points in Quick Step and can be used with any Stick.,增加目標玩家的攻擊速度。該技能在 25 級時適用於至少有 3 個風精之舞技能點的玩家，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000287,Cat's Reflex,靈敏術
+CLIENT_HELP_INC_000288,Increases the Evasion rate of a target Player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Haste and can be used with any Stick.,增加目標玩家的閃避率，該技能在 30 級時適用於至少有 4 個風精的祝福技能點數的玩家，並且可以與任何魔法棒一起使用。 
+CLIENT_HELP_INC_000289,Cannon Ball,敏捷術
+CLIENT_HELP_INC_000290,Increases the DEX of a target Player. This skill is available at Level 35 to Players who have at least 4 Skill Points in Cat's Reflex and can be used with any Stick.,增加目標玩家的敏捷。該技能在 35 級時適用於至少有 4 個靈敏術技能點數的玩家，並且可以與任何魔法棒一起使用。 
+CLIENT_HELP_INC_000291,Mental Sign,心靈點滴
+CLIENT_HELP_INC_000292,Increases the INT of a target Player. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,增加目標玩家的智力，此技能在 18 級時適用於至少有 3 點治癒術技能點的玩家，並且可以與任何魔法棒一起使用。 
+CLIENT_HELP_INC_000293,Heap Up,強化術
+CLIENT_HELP_INC_000294,Increases the STA of a target Player. This skill is available at Level 20 to Players who have at least 4 Skill Points in Mental Sign and can be used with any Stick.,增加目標玩家的體力，該技能在 20 級時適用於擁有至少有 4 個心靈點滴技能點的玩家，並且可以與任何魔法棒一起使用。。
+CLIENT_HELP_INC_000295,Beef Up,祝福的神力
+CLIENT_HELP_INC_000296,Increases the STR of a target Player. This skill is available at Level 25 to Players who have at least 4 Skill Points in Heap Up and can be used with any Stick.,增加目標玩家的力量，該技能在 25 級時適用於擁有至少有 4 個強化術技能點的玩家，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000297,Accuracy,第三眼
+CLIENT_HELP_INC_000298,Increases the accuracy of a target player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Beef Up and can be used with any Stick.,提高目標玩家的命中率，該技能在 30 級時適用於擁有至少 4 個祝福的神力技能點的玩家，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000299,Temping Hole,神拳術
+CLIENT_HELP_INC_000300,"A powerful, straight punch that strikes the enemy with a concentrated attack. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Knuckle.",集中攻擊敵人強有力的直拳，該技能在 20 級時可供擁有至少 3 點治癒術技能點的玩家使用，並且可與任何拳套一起使用。
+CLIENT_HELP_INC_000301,Stone Hand,石拳重擊
+CLIENT_HELP_INC_000302,Physical attacks gain the chance to stun the target. This skill is available at Level 25 to Players who have at least 4 Skill Points in Temping Hole and can be used with any Knuckle.,物理攻擊有機會擊暈目標，該技能在 25 級時適用於至少擁有 4 個神拳術技能點的玩家，並且可以與任何拳套一起使用。 
+CLIENT_HELP_INC_000303,Burst Crack,爆震術
+CLIENT_HELP_INC_000304,Smashes the ground and inflicts damage to enemies within the surrounding area. This skill is available at Level 28 to Players who have at least 4 Skill Points in Stone Hand and can be used with any Knuckle.,使粉碎地面，對周圍範圍內的敵人造成傷害。該技能在 28 級時適用於擁有至少 4 點石拳重擊技能點的玩家，並且可以與任何指拳套一起使用。
+CLIENT_HELP_INC_000305,Power Fist,大怒神
+CLIENT_HELP_INC_000306,A concentrated powerful strike. This skill is available at Level 35 to Players who have at least 4 Skill Points in Burst Crack and can be used with any Knuckle.,集中的強力一擊，該技能在 35 級時適用於至少擁有 4 個爆震術技能點的玩家，並且可以與任何指拳套一起使用。
+CLIENT_HELP_INC_000307,Magician,魔法使
+CLIENT_HELP_INC_000308,Magicians control powerful elemental magic with the use of wands or staves. Magicians benefit from high intelligence.,魔法使用魔杖或法杖控制強大的元素魔法，魔法使受益於高智力。
+CLIENT_HELP_INC_000309,Magicians will be able to advance in their Jobs to become either an Elementor or a Psykeeper.,魔法使將能夠在他們的職業中取得進階，成為研術者或念力師。
+CLIENT_HELP_INC_000310,Mental Strike,念力球
+CLIENT_HELP_INC_000311,Deals non elemental magic damage to the target. Damage dealt varies by the difference of INT between the caster and the target. This skill is available at Level 15 and can be used with any Wand or Staff.,對目標造成非魔法傷害，造成的傷害因施法者和目標之間的智力差異而異，該技能在 15 級時可用，可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000312,Flame Ball,風之傳送
+CLIENT_HELP_INC_000313,Strikes at the enemy with a ball of flame. This skill is available at Level 18 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,用火球攻擊敵人，該技能在 18 級時適用於至少擁有 3 個念力球技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000314,Flame Geyser,火焰迴旋
+CLIENT_HELP_INC_000315,Inflicts intermediate fire damage to the target with a lasting Damage Over Time effect. This skill is available at Level 25 to Players who have at least 5 Skill Points in Flame Ball and can be used with any Wand or Staff.,對目標造成中度火焰傷害，並具有持續的持續傷害效果，該技能在 25 級時適用於擁有至少 5 個火焰迴旋技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000316,Fire Strike,自體焚燒
+CLIENT_HELP_INC_000317,Damages an enemy with a fire ball. The enemy loses health for a limited time afterwards. This skill is available at Level 30 to Players who have at least 7 Skill Points in Flame Geyser and can be used with any Wand or Staff.,用火球對敵人造成傷害，之後敵人會在有限的時間內失去生命值。該技能在 30 級時適用於擁有至少 7 個自體焚燒技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000318,Swordwind,火神之怒
+CLIENT_HELP_INC_000319,A violent wind that attacks a target from a short distance. This skill is available at Level 20 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,一陣狂風，從短距離攻擊目標。該技能在 20 級時適用於擁有至少 5 個念力球技能點數的玩家，並且可以與任何法杖或權杖一起使用。 
+CLIENT_HELP_INC_000320,Strongwind,疾風之刃
+CLIENT_HELP_INC_000321,A tornado of wind that deals damage to the target as well as pushing them back. This skill is available at Level 25 to Players who have at least 5 Skill Points in Swordwind and can be used with any Wand or Staff.,龍捲風對目標造成傷害並將其推後，該技能在 25 級時適用擁有至少 5 個疾風之刃技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000322,Wind Cutter,颶風爆
+CLIENT_HELP_INC_000323,A blade of wind that deals damage to the target. This skill is available at Level 30 to Players who have at least 7 Skill Points in Strongwind and can be used with any Wand or Staff.,對目標造成傷害的風之刃，該技能在 30 級時適用於擁有至少 7 個颶風爆技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000324,Ice Missile,風刃之劍
+CLIENT_HELP_INC_000325,Inflicts basic water damage with a chance of slowing down the target’s movement. This skill is available at Level 20 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,造成基本的水傷害，並有機會減慢目標的移動速度。 該技能在 20 級時適用於擁有至少 3 個念力球技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000326,Waterball,冰刃
+CLIENT_HELP_INC_000327,Shoots damaging balls of water at the target. The number of balls fired increases as the skill level increases. This skill is available at Level 25 to Players who have at least 5 Skill Points in Ice Missile and can be used with any Wand or Staff.,向目標發射破壞性的水球，發射的球數隨著技能水平的提高而增加。該技能在 25 級時適用於擁有至少 5 點冰刃技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000328,Water Well,水球術
+CLIENT_HELP_INC_000329,"A spell that throws columns of water at the target, dealing a large amount of damage. This skill is available at Level 30 to Players who have at least 7 Skill Points in Waterball and can be used with any Wand or Staff.",向目標投擲水柱，造成大量傷害的法術。該技能在 30 級時適用擁有至少 7 個水球術技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000330,Lightning Ball,水龍之柱
+CLIENT_HELP_INC_000331,A spell that gathers static electricity and forms it into a small ball that causes basic lightning damage. This skill is available at Level 18 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,一種將靜電聚集並形成小球的法術，可造成基本的閃電傷害。該技能在 18 級時適用擁有至少 5 個念力球技能點數的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000332,Lightning Ram,電光球
+CLIENT_HELP_INC_000333,Deals a medium amount of lightning damage to the target. This skill is available at Level 25 to Players who have at least 5 Skill Points in Lightning Ball and can be used with any Wand or Staff.,對目標造成中等數量的閃電傷害。該技能在 25 級時適用擁有至少 5 個天之裂痕技能點數的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000334,Lightning Shock,高壓電光球
+CLIENT_HELP_INC_000335,Damages the enemy with a small but fast lightning ball. This skill is available at Level 40 to Players who have at least 7 Skill Points in Lightning Ram and can be used with any Wand or Staff.,用小而快的閃電球對敵人造成傷害。該技能在 40 級時適用於擁有至少 7 個高壓電光球技能點的玩家，並且可以與任何法杖或權杖一起使用。 
+CLIENT_HELP_INC_000336,Stone Spike,雷擊術
+CLIENT_HELP_INC_000337,Inflicts earth elemental damage to the opponent as well as creating a chance to stun the target. This skill is available at Level 18 to Players who have at least 2 Skill Points in Mental Strike and can be used with any Wand or Staff.,對敵人造成地屬性傷害，並有機會擊暈目標。該技能在 18 級時適用於擁有至少 2 點念力球技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000338,Rock Crash,大地的懲罰
+CLIENT_HELP_INC_000339,Damages the enemy with a giant stone. This skill is available at Level 25 to Players who have at least 5 Skill Points in Stone Spike and can be used with any Wand or Staff.,用巨石對敵人造成傷害。該技能在 25 級時可供擁有至少 5 個大地的懲罰技能點的玩家使用，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000340,Rooting,石神降臨
+CLIENT_HELP_INC_000341,Harnesses the power of the ground to prevent a user from moving. This skill is available at Level 30 to Players who have at least 7 Skill Points in Rock Crash and can be used with any Wand or Staff.,利用地面的力量防止用戶移動。該技能在 30 級時適用於擁有至少 7 個石神降臨技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000342,Blinkpool,風之傳送
+CLIENT_HELP_INC_000343,Teleports the user in a specified location within the limited range. The range increases as the skill level goes up. This skill is available at Level 30 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,將用戶傳送到有限範圍內的指定位置，範圍隨著技能水平的提高而增加。該技能在 30 級時適用於擁有至少 3 個念力球技能點的玩家，並且可以與任何法杖或權杖一起使用。
+CLIENT_HELP_INC_000344,Power Stomp,大地共鳴
+CLIENT_HELP_INC_000345,Hits the ground with the handle of the axe. The shock wave deals damage with a chance to stun to all nearby enemies. The damage and stun chance will increase with every Skill Level. This skill is available at Level 65 to Players who have at least 4 Skill Points in Pain Dealer and can be used with any two handed Axe.,用斧柄擊中地面，衝擊波造成傷害並有機會擊暈附近的所有敵人。每次技能等級都會增加傷害和眩暈機率。該技能在 65 級時適用於擁有至少 4 個致命一擊技能點的玩家，並且可以與任何雙手斧頭一起使用。
+CLIENT_HELP_INC_000346,Knight,騎士
+CLIENT_HELP_INC_000347,Mercenaries who chose to follow the teachings of the Hero Billaon become Knights. Knights are capable of incredible defense and possess the power to withstand the greatest assaults.,選擇遵循英雄比拉昂教義的僱傭兵成為騎士。 騎士主要使用雙手武器，並擁有強力的攻擊力、體力、與防禦力。雖然攻擊速度慢，但是在雙手武器的威力卻不可忽視。 
+CLIENT_HELP_INC_000348,Charge,死風狂擊
+CLIENT_HELP_INC_000349,A melee attack that deals maximum damage to a monster regardless of its level. This skill is available at Level 60 to Players who have at least 3 Skill Points in Sword Mastery and can be used with any two handed Sword.,對怪物造成最大傷害的近戰攻擊，無論其等級如何。 該技能在 60 級時可供擁有至少 3 個劍之研習技能點的玩家使用，並且可以與任何雙手劍一起使用。
+CLIENT_HELP_INC_000350,Earth Divider,大地爆碎劍
+CLIENT_HELP_INC_000351,A skill which damages nearby enemies. Higher Skill Level will result in more damage. This skill is available at Level 65 to Players who have at least 4 Skill Points in Charge and can be used with any two handed Sword.,對附近敵人造成傷害的技能，越高的技能等級將導致更多的傷害。該技能在 65 級時可供擁有至少 4 個死風狂擊技能點的玩家使用，並且可以與任何雙手劍一起使用。
+CLIENT_HELP_INC_000352,Pain Dealer,致命一擊
+CLIENT_HELP_INC_000353,A melee skill which damages the target as  lowering its defense. Higher Skill Level will result in more damage and a bigger decrease in defense. This skill is available at Level 60 to Players who have at least 3 Skill Points in Axe Mastery and can be used with any two handed Axe.,一種近戰技能，對目標造成傷害，同時降低其防禦。 越高技能等級將導致更多的傷害和更大的防禦下降。 該技能在 60 級時可供擁有至少 3 點斧之研習技能點的玩家使用，並且可以與任何雙手斧頭一起使用。
+CLIENT_HELP_INC_000354,Guard,護衛
+CLIENT_HELP_INC_000355,Increases the characters defense but reduces the characters attack power. This skill is available at Level 62 and can be used with either a two handed Axe or Sword.,增加角色防禦，但降低角色攻擊力。 該技能在 62 級可用，可與雙手斧或劍一起使用。
+CLIENT_HELP_INC_000356,Rage,怒氣
+CLIENT_HELP_INC_000357,"Increases the characters attack power and HP, but it also reduces the characters defense and accuracy. This skill is available at Level 65 to Players who have at least 5 Skill Points in Guard and can be used with either a two handed Axe or Sword.",增加角色的攻擊力和HP，但也會降低角色的防禦力和命中率。該技能在 65 級時可供擁有至少 5 點護衛技能點的玩家使用，並且可以與雙手斧頭或劍一起使用。
+CLIENT_HELP_INC_000358,Pain Reflection,血債血償
+CLIENT_HELP_INC_000359,Reflects a portion of damage you receive back at the target. This skill is available at Level 70 to Players who have at least 4 Skill Points in Rage and can be used with either a two handed Axe or Sword.,將你受到的部分傷害反射回目標。該技能在 70 級時適用擁有至少 4 個怒氣技能點數的玩家，並且可以與雙手斧或劍一起使用。
+CLIENT_HELP_INC_000360,Power Swing,橫風斬
+CLIENT_HELP_INC_000361,"A huge horizontal swing that deals damage, and knocks enemies back. This skill is available at Level 75 to Players who have at least 7 Skill Points in Pain Reflection and can be used with either a two handed Axe or Sword.",一個巨大的水平擺動造成傷害，並將敵人擊退。該技能在 75 級時適用於擁有至少 7 個血債血償技能點的玩家，並且可以與雙手斧頭或劍一起使用。
+CLIENT_HELP_INC_000362,Blade,暗殺者
+CLIENT_HELP_INC_000363,Blades are a second class for mercenaries and are the best damage dealers in the game. As a blade you will be able to wield two weapons at the same time and thus drastically increase your damage output.,暗殺者是勇者的第二階職業，是遊戲中最強輸出傷害的角色。作為暗殺者您將能夠同時使用兩種武器，進而大大增加您的傷害輸出。
+CLIENT_HELP_INC_000364,Silent Strike,光速突刺
+CLIENT_HELP_INC_000365,A melee skill which deals a vicious cut in a sliding motion to the enemy. This skill is available at Level 60 to Players who have at least 3 Skill Points in Sword Mastery and can be used with a one handed Sword.,用光速貫通敵人身體，並讓敵人受到嚴重傷害。
+CLIENT_HELP_INC_000366,Blade Dance,暗殺者之舞
+CLIENT_HELP_INC_000367,Uses both swords to attack all of the enemies around the wielder. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with a one handed Sword.,將雙刀展開並對周圍的敵人進行攻擊。
+CLIENT_HELP_INC_000368,Spring Attack,千光刃
+CLIENT_HELP_INC_000369,Strike at multiple enemies times. This skill is available at Level 60 to Players who have at least 3 Skill Points in Axe Mastery and can be used with two one handed axes.,衝刺的同時進行快速的連發攻擊，最後所顯示的傷害值為累加的總傷害值。
+CLIENT_HELP_INC_000370,Hawk Attack,鬼斧斬
+CLIENT_HELP_INC_000371,"Jumps, striking the enemy with both weapons. Deals massive damage and possibly blinds the enemy for a short period of time. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with two one handed axes.",跳躍，用雙武器攻擊敵人。 造成巨大傷害，並可能使敵人在短時間內失明。 該技能在 65 級時適用於在無聲打擊中擁有至少 5 個技能點的玩家，並且可以使用兩把單手斧頭。
+CLIENT_HELP_INC_000372,Armor Penetrate,爆碎點刺
+CLIENT_HELP_INC_000373,A melee skill which ignores 50% of target's defense rating. This skill is available at Level 62 and can be used with a one handed Sword or Axe.,成功時，敵人防具會受到損壞。
+CLIENT_HELP_INC_000374,Berserk,速度集中
+CLIENT_HELP_INC_000375,"Temporarily raises attack power and attack speed, but you can not use any skills for the duration of the spell. This skill is available at Level 65 to Players who have at least 4 Skill Points in Armor Penetrate and can be used with a one handed Sword or Axe.",限制時間內，犧牲所有其他可使用的技能來提高攻擊速度。（所有技能暫時無法使用）
+CLIENT_HELP_INC_000376,Sonic Blade,音速暗殺者
+CLIENT_HELP_INC_000377,"Gathers a powerful aura and transfers it to your weapon, and then deals damage to the closest enemy. This skill is available at Level 70 to Players who have at least 7 Skill Points in Berserk and can be used with a one handed Sword or Axe.",暗殺者最強技能！將所有的氣集中在武器後，用盡全力攻擊敵人。
+CLIENT_HELP_INC_000378,Cross Strike,稻妻二刀斬
+CLIENT_HELP_INC_000379,A strong attack is dealt to the enemy with both weapons at once. This skill is available at Level 75 to Players who have at least 7 Skill Points in Sonic Blade and can be used with a one handed Sword or Axe.,兩種武器都對敵人進行了強烈的攻擊。 該技能在 75 級時適用於在音速暗殺者中擁有至少 7 個技能點並且可以用單手劍或斧頭使用的玩家。
+CLIENT_HELP_INC_000380,Jester,操偶師
+CLIENT_HELP_INC_000381,"The first job class for Acrobats, they specialize in strong attacks made with a Yo-yo.",強化溜刃技能的職業，是雜技師的二轉職業之一。
+CLIENT_HELP_INC_000382,placholder 31,placholder 31
+CLIENT_HELP_INC_000383,Critical swing,爆擊之舞
+CLIENT_HELP_INC_000384,Increase the probability of a critical strike.,使用溜刃增加爆擊率。
+CLIENT_HELP_INC_000385,Enchant Poison,毒性溜溜
+CLIENT_HELP_INC_000386,Plastering poison on the weapon to increase the normal damage and available to infect the enemy with poision,在溜刃上追加毒屬性使攻擊力提升，有一定機率使敵人中毒。
+CLIENT_HELP_INC_000387,Enchant Bleed,出血
+CLIENT_HELP_INC_000388,Increase the normal damage with the bleeding attribute and available to make the enemy bleeding.,在溜刃上追加致命的屬性，使敵人受到持續性的傷害。
+CLIENT_HELP_INC_000389,Enchant Absorb,吸血溜溜
+CLIENT_HELP_INC_000390,You can drain the HP of enemy with striking. The drain will be occurred with certain probability.,在溜刃上追加吸血的效果，並且提升攻擊力，可追加吸收對方HP的效果。
+CLIENT_HELP_INC_000391,Back Step,背後突襲
+CLIENT_HELP_INC_000392,"When attacking from behind, deals a critical strike to the enemy. Also has a chance to stun the enemy.",在敵人的背後使用此技能，施展後可機率性的使敵人短暫暈眩。
+CLIENT_HELP_INC_000393,Hit of Penya,砸錢攻擊
+CLIENT_HELP_INC_000394,Uses a Yo-yo and a small amount of Penya to deal massive damage.,無視防禦力的進行攻擊。打擊出多少傷害值，就必須付出相同數值的金幣。
+CLIENT_HELP_INC_000395,Escape,逃脫
+CLIENT_HELP_INC_000396,Enables character to escape from any movement impairing effects.,解除鎖住自己行動的狀態。
+CLIENT_HELP_INC_000397,Vital Stab,投魂一擊
+CLIENT_HELP_INC_000398,"While using Dark Illusion, allows for a sudden attack from the shadows.",使用幻影術的狀態之下，解除幻影術的同時使用才可施展成功。有爆擊的傷害力，必且在一定機率下，使出雙倍攻擊。
+CLIENT_HELP_INC_000399,Ranger,浪人
+CLIENT_HELP_INC_000400,"The second job class for Acrobats, they specialize in long distance attacks, mainly with a bow.",浪人使用弓箭，主要為遠距離攻擊. 
+CLIENT_HELP_INC_000401,placholder 32,placholder 32
+CLIENT_HELP_INC_000402,Critical Shot,光速射擊
+CLIENT_HELP_INC_000403,This skill increases Critical Hit for a limited time.,有限時間內，使弓箭射擊的致命傷機率增加。
+CLIENT_HELP_INC_000404,Ice Arrow,冰箭
+CLIENT_HELP_INC_000405,"This skill causes an explosion of frost, slowing all enemies in a certain area for a certain period of time.",讓周圍的所有怪物受到寒冷箭氣傷害，並附帶使敵人速度遲緩的效果。
+CLIENT_HELP_INC_000406,Flame Arrow,聖火之箭
+CLIENT_HELP_INC_000407,This skill gives the fire element to arrows and damages surrounding enemies.,該技能將火元素賦予箭矢並傷害周圍的敵人。
+CLIENT_HELP_INC_000408,Piercing Arrow,箭矢貫通
+CLIENT_HELP_INC_000409,"This skill pierces monsters who are a straight line, dealing damage to all of them.",貫通目標，並讓縱向的所有敵人都受到傷害。
+CLIENT_HELP_INC_000410,Poison Arrow,毒箭
+CLIENT_HELP_INC_000411,The strong damage and continuous poisonous damage will be occurred simutaneously.,讓對方感染毒，並且持續的受到傷害。
+CLIENT_HELP_INC_000412,Silent Arrow,沉默之箭
+CLIENT_HELP_INC_000413,"Deals strong damage and silences the target. While silenced, the target cannot cast spells of any kind.","""進行強力的攻擊，並且追加沉默的效果,中了沉默狀態就無法使用魔法。"""
+CLIENT_HELP_INC_000414,Nature,自然之道
+CLIENT_HELP_INC_000415,This skill heightenses the users senses with nature to increase Magic Defense & Bow Range.,該技能增強玩家對自然的感覺，以增加魔法防禦和弓射程。
+CLIENT_HELP_INC_000416,Triple shot,三連矢
+CLIENT_HELP_INC_000417,Triple arrows will be shot to deal strong damage.,一次發射三支箭，使威力增強。
+CLIENT_HELP_INC_000418,Ringmaster,守護者
+CLIENT_HELP_INC_000419,"The first job class for Assists, uses a staff like an Assist. Focuses more on supporting party than damaging monsters.",可發揮最高輔助技能的職業。與一轉的神職者輔助技能不同在於二轉後的技能可針對多數人施展，是個在隊伍中不可或缺的輔助夥伴！
+CLIENT_HELP_INC_000420,Protect,攻擊強化
+CLIENT_HELP_INC_000421,This buff increases the physical defense of the target.,"""給自己或我軍施展防禦技能的話,可提升物理防禦力。"""
+CLIENT_HELP_INC_000422,Holyguard,天神之盾
+CLIENT_HELP_INC_000423,This buff protects the target from incoming critical hits for a limited amount of time.,該加成可在有限的時間內保護目標免受暴擊的傷害。
+CLIENT_HELP_INC_000424,Holycross,天神之戒
+CLIENT_HELP_INC_000425,The enemy will take double damage.,對敵人施展一次，即可讓敵人受到的損害值變成兩倍。
+CLIENT_HELP_INC_000426,Spiriture Fortune,攻擊強化
+CLIENT_HELP_INC_000427,Greatly increases your physical attack power for a period of time.,在一段時間內大幅提升你的物理攻擊力。
+CLIENT_HELP_INC_000428,Gebura Tiphreth,戰士之歌
+CLIENT_HELP_INC_000429,"Increases accuracy, attack speed and attack power for all party members within range.",一定範圍內提高所有劇團成員的命中率、攻擊速度和攻擊力。
+CLIENT_HELP_INC_000430,Gvur Tialla,眾神的守護
+CLIENT_HELP_INC_000431,Cleanses any abnormal conditions.,解除所有異常狀態。
+CLIENT_HELP_INC_000432,Heal Rain,祝福的洗禮
+CLIENT_HELP_INC_000433,Recovers a large amount of HP for all party members.,生命之水降臨在每個隊伍成員的身上，使所有的隊友回復大量的HP。
+CLIENT_HELP_INC_000434,Merkaba Hanzelrusha,神聖領域
+CLIENT_HELP_INC_000435,Deals damage over time to all enemies in a certain area.,設一個神聖的結界，讓進入結界的怪物持續受到傷害。
+CLIENT_HELP_INC_000436,Billposter,爆咒師
+CLIENT_HELP_INC_000437,"The second job class for Assists, they use a knuckle hammer like Assists. They specialize in Critical attacks but have a slower attack speed.","""利用格鬥型武器展開快速攻擊的職業，並且可施展咒術來弱化敵人。 "
+CLIENT_HELP_INC_000438,Belial Smashing,火龍拳
+CLIENT_HELP_INC_000439,A skill that delivers one powerful dashing punch.,拳頭冒出火花，同時往前衝刺進行強力的攻擊。
+CLIENT_HELP_INC_000440,Blood Fist,血之狂舞
+CLIENT_HELP_INC_000441,"Strikes the enemy, making it bleed. Bleeding causes additional damage over time.",讓敵人嚴重出血，並有持續失血的效果。
+CLIENT_HELP_INC_000442,Piercing Serpent,橫衝直撞
+CLIENT_HELP_INC_000443,"Dashes forward with a burning fist, striking the enemy.",拳頭冒出火花，同時往前衝刺進行強力的攻擊。
+CLIENT_HELP_INC_000444,Asmodeus,戰力強化
+CLIENT_HELP_INC_000445,Increases the attack power bonus of knuckles.,使用拳套系列的武器，限定時間內提升攻擊力。
+CLIENT_HELP_INC_000446,Baraqijal Esna,挑釁
+CLIENT_HELP_INC_000447,"When the skill works, it reduces the monsters defense and increases the monsters attack power.",成功時，可將敵人的防禦力降低，但卻會提升攻擊力。
+CLIENT_HELP_INC_000448,Grvub Tialbold,波動拳
+CLIENT_HELP_INC_000449,An energy wave deals damage to all monsters around the caster.,將自己周圍的怪物，利用氣的波動進行攻擊。
+CLIENT_HELP_INC_000450,Sonic Hand,百裂拳
+CLIENT_HELP_INC_000451,Uses a knuckle hammer to strike with deadly speed.,依照等級慢慢的增加打擊數，其威力也會跟著增加。
+CLIENT_HELP_INC_000452,Asalraalaikum,羅煞狂爆拳
+CLIENT_HELP_INC_000453,"Strikes the enemy with concentrated power, consumes all MP.",消耗所有的MP來製造最大的傷害。
+CLIENT_HELP_INC_000454,Elementor,研術者
+CLIENT_HELP_INC_000455,"The first job class for Magicians, they use staves like Magicians. They specialize in magic effecting large numbers of enemies at once.",此職業針對屬性的魔法不停的進行研究，並且能夠學會威力最大的屬性魔法! 此職業在劇團中將會扮演攻擊力最強大的角色。
+CLIENT_HELP_INC_000456,Firebird,火鳳凰
+CLIENT_HELP_INC_000457,A fireball strikes the enemy.,召喚火鳥對敵人進行火屬性攻擊
+CLIENT_HELP_INC_000458,Burning Field,火龍吐息
+CLIENT_HELP_INC_000459,Sheets of flame burn the enemy for a period of time.,限定時間內，讓周圍變成火海，使所有範圍內的敵人持續受到傷害。
+CLIENT_HELP_INC_000460,Fire Mastery,火屬性研究
+CLIENT_HELP_INC_000461,Increases damage done by fire skills.,提升火屬性的攻擊力。
+CLIENT_HELP_INC_000462,Stone Spear,石槍術
+CLIENT_HELP_INC_000463,A spear made of rock strikes the enemy.,將銳力的石槍投向敵人。
+CLIENT_HELP_INC_000464,Earthquake,天搖地動
+CLIENT_HELP_INC_000465,Make a huge earthquake which deals a large amount of damage.,在一定範圍內製造大地震，使敵人受到傷害。
+CLIENT_HELP_INC_000466,Earth Mastery,地屬性研究
+CLIENT_HELP_INC_000467,Increases damage done by earth skills.,提升地屬性的攻擊力。
+CLIENT_HELP_INC_000468,Void,真空之擊
+CLIENT_HELP_INC_000469,Strong Wind damage is dealt to a single target.,把對方的周圍變成真空狀態後，進行風屬性攻擊。
+CLIENT_HELP_INC_000470,Windfield,狂風怒吼
+CLIENT_HELP_INC_000471,A strong wind slows all enemies around the caster for a period of time.,"""有效時間內, 將特定地區變成強風區域, 使所有該區範圍內的敵人, 移動速度變慢"""
+CLIENT_HELP_INC_000472,Wind Mastery,風屬性研究
+CLIENT_HELP_INC_000473,Increases damage done by wind skills.,提升風屬性的攻擊力。
+CLIENT_HELP_INC_000474,Thunder Strike,雷鳴落震
+CLIENT_HELP_INC_000475,Strong Lightning damage is dealt to a single target.,施展強力的雷震，讓怪物受到強大的傷害
+CLIENT_HELP_INC_000476,Electric Shock,雷鳴落震
+CLIENT_HELP_INC_000477,"Deals lightning damage to all enemies around the caster, also lowering their defense temporarily.","""召喚出強烈的電磁場, 使周圍所有的怪物受到攻擊, 並引起麻痺使防禦力降低。"""
+CLIENT_HELP_INC_000478,Lightning Mastery,雷屬性研究
+CLIENT_HELP_INC_000479,Increases damage done by lightning skills.,提升雷屬性的攻擊力
+CLIENT_HELP_INC_000480,Iceshark,冰劍術
+CLIENT_HELP_INC_000481,A shark made of ice strikes the enemy.,將沙魚造型的冰塊，投向對方進行水攻擊。
+CLIENT_HELP_INC_000482,Poison Cloud,毒雲密佈
+CLIENT_HELP_INC_000483,"A poison cloud engulfs the enemy, dealing poison and wind damage.",召喚毒雲，並使用風與毒進行攻擊。
+CLIENT_HELP_INC_000484,Water Mastery,水屬性研究
+CLIENT_HELP_INC_000485,Increases damage done by water skills.,提升水屬性的攻擊力。
+CLIENT_HELP_INC_000486,Meteo Shower,紅石星塵
+CLIENT_HELP_INC_000487,"Meteors strike all the enemies in a certain area, dealing fire and earth damage.",召喚隕石來攻擊周圍所有的敵人，使敵人受到火與地屬性的攻擊。
+CLIENT_HELP_INC_000488,Lightning Storm,雷風狂襲
+CLIENT_HELP_INC_000489,Lightning and wind damage is dealt to all enemies in the area of effect.,讓周圍所有的敵人受到風與雷的攻擊
+CLIENT_HELP_INC_000490,Sandstorm,沙塵風暴
+CLIENT_HELP_INC_000491,"A sand storm strikes all the enemies in a certain area, dealing wind and earth damage.","""引發沙暴,讓周圍所有的敵人受到風與雷的攻擊。"""
+CLIENT_HELP_INC_000492,Blizzard,雪山崩塌
+CLIENT_HELP_INC_000493,"A blizzard strikes all the enemies in a certain area, dealing earth and water damage as well as stunning them.",引發雪崩，使周圍所有的敵人受到水與地屬性的攻擊，並有昏眩的效果。
+CLIENT_HELP_INC_000494,Psykeeper,念力師
+CLIENT_HELP_INC_000495,"The second job class for Magicians, they use a wand like a Magician. They specialize in magic attacks that assault the mind of the enemy.","""此職業最大的特徵是使用魔法類的攻擊,使敵人精神受到很大的攻擊"""
+CLIENT_HELP_INC_000496,Demonology,心靈恐懼
+CLIENT_HELP_INC_000497,"Deals damage to the mind of the enemy, by creating illusions of devils.",召喚出惡魔的幻影，使敵人心發恐慌來減弱攻擊力。
+CLIENT_HELP_INC_000498,Satanology,釘影術
+CLIENT_HELP_INC_000499,"Confuses the enemy, and binds them in place for a certain amount of time.",擾亂敵人的眼睛，使敵人暫時無法移動。
+CLIENT_HELP_INC_000500,Psychic Bomb,念力爆炸
+CLIENT_HELP_INC_000501,"Builds up spiritual power, and releases it to do massive damage.",將精神力瞬間爆發後，發出強力的攻擊。
+CLIENT_HELP_INC_000502,Spirit Bomb,幻影冥魅
+CLIENT_HELP_INC_000503,"Collapse the spirit of the enemy, deals damage based on MP.",讓敵人的精神崩潰，並會依照敵人的MP來計算敵人受到的傷害。
+CLIENT_HELP_INC_000504,Psychic Wall,念力牆
+CLIENT_HELP_INC_000505,Creates a psychic barrier in front of the caster that the monster cannot pass.,利用強大的念力，製造出一面隱形牆，使敵人無法靠近。
+CLIENT_HELP_INC_000506,Crucio Spell,降頭魔咒
+CLIENT_HELP_INC_000507,"Gives a certain chance to reflect skill and magic attacks, at double damage.",針對魔法或技能的攻擊，將會以一定的機率把傷害值用兩倍的方式反擊回去。
+CLIENT_HELP_INC_000508,Maximum Crisis,命運輪盤
+CLIENT_HELP_INC_000509,"If it works then it deals huge damage to the monster. If not, the caster takes the damage instead.",成功發動命中敵人，可造成嚴重傷害，但失敗時將會讓自己受到傷害。
+CLIENT_HELP_INC_000510,Psychic Square,絕對結界
+CLIENT_HELP_INC_000511,Dazzles the monster and deals a large amount of damage.,將敵人拉進自己的精神世界，使所有進入結界的敵人受到嚴重的傷害。
+CLIENT_HELP_INC_000512,Information of the ability,能力值的說明
+CLIENT_HELP_INC_000513,This explains the information of various abilities that can be increased by growth of character.,關於角色的情報與各種能力值。
+CLIENT_HELP_INC_000514,Name,名稱
+CLIENT_HELP_INC_000515,The given name of the avatar/character.,顯示創造角色時，所取的名稱。
+CLIENT_HELP_INC_000516,Job,職業
+CLIENT_HELP_INC_000517,This shows the job/class that the player has chosen for his character.,顯示角色目前的職業。
+CLIENT_HELP_INC_000518,Level,等級
+CLIENT_HELP_INC_000519,This increases according to the accumulated experience. You get new Stat Points and Skill Points for every level reached.,等級會透過角色經驗值（EXP）的累積而上升。而等級上升時，都會獲得新的能力點數和技能點數。
+CLIENT_HELP_INC_000520,placholder 33,placholder 33
+CLIENT_HELP_INC_000521,placholder 34,placholder 34
+CLIENT_HELP_INC_000522,placholder 35,placholder 35
+CLIENT_HELP_INC_000523,placholder 36,placholder 36
+CLIENT_HELP_INC_000524,Strength,力量
+CLIENT_HELP_INC_000525,Weapon attack rate increases except for wands and bows.,增加法杖和弓以外的武器攻擊力。
+CLIENT_HELP_INC_000526,Stamina,體力
+CLIENT_HELP_INC_000527,"Affects HP, FP, Defense and HP/FP restoration rate.",提升HP(生命值)、FP(體力值)、防禦力及FP的恢復量。
+CLIENT_HELP_INC_000528,Dexterity,敏捷
+CLIENT_HELP_INC_000529,"Affects accuracy, attack speed, dodge rate, block rate, critical chance and bow attack power.",影響到角色的命中率、迴避率、攻擊速度、暴擊機率及弓箭系列武器的攻擊力。
+CLIENT_HELP_INC_000530,Intelligence,智力
+CLIENT_HELP_INC_000531,"Affects maximum MP, MP restoration amount, magic power and magic defense.",提升魔法攻擊力、魔法防禦力、MP的最大量，MP回復量。
+CLIENT_HELP_INC_000532,HP (life),HP(生命力)
+CLIENT_HELP_INC_000533,This is the vitality of the character and the character will die if it reaches 0. You can recover it with food and pill items.,角色的生命耗盡時，會無法繼續進行各種活動。您可利用各種食物及藥丸來恢復HP。
+CLIENT_HELP_INC_000534,MP (spirit),MP(精神力)
+CLIENT_HELP_INC_000535,"This is for using magic, you can revive it by drinking refresher.",使用魔法時必要的數值。可使用魔力多來恢復MP。
+CLIENT_HELP_INC_000536,FP (endurance),FP(持久力)
+CLIENT_HELP_INC_000537,This is needed to use physical skills. It can be replenished by resting/sitting down but it can be immediately recovered by using vitality drink items.,使用技能後，出現的疲勞指數。可透過適當的休息漸漸的恢復疲勞。或是使用精力多來恢復FP。 
+CLIENT_HELP_INC_000538,Exp (experience),EXP(角色經驗值)
+CLIENT_HELP_INC_000539,This is required to raise the level of a character. It can be earned by killing monsters or through quests.,角色要提升等級時，必須累積經驗值。您可透過戰鬥與解任務來獲得經驗值。
+CLIENT_HELP_INC_000540,Skills,技能
+CLIENT_HELP_INC_000541,Skills get stronger as you level and put more points into them.,技能會隨著你的分配技能點升級而變得更強。
+CLIENT_HELP_INC_000542,Stat points,能力點
+CLIENT_HELP_INC_000543,"This is the point you get when you level up. You can distribute the points to your STR,STA,DEX, and INT.",可提升力量、體力、敏捷、智力等各種能力值的點數。等級上升時，可獲的一定的點數。
+CLIENT_HELP_INC_000544,Extra ability,追加能力
+CLIENT_HELP_INC_000545,"Some skills require you to become a Hero before being usable, and require special training to be leveled / trained.",與角色戰鬥時，有直接關連的數值。
+CLIENT_HELP_INC_000546,Attack,攻擊力
+CLIENT_HELP_INC_000547,This shows the Attack Capacity of a character. The character’s equipment and supportive skills cast on the character also influences this.,將目前所裝備的武器與角色的能力值加總後的攻擊數值。
+CLIENT_HELP_INC_000548,Defense,防禦力
+CLIENT_HELP_INC_000549,This shows the Defense Capacity of a character. The character’s equipment and supportive skills cast on the character also influences this.,將目前所裝備的防具與角色的能力值加總後的防禦數值。
+CLIENT_HELP_INC_000550,Critical hit rate,暴擊率
+CLIENT_HELP_INC_000551,This means how much chance you have to make a critical hit.,進行戰鬥時，可發生暴擊攻擊的數值。
+CLIENT_HELP_INC_000552,Attack Speed,攻擊速度
+CLIENT_HELP_INC_000553,This shows the Attack Rate of a character when attacking.,"戰鬥時, 會以多少速度進行攻擊的數值"
+CLIENT_HELP_INC_000554,Resisting power,抵抗力
+CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damage” a character can receive.,可減少魔法傷害的數值。
+CLIENT_HELP_INC_000556,Properties,屬性
+CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,Flyff Online 中一共有五種屬性，各種屬性都有其對應強與弱屬性。根據攻擊方與被攻擊方的屬性，傷害可能會增加，也有可能會減少。
+CLIENT_HELP_INC_000558,Fire,火屬性
+CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,火屬性剋風，但卻怕水！
+CLIENT_HELP_INC_000560,Water,水屬性
+CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,水屬性剋火，但卻怕雷！
+CLIENT_HELP_INC_000562,Electricity,雷屬性
+CLIENT_HELP_INC_000563,A property that is strong against the Water Property but weak against the Earth Property.,雷屬性剋水，但卻怕地！
+CLIENT_HELP_INC_000564,Earth,地屬性
+CLIENT_HELP_INC_000565,earth A property that is strong against the Electricity Property but weak against the Wind Property.,地屬性剋雷，但卻怕風！
+CLIENT_HELP_INC_000566,Wind,風屬性
+CLIENT_HELP_INC_000567,A property that is strong against the Earth Property but weak against the Fire property.,風屬性剋地，但怕火！
+CLIENT_HELP_INC_000568,Enchant,精練
+CLIENT_HELP_INC_000569,"Upgrading means making the item more powerful. Each item can be normally upgraded over 10 levels, and weapons / armor chest pieces can be elementally upgraded over 10 levels. If the upgrade fails, there is no penalty between levels 1 and 3, but from levels 4-10 the item will be lost.",精練可將物品變的更強！各物品的屬性及強化精鍊一共分為10個階段，而進行精煉時，必須擁有該階段的精練道具。如果升級失敗，則在 1 級和 3 級之間沒有懲罰，但從 4 級到 10 級，​​該物品將消失。
+CLIENT_HELP_INC_000570,Attribute Enchant,屬性精練
+CLIENT_HELP_INC_000571,"Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT.",物品可以通過各種方式獲得屬性強化(在物品名稱中可見)，賦予額外的力量、體力、敏捷和智力。
+CLIENT_HELP_INC_000572,Fire Upgrade,火屬性精練
+CLIENT_HELP_INC_000573,"When you refine an item with the Fire property, you’ll need a Fire Property Card. When an item is imbued with the Fire Property the item becomes weak to Water but stronger against Wind.",使用火屬性卡精練後，可讓物品賦予火屬性的能力。武器擁有火屬性時，針對怕火的怪物會有提升的攻擊威力！而防具擁有火屬性時，可提升風屬性攻擊的抵抗力。
+CLIENT_HELP_INC_000574,Water Upgrade,水屬性精練
+CLIENT_HELP_INC_000575,"When you refine an item with the Water property, you’ll need a Water Property Card. When an item is imbued with the Water Property the item becomes weak to Electricity but stronger against Fire.",使用水屬性卡精練後，可讓物品賦予水屬性的能力。武器擁有水屬性時，針對怕水的怪物會有提升的攻擊威力！而防具擁有水屬性時，可提升火屬性攻擊的抵抗力。
+CLIENT_HELP_INC_000576,Electric Upgrade,雷屬性精練
+CLIENT_HELP_INC_000577,"When you refine an item with the Electricity property, you’ll need an Electricity Property Card. When an item is imbued with the Electricity Property the item becomes weak to Earth but stronger against Water.",使用雷屬性卡精練後，可讓物品賦予雷屬性的能力。武器擁有雷屬性時，針對怕雷的怪物會有提升的攻擊威力！而防具擁有雷屬性時，可提升水屬性攻擊的抵抗力。
+CLIENT_HELP_INC_000578,Wind Upgrade,風屬性精練
+CLIENT_HELP_INC_000579,"When you refine an item with the Wind property, you’ll need a Wind Property Card. When an item is imbued with the Wind Property the item becomes weak to Fire but stronger against Earth.",使用風屬性卡精練後，可讓物品賦予風屬性的能力。武器擁有風屬性時，針對怕風的怪物會有提升的攻擊威力！而防具擁有風屬性時，可提升地屬性攻擊的抵抗力。
+CLIENT_HELP_INC_000580,Earth Upgrade,地屬性精練
+CLIENT_HELP_INC_000581,"When you refine an item with the Earth property, you’ll need an Earth Property Card. When an item is imbued with the Earth Property the item becomes weak to Wind but stronger against Electricity.",使用地屬性卡精練後，可讓物品賦予地屬性的能力。武器擁有地屬性時，針對怕地屬性的怪物會有提升的攻擊威力！而防具擁有地屬性時，可提升雷屬性攻擊的抵抗力。
+CLIENT_HELP_INC_000582,General Upgrade,一般精練
+CLIENT_HELP_INC_000583,"Normal upgrade means a non-element upgrade. Power Dice are required to upgrade, there are 5 types of Power Dice, 4, 6, 8, 10 and 12.",一般精練就是將物品的基本能力值提高的精鍊。基本上與上述的精鍊是相同的。一般精練時需要使用能量骰子來進行強化。
+CLIENT_HELP_INC_000584,Ultimate Weapon Upgrade,最終武器鍛鍊
+CLIENT_HELP_INC_000585,"You can make an Ultimate Weapon with a +10 upgraded unique weapon by using the Ultimate Weapon Upgrade. The maximum upgrade for an Ultimate weapon is up to +10 the same as any other item upgrade but it needs 'Shining Orikalkum'. The Ultimate upgrade is available only for weapons, and the item is destroyed in case of a failure. From +6 you are able to socket your weapon.","+10精鍊的特殊武器透過終極武器變換後，能夠製作出更強的終極武器。此終極武器與目前精鍊一樣，最多可以精鍊到+10。可以使用精練道具""閃亮的晶石""在武器上做精鍊，如果失敗時，道具就會被破壞掉。精鍊數值在+6以上時，會產生能夠合成各種能力寶石的插槽。最大可以在5個插槽上合成寶石道具。"
+CLIENT_HELP_INC_000586,placholder 39,placholder 39
+CLIENT_HELP_INC_000587,placholder 40,placholder 40
+CLIENT_HELP_INC_000588,placholder 41,placholder 41
+CLIENT_HELP_INC_000589,placholder 42,placholder 42
+CLIENT_HELP_INC_000590,placholder 43,placholder 43
+CLIENT_HELP_INC_000591,placholder 44,placholder 44
+CLIENT_HELP_INC_000592,placholder 45,placholder 45
+CLIENT_HELP_INC_000593,placholder 46,placholder 46
+CLIENT_HELP_INC_000594,placholder 47,placholder 47
+CLIENT_HELP_INC_000595,placholder 48,placholder 48
+CLIENT_HELP_INC_000596,Building,建築物
+CLIENT_HELP_INC_000597,Information about the buildings that provide services.,在Flyff內，提供著必要的各種物品，除此之外還有很多支援各種機能的建築。
+CLIENT_HELP_INC_000598,Lodestar,生命光塔
+CLIENT_HELP_INC_000599,This is a structure that gathers spiritual life and resurrects players who died. It is located inside a city or a wide open clearing.,位在城鎮廣場的一座大型建築物。此建築物會將分散到四周的生命，召喚到此處復活。當您沒有在戰鬥場附近的生命光柱儲存復活點時，就會前往生命光塔復活。
+CLIENT_HELP_INC_000600,Lodelight,生命光柱
+CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,與生命光塔相似，但是生命光柱分佈在大陸各個地方，您可指定其中一處復活。
+CLIENT_HELP_INC_000602,Weapon shop,武器商店
+CLIENT_HELP_INC_000603,"This place sells weapons for the 1st job class such as vagrant, mercenary, and acrobat. It also sells weapons for the 2nd job class such as knight, blade, ringmaster, billposter, jester, and ranger.",販賣見習生；一轉職業：勇者、神職者、雜技師等及二轉職業：騎士、暗殺者、念力師、研術者、守護者、爆咒師、操偶師、浪人的武器。
+CLIENT_HELP_INC_000604,Armor shop,防具店
+CLIENT_HELP_INC_000605,"This place sells armor for Mercenaries, Assists, and Acrobats.",販賣見習生、勇者、神職者的防具裝備。
+CLIENT_HELP_INC_000606,Magic store,魔法商店
+CLIENT_HELP_INC_000607,"This place sells weapons, armor, and magic items best suited for Magicians.",販賣魔法使的武器、防具和魔法物品。
+CLIENT_HELP_INC_000608,Food shop,餐飲店
+CLIENT_HELP_INC_000609,This shop sells food items that help recover HP,販賣幫助恢復生命力的各種食品。
+CLIENT_HELP_INC_000610,General merchandise,雜貨店
+CLIENT_HELP_INC_000611,"This place sells Arrows, Posters, and those sorts of things.",販賣的物品種類很多，有箭矢、符咒、MP和FP飲品。
+CLIENT_HELP_INC_000612,Public Office,城鎮服務處
+CLIENT_HELP_INC_000613,"This place is for selling Perin, using your personal bank, and guild bank.",這裡可以讓你使用個人倉庫和公會倉庫。
+CLIENT_HELP_INC_000614,Station,航空站
+CLIENT_HELP_INC_000615,This shop sells Flight related items like Flight gears as well as guide’s player on how to fly.,販賣飛行器與飛行物品的地方，您也可在這裡得知一些飛行相關的知識。
+CLIENT_HELP_INC_000616,Duel,對戰
+CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different from PK. It is called PvP (Player Vs Player) which can only start when 2 players agree to a duel. A duel has no penalties associated with it.,是指玩家之間的戰鬥。與一般無差別格鬥的PK不同的是，雙方都答應對戰後，才能進行的PvP(Player Vs Player)對戰。
+CLIENT_HELP_INC_000618,Fame,名譽
+CLIENT_HELP_INC_000619,You will gain the fame if you keep winning duels. You will also gain  different titles as well.,在對戰中獲的很多勝利時，名譽自然會上升。而隨著名譽的上升，可以獲得各種的號稱。
+CLIENT_HELP_INC_000620,Guild Combat Center,公會戰鬥中心
+CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,公會大戰及1:1公會大戰參加申請，還有可以進行大戰的地方。只有在第1分流可以使用。
+CLIENT_HELP_INC_000622,Other inquiries,其他事項
+CLIENT_HELP_INC_000623,Please visit the official homepage: $WEBSITE$ for more inquiries. Have a nice day.,查詢更多事項請訪問官方網站：$WEBSITE$。 祝你今天過得愉快。
+CLIENT_HELP_INC_000624,Beauty shop,美容商店
+CLIENT_HELP_INC_000625,You can change your hair style and color. The price varies based on the color and style you choose.,可以變換頭髮樣式和頭髮顏色。改變頭髮樣式和顏色，價格根據你的選擇有所不同。
+CLIENT_HELP_INC_000626,Private Shop,個人商店
+CLIENT_HELP_INC_000627,Items can be conveniently presented for sale to through this option. You can set the quantity and the price.,可以將自己擁有的物品，販賣給其他的玩家。您可以替自己想要販賣的物品定下適當的價格與數量後，放入個人商店中販售。
+CLIENT_HELP_INC_000628,"Open the Start menu, select Personal Shop, and the Personal Shop window will appear.",打開開始選單，選擇個人商店，將出現個人商店視窗。
+CLIENT_HELP_INC_000629,Drag the items you wish to sell from your inventory and drop them into the Personal Shop window.,從物品欄中選擇要販賣的物品後，拖曳至個人商店視窗中。
+CLIENT_HELP_INC_000630,"After dragging the item into the window, you can set the price for the item, and the quantity you wish to sell.",拖曳後，會出現一個設定價格與數量的視窗。
+CLIENT_HELP_INC_000631,"Put a name in the Shop Name Window, and press OK. You can start selling items after that.",設定完販賣的商品後，輸入個人商店的名稱，並按下OK鍵即可完成。
+CLIENT_HELP_INC_000632,Creating a Guild,成立公會
+CLIENT_HELP_INC_000633,"There are some basic requirements to creating a Guild. You will need a party of three players all at least level 40, then you have to complete a quest through the Public office NPC Helena in SM. Once finished you and your party members will become a guild.",成立公會必須到達40級以上之後，到聖音特找城鎮服務員海蓮娜接受成立公會的任務後，將相關的任務全部完成，即可成立工會，自己的隊友也會變成公會成員。
+CLIENT_HELP_INC_000634,Raising the Guild Level,公會成長
+CLIENT_HELP_INC_000635,"Guild Members area able to contribute items and Penya towards raising the guild level. To contribute items, simply press the Support Button inside of the Guild Storage. Raising the Guild Level will open up various options to the Guild to help it grow and distinguish itself.",可以貢獻物品和貢獻金幣來提高公會等級。利用公會倉庫來支援所需之物品，才能讓公會快速的成長。供獻度和供獻金幣達一定數值後，就會提升公會的等級。
+CLIENT_HELP_INC_000636,Joining a Guild,加入公會
+CLIENT_HELP_INC_000637,Initially only a Guild Master has the authority to invite Guild members. But a Guild Master can give authority to any Guildie to recruit other members to his Guild.,要加入剛成立的公會，必須要得到公會會長的同意。之後會長可分派權限給公會成員，並由其他成員邀請他人入會。招募成員與組隊的方式相同。
+CLIENT_HELP_INC_000638,Disbanding a Guild,公會解散
+CLIENT_HELP_INC_000639,"The Guild Master can disband the Guild by pressing the DISMISS button on the Guild Menu. Once the Guild is dismissed, it takes 2 days before Members can create or join a new Guild.",公會視窗上的『解散』按鈕，就是解散公會時用到的按鈕。解散公會的2天後才可成立新公會。
+CLIENT_HELP_INC_000640,Managing Guild Members,成員管理
+CLIENT_HELP_INC_000641,"The Guild Master can manage his Guild from the Guild Menu. He can set things such as promotions, demotions, nicknames, kicking from Guild, etc.",成員的管理可透過公會視窗的成員管理頁面進行成員的升階、升職、賦予稱號、退出、公會會長變更等的功能。
+CLIENT_HELP_INC_000642,Managing Guild Ranks,公會稱號管理
+CLIENT_HELP_INC_000643,"The Guild Master can manage Guild Ranks in the Guild Menu. He can set the authority of the title, degree, admission, access to items and monthly payment.",稱號管理可透過公會視窗的稱號管理頁面進行有關公會稱號的各種權限設定，可以指定有關稱號、等級、加入、金幣、道具權限的設定，對於各稱號能夠設定一天支付一次的月薪額度。
+CLIENT_HELP_INC_000644,Announcement,公會公告
+CLIENT_HELP_INC_000645,Guild Masters can make an announcement by clicking the Notice button on the Information Tab in the Guild Menu. Either a new message can be made of the old one can simply be modified.,公會公告可透過公會視窗的公會情報頁面進行。此頁面中有個『公告』的按鈕，按下去之後會出下公告設定的視窗，此時選擇『新建』，並將想要公會的內容輸入完畢之後，按下『開始』鍵即可。若要將目前公告中的內容修改，可按下『編輯』來進行。此功能只有公會會長能夠使用。
+CLIENT_HELP_INC_000646,Guild Logo,公會徽章
+CLIENT_HELP_INC_000647,"The Guild Logo is the symbol or emblem of the Guild. This can be chosen only once and only by the Guild Master. To use this function, select the Logo button in the Guild Menu.",代表工會的徽章只能由會長去設定，而且只能設定一次。若要設定公會徽章，可在公會情報頁面上按下『Logo』按鈕後，選擇想要的圖即可。
+CLIENT_HELP_INC_000648,Guild Storage,公會倉庫
+CLIENT_HELP_INC_000649,You can use the Guild Storage only on the 1st Channel of each Server. Anyone can deposit items and Penya into the Guild Storage but only authorized Guild Members can withdraw items and penya.,公會倉庫只能在各伺服器的第一世界使用。雖然在公會倉庫放入的道具或金幣不管是誰都可以使用，但是必需要被賦予稱號的公會會員才能夠取出公會倉庫裡的道具和金幣。
+CLIENT_HELP_INC_000650,Info-Pang,情報胖
+CLIENT_HELP_INC_000651,You may have noticed when you first logged into the game that you were greeted by the Info-Pang in the lower right corner of your screen. This section briefly explains the Info-Pang and how to use him.,你可能已經注意到，當您第一次登錄遊戲時，螢幕右下角的情報胖會向你打招呼，這裡簡要介紹 情報胖及其使用方法。
+CLIENT_HELP_INC_000652,What is it?,情報胖是甚麼?
+CLIENT_HELP_INC_000653,"The Info-Pang will guide you through all of the basics including controls, hotkeys, menus, and even some game functions. Once you have completed a section, you can always access it if you need to review it. Simply right click on the Info-Pang and select Check the List.",情報胖將引導你了解所有基礎知識，包括控制、熱鍵、選單，甚至一些遊戲功能。 完成一個部分後，如果需要查看它，您可以隨時訪問它。 只需右鍵單擊情報胖並選擇查看說明。
+CLIENT_HELP_INC_000654,Access the Info-Pang,訪問情報胖
+CLIENT_HELP_INC_000655,"The Info-Pang will be activated by default when you log into the game. If you would like to turn the Info-Pang off, Right Click on the Info-Pang and select Hide. If later you would like to recall the Info-Pang you can do that by accessing the Start Menu, selecting Helper, and then selecting Info-Pang.",登錄遊戲時會自動啟動情報胖，如果您想關閉情報胖，右鍵單擊情報胖並選擇隱藏。 如果你想使用情報胖，您可以透過開始選單，選擇幫助，然後選擇情報胖。
+CLIENT_HELP_INC_000656,Duel among users,玩家之間的戰鬥
+CLIENT_HELP_INC_000657,This is a duel between 2 players.,指玩家之間的發生的戰鬥。
+CLIENT_HELP_INC_000658,PvP,PvP
+CLIENT_HELP_INC_000659,It means a fight between characters by mutual agreement. Affects PVP fame and PVP point.,雙方同意後進行的戰鬥。此戰鬥並不會像PK般受到懲罰，但是會影響PVP名譽及PVP點數。
+CLIENT_HELP_INC_000660,Asking for PvP,申請PvP
+CLIENT_HELP_INC_000661,"If you right-click with ALT key on the player whom you want to have duel with, you can have a duel with the player in case of that the user accepts that.",選擇想要進行PvP的玩家，點了對方的名稱後，按著鍵盤的ALT鍵+滑鼠左鍵叫出選單，並選擇申請對戰，即可發出PvP的邀請。
+CLIENT_HELP_INC_000662,"In case of that you are the leader of your troupe and the clicked one is another leader of other troupe, you can have a group duel, if the other lead accept it.",如果你是自己劇團的團長，而被點擊的人是其他劇團團長，如果對方接受的話，你可以進行劇團對戰。
+CLIENT_HELP_INC_000663,The result of PVP and Fame,PvP的結果與名譽
+CLIENT_HELP_INC_000664,PVP fame and PVP point change according to PvP record.,依照PvP的戰積，玩家的PvP名譽與PvP點數會產生變化。
+CLIENT_HELP_INC_000665,placholder 49,placholder 49
+CLIENT_HELP_INC_000666,placholder 50,placholder 50
+CLIENT_HELP_INC_000667,placholder 51,placholder 51
+CLIENT_HELP_INC_000668,placholder 52,placholder 52
+CLIENT_HELP_INC_000669,placholder 53,placholder 53
+CLIENT_HELP_INC_000670,placholder 54,placholder 54
+CLIENT_HELP_INC_000671,placholder 55,placholder 55
+CLIENT_HELP_INC_000672,placholder 56,placholder 56
+CLIENT_HELP_INC_000673,placholder 57,placholder 57
+CLIENT_HELP_INC_000674,placholder 58,placholder 58
+CLIENT_HELP_INC_000675,placholder 59,placholder 59
+CLIENT_HELP_INC_000676,placholder 60,placholder 60
+CLIENT_HELP_INC_000677,placholder 61,placholder 61
+CLIENT_HELP_INC_000678,placholder 62,placholder 62
+CLIENT_HELP_INC_000679,placholder 63,placholder 63
+CLIENT_HELP_INC_000680,placholder 64,placholder 64
+CLIENT_HELP_INC_000681,placholder 65,placholder 65
+CLIENT_HELP_INC_000682,placholder 66,placholder 66
+CLIENT_HELP_INC_000683,Server,伺服器分流
+CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,公會倉庫使用或公會大戰等機制，僅限第1分流進行。
+CLIENT_HELP_INC_000685,placholder 67,placholder 67
+CLIENT_HELP_INC_000686,placholder 68,placholder 68
+CLIENT_HELP_INC_000687,placholder 69,placholder 69
+CLIENT_HELP_INC_000688,placholder 70,placholder 70
+CLIENT_HELP_INC_000689,placholder 71,placholder 71
+CLIENT_HELP_INC_000690,placholder 72,placholder 72
+CLIENT_HELP_INC_000691,placholder 73,placholder 73
+CLIENT_HELP_INC_000692,placholder 74,placholder 74
+CLIENT_HELP_INC_000693,placholder 75,placholder 75
+CLIENT_HELP_INC_000694,placholder 76,placholder 76
+CLIENT_HELP_INC_000695,placholder 77,placholder 77
+CLIENT_HELP_INC_000696,placholder 78,placholder 78
+CLIENT_HELP_INC_000697,placholder 79,placholder 79
+CLIENT_HELP_INC_000698,placholder 80,placholder 80
+CLIENT_HELP_INC_000699,placholder 81,placholder 81
+CLIENT_HELP_INC_000700,placholder 82,placholder 82
+CLIENT_HELP_INC_000701,placholder 83,placholder 83
+CLIENT_HELP_INC_000702,placholder 84,placholder 84
+CLIENT_HELP_INC_000703,placholder 85,placholder 85
+CLIENT_HELP_INC_100000,Achievements,成就
+CLIENT_HELP_INC_100001,"There are many kinds of missions: Daily Rewards, Time-Limited Events, Account Shared Achievements, etc. Complete them and you will receive various rewards such as Items, Custom Title, Attack Power Bonus, Penya or Bonus fCoins!",有很多的任務種類：每日獎勵、限時活動、帳號共享成就等。完成他們，將獲得各種獎勵，如物品、稱號、攻擊力獎勵、金幣或fCoins獎勵!
+CLIENT_HELP_INC_100002,Battle Pass,特別通行證
+CLIENT_HELP_INC_100003,"Complete daily, weekly and season missions to receive rewards!\n\nDon't forget to claim your rewards before the end of the Battle Pass season.\n\nPoints earned through the Season missions are not included in the weekly limit.",完成每日、每周和季任務以獲得獎勵！\n\n不要忘記在特別通行證賽季結束前領取您的獎勵。\n\n通過季任務獲得的積分不包括在每週限制中。
+CLIENT_HELP_INC_100004,Equipment Switch,裝備切換
+CLIENT_HELP_INC_100005,"Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle.",建立裝備預設，讓您隨時使用您的套裝、武器和配件。 透過簡單的快捷方式，您可以輕鬆地裝備它們，沒有任何麻煩。
+CLIENT_HELP_INC_100006,Create ultimate weapon,打造終極武器
+CLIENT_HELP_INC_100007,Kalgas Assault Revival,卡爾加斯突擊復興
+CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).",在卡爾加斯突擊中，每次死亡重生都需要一定的時間，並隨著重生次數的增加而增加（最多 1 分鐘）。\n花費卡爾加斯幣可以讓你重生，無需等待，並且該物品可以在商城購買。\n卡爾加斯銀幣只能使用一次，而卡爾加斯金幣可以無限次復活。\n*卡爾加斯金幣每次使用時需要增加數量（最多 20 個）。
+CLIENT_HELP_INC_100009,Couple Menu,情侶選單
+CLIENT_HELP_INC_100010,"This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled.","This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled."
+CLIENT_HELP_INC_100011,Life,生活
+CLIENT_HELP_INC_100012,"This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time.","This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time."
+CLIENT_HELP_INC_100013,Fishing Menu,Fishing Menu
+CLIENT_HELP_INC_100014,"If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button.","If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button."
+CLIENT_HELP_INC_100015,Pet Training,Pet Training
+CLIENT_HELP_INC_100016,"You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc"
+CLIENT_HELP_INC_100017,Housing Objects,Housing Objects
+CLIENT_HELP_INC_100018,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.
+CLIENT_HELP_INC_100019,Production,Production
+CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success","You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success"

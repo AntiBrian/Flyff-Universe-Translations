@@ -1,0 +1,51 @@
+﻿Key,English,Thai
+CLIENT_FAQ_INC_000000,How can I be resurrected?,ฉันจะฟื้นคืนชีพได้อย่างไร?
+CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.",คุณสามารถชุบชีวิตในเมืองที่ใกล้ที่สุดได้โดยเลือก 'Lodestar' ในหน้าต่างชุบชีวิต หากคุณมี 'Scroll of Resurrection' หรือมีสกิลการฟื้นคืนชีพติดอยู่กับคุณ คุณสามารถฟื้นคืนชีพได้ทันทีในสถานที่ที่คุณตาย
+CLIENT_FAQ_INC_000002,Where are the monsters?,มอนสเตอร์อยู่ที่ไหน?
+CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,เมื่อคุณออกไปนอกเมือง คุณจะพบมอนสเตอร์อยู่ตาม Map คุณต้องแน่ใจว่าคุณสามารถจัดการได้
+CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,ฉันจะกำหนดเป้าหมายและยกเลิกการเลือกได้อย่างไร?
+CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.",คลิกสองครั้งที่เป้าหมายด้วยเมาส์เพื่อโจมตี คลิกเพียงครั้งเดียวเพื่อกำหนดเป้าหมายแล้วกด ESC เพื่อยกเลิกการเลือก
+CLIENT_FAQ_INC_000006,How can I attack continuously?,ฉันจะโจมตีอย่างต่อเนื่องได้อย่างไร?
+CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,ตรวจสอบให้แน่ใจว่าได้เลือกการตั้งค่าการโจมตีอัตโนมัติใน Option
+CLIENT_FAQ_INC_000008,How do you use the skills?,ใช้ skills อย่างไร?
+CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,กด K สำหรับเมนู skills และลากไอคอน skills ที่คุณต้องการใช้ลงในช่องคีย์ลัด auto Skills ที่ด้านล่างขวาของหน้าจอ
+CLIENT_FAQ_INC_000010,How do you use the skills continuously?,ใช้ skills ต่อเนื่องได้อย่างไร?
+CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting something to use those skills. Moves that are shaped like puzzle pieces need to be placed together.,วาง Skills ในช่องคีย์ลัด auto Skills และกด C เมื่อกำหนดเป้าหมาย เพื่อใช้ Skills เหล่านั้น ย้าย Skills ต่อเนื่องของ Skills แรกจะต้องวางไว้ด้วยกัน
+CLIENT_FAQ_INC_000012,How do I gain my health back?,ฉันจะฟื้นฟู HP ของได้อย่างไร?
+CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,อาหารและไอเทมอื่นๆ จะฟื้นฟูสุขภาพของคุณเมื่อคุณดับเบิลคลิก จำนวน HP ที่กู้คืนแต่ละรายการจะระบุไว้ในคำอธิบายรายการ
+CLIENT_FAQ_INC_000014,How do I get a Job?,ฉันจะเปลี่ยนอาชีพได้อย่างไร?
+CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",เมื่อถึงเลเวล 15 แล้ว ให้ไปคุยกับ Julia ที่ Flarine เพื่อรับภารกิจการเปลี่ยนอาชีพของคุณ โดยทำเควส Mercenary และ Assist เริ่มต้น เมือง Flaris มีภารกิจ Magician เริ่มต้นใน Saint Morning และภารกิจ Acrobat เริ่มต้นอยู่ที่ Darken
+CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,ทำไมฉันถึงไม่ได้ประสบการณ์อีกเมื่อเลเวล 15
+CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.",เมื่อคุณเลเวล 15 จะไม่สามารถรับ EXP ได้อีก คุณต้องทำภารกิจเปลี่ยนอาชีพครั้งที่ 1 เพื่อให้ได้ EXP อีกครั้ง ไปหาผู้ฝึกสอนและทำภารกิจให้เสร็จสิ้นสำหรับอาชีพที่คุณต้องการเมื่อถึงเลเวล 15
+CLIENT_FAQ_INC_000018,,
+CLIENT_FAQ_INC_000019,"In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill.",ในกรณีที่คุณไม่สามารถเรียน Skills ได้ ให้ตรวจสอบเลเวลตัวละครและ Skills ก่อนหน้าเพื่อให้แน่ใจว่าคุณมีคุณสมบัติตรงตามข้อกำหนดสำหรับ Skills นั้นๆ
+CLIENT_FAQ_INC_000020,How do I fly?,ฉันจะบินได้อย่างไร?
+CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,เมื่อคุณไปถึงเลเวล 20 คุณสามารถซื้อ board หรือไม้กวาดจากผู้เล่น หรือ NPC ได้ แล้วติดตั้ง โดยการดับเบิลคลิกและคุณสามารถบินขึ้นได้เมื่อกด Spacebar 
+CLIENT_FAQ_INC_000022,How do I move the camera.,ฉันจะเปลี่ยนมุมมองได้อย่างไร
+CLIENT_FAQ_INC_000023,There are two main ways to move the camera. Old Version: Press and hold the mouse wheel. Then move the mouse around. New Version: Press and hold the right mouse button. Then move the mouse around. Use the mouse wheel to zoom in or out and to rotate your camera.,มีสองวิธีหลักในการเปลี่ยนมุมมอง แบบเก่า กดปุ่มเมาส์ค้างไว้ จากนั้นเลื่อนเมาส์ไปรอบๆ แบบใหม่: กดปุ่มเมาส์ขวา จากนั้นเลื่อนเมาส์ไปรอบๆ ใช้ล้อเลื่อนเมาส์เพื่อซูมเข้าหรือออก และหมุนมุมมองของตัวละคร
+CLIENT_FAQ_INC_000024,How do I return to my default camera position?,ฉันจะกลับไปที่ตำแหน่งมุมมองเริ่มต้นได้อย่างไร?
+CLIENT_FAQ_INC_000025,Old Version: Double click the mouse wheel. New Version: Double click the right mouse button.,แบบเก่า: คลิกเมาส์สองครั้งล้อ แบบใหม่: ดับเบิลคลิกที่ปุ่มเมาส์ขวา
+CLIENT_FAQ_INC_000026,"While flying, the camera is hard to move.",ขณะบินอยู่ มุมมองจะไม่สามารถเคลื่อนที่ได้
+CLIENT_FAQ_INC_000027,"While flying, double click on the right mouse button or use the arrow keys",ขณะบินให้ดับเบิลคลิกที่ปุ่มเมาส์ขวา หรือใช้ปุ่มลูกศร
+CLIENT_FAQ_INC_000028,How can I use Emoticons?,ฉันจะใช้ Emoticons ได้อย่างไร?
+CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emotion and drag it to the bar.,คลิก 'F9' เพื่อพักและคลิก 'F9' อีกครั้งเพื่อยืนขึ้น คุณยังสามารถกด 'O' และเลือกอารมณ์การนั่งแล้วลากไปที่แถบ
+CLIENT_FAQ_INC_000030,How do you trade with other characters?,สามารถแลกเปลี่ยนกับผู้เล่นอื่นๆ ได้อย่างไร?
+CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.",คุณสามารถทำได้โดยการคลิกซ้ายที่ตัวละครที่ต้องการแลกเปลี่ยน แล้วกด Alt ค้างไว้และเลือกเมนู Trade ซึ่งในการแลกเปลี่ยนคุณจะไม่สามารถใช้ไอเท็มต่างๆ รวมถึงการทิ้งไอเทม หรือร้านค้า NPC ได้
+CLIENT_FAQ_INC_000032,Where can I get a quest?,ฉันสามารถหาเควสได้ที่ไหน?
+CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,คุณสามารถหาเควสได้ โดยการพูดคุยกับเหล่า NPC
+CLIENT_FAQ_INC_000034,What is a duel?,การดวลคืออะไร?
+CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.",หมายถึงการต่อสู้ระหว่างผู้เล่นหรือ PvP (Player Vs Player) โดยความยินยอมร่วมกัน ไม่มีบทลงโทษสำหรับการดวลกันตัวต่อตัว
+CLIENT_FAQ_INC_000036,How can I become famous?,ฉันจะมีชื่อเสียงได้อย่างไร?
+CLIENT_FAQ_INC_000037,The more you win tournament the more famous you become. If you become a high level player people will recognize you no matter where you are.,ยิ่งคุณชนะการแข่งขันเท่าไร คุณยิ่งมีชื่อเสียงมากขึ้น ถ้าคุณเป็นผู้เล่นระดับสูง ผู้คนจะรู้จักคุณไม่ว่าคุณจะอยู่ที่ไหน
+CLIENT_FAQ_INC_000038,Why are some player names red? Can I attack everyone?,ฉันสามารถโจมตีทุกคนได้หรือไม่? ทำไมชื่อผู้เล่นบางคนถึงมีสีแดง? 
+CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.",PK และ Karma จะเพิ่มขึ้นเมื่อคุณฆ่าผู้เล่นคนอื่น ตัวละครของคุณจะถูกลงโทษเมื่อ PK และ Karma ของคุณเพิ่มขึ้น ชื่อตัวละคร PK จะแสดงเป็นสีแดง อัตรา PK ของคุณสามารถแลกได้โดยทำภารกิจ Confession ให้สำเร็จ และ Karma ของคุณจะลดลงเมื่อคุณฆ่ามอนสเตอร์และ / หรือถูกฆ่า
+CLIENT_FAQ_INC_000040,"If I encounter a bug, what can I do?",ถ้าฉันพบ Bug ฉันจะทำอย่างไร?
+CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting the bug on our forums at $WEBSITE$,เมื่อคุณพบ Bug ต่างๆ โปรดแจ้งให้เราทราบผ่านทางแจ้งปัญหาหน้าเว็บไซต๋ โดยแจ้งรายละเอียดของ Bug ที่ $WEBSITE$
+CLIENT_FAQ_INC_000042,What is a guild?,กิลด์คืออะไร?
+CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.",กิลด์คือชุมชนที่ใหญ่กว่าปาร์ตี้มาก มีฟังก์ชันมากมายให้ใช้งานเมื่อระดับกิลด์ของคุณเพิ่มขึ้น เช่น ธนาคารกิลด์ Guild Cloak และการต่อสู้กิลด์แบบ 1 ต่อ 1
+CLIENT_FAQ_INC_000044,Where can we form a guild?,เราสามารถสร้าง Guild ได้ที่ไหน?
+CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",สามารถสร้าง Guild ได้เมื่อเลเวลตัวละคร 40 ขึ้นไป เมื่อเลเวลถึง 40 แล้วไปคุยกับ NPC Helena ใน Saint Morning และทำภารกิจ guild ให้เสร็จสมบูรณ์
+CLIENT_FAQ_INC_000046,How about a Party?,ปาร์ตี้คืออะไร?
+CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,คุณสามารถสร้างปาร์ตี้เพื่อเข้าร่วมกับผู้เล่นคนอื่นๆ ได้
+CLIENT_FAQ_INC_000048,How to invite other players?,ฉันสามารถเชิญผู้เล่นคนอื่นๆ ได้อย่างไร?
+CLIENT_FAQ_INC_000049,Click on another player and select Invite to join party.,คลิกที่ผู้เล่นอื่นและเลือกเชิญเข้าร่วมปาร์ตี้

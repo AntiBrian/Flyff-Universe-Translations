@@ -1,0 +1,4 @@
+﻿#b#cff0000ff* Frais d'inscription#nb#nc
+- Annulation: 20% du montant appliqué est déduit.
+- Échec: 2% du montant appliqué est déduit.
+#b#cffff0000* Attention : les 10 guildes sélectionnées ne peuvent pas récupérer leurs frais d'inscription !#nb#nc

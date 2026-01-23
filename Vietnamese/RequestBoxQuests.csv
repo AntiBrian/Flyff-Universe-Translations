@@ -1,0 +1,334 @@
+﻿Key,English,Vietnamese
+PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,Yêu cầu $ QUEST_END_ITEM_NAME $ s đã bị hủy bỏ. Bạn sẽ chấp nhận nhiệm vụ này chứ?
+PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,Lời yêu cầu dành cho Grrr Bandages đã được đưa ra.
+PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,Lời yêu cầu dành cho Ampe đã được đưa ra
+PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,Một yêu cầu đã được đưa ra đối dành cho Boopoison nhằm tạo ra một loại thuốc giải độc. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000458,A request has gone out for $QUEST_END_ITEM_NAME$.,Yêu cầu dành cho $ QUEST_END_ITEM_NAME $ đã được đưa ra.
+PROPQUEST_REQUESTBOX_INC_000519,A request has gone out for Rootioe to be used as woodworking material. Will you help?,Một yêu cầu đã được đưa ra để Rootioe được sử dụng làm vật liệu chế biến gỗ. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000366,You can get $QUEST_END_ITEM_NAME$ from any type of $QUEST_END_ITEM_MON$.,Bạn có thể nhận $ QUEST_END_ITEM_NAME $ từ bất kỳ loại $ QUEST_END_ITEM_MON $ nào.
+PROPQUEST_REQUESTBOX_INC_000322,You can collect $QUEST_END_ITEM_NAME$ from all types of $QUEST_END_ITEM_MON$.,Bạn có thể thu $ QUEST_END_ITEM_NAME $ từ tất cả các loại $ QUEST_END_ITEM_MON $.
+PROPQUEST_REQUESTBOX_INC_000014,You can collect $QUEST_END_ITEM_NAME$ near a bridge in north.,Bạn có thể thu $ QUEST_END_ITEM_NAME $ gần một cây cầu ở phía bắc.
+PROPQUEST_REQUESTBOX_INC_000025,You can collect Unknown Certificates near the Bangs.,Bạn có thể thu thập Chứng chỉ không xác định gần Bangs.
+PROPQUEST_REQUESTBOX_INC_000091,You can collect nyanyang near the Giant Nyangnyang.,Bạn có thể thu thập nyanyang gần Giant Nyangnyang.
+PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,Bạn có thể thu thập các tài liệu văn phòng gần Mias
+PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,Bạn không muốn thu thập chúng? Được thôi.
+PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,Bạn cần thêm $ QUEST_END_ITEM_NAME $.
+PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,Bạn không có đủ $ QUEST_END_ITEM_NAME $.
+PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,Tốt lắm. Bạn đã hoàn thành nhiệm vụ thành công.
+PROPQUEST_REQUESTBOX_INC_000357,Good Job! You successfully completed the quest. Take this for your trouble.,Làm tốt lắm! Bạn đã hoàn thành nhiệm vụ thành công. Hãy cố gắng đừng ngại khó.
+PROPQUEST_REQUESTBOX_INC_000362,$QUEST_END_NPC_NAME$ was happy that the quest was completed.,$ QUEST_END_NPC_NAME $ rất vui vì nhiệm vụ đã được hoàn thành.
+PROPQUEST_REQUESTBOX_INC_000307,$QUEST_END_NPC_NAME$ was happy to see the quest completed.,$ QUEST_END_NPC_NAME $ rất vui khi thấy nhiệm vụ đã hoàn thành.
+PROPQUEST_REQUESTBOX_INC_000582,$QUEST_END_NPC_NAME$ is very grateful to you for completing this quest.,$ QUEST_END_NPC_NAME $ rất biết ơn bạn đã hoàn thành nhiệm vụ này.
+PROPQUEST_REQUESTBOX_INC_000001,Party of Is,Nhóm của Is
+PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,Là cần bạn để tập hợp Chupim cho bữa tiệc của cô ấy. Bạn sẽ giúp nhé?
+PROPQUEST_REQUESTBOX_INC_000007,Is asking you to collect Chupim for her party.,Is yêu cầu bạn thu thập Chupim cho bữa tiệc của cô ấy.
+PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),Tình huống không xác định (1)
+PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,Flaris Pang cần bạn thu thập unknown letters. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,Flaris Pang muốn bạn thu về $ QUEST_END_ITEM_NAME $.
+PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,Flaris Pang cần bạn thu thập Unknown Certificates. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000034,Flying Board,Hội đồng bay
+PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,Dior cần bạn thu thập Peakyrinds. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,Dior muốn bạn sưu tập Peakyrinds.
+PROPQUEST_REQUESTBOX_INC_000045,Fresh Start for Mop,Khởi đầu mới cho Mop
+PROPQUEST_REQUESTBOX_INC_000046,House of Children needs you to collect Mop for their children. Will you help?,House of Children cần bạn thu thập Mop cho con họ. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000051,House of Children wants you to collect 3 Mop.,House of Children muốn bạn thu thập 3 Mop.
+PROPQUEST_REQUESTBOX_INC_000056,Gems for Wands,Đá quý cho Wands
+PROPQUEST_REQUESTBOX_INC_000057,Madrigal Magician Union wants you to collect Poporam for their wands. Will you help?,Madrigal Magician Union muốn bạn thu thập Poporam để làm đũa phép của họ. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000062,Madrigal Magician Union wants you to collect 4 Poporam.,Madrigal Magician Union muốn bạn thu thập 4 Poporam.
+PROPQUEST_REQUESTBOX_INC_000067,"Cookie Machine, Valin Baget","Máy làm bánh quy, Valin Baget"
+PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,Valin cần bạn thu thập Slain để cung cấp nhiên liệu cho Máy làm bánh quy của anh ta. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000073,Valin needs you to collect Slain for his cookie machine.,Valin cần bạn thu thập Slain cho máy làm bánh quy của anh ta.
+PROPQUEST_REQUESTBOX_INC_000078,Magic Quill,Magic Quill
+PROPQUEST_REQUESTBOX_INC_000079,Mule wants you to collect Tarin roots so he can make a new magic quill. Will you help?,Mule muốn bạn thu thập rễ cây Tarin để anh ta có thể làm một cây bút ma thuật mới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000084,Mule needs you to collect Tarin roots.,Mule cần bạn thu thập rễ Tarin.
+PROPQUEST_REQUESTBOX_INC_000089,Lyangglatang,Lyangglatang
+PROPQUEST_REQUESTBOX_INC_000090,Rooney wants you to collect Nyanyangs for her party. Will you help?,Rooney muốn bạn thu thập Nyanyangs cho bữa tiệc của cô ấy. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000095,Rooney needs you to collect Nyanyangs.,Rooney cần bạn thu thập Nyanyangs.
+PROPQUEST_REQUESTBOX_INC_000100,10 Year anniversary gift,Quà kỷ niệm 10 năm
+PROPQUEST_REQUESTBOX_INC_000101,Marche wants you to collect Starstones to make a 10 year anniversary gift. Will you help?,Marche muốn bạn thu thập Starstones để làm quà kỷ niệm 10 năm. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000106,Marche needs Starstones,Marche cần Starstones
+PROPQUEST_REQUESTBOX_INC_000111,Liquor for Dunkan,Rượu cho Dunkan
+PROPQUEST_REQUESTBOX_INC_000112,Dunkan needs you to collect Golden Wings to make a new liquor. Will you help?,Dunkan cần bạn thu thập Golden Wings để làm một loại rượu mới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000117,Dunkan wants Golden Wings.,Dunkan muốn Golden Wings.
+PROPQUEST_REQUESTBOX_INC_000122,Sweet Dessert,Món tráng miệng ngọt ngào
+PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,Damian cần bạn thu thập Blue Honey để làm món tráng miệng mới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,Damian cần Blue Honey
+PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,Búp bê ban phước
+PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,House of Children cần bạn thu thập Mia Dolls làm quà cho trẻ em. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,House of Children muốn Mia Dolls.
+PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,Tài liệu bị mất
+PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,Julia cần bạn thu thập các tài liệu văn phòng bị Mias đánh cắp. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,Julia muốn các tài liệu văn phòng mà mia đã đánh cắp.
+PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,Ngọn lửa rực cháy
+PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,Bozman cần bạn thu thập các trận đấu dữ dội để sử dụng tại lò luyện kim của anh ta. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,Bozman muốn có những trận đấu dữ dội
+PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),Tình huống không xác định (2)
+PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,Flaris Pang cần bạn thu thập unknown letters.
+PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,Flaris Pang cần một lần nữa unknown letters.
+PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,Nước sốt ngon
+PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,Kalin cần bạn thu thập Cardrin để làm nước sốt ngon.
+PROPQUEST_REQUESTBOX_INC_000183,Kalin wants Cardrin.,Kalin muốn Cardrin.
+PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,Magic Orb
+PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,Martin cần Hammarble để tạo ra Magic Orb. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,Martin muốn Hammarbles.
+PROPQUEST_REQUESTBOX_INC_000199,Mark of Bill,Mark of Bill
+PROPQUEST_REQUESTBOX_INC_000200,Bill needs you to collect Gigglande so that he can make his mark. Will you help?,Bill cần bạn thu thập Gigglande để anh ta có thể tạo ra dấu ấn của mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000205,Bill wants Gigglande.,Bill muốn Gigglande.
+PROPQUEST_REQUESTBOX_INC_000210,Repair Work on Saint Hall,Công việc sửa chữa trên Saint Hall
+PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,Helena cần bạn thu thập Crescent Stone để sửa chữa Saint Hall. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,Helena muốn $ QUEST_END_ITEM_NAME $.
+PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,Giúp đỡ động vật bị thương
+PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,Hiệp hội động vật Madrigal cần bạn thu thập Bobands để giúp đỡ những con vật bị thương của họ. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,Hiệp hội Động vật Madrigal muốn Bobands.
+PROPQUEST_REQUESTBOX_INC_000232,Strange Collector,Strange Collector
+PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,Strange Collector cần bạn thu thập Dumblings cho bộ sưu tập của mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000243,For the Wife,Dành cho vợ
+PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,Mayer cần Kalin để làm một món quà cho vợ mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,Mayer muốn Kalin.
+PROPQUEST_REQUESTBOX_INC_000254,Weak Heart,Trái tim yếu đuối
+PROPQUEST_REQUESTBOX_INC_000255,Helena needs clock hearts to make a new heart for her sick brother. Will you help?,Helena cần clock hearts để làm trái tim mới cho người anh trai bị bệnh của mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000265,Devil Marble,Devil Marble
+PROPQUEST_REQUESTBOX_INC_000266,Bill needs Tomb Marbles to make the Devil Marble. Will you help?,Bill cần Tomb Marbles để tạo ra Devil Marble. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000271,Bill wants Tomb Marbles.,Bill muốn Tomb Marbles.
+PROPQUEST_REQUESTBOX_INC_000276,Dream of the Fighter,Giấc mơ của Fighter
+PROPQUEST_REQUESTBOX_INC_000277,Fighter needs you to collect Golden Fists to make a golden glove. Will you help?,Fighter cần bạn thu thập Golden Fists để làm một chiếc găng tay vàng. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000282,Fighter wants Golden Fists.,Fighter muốn Golden Fists.
+PROPQUEST_REQUESTBOX_INC_000287,Marbles for the Son,Viên bi cho con trai
+PROPQUEST_REQUESTBOX_INC_000288,Mayer needs orbin to make marbles for his son. Will you help?,Mayer cần orbin để làm viên bi cho con trai mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000293,Mayer wants orbin.,Mayer muốn orbin.
+PROPQUEST_REQUESTBOX_INC_000298,Strange Collector (2),Strange Collector (2)
+PROPQUEST_REQUESTBOX_INC_000299,Strange Collector needs you to collect $QUEST_END_ITEM_NAME$ for his collection. Will you help?,Strange Collector cần bạn thu thập $ QUEST_END_ITEM_NAME $ cho bộ sưu tập của mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000304,Strange Collector wants $QUEST_END_ITEM_NAME$.,Strange Collector muốn $ QUEST_END_ITEM_NAME $.
+PROPQUEST_REQUESTBOX_INC_000309,Lens of Olien,Ống kính của Olien
+PROPQUEST_REQUESTBOX_INC_000310,Olien needs you to collect steam tears to make a new lens. Will you help?,Olien cần bạn thu thập nước mắt để tạo ra một ống kính mới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000315,Olien wants steam tears.,Olien muốn có nước mắt.
+PROPQUEST_REQUESTBOX_INC_000320,Red Muffler,Red Muffler
+PROPQUEST_REQUESTBOX_INC_000321,Soldier needs you to collect knightlers to make a new scarf. Will you help?,Người lính cần bạn thu thập knightlers để làm một chiếc khăn mới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000326,Soldier wants knightler.,Người lính muốn knightler.
+PROPQUEST_REQUESTBOX_INC_000331,Dwarpet Festival,Lễ hội Dwarpet
+PROPQUEST_REQUESTBOX_INC_000332,The Dwarpet needs you to collect wheeshoes for their festival. Will you help?,Dwarpet cần bạn thu thập wheeshoes cho lễ hội của họ. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000337,The Dwarpet wants wheesoes.,Dwarpet muốn wheeshoes.
+PROPQUEST_REQUESTBOX_INC_000342,Crane Repair,Sửa chữa cần trục
+PROPQUEST_REQUESTBOX_INC_000343,The Erons Industrial Manager needs Droil to repair their crane. Will you help?,Giám đốc Công nghiệp Erons cần Droil để sửa chữa cần trục của họ. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000348,Erons want Droils.,Erons muốn Doils.
+PROPQUEST_REQUESTBOX_INC_000353,Urgently looking for a Bandage,Đang khẩn cấp tìm kiếm Bandage
+PROPQUEST_REQUESTBOX_INC_000364,Portable Power,Portable Power
+PROPQUEST_REQUESTBOX_INC_000375,Strange Collector (3),Strange Collector (3)
+PROPQUEST_REQUESTBOX_INC_000386,Replacement Tires,Lốp thay thế
+PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,Dwarpet cần bạn thu thập Dumptires để thay thế những chiếc lốp bị xẹp của mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000392,The Dwarpet wants Dumptire.,Dwarpet muốn Dumptire.
+PROPQUEST_REQUESTBOX_INC_000397,Strange Collector (4),Strange Collector (4)
+PROPQUEST_REQUESTBOX_INC_000398,Mysterious collector needs Garbageton for his collection. Will you help?,Nhà sưu tập bí ẩn cần Garbageton cho bộ sưu tập của mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000408,Relics of a Husband,Di vật của một người chồng
+PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,Một góa phụ đã yêu cầu bạn thu thập Eronior để cô ấy có thể làm lại chiếc nhẫn của chồng mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000414,A widow wants some Eronior.,Một góa phụ muốn một ít Ironor.
+PROPQUEST_REQUESTBOX_INC_000419,Disguise of Remina,Cải trang của Remina
+PROPQUEST_REQUESTBOX_INC_000420,Remina needs you to collect repygle to make a pair of disguising sunglasses. Will you help?,Remina cần bạn thu thập repygle để làm một cặp kính râm ngụy trang. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000425,Remina wants $QUEST_END_ITEM_NAME$.,Remina muốn $ QUEST_END_ITEM_NAME $.
+PROPQUEST_REQUESTBOX_INC_000430,Beautiful Keil Wallpaper,Hình nền Keil đẹp
+PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,Haven cần bạn thu thập Sycale để sửa sang lại Magic Shop. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000436,Heaven wants Sycale.,Heaven muốn Sycale.
+PROPQUEST_REQUESTBOX_INC_000441,Strange Collector (5),Strange Collector (5)
+PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,Strange Collector cần $ QUEST_END_ITEM_NAME $ cho bộ sưu tập của mình. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000447,Strange collector want Mong Tear,Strange collector muốn Mong Tear
+PROPQUEST_REQUESTBOX_INC_000452,Anesthetic Needs,Anesthetic Needs
+PROPQUEST_REQUESTBOX_INC_000463,New Kind of Firework,Pháo hoa kiểu mới
+PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,Nhà sản xuất Pháo hoa cần Bomb Timers để tạo ra một loại pháo hoa mới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000465,You get bombtimers from any type of Carrierbomb.,Bạn nhận được bom hẹn giờ từ bất kỳ loại Carrierbomb nào.
+PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,Nhà sản xuất pháo hoa muốn có Bomb hẹn giờ.
+PROPQUEST_REQUESTBOX_INC_000474,Snack for the Children,Đồ ăn nhẹ cho trẻ em
+PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,Bolpor cần Prewing để làm một số món ăn nhẹ cho trẻ em. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,Bolpor muốn Prewing.
+PROPQUEST_REQUESTBOX_INC_000485,Mushroom Farm of Chitller,Trang trại nấm của Chitller
+PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,"Chitller cần bạn thu thập Poiespore cho trang trại nấm của mình, bạn sẽ giúp?"
+PROPQUEST_REQUESTBOX_INC_000491,Chitller wants Poiespore.,Chitller muốn Poiespore.
+PROPQUEST_REQUESTBOX_INC_000496,New Yo-Yo,Yo-Yo mới
+PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,Một Acrobat master cần bạn tập hợp Renyken để tạo ra một Yo-Yo mới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000502,An Acrobat master wants Renyken.,An Acrobat master muốn Renyken.
+PROPQUEST_REQUESTBOX_INC_000507,Disguise of a Native,Cải trang người bản xứ
+PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,Người bản xứ Darkon cần bạn thu thập Tangkask. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000513,Darkon natives want Tankask.,Darkon natives muốn Tankask.
+PROPQUEST_REQUESTBOX_INC_000518,Woodworking Material,Vật liệu chế biến gỗ
+PROPQUEST_REQUESTBOX_INC_000529,The Best Shield,Khiên chắn tốt nhất
+PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,Remina cần Luchest để làm khiên chắn mạnh nhất trên thế giới. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000540,Beauty Contest Award,Giải thưởng cuộc thi Người đẹp
+PROPQUEST_REQUESTBOX_INC_000541,The Madrigal Beauty Contest needs Eronsimint for making an award. Will you help?,Cuộc thi Người đẹp Madrigal cần Ironsimint để trao giải. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000546,The Madrigal Beauty Contest sponsor wants Eronsimint.,Nhà tài trợ Cuộc thi Sắc đẹp Madrigal muốn Ironsimint.
+PROPQUEST_REQUESTBOX_INC_000551,Lucky Tool,Công cụ may mắn
+PROPQUEST_REQUESTBOX_INC_000552,Lucky needs Hammamer to make a lucky hammer. Will you help?,Lucky cần Hammamer để tạo ra một chiếc búa may mắn. Bạn sẽ giúp chứ?
+PROPQUEST_REQUESTBOX_INC_000557,Lucky wants Hammamer.,Lucky muốn Hammamer.
+PROPQUEST_REQUESTBOX_INC_000562,Strange Collector (6),Strange Collector (6)
+PROPQUEST_REQUESTBOX_INC_000573,Request of Lurif,Yêu cầu của Lurif
+PROPQUEST_REQUESTBOX_INC_000574,Could you do me a favor? I need Phanbubble. Can you help me please?,Bạn có thể làm cho tôi một việc? Tôi cần Phanbubble. Bạn co thể giúp tôi được không?
+PROPQUEST_REQUESTBOX_INC_000579,Lurif needs many Phanbubbles.,Lurif cần nhiều Phanbubbles.
+PROPQUEST_REQUESTBOX_INC_000815,Mysterious Magic Material,Vật liệu ma thuật bí ẩn
+PROPQUEST_REQUESTBOX_INC_000816,Magician Master requested you to collect Merahook which is a magic material. Will you accept this request?,"Magician Master đã yêu cầu bạn thu thập Merahook, một nguyên liệu ma thuật. Bạn sẽ chấp nhận yêu cầu này chứ?"
+PROPQUEST_REQUESTBOX_INC_000817,You can collect them from the group of Chimeradon in the Deadwallderness.,Bạn có thể thu thập chúng từ nhóm Chimeradon ở Deadwal Wildness.
+PROPQUEST_REQUESTBOX_INC_000826,Avenge Nerky,Avenge Nerky
+PROPQUEST_REQUESTBOX_INC_000827,Krinton's pet Bearnerky got killed by the other Bearnerky. Krinton requested you to collect NerkyMane for revenge. Will you accept this request?,"Bearnerky, vật nuôi của Krinton đã bị giết bởi Bearnerky khác. Krinton yêu cầu bạn thu thập NerkyMane để trả thù. Bạn sẽ chấp nhận yêu cầu này chứ?"
+PROPQUEST_REQUESTBOX_INC_000828,You can collect them from the group of Bearnerky in the Deadwallderness.,Bạn có thể thu thập chúng từ nhóm của Bearnerky ở Deadwallderness.
+PROPQUEST_REQUESTBOX_INC_000837,Bolpor's favor,Ưu ái của Bolpor
+PROPQUEST_REQUESTBOX_INC_000838,Bolpor requested you to collect Rincruet for making some special food. Will you accept this request?,Bolpor yêu cầu bạn thu thập Rincruet để làm một số thức ăn đặc biệt. Bạn sẽ chấp nhận yêu cầu này chứ?
+PROPQUEST_REQUESTBOX_INC_000839,You can collect them from the group of Muffrin in the Deadwallderness.,Bạn có thể thu thập chúng từ nhóm Muffrin ở Deadwallderness.
+PROPQUEST_REQUESTBOX_INC_000848,Toy Materials,Vật liệu đồ chơi
+PROPQUEST_REQUESTBOX_INC_000849,A toy merchant requested you to collect Popshift for making fancy toys. Will you accept this request?,Một thương gia đồ chơi đã yêu cầu bạn thu thập Popshift để làm đồ chơi lạ mắt. Bạn sẽ chấp nhận yêu cầu này chứ?
+PROPQUEST_REQUESTBOX_INC_000850,You can collect them from the group of Popcrank in the Deadwallderness.,Bạn có thể thu thập chúng từ nhóm Popcrank ở Deadwallderness.
+PROPQUEST_REQUESTBOX_INC_000859,Evil Eyed Red Dragon,Evil Eyed Red Dragon
+PROPQUEST_REQUESTBOX_INC_000860,Can you please go find Dragon Tooth of the Meteonyker Dragon for me? The Arena Manager Lay requested 5 of them.,"Bạn có thể vui lòng đi tìm Răng của Dragon of the Meteonyker Dragon cho tôi được không? Người quản lý Arena, Lay đã yêu cầu 5 răng."
+PROPQUEST_REQUESTBOX_INC_000861,"You can collect them from Meteonyker. I heard it's in Dekane Dungeon. Be careful, the Meteonyker is very strong! It's  best if you go with a party!","Bạn có thể thu thập chúng từ Meteonyker. Tôi nghe nói nó ở Dekane Dungeon. Hãy cẩn thận, Meteonyker rất mạnh! Thật tuyệt nếu bạn đi cùng một bữa tiệc!"
+PROPQUEST_REQUESTBOX_INC_010000,Moth Infestation,Sự phá hoại của loài bướm đêm
+PROPQUEST_REQUESTBOX_INC_010001,Tina asked for help with reducing the Mothbee population as they're causing problems with transport. Could you kill 15 of them?,Tina đã yêu cầu giúp đỡ để giảm dân số Mothbee vì chúng đang gây ra các vấn đề về giao thông. Bạn có thể giết 15 Mothbee không?
+PROPQUEST_REQUESTBOX_INC_010002,You can find Mothbee flying inbetween Northern Saint City & Flaris.,Bạn có thể tìm thấy Mothbee bay giữa Thành phố Bắc Saint và Flaris.
+PROPQUEST_REQUESTBOX_INC_010003,You don't want to help? That's okay. We'll find somebody else.,Bạn không muốn giúp đỡ? Không sao đâu. Chúng tôi sẽ tìm người khác.
+PROPQUEST_REQUESTBOX_INC_010004,You haven't finished the task yet.,Bạn vẫn chưa hoàn thành nhiệm vụ.
+PROPQUEST_REQUESTBOX_INC_010005,Mutated Aibatts,Aibatts đột biến
+PROPQUEST_REQUESTBOX_INC_010006,Tina has reported a new kind of Masquerpet called Zendros. Please could you kill 15 of them?,"Tina đã báo cáo một loại Masquerpet mới được gọi là Zendros. Làm ơn, bạn có thể giết 15 Zendros?"
+PROPQUEST_REQUESTBOX_INC_010007,You can find Zendros flying between Flaris and Saint morning continents.,Bạn có thể tìm thấy Zendros bay giữa lục địa Flaris và Saint morning.
+PROPQUEST_REQUESTBOX_INC_010008,Dragonflies,Chuồn chuồn
+PROPQUEST_REQUESTBOX_INC_010009,Tina asked for help with reducing the Neparuba population as they're causing problems with transport. Could you kill 15 of them?,Tina đã yêu cầu giúp đỡ để giảm số lượng Neparuba vì chúng đang gây ra các vấn đề về giao thông. Bạn có thể giết 15 Neparuba không?
+PROPQUEST_REQUESTBOX_INC_010010,You can find Neparuba flying between Flaris and Saint morning continents.,Bạn có thể tìm thấy Neparuba bay giữa lục địa Flaris và Saint morning.
+PROPQUEST_REQUESTBOX_INC_010011,Flybrigen Brigade,Lữ đoàn Flybrigen
+PROPQUEST_REQUESTBOX_INC_010012,Tina asked for help with reducing the Flybrigen population as they're causing problems with transport. Could you kill 15 of them?,Tina đã yêu cầu giúp đỡ để giảm số lượng Flybrigen vì chúng đang gây ra các vấn đề về giao thông. Bạn có thể giết 15 trong số chúng không?
+PROPQUEST_REQUESTBOX_INC_010013,You can find Flybrigen flying between Saint Morning and Garden of Rhisis continents.,Bạn có thể tìm thấy Flybrigen bay giữa các lục địa Saint Morning và Garden of Rhisis.
+PROPQUEST_REQUESTBOX_INC_010014,Moth Infestation (2),Sự xâm nhập của sâu bướm (2)
+PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?
+PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.
+PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),Aibatts đột biến (2)
+PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?
+PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,You can find the Lord Zendros flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010020,Dragonflies (2),Chuồn chuồn (2)
+PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?
+PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,You can find the Lord Neparuba flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),Lữ đoàn Flybrigen (2)
+PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?
+PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.
+PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,Xiếc bay
+PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,Dior đã yêu cầu trợ giúp để giảm dân số Rockepeller vì chúng đang gây ra vấn đề với giao thông giữa Darkon và Flaris. Bạn có thể giết 15 trong số chúng không?
+PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,Bạn có thể tìm thấy Rockepeller bay giữa lục địa Flaris và Darkon.
+PROPQUEST_REQUESTBOX_INC_010029,Zenma Hunting,Săn lùng Zenma
+PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,Almani đã yêu cầu giúp đỡ để giảm dân số Zenma vì chúng đang gây ra các vấn đề với việc trồng rừng ở Gouthan Mountains. Bạn có thể giết 15 trong số chúng không?
+PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,Bạn có thể tìm thấy Zenma đang bay trên Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!","Này, một con chuột bay!"
+PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?","Almani yêu cầu tiêu diệt Longwings, vì chúng đã tấn công dân thường. Bạn có thể giết 15 trong số chúng không?"
+PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,Bạn có thể tìm thấy Longwings bay về phía Đông Nam của Clockworks Cage trên núi.
+PROPQUEST_REQUESTBOX_INC_010035,Baby Meteonyker,Baby Meteonyker
+PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?","Almani yêu cầu tiêu diệt Fafnirs, trước khi chúng phát triển thành Rồng! Làm ơn, bạn có thể giết 15 trong số chúng không?"
+PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.","Bạn có thể tìm thấy Fafnirs bay gần Núi lửa trong Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,Chim tiền sử
+PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,"Almani yêu cầu tiêu diệt Gorrudas. Chúng là một mối đe dọa sắp xảy ra! Làm ơn, bạn có thể giết 15 trong số chúng không?"
+PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.","Bạn có thể tìm thấy Gorrudas bay về phía Tây của Deadwal Wild, trên những ngọn núi."
+PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),Xiếc bay (2)
+PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?
+PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,You can find the Lord Rockepeller flying between Flaris and Darkon continents.
+PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)","Này, một con chuột bay! (2)"
+PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?
+PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.
+PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),Baby Meteonyker (2)
+PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),Chim tiền sử (2)
+PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?
+PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.","Bạn có thể tìm thấy $ QUEST_END_KILL_NAME $ bay về West of the Deadwallderness, qua những ngọn núi."
+PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),Săn lùng Zenma (2)
+PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,You can find the Lord Zenma flying above Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,Bạn có thể nhận được $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Chimeradon nào
+PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,Bạn có thể nhận $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Bearnerky nào.
+PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,Bạn có thể nhận $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Muffrin nào.
+PROPQUEST_REQUESTBOX_INC_020003,You can get $QUEST_END_ITEM_NAME$ from any type of Popcrank.,Bạn có thể nhận $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Popcrank nào.
+PROPQUEST_REQUESTBOX_INC_020004,You can collect $QUEST_END_ITEM_NAME$ from all types of Red Mantis.,Bạn có thể thu thập $ QUEST_END_ITEM_NAME $ từ tất cả các loại Red Mantis.
+PROPQUEST_REQUESTBOX_INC_020005,Obsessed with Crystals! (1),Bị ám ảnh bởi Pha lê! (1)
+PROPQUEST_REQUESTBOX_INC_020006,Obsessed with Crystals! (2),Bị ám ảnh bởi Pha lê! (2)
+PROPQUEST_REQUESTBOX_INC_020007,Obsessed with Crystals! (3),Bị ám ảnh bởi Pha lê! (3)
+PROPQUEST_REQUESTBOX_INC_020008,Obsessed with Crystals! (4),Bị ám ảnh bởi Pha lê! (4)
+PROPQUEST_REQUESTBOX_INC_020009,Obsessed with Crystals! (5),Bị ám ảnh bởi Pha lê! (5)
+PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,Crystals!! Hừm ... $ QUEST_END_ITEM_NAME $ s! Bạn có thể vui lòng mang cho tôi vài cái $ QUEST_END_ITEM_NAME $ không!?
+PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,Bạn có thể nhận $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Medumet nào.
+PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,Bạn có thể nhận $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Yetti nào.
+PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,Bạn có thể nhận $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Augu nào.
+PROPQUEST_REQUESTBOX_INC_020014,You can get $QUEST_END_ITEM_NAME$ from any type of Ghost of the Forgotten.,Bạn có thể nhận được $QUEST_END_ITEM_NAME$ từ bất kỳ loại Hồn ma bị lãng quên nào.
+PROPQUEST_REQUESTBOX_INC_020015,You can get $QUEST_END_ITEM_NAME$ from any type of Mammoth.,Bạn có thể nhận được $ QUEST_END_ITEM_NAME $ từ bất kỳ loại Mammoth nào.
+PROPQUEST_REQUESTBOX_INC_020016,You did it! Hooray! Here's your reward. Come back soon!,Bạn làm được rồi! Hoan hô! Đây là phần thưởng của bạn. Quay lại sớm!
+PROPQUEST_REQUESTBOX_INC_020017,More! More!,Nữa! Nữa đi!
+PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,Bring Broken Wings
+PROPQUEST_REQUESTBOX_INC_020019,Tigar Bites,Tigar Bites
+PROPQUEST_REQUESTBOX_INC_020020,Googly-Eyed Gogloo,Gogloo có đôi mắt đẹp
+PROPQUEST_REQUESTBOX_INC_020021,Nippy Waters,Nippy Waters
+PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,Vỏ cứng của Creper
+PROPQUEST_REQUESTBOX_INC_020023,Crumbly Purple Essence,Crumbly Purple Essence
+PROPQUEST_REQUESTBOX_INC_020024,A Gray Picture of Dorian,Một bức tranh màu xám của Dorian
+PROPQUEST_REQUESTBOX_INC_020025,King of Coral Island,Vua của Coral Island
+PROPQUEST_REQUESTBOX_INC_020026,Letter in a Bottle,Thư trong chai
+PROPQUEST_REQUESTBOX_INC_020027,Hello adventurer... would you bring me $QUEST_END_ITEM_NAME$ from the Atrox? I want to build giant wings I can soar the skies with! Bring me all you can find...,Xin chào nhà thám hiểm... bạn có thể mang cho tôi $QUEST_END_ITEM_NAME$ từ Atrox không? Tôi muốn tạo ra đôi cánh khổng lồ mà tôi có thể dùng để bay lên bầu trời! Mang cho tôi tất cả những gì bạn có thể tìm thấy...
+PROPQUEST_REQUESTBOX_INC_020028,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!,"Tigars được biết đến là loài có hàm răng khỏe nhất ở Madrigal. Nếu bạn gặp $QUEST_END_ITEM_NAME$, bạn có thể mang cho tôi một ít được không? Tôi đang chế tạo một con dao găm khổng lồ... nó sẽ SIÊU LỚN!"
+PROPQUEST_REQUESTBOX_INC_020029,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!,Mảnh kính bên trong $QUEST_END_ITEM_NAME$ của một Meral có thể tăng thị giác của một người gấp 3 lần khả năng mắt thường có thể nhìn thấy được. Thu thập cho tôi đủ số lượng để tôi có thể xây dựng một chiếc kính viễn vọng có khả năng nhìn thấu được nửa vòng trái đất!
+PROPQUEST_REQUESTBOX_INC_020030,"All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share...","Công việc sáng chế khiến tôi đói meo rồi! Bạn có thể mang cho tôi vài $QUEST_END_ITEM_NAME$ của Kingster không? Chúng ta sẽ ăn uống như những vị vua! Đừng lo, tôi sẽ chia sẻ mà..."
+PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!","Sau khi ăn một đống hải sản đó tôi đã ngán tận cổ rồi! Với phát minh tiếp theo, tôi cần $QUEST_END_ITEM_NAME$ từ những con cua bự gọi là Creper. Từ cái mai cứng của chúng tôi có thể chế tác ra những bộ giáp mạnh nhất. Tôi nhìn thấy được một tương lai nơi việc chế tạo bộ giáp này sẽ cứu rỗi Coral Island rồi đó!"
+PROPQUEST_REQUESTBOX_INC_020032,"The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger.","Người Naga là những chiến binh hùng mạnh của biển...Người ta kể rằng $QUEST_END_ITEM_NAME$ của họ nắm giữ sức mạnh phép thuật có khả năng khai thác năng lượng tím. Tôi có một sự lo lắng nhất định với Purple Magic, nhưng cái gì không giết được ta sẽ khiến ta mạnh hơn."
+PROPQUEST_REQUESTBOX_INC_020033,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...,Người Dorian đã trỗi dậy từ vùng biển xung quanh hòn đảo của chúng tôi! Làm ơn đánh bại họ và thu thập $QUEST_END_ITEM_NAME$ làm bằng chứng. Những phát minh của tôi chỉ có thể giữ chân chúng một thời gian thôi...
+PROPQUEST_REQUESTBOX_INC_020034,"The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!","$QUEST_END_ITEM_NAME$ của người Okean phải là của tôi! Tôi biết giành được vương miện của chúng sẽ không biến tôi trở thành một vị vua, nhưng nó sẽ giúp tôi vững bước trên hành trình đạt được ước mơ của mình. Đó là trở thành Vua Đảo San hô!"
+PROPQUEST_REQUESTBOX_INC_020035,"With the $QUEST_END_ITEM_NAME$ from the Kraken, I could finally write to all my friends across the oceans. There's never enough time to keep up with everyone...","Với $QUEST_END_ITEM_NAME$ từ Kraken, cuối cùng tôi cũng đã có thể viết thư cho tất cả bạn bè ở bên kia đại dương. Dù có bao nhiêu thời gian cũng không đủ để giữ liên lạc với mọi người..."
+PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of the Atrox crawling around the island.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ từ bất kỳ con Atrox đang bò nào xung quanh đảo.
+PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ từ những con Hổ cái xung quanh đảo.
+PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ từ đám Meral canh giữ bãi biển.
+PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ ngon lành từ Kingsters ở vùng nước nông xung quanh đảo.
+PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ khó nhằn từ Creper xung quanh khu vực bãi biển.
+PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ từ Naga xung quanh Coral Island..
+PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ bị bỏ lại bởi Dorian xung quanh Coral Island.
+PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.","Bạn có thể tìm thấy $QUEST_END_ITEM_NAME$ kỳ diệu từ Okean, ở vùng biển sâu của Coral Island."
+PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,Bạn có thể tìm thấy $QUEST_END_ITEM_NAME bên trong dạ dày của những con Kraken sống dưới biển sâu.
+PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!","Làm ơn, đừng bắt tôi phải đi thu thập $QUEST_END_ITEM_NAME$ một mình...Tôi đang quá bận tay với việc sáng tạo ra những sáng chế mới rồi!"
+PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!","Cảm ơn vì đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Sớm thôi tôi sẽ sải cánh trên bầu trời kia một cách dễ dàng. Hẹn gặp lại bạn ở Rainbow Race!"
+PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!","Cảm ơn vì đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Sớm thôi tôi sẽ có được thanh dao găm lớn nhất Madrigal. Hehehe, nhìn tôi thể hiện với đám Demian nhé!"
+PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!","Cảm ơn vị đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Sớm thôi tôi sẽ có thể tham quan tất cả mọi danh lam thắng cảnh mà không phải bước chân ra khỏi nhà!"
+PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!","Cảm ơn vì đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Dạ dày chúng ta sẽ căng tròn sớm thôi! Đến lúc đánh chén rồi! "
+PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!","Cảm ơn vì đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Sớm thôi tôi sẽ có đủ áo giáp để giúp Coral Island phòng thủ trước mọi thế lực xấu xa!"
+PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.","Cảm ơn vì đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Sớm thôi tôi sẽ biết được nhiều hơn về Purple Magic...Có lẽ một ngày nào đó tôi sẽ đủ kiến thức để ngăn chặn thứ tà thuật này xâm chiếm Coral Island."
+PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.","Cảm ơn vì đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Những sinh vật giống cá đó có một sức mạnh kỳ lạ khiến chúng lão hóa chậm hơn bình thường. Có lẽ nghiên cứu mẫu răng của chúng sẽ giúp chúng ta biết thêm về năng lực đặc biệt của Dorian."
+PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.","Cảm ơn vì đã thu thập tất cả $QUEST_END_ITEM_NAME$, nhà thám hiểm! Chỉ là một giấc mơ...nhưng mà tôi mong một ngày có thể gặp lại bạn với tư cách là Vua của Coral Island."
+PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!","Cảm ơn bạn đã thu thập tất cả $QUEST_END_ITEM_NAME$ đó, nhà thám hiểm! Tôi đã quyết định viết những lá thư này và tự mình gửi chúng. Cảm ơn bạn vì tất cả... Tôi hy vọng một ngày nào đó sẽ gặp lại bạn!"
+PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,Số tiền đó gần như không đủ $QUEST_END_ITEM_NAME$ để tôi xây dựng một trong những phát minh vĩ đại của mình...Đừng quay lại đây cho đến khi bạn mang theo nhiều hơn!
+PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,"$QUEST_END_NPC_NAME$ cười khúc khích vui sướng! Sớm thôi, những phát minh của họ sẽ trở thành hiện thực."
+PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,The Skulls of the Hundur Sharpfoot
+PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.","The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals."
+PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,I see… but these creatures are growing more aggressive. Come back if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.","You haven't gathered enough skulls yet… Keep going, each specimen is important to us."
+PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.
+PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,The Skulls of the Samoset
+PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.
+PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.
+PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,Very well… but their unrest intensifies each day. Return if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.","You still don't have enough… Keep going, we must understand what's disturbing them."
+PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,Perfect! These skulls will help us uncover the truth. Thank you for your help.
+PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,The Claws of the Kyouchish
+PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.
+PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.
+PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,I understand… but we're running out of remedies. Return if you wish to help.
+PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.","You're still missing some. The Kyouchish are dangerous, stay careful."
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.","Excellent! With these claws, our healers can prepare a proper antidote."
+PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
+PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
+PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.
+PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,A shame… several warriors are still waiting to be treated.
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","You don’t have enough yet. Hurry, every drop counts."
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.","Perfect! Thanks to you, we can finally treat our wounded."
+PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,The Magic Skulls of the Redcloud
+PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.
+PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.
+PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,Alright… but this magic could strengthen our defenses.
+PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,You don’t have enough energy-charged skulls yet. Keep going!
+PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,Excellent work! These skulls are a true source of power.
+PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,The Devil’s Teeth
+PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.
+PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.
+PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,I understand… but their influence spreads further each night. Return carefully.
+PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,Not enough teeth to contain the demonic energy yet. Keep gathering.
+PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,Very good! These teeth will be purified and neutralized. You’ve done us a great service.
+PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,The Bloodstained Fangs of the Hellhound
+PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.","Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back."
+PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.
+PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,Very well… but the Hellhounds still lurk around Kaillun.
+PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,You don’t have enough. Their fangs are essential to forge weapons that can repel them.
+PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.","Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors."
+PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!

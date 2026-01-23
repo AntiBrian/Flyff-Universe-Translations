@@ -1,0 +1,1544 @@
+﻿Key,English,Vietnamese
+TEXTCLIENT_CONNECTING,Connecting. Please wait.,Đang kết nối. Vui lòng chờ.
+TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Không thể kết nối với trò chơi. Vui lòng kiểm tra mạng
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Trò chơi đã được cập nhật. Vui lòng đóng trang và mở lại.
+TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Mã định danh máy chủ không chính xác.
+TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Lỗi không xác định, vui lòng thử lại."
+TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Tài khoản của bạn đã được kết nối.
+TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Bạn có muốn ngắt kết nối thiết bị khác không?
+TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,Thiết bị đang bị ngắt kết nối. Vui lòng đăng nhập lại sau 10 giây
+TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Kênh này hiện đã đầy, vui lòng đợi trong giây lát hoặc chọn kênh khác."
+TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Tên nhân vật đã được sử dụng.
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Quái vật được phát hiện!
+TEXTCLIENT_APP_MAP,World Map,Bản đồ thế giới
+TEXTCLIENT_APP_OPTION,Options,Lựa chọn
+TEXTCLIENT_APP_LOGOUT,Logout,Đăng xuất
+TEXTCLIENT_APP_QUIT,Quit,Từ bỏ
+TEXTCLIENT_APP_SUPPORT,Support,Hỗ trợ
+TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_NAVIGATOR,Navigator,Điều hướng
+TEXTCLIENT_APP_DEBUG,Debug,Tìm và khắc phục lỗi
+TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,Đăng xuất sau %d giây(s).
+TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,Thay đổi nhân vật trong%d giây(s)
+TEXTCLIENT_LINKACCOUNT,Linking account in %d sec(s).,Liên kết tài khoản trong %d giây(s)
+TEXTCLIENT_LOGOUT,Do you want to disconnect?,Bạn có muốn ngắt kết nối không?
+TEXTCLIENT_LOGOUT_GUEST,#cffff0000You will lose your guest character.#nc Please link an account.,#cffff0000Bạn sẽ mất nhân vật khách của mình.#nc Vui lòng liên kết tài khoản.
+TEXTCLIENT_EXIT,Do you want to exit the program?,Bạn có muốn thoát khỏi chương trình không?
+TEXTCLIENT_DISCONNECTED,Disconnected from the server.,Đã ngắt kết nối khỏi máy chủ.
+TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,Tính năng tạo nhân vật bị tắt trên máy chủ này.
+TEXTCLIENT_MAPHIDDEN,There seems to be an evil force clouding your vision of the area.,Dường như có một thế lực xấu xa đang che khuất tầm nhìn của bạn về khu vực.
+TEXTCLIENT_ITEM_DESC,Description:,Mô tả:
+TEXTCLIENT_INVALIDCHARACTERS,This name contains unauthorized characters.,Tên này chứa các ký tự trái phép.
+TEXTCLIENT_INVALIDNAME,This name contains unauthorized words.,Tên này chứa các từ trái phép.
+TEXTCLIENT_IPBANNED,Your public internet address has been banned. Contact the administrator for more informations.,Địa chỉ internet công cộng của bạn đã bị cấm. Liên hệ với quản trị viên để biết thêm thông tin.
+TEXTCLIENT_IPRESTRAINTED,The game is currently not available in your country.,Trò chơi hiện không có sẵn ở quốc gia của bạn.
+TEXTCLIENT_IPBLOCKED,An important activity has been detected on your public internet address. Please wait %s before trying again.,Một hoạt động quan trọng đã được phát hiện trên địa chỉ internet công cộng của bạn. Vui lòng đợi %s trước khi thử lại.
+TEXTCLIENT_SECS,second(s),giây(s)
+TEXTCLIENT_MINS,minute(s),phút(s)
+TEXTCLIENT_HOURS,hour(s),giờ(s)
+TEXTCLIENT_SESSIONEXPIRED,"Your session has expired, please enter your login and password again.","Phiên đăng nhập của bạn đã hết hạn, vui lòng nhập lại thông tin đăng nhập và mật khẩu của bạn."
+TEXTCLIENT_ADMIN,Admin,Quản trị viên
+TEXTCLIENT_DEVELOPER,Dev,Dev
+TEXTCLIENT_GAMEMASTER,Game Master,Bậc thầy trò chơi
+TEXTCLIENT_MODERATOR,MOD,MOD
+TEXTCLIENT_VENDOR_NPC,[Vendor],[Người bán]
+TEXTCLIENT_APP_CHAT,Chatting,Trò chuyện
+TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Thông tin đăng nhập hoặc mật khẩu của bạn không hợp lệ.
+TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,Quá trình xác thực thất bại. Vui lòng thử lại.
+TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Vị trí: x =%f, y =%f, z=%f,thiên thần =%f"
+TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,Bạn không thể gửi PM cho chính mình.
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s không tồn tại hoặc không trực tuyến.
+TEXTCLIENT_APP_NOTICE,Notice,Chú ý
+TEXTCLIENT_APP_STATUS,Status,Trạng thái
+TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s - Lv: %d
+TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,Bạn không thể sử dụng nó trong quá trình chuyển động kỹ năng.
+TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,Bạn không thể sử dụng Blinkwing khi đang ngồi.
+TEXTCLIENT_STAND_LIMIT,You can use it when you stand up.,Bạn có thể sử dụng nó khi bạn đứng lên.
+TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,Không thể sử dụng khi đang bay.
+TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,Bạn không thể bay ở đây
+TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,Bạn không được phép nói chuyện
+TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,Bạn đã bị phạt %d phút vì trò chuyện quá nhiều.
+TEXTCLIENT_APP_MOTION,Motion,Chuyển động
+TEXTCLIENT_APP_CHARINFO,Character,Nhân vật
+TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s khôi phục được giới hạn trong %d.
+TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,Vui lòng đợi một lúc trước khi sử dụng lại vật phẩm.
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,Nhấn Lodestar để hồi sinh (Thị trấn gần nhất) hoặc sử dụng một vật phẩm để hồi sinh tại chỗ.
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,Nhấn Lodestar để hồi sinh gần Đấu trường
+TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,Bạn không thể tấn công một con quái vật khi nó đang chiến đấu chống lại người chơi khác.
+TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,Bạn không thể từ bỏ trong khi chiến đấu.
+TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,Lên cấp! Bạn có thể tăng chỉ số của mình trong cửa sổ nhân vật của mình.
+TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,Chúc mừng bạn lên cấp!
+TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,Bạn có muốn sử dụng thiết lập Chỉ số hiện tại không?
+TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,Giá trị chỉ số của bạn sẽ đặt lại sau lần thay đổi chức nghiệp đầu tiên của bạn.
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,Tính năng này chỉ có sẵn với Battle Pass Mở rộng hoặc Hero Quest.
+TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,Bạn có thể đổi các trang stat trong mỗi %d giây.
+TEXTCLIENT_ADMIN_STATE,Status,Trạng thái
+TEXTCLIENT_ADMIN_NORMAL,Normal,Bình thường
+TEXTCLIENT_SPEED_VERYSLOW,Very slow,Rất chậm
+TEXTCLIENT_SPEED_LOW,Slow,Chậm
+TEXTCLIENT_SPEED_NORMAL,Normal,Bình thường
+TEXTCLIENT_SPEED_FAST,Fast,Nhanh
+TEXTCLIENT_SPEED_VERYFAST,Very fast,Rất nhanh
+TEXTCLIENT_SPEED_FASTEST,Fastest,Nhanh nhất
+TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%s thuộc về một người chơi khác vào lúc này. Vui lòng đợi một lúc.
+TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Kho chứa đồ đã đầy. Vui lòng tạo thêm không gian và thử lại
+TEXTCLIENT_REAPITEM,You received %s.,Bạn đã nhận %s
+TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Bạn đã nhận %s +%d.
+TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s đã tăng %s
+TEXTCLIENT_APP_INVENTORY,Inventory,Kho chứa đồ
+TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,Bạn đã nhận được %s Penya (Tổng:%s Penya).
+TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%s không dành cho giới tính của bạn.
+TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,Bạn không thể trang bị %s. Yêu cầu không được đáp ứng.
+TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),Bạn không thể trang bị vật phẩm này vì cấp độ của bạn quá thấp. (Yêu cầu Lev: %d)
+TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,Bạn không thể loại bỏ vật phẩm này.
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,You are already using this item.
+TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,Số %s bị xóa: %d.
+TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.","Không thể tấn công, không có quái vật mục tiêu."
+TEXTCLIENT_NOTUSE,You cannot use this yet.,Bạn chưa thể sử dụng cái này.
+TEXTCLIENT_ERROR_NOTLEVEL,Your level is too low.,Đẳng cấp của bạn quá thấp
+TEXTCLIENT_BLOCK_PM,%s is in the 'Refuse to Whisper/Messenger' setting.,%s đang ở trong cài đặt 'Từ chối thì thầm / Tin nhắn'.
+TEXTCLIENT_YETTRADE,That player is currently busy. Please try again after few minutes.,Người chơi đó hiện đang bận. Vui lòng thử lại sau vài phút.
+TEXTCLIENT_ITEMNOTUSE_TRADING,You cannot use items while trading.,Bạn không thể sử dụng vật phẩm trong khi giao dịch.
+TEXTCLIENT_REDCHIP,Red Chip,Red Chip
+TEXTCLIENT_ERROR_EQUIPTRADE,Please unequip the item before selling it.,Vui lòng tháo bỏ vật phẩm trước khi bán
+TEXTCLIENT_ERROR_NPCBUFFLEVEL,Only level %d~%d character can get buffs.,Chỉ nhân vật cấp %d ~%d mới có thể nhận được buff.
+TEXTCLIENT_ERROR_NPCBUFFFAIL,You cannot use %s right now.,Bạn không thể sử dụng %s ngay bây giờ.
+TEXTCLIENT_LEVEL15JOB,Now it's time to choose your job.,Bây giờ là lúc để lựa chọn chức nghiệp của bạn.
+TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,Chúc mừng! Bạn đã nâng cao lên hạng chức nghiệp %s.
+TEXTCLIENT_APP_SKILL,Skills,Kỹ năng
+TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,Cấp độ nhân vật: %d
+TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Bạn đang học các kiểu tấn công mới!
+TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,Bạn cần trang bị vũ khí hoặc vật phẩm chính xác để sử dụng kỹ năng đó.
+TEXTCLIENT_REQFP,Not enough FP.,Không đủ FP
+TEXTCLIENT_REQMP,Not enough MP.,Không đủ MP
+TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Hành động này đã bị chặn bởi chướng ngại vật
+TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s cấp độ kỹ năng %d là cần thiết.
+TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,Mức độ kỹ năng %s tăng lên.
+TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,Cửa hàng tư nhân
+TEXTCLIENT_APP_QUEST,Quests,Nhiệm vụ
+TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Cửa hàng Flyff
+TEXTCLIENT_PREMIUM_ITEMS,Premium Items,Vật phẩm cao cấp
+TEXTCLIENT_COMMUNICATION,Communication,Giao tiếp
+TEXTCLIENT_COMMUNITY,Community,Cộng đồng
+TEXTCLIENT_HELPER,Helper,Người giúp đỡ
+TEXTCLIENT_APP_ITEM_DURATION,Duration,Khoảng thời gian
+TEXTCLIENT_APP_MESSENGER,Messenger,Tin nhắn
+TEXTCLIENT_APP_PARTY,Party,Nhóm
+TEXTCLIENT_APP_GUILD,Guild,Bang hội
+TEXTCLIENT_APP_COUPLE,Couple,Couple
+TEXTCLIENT_APP_HELP,Help,Giúp đỡ
+TEXTCLIENT_APP_HELP_TIPS,Tips,Mẹo
+TEXTCLIENT_APP_FAQ,FAQ,Câu hỏi thường gặp
+TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Phòng thử đồ
+TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Giúp đỡ Wiki
+TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Bạn không thể tạo Nhóm trong đấu trường Guild Siege.
+TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Bạn không thể mời nhân vật khác tham gia nhóm trong PvP của nhóm.
+TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Bạn không thể tham gia nhóm khi đấu tay đôi.
+TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Bạn không thể tham gia bang hội trong khi đấu tay đôi.
+TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,Bạn không thể mời người khác tham gia nhóm của mình trong trận chiến.
+TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,Không thể mời người chơi từ một kênh khác.
+TEXTCLIENT_PARTYOTHER,%s is currently in another party.,%s hiện đang trong 1 nhóm khác.
+TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s đã ở trong nhóm của bạn.
+TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,Người chơi không thẻ tham gia nhóm
+TEXTCLIENT_PARTYFAILINVITATE,%s has refused to join the party.,%s đã từ chối tham gia nhóm.
+TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,%s hiện không chấp nhận Lời mời của nhóm
+TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,Chỉ Trưởng nhóm mới có thể mời thành viên mới
+TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,Đã đạt đến giới hạn nhóm tối đa là 8 người chơi.
+TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,Bạn đã không thể tham gia nhóm.
+TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,Bạn đã không thể tham gia Bang hội
+TEXTCLIENT_PARTYCREATE,Party has been created.,Nhóm đã được tạo
+TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s đã tham gia nhóm
+TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s đã rời nhóm
+TEXTCLIENT_PARTYEXIT,You have left the party.,Bạn đã rời nhóm
+TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,Nhóm đã bị giải tán.
+TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,Bạn đã chọn Lodelight làm điểm tái sinh của mình.
+TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,Chỉ Trưởng nhóm mới có thể chuyển Trạng thái Lãnh đạo cho một thành viên khác của nhóm.
+TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,Bạn không thể chuyển quyền lãnh đạo của nhóm cho một người chơi ngoại tuyến.
+TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,Bạn trở thành trưởng nhóm
+TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,Không thể thay đổi trưởng nhóm trong cuộc đấu nhóm.
+TEXTCLIENT_PARTY_TROUPEUP,Party level increased to 10.,Cấp độ nhóm tăng lên 10.
+TEXTCLIENT_PARTY_LEVELUP,Party level increased.,Cấp độ nhóm tăng lên.
+TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose another one.,Tên nhóm đó đã được sử dụng. Vui lòng chọn tên khác.
+TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,Tên nhóm này chứa các ký tự hoặc từ không được phép.
+TEXTCLIENT_ERROR,Error,Lỗi
+TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,Nhóm đã được thay đổi thành Nhóm Cao Cấp
+TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,Tên nhóm đã được đổi thành %s.
+TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,Chỉ có trưởng nhóm mới có thể sử dụng các kỹ năng của nhóm.
+TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Nhóm của bạn không có cấp độ yêu cầu.
+TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,Không thể sử dụng kỹ năng. Không đủ kinh nghiệm nhóm
+TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,Bạn vẫn đang sử dụng %s kỹ năng nhóm. Thử lại sau
+TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,Kỹ năng nhóm %s đã được sử dụng
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,Hiệu ứng của %s sắp kết thúc.
+TEXTCLIENT_ACR_FAME01,Rogue,Giả mạo
+TEXTCLIENT_ACR_FAME02,Outlaw,Ngoài vòng pháp luật
+TEXTCLIENT_ACR_FAME03,Vigilante,Cảnh giác
+TEXTCLIENT_ACR_FAME04,Pathfinder,Người tìm đường
+TEXTCLIENT_ACR_FAME05,Pursuer,Người theo đuổi
+TEXTCLIENT_ACR_FAME06,Hejerdor,Hejerdor
+TEXTCLIENT_ACR_FAME07,Phoenix,Phượng hoàng
+TEXTCLIENT_ACR_FAME08,Splitter,Bộ chia
+TEXTCLIENT_ACR_FAME09,Valcan,Valcan
+TEXTCLIENT_ACR_FAME10,Lamia,Lamia
+TEXTCLIENT_MER_FAME01,Trainer,Huấn luyện viên
+TEXTCLIENT_MER_FAME02,Fighter,Chiến sĩ
+TEXTCLIENT_MER_FAME03,Gladiator,Đấu sĩ
+TEXTCLIENT_MER_FAME04,Berserker,Berserker
+TEXTCLIENT_MER_FAME05,Wardancer,Wardancer
+TEXTCLIENT_MER_FAME06,Blaster,Blaster
+TEXTCLIENT_MER_FAME07,Eraser,Cục gôm
+TEXTCLIENT_MER_FAME08,Champion,Nhà vô địch
+TEXTCLIENT_MER_FAME09,Warrior,Chiến binh
+TEXTCLIENT_MER_FAME10,Bearcat,Bearcat
+TEXTCLIENT_MAG_FAME01,Apprentice,Môn đồ
+TEXTCLIENT_MAG_FAME02,Mage,Mage
+TEXTCLIENT_MAG_FAME03,War Mage,War Mage
+TEXTCLIENT_MAG_FAME04,Grand Mage,Grand Mage
+TEXTCLIENT_MAG_FAME05,Arch Mage,Arch Mage
+TEXTCLIENT_MAG_FAME06,Sorcerer,Phù thủy
+TEXTCLIENT_MAG_FAME07,Warlock,Warlock
+TEXTCLIENT_MAG_FAME08,Sage,Sage
+TEXTCLIENT_MAG_FAME09,Arch Sage,Arch Sage
+TEXTCLIENT_MAG_FAME10,Elder,Đàn anh
+TEXTCLIENT_ASS_FAME01,Protector,Người bảo vệ
+TEXTCLIENT_ASS_FAME02,Guardian,Người bảo hộ
+TEXTCLIENT_ASS_FAME03,Knight,Hiệp sĩ
+TEXTCLIENT_ASS_FAME04,Paladin,Hiệp sĩ
+TEXTCLIENT_ASS_FAME05,Crusader,Quân thập tự chinh
+TEXTCLIENT_ASS_FAME06,Crusader,Quân thập tự chinh
+TEXTCLIENT_ASS_FAME07,Chaplain,Chaplain
+TEXTCLIENT_ASS_FAME08,Luminary,Chói lọi
+TEXTCLIENT_ASS_FAME09,Prophet,Tiên tri
+TEXTCLIENT_ASS_FAME10,Oracle,Tiên tri
+TEXTCLIENT_ALREADYFRIEND,That player is already in your friends list.,Người chơi đó đã có trong danh sách bạn bè của bạn.
+TEXTCLIENT_MSGINVATE,You have asked for permission to add %s to your messenger.,Bạn đã yêu cầu quyền thêm %s vào tin nhắn của mình.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_FRIENDADD,You cannot add friends in the Guild Siege arena.,Bạn không thể thêm bạn bè trong đấu trường Guild Siege
+TEXTCLIENT_BATTLE_NOTFRIEND,You cannot add someone to your friends list while dueling.,Bạn không thể thêm người nào đó vào danh sách bạn bè của mình trong khi đấu tay đôi.
+TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,Lời mời đã bị từ chối
+TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s đang ở trong thiết lập 'Từ chối nhận tin nhắn'.
+TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,Số lượng người chơi tối đa có thể đăng ký vào tin nhắn là 200.
+TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s đã thêm bạn vào Tin nhắn của họ.
+TEXTCLIENT_NOTLOGIN,That player is not connected.,Người chơi đó không có đang kết nối vào trò chơi
+TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.","Gửi tin nhắn thất bại, %s đã bị chặn"
+TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,Bạn đã %d tin nhắn(s)
+TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,Không thể gửi tin nhắn. Hộp thư đến đã đầy
+TEXTCLIENT_MESSNOTE,You sent the memo.,Bạn đã gửi 1 bản ghi nhớ
+TEXTCLIENT_MAILRECEIVE,You have received new mail!,Bạn đã nhận 1 thư mới
+TEXTCLIENT_CANT_SHOUT_BELOW_20,Characters under Level %d cannot shout.,Nhân vật dưới cấp độ %d không thể la lớn
+TEXTCLIENT_NOPARTY,Party does not exist.,Nhóm không tồn tại
+TEXTCLIENT_NOGUILD,Guild does not exist.,Bang hội không tồn tại
+TEXTCLIENT_WHISPERAGREE,Private messages allowed,Tin nhắn mật đã được cho phép
+TEXTCLIENT_WHISPERREFUSE,Private messages refused,Tin nhắn mật đã bị từ chối
+TEXTCLIENT_MSGERAGREE,Messenger allowed,Tin nhắn được cho phép
+TEXTCLIENT_MSGERREFUSE,Messenger refused,Tin nhắn bị từ chối
+TEXTCLIENT_STAGEAGREE,Party & guild invites allowed,Lời mời nhóm và bang hội được cho phép
+TEXTCLIENT_STAGEREFUSE,Party & guild invites refused,Lời mời nhóm và bang hội bị từ chối
+TEXTCLIENT_CONNAGREE,Post connection status,Đăng trạng thái kết nối
+TEXTCLIENT_CONNREFUSE,Do not post connection status.,Không đăng trạng thái kết nối.
+TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,Danh sách Bỏ qua đã đầy. Vui lòng hủy bỏ qua một số nhân vật hoặc đăng nhập lại để đặt lại Danh sách Bỏ qua của bạn.
+TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,Bạn không nên bỏ qua chính mình. Bạn có thể có một cái gì đó quan trọng để nói!
+TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,Nhân vật đó đã có trong Danh sách bỏ qua của bạn.
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,%s đã bị bỏ qua. Nhập/Bỏ qua <NAME> để xóa chúng khỏi Danh sách bỏ qua của bạn.
+TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s hiện không được bỏ qua.
+TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,Nhân vật đó không có trong Danh sách Bỏ qua của bạn.
+TEXTCLIENT_EQUIPPUT,Please unequip the item first.,Xin vui lòng tháo trang bị trước.
+TEXTCLIENT_CHARGED_NOTUSE,You can not use the premium items.,Bạn không thể sử dụng các vật phẩm cao cấp.
+TEXTCLIENT_MSGSELFSENDERERROR,"You cannot send a message to yourself, silly.","Bạn không thể gửi tin nhắn cho chính mình, ngớ ngẩn."
+TEXTCLIENT_MAILBOX_FULL,%s's mail box is full.,Hộp thư của %s đã đầy.
+TEXTCLIENT_LACKMONEY,You do not have enough Penya.,Bạn không có đủ Penya.
+TEXTCLIENT_CANNOTPOST,You cannot send this item.,Bạn không thể gửi vật phẩm này
+TEXTCLIENT_MAIL_UNKNOWN,Unknown user,Người dùng không xác định
+TEXTCLIENT_POST_ERROR,You have failed to send.,Bạn đã gửi không thành công.
+TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Thư của bạn đã được gửi thành công.
+TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Đã xảy ra lỗi, vui lòng thử lại thao tác."
+TEXTCLIENT_REALTIME,Real Time - %s,Thời gian thật - %s
+TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Giờ Madrigal -%s
+TEXTCLIENT_NEW_QUEST,New Quest,Nhiệm vụ mới
+TEXTCLIENT_CURRENT_QUEST,Quests in Progress,Nhiệm vụ đang tiến hành
+TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,Bạn đã nhận được nhiệm vụ: %s. Mở Cửa sổ Nhiệm vụ của bạn để biết chi tiết.
+TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,Nhiệm vụ %s đã bị hủy.
+TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,Nhiệm vụ đã bị hủy.
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,Kênh này không khả dụng. Vui lòng nhập cái khác
+TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,Bên trong bị cấm bay.
+TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,Bạn cần %s mục để mở nó.
+TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.","Cấp sai, không thể mở hộp vật phẩm."
+TEXTCLIENT_ITEMBOX_MESSAGE3,"Wrong sex, unable to open itembox.","Giới tính sai, không thể mở hộp đựng vật phẩm"
+TEXTCLIENT_ITEMBOX_MESSAGE4,You need to be on the %s quest to open it.,Bạn cần phải thực hiện nhiệm vụ %s để mở nó.
+TEXTCLIENT_ITEMBOX_MESSAGE5,"Wrong job, unable to open itembox.","Sai chức nghiệp, không thể mở hộp vật phẩm."
+TEXTCLIENT_QUEST_NOINVENTORYSPACE,Unable to complete quest. Not enough room in your inventory.,Không thể hoàn thành nhiệm vụ. Không đủ chỗ trong kho của bạn.
+TEXTCLIENT_REAPEXP,You have gained Experience.,Bạn đã tăng Kinh nghiệm.
+TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,Xin chúc mừng! %s đã được hoàn thành.
+TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.","Nếu một thành viên của nhóm trên cấp %d, anh ta không thể vào nhóm"
+TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,Bạn không thể kiểm tra điều đó nữa.
+TEXTCLIENT_COMACCEPT,You have joined the %s guild.,Bạn đã tham gia bang hội %s
+TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,Bạn không còn là thành viên của bang hội %s nữa
+TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,Bạn không thể thay đổi biểu tượng bang hội của mình trong khi đấu bang hội.
+TEXTCLIENT_GUILDWARERRORNAME,You cannot change your guild name during a guild duel.,Bạn không thể thay đổi tên bang hội của mình trong trận đấu bang hội.
+TEXTCLIENT_GUILDNOTICEUPDATE,A new Guild Notice has been posted. Please check it in the guild window.,Một Thông báo Bang hội mới đã được đăng. Vui lòng kiểm tra nó trong cửa sổ Bang hội
+TEXTCLIENT_GUILD_NAMEINUSE,That guild name is already in use. Please choose another one.,Tên bang hội đó đã được sử dụng. Vui lòng chọn tên khác.
+TEXTCLIENT_GUILD_INVALIDNAME,This guild name contains unauthorized characters or words.,Tên bang hội này chứa các ký tự hoặc từ trái phép.
+TEXTCLIENT_GUILDCHANGENAME,%s guild has changed their name to %s.,Bang hội %s đã đổi tên của họ thành %s.
+TEXTCLIENT_GUILDWARNODISMISS,You cannot disband your guild during a guild duel.,Bạn không thể giải tán bang hội của mình trong cuộc đấu giữa bang hội.
+TEXTCLIENT_GUILDSALARYCHANGED,Salary for each title has been changed.,Mức lương cho từng chức danh đã được thay đổi
+TEXTCLIENT_GUILDPOWERCHANGED,Authority for each title has been changed.,Quyền hạn cho mỗi chức danh đã được thay đổi.
+TEXTCLIENT_GUILDWARNOMEMBER,Unable to use the member management function during a guild duel.,Không thể sử dụng chức năng quản lý thành viên trong cuộc đấu bang hội.
+TEXTCLIENT_GUILDMEMBER_PROMOTED,%s has been promoted.,%s đã được thăng cấp.
+TEXTCLIENT_GUILDMEMBER_DEMOTED,%s has been demoted.,%s đã bị hạ cấp.
+TEXTCLIENT_GUILD_TRANSFERLEADER,%s has become the guild master.,%s đã trở thành bang chủ
+TEXTCLIENT_GUILD_MEMBERLEAVE,%s has left the guild.,%s đã rời bang hội
+TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%s đã ở trong bang hội rồi
+TEXTCLIENT_BATTLE_NOTGUILD,You cannot invite others to join your guild during a battle.,Bạn không thể mời người khác tham gia bang hội của mình trong trận chiến.
+TEXTCLIENT_COMACCEPTKINGPIN,You invited %s to your guild.,Bạn đã mời %s vào bang hội của mình.
+TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,Nhân vật bạn mời đang ngoại tuyến.
+TEXTCLIENT_GUILDNOTINCLUDE,You have to wait 2 days before joining another guild.,Bạn phải đợi 2 ngày trước khi tham gia bang hội khác.
+TEXTCLIENT_GUILDFAILINVITATE,%s has refused to join the guild.,%s đã từ chối tham gia bang hội.
+TEXTCLIENT_COMNOEXCOM,That guild does not exist.,Bang hội đó không tồn tại.
+TEXTCLIENT_GUILDWARNOINVATE,Cannot join a guild during a guild duel.,Không thể tham gia một bang hội trong cuộc đấu giữa bang hội.
+TEXTCLIENT_COMHAVECOM,You are already in a guild.,Bạn đã ở trong một bang hội.
+TEXTCLIENT_COMOVERMEMBER,The guild is full.,Bang hội đã đầy
+TEXTCLIENT_COMACCEPTWELCOME,%s has joined the guild.,%s đã tham gia bang hội
+TEXTCLIENT_GUILDNOTHINGNAME,Unable to make a contribution. Ask your Guild Leader to set the guild name first.,Không thể đóng góp. Yêu cầu Bang chủ của bạn đặt tên Bang hội trước.
+TEXTCLIENT_GUILDMERITMAXLEVEL,Unable to make a contribution. The guild has reached its maximum level.,Không thể đóng góp. Bang hội đã đạt đến cấp độ tối đa.
+TEXTCLIENT_GUILDLEVELUP,Guild level has increased.,Cấp độ bang hội đã tăng lên.
+TEXTCLIENT_GUILDCLOAK,%s Guild Cloak,%s áo choàng bang hội
+TEXTCLIENT_NOTTRADE,You cannot trade a premium item.,Bạn không thể giao dịch vật phẩm cao cấp
+TEXTCLIENT_GUILDBANKFULL,The guild warehouse is full.,Kho bang hội đã đầy.
+TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,The couple storage is full.
+TEXTCLIENT_SLOTFULL,Your inventory is full.,Kho chứa đồ của bạn đã đầy
+TEXTCLIENT_CONFIRMMOVEITEM,Really move this item?,Bạn thật sự muốn xóa vật phẩm này?
+TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,Áo choàng bang hội đã được tạo ra
+TEXTCLIENT_GUILDNEEDGOLD,Unable to create guild cloak. Insufficient Penya in the guild warehouse.,Không thể tạo áo choàng bang hội. Không đủ Penya trong kho của bang hội.
+TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,Lương bang hội %d Penya nhận được.
+TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,Mục tiêu thiết lập không xác định
+TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Chức nghiệp không xác định
+TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,Điểm kỹ năng của nhân vật của bạn đã được đặt lại. Vui lòng phân phối lại điểm của bạn trong cửa sổ Cây kỹ năng.
+TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,Bạn phải chọn một chức nghiệp ở Lv 15.
+TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,Không phải chức nghiệp chuyên môn
+TEXTCLIENT_EXPERTJOBS,Expert Job: %s,Chức nghiệp chuyên môn: %s
+TEXTCLIENT_EXPERTLEVEL,Expert Level: %d ~ %d,Cấp độ chuyên môn: %d ~ %d
+TEXTCLIENT_ERROR_NOTPROFESSIONALJOB,Not Professional Job,Không phải chức nghiệp chuyên nghiệp
+TEXTCLIENT_ERROR_NOTSPECIALISTJOB,Not Specialist Job,Not Specialist Job
+TEXTCLIENT_PROFESSIONALJOBS,Professional Job: %s,Chức nghiệp chuyên nghiệp: %s
+TEXTCLIENT_PROFESSIONALLEVEL,Professional Level: %d ~~~,Cấp độ chuyên nghiệp: %d ~~~
+TEXTCLIENT_SPECIALISTJOBS,Specialist Job: %s,Specialist Job: %s
+TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Specialist Level: %d ~~~
+TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,Điểm kỹ năng mới hiện đã có sẵn.
+TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,Bạn đã học được %s. Bây giờ bạn có thể phân bổ điểm kỹ năng cho khả năng này.
+TEXTCLIENT_FLYLVLUP,Flying level up!,Cấp độ bay tăng lên!
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,Sao bạn dám đến đây!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,Bạn không có sợ hãi gì!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,Tôi sẽ là đao phủ của bạn!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG4,Don't make me angry!,Đừng làm tôi tức giận!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG5,"%s, you fool! How dare you!","%s, đồ ngốc! Sao bạn dám!"
+TEXTCLIENT_BOSS_MUSHMOOT_MSG1,I will crush your bones!,Tôi sẽ nghiền nát xương của bạn!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG2,I will destroy you all!,Tôi sẽ tiêu diệt tất cả các bạn!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG3,I will break you!,Tôi sẽ phá vỡ bạn!
+TEXTCLIENT_BOSS_KRRR_MSG1,Who woke me?,Ai đã đánh thức tôi?
+TEXTCLIENT_BOSS_KRRR_MSG2,%s! My axe and I will destroy you!,%s! Rìu của tôi và tôi sẽ tiêu diệt bạn!
+TEXTCLIENT_BOSS_KRRR_MSG3,Go to Hell!,Đi chết đi!
+TEXTCLIENT_SKILLLEVELLIMIT,Set %s' skill level: 1 ~ %d.,Đặt cấp độ kỹ năng của %s: 1 ~%d.
+TEXTCLIENT_REQ_DARK,You are not in Dark Illusion mode.,Bạn không ở trong chế độ Dark Illusion 
+TEXTCLIENT_NEVERKILLSTOP,You cannot use the skill.,Bạn không thể sử dụng kỹ năng
+TEXTCLIENT_NOTELEMWEAPON,Unable to use equipped item. Item needs an elemental upgrade first.,Không thể sử dụng vật phẩm đã được trang bị. Vật phẩm cần nâng cấp nguyên tố trước.
+TEXTCLIENT_DONOTUSEBUFF,Cannot use the skill at this time.,Không thể sử dụng kỹ năng tại thời điểm này.
+TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_SKILLWAITTIME,Please wait.,Vui lòng chờ
+TEXTCLIENT_SKILL_SELF,You use %s.,Bạn sử dụng %s
+TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
+TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s truyền %s cho bạn.
+TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you.
+TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,Quyền xem thiết bị bị từ chối.
+TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,Bạn phải khởi động lại trò chơi để mọi thay đổi có hiệu lực.
+TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,Bạn đã sử dụng vật phẩm này. Hãy thử lại sau khi tác dụng của nó đã hết.
+TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,Trình độ của bạn quá thấp. Bạn có thể sử dụng nó ở cấp độ %s.
+TEXTCLIENT_NOTOVERLAP_USE,You cannot use these items at the same time.,Bạn không thể sử dụng các vật phẩm này cùng một lúc
+TEXTCLIENT_COND_USE,Takes effect when player dies.,Có hiệu lực khi người chơi chết.
+TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d ngày
+TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d giờ
+TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d phút
+TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d giây
+TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,Không thể đặt lại chỉ số của bạn vì bạn đã có chỉ số cơ bản.
+TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,Chỉ tội phạm mới có thể sử dụng vật phẩm này.
+TEXTCLIENT_GETKARMA,Recovered 1 Karma.,Hồi phục 1 Karma.
+TEXTCLIENT_NTROUPEO10,Either you are not a party member or the party level is higher than 10.,Bạn không phải là thành viên nhóm hoặc đẳng cấp nhóm từ 10 trở lên.
+TEXTCLIENT_EXP_NOTUSE,"You cannot stack this scroll anymore. At level %d ~ %d, this scroll can only be stacked %d times.","Bạn không thể xếp chồng cuộn này nữa. Ở cấp %d ~%d, cuộn này chỉ có thể được xếp chồng lên nhau %d lần."
+TEXTCLIENT_EXP_NOTUSELEVEL,You cannot use this scroll. This scroll is only available for level %d ~ %d.,Bạn không thể sử dụng cuộn này. Cuộn này chỉ có sẵn cho cấp %d ~%d.
+TEXTCLIENT_EXPITEM_TOOLTIP,*** Your Experience rate has been amplified by #cffff5a50%d%%#nc ***,*** Tỷ lệ Kinh nghiệm của bạn đã được tăng lên bởi #cffff5a50%d%%#nc ***
+TEXTCLIENT_EXP_COUTMSG0,The time left,Thời gian còn lại
+TEXTCLIENT_EXP_COUTMSG1,First:,Thứ nhất:
+TEXTCLIENT_EXP_COUTMSG2,Second:,Thứ hai:
+TEXTCLIENT_EXP_COUTMSG3,Third:,Thứ ba:
+TEXTCLIENT_EXPBOX_INFO_MSG,You can recover some of your Experience If you return to the place where you died.,Bạn có thể khôi phục một số Kinh nghiệm của mình Nếu bạn quay trở lại nơi bạn đã chết.
+TEXTCLIENT_NOT_EXPBOX,You can not use it.,Bạn không thể sử dụng nó
+TEXTCLIENT_EXPBOX_EAT,You have recovered 30% of decreased Experience from your death.,Bạn đã phục hồi 30% kinh nghiệm bị giảm từ cái chết của mình.
+TEXTCLIENT_ADMIN_INVISIBLE,Invisible,Vô hình
+TEXTCLIENT_ADMIN_IMMORTAL,Undying1,Bất tử1
+TEXTCLIENT_ADMIN_IMMORTALHALF,Undying2,Bất tử2
+TEXTCLIENT_ADMIN_NOMOVING,Freeze player,Đóng băng người chơi
+TEXTCLIENT_ADMIN_MIGHTY,OneKill,OneKill
+TEXTCLIENT_TELESKILL_CLICK,Touch on the ground where you want to use %s.,Chạm vào mặt đất nơi bạn muốn sử dụng %s.
+TEXTCLIENT_CREATEMON_CLICK,Touch on the ground where you want to invoke the monster.,Chạm vào mặt đất nơi bạn muốn gọi quái vật.
+TEXTCLIENT_TELESKILL_CANCEL,%s invocation was cancelled.,Lời gọi %s đã bị hủy.
+TEXTCLIENT_CREATEMON_CANCEL,Monster invocation was cancelled.,Lời kêu gọi quái vật đã bị hủy.
+TEXTCLIENT_USEAIRCRAFT,"In order to ride a flying vehicle, you must reach level 20.","Để lái xe bay, bạn phải đạt cấp 20."
+TEXTCLIENT_QUEST_DISGUISE_NOTFLY,You cannot fly while transforming.,Bạn không thể bay khi đang biến hình.
+TEXTCLIENT_UPGRADE_FIRE,Fire,Hỏa
+TEXTCLIENT_UPGRADE_WATER,Water,Thủy
+TEXTCLIENT_UPGRADE_ELECTRICITY,Electric,Lôi
+TEXTCLIENT_UPGRADE_WIND,Wind,Phong
+TEXTCLIENT_UPGRADE_EARTH,Earth,Thổ
+TEXTCLIENT_RUN,Run,Chạy
+TEXTCLIENT_WALK,Walk,Đi bộ
+TEXTCLIENT_CANNOT_DROPMONEY,You cannot drop your Penya on the ground.,Bạn không thể thả Penya của mình xuống đất.
+TEXTCLIENT_NOTDROP,You cannot drop a premium item on the ground.,Bạn không thể đánh rơi vật phẩm cao cấp trên mặt đất.
+TEXTCLIENT_QUEITMWARNING,The quest will not progress without this item. Continue discarding item?,Nhiệm vụ sẽ không tiến triển nếu không có vật phẩm này. Tiếp tục loại bỏ vật phẩm?
+TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,Bạn không thể làm rơi vật phẩm khi đang bay.
+TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,Bạn không thể làm rơi vật phẩm khi đang giao dịch
+TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Chỉ có đôi cánh mới có thể cứu bạn khi bạn ngã
+TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Tên cửa hàng này không được phép
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Bạn không thể giao dịch trong thời gian diễn ra sự kiện.
+TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,Cửa hàng tư nhân không có sẵn trong khu vực này.
+TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Bạn không thể mở Cửa hàng tư nhân gần NPC.
+TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Tất cả các vật phẩm của cửa hàng tư nhân đã được bán.
+TEXTCLIENT_CHEER_MESSAGE1,Cheer Message Point(s): %d/3,(Các) điểm tin nhắn cổ vũ: %d/3
+TEXTCLIENT_CHEER_MESSAGE2,Time left until the next point,Thời gian còn lại cho đến điểm tiếp theo
+TEXTCLIENT_CHEER_MESSAGE3,%s sent you a cheer message of friendship!,%s đã gửi cho bạn một tin nhắn cổ vũ về tình bạn!
+TEXTCLIENT_CHEER_MESSAGE4,%s sent you a cheer message of love!,%s đã gửi cho bạn một tin nhắn cổ vũ tình yêu!
+TEXTCLIENT_CHEER_MESSAGE5,Your cheer points have increased by 1.,Điểm cổ vũ của bạn đã tăng lên 1.
+TEXTCLIENT_CHEER_NO1,Unable to send cheer message. Please try again after %s minutes.,Không thể gửi tin nhắn cổ vũ. Vui lòng thử lại sau %s phút.
+TEXTCLIENT_CHEER_NO2,Please select a player to cheer. You can only send cheer messages to players other than yourself.,Hãy chọn một người chơi để cổ vũ. Bạn chỉ có thể gửi tin nhắn cổ vũ cho những người chơi khác ngoài mình.
+TEXTCLIENT_COLLECT_EQUIP,You need to equip a collector.,Bạn cần phải trang bị một bộ sưu tập.
+TEXTCLIENT_COLLECT_TARGET,"Cannot collect, no dead catcher monster targeted.","Không thể thu thập, không có quái vật mục tiêu bị bắt chết"
+TEXTCLIENT_COLLECT_EMPTY,Insufficient supplements.,Không đủ chất bổ sung.
+TEXTCLIENT_COLLECT_ERROROTHER,Unable to collect resource from a monster killed by another player.,Không thể thu thập tài nguyên từ quái vật bị người chơi khác giết.
+TEXTCLIENT_HARVEST_EQUIP,You need to equip harvesting gloves.,Bạn cần trang bị găng tay thu hoạch.
+TEXTCLIENT_HARVEST_RECEIVE,You have harvested %s x%d.,Bạn đã thu hoạch %s x%d.
+TEXTCLIENT_HARVEST_CARRIER,A harvest carrier has been revealed! Kill it to gain its extra berries.,Một harvest carrier đã bị lộ! Giết nó để lấy thêm quả của nó.
+TEXTCLIENT_HARVEST_COOLDOWN,"You cannot currently open it, try again in a few seconds.","You cannot currently open it, try again in a few seconds."
+TEXTCLIENT_NOTREADY_USESHOP,Please try again after taking off the head item,Vui lòng thử lại sau khi gỡ bỏ vật phẩm trang bị đầu
+TEXTCLIENT_SHOP_CHOICE,Selected,Đã chọn
+TEXTCLIENT_CHANGE_HAIR,Change your Hair,Thay đổi kiểu tóc của bạn
+TEXTCLIENT_SHOP_COST,Price is,Giá là
+TEXTCLIENT_SHOP_PENYA,Penya.,Penya.
+TEXTCLIENT_CHANGE_HAIR_QUESTION,Do you want to change your hair?,Bạn có muốn thay đổi mái tóc của mình?
+TEXTCLIENT_TRADEREQUEST,You have offered to trade with %s.,Bạn đã đề nghị giao dịch với %s.
+TEXTCLIENT_ALREADY_TRADING,The player is already trading.,Người chơi đã giao dịch.
+TEXTCLIENT_BATTLE_NOTTRADE,The player cannot trade while fighting.,Người chơi không thể giao dịch trong khi chiến đấu
+TEXTCLIENT_TRADECANCEL,The trade has been cancelled.,Giao dịch đã bị hủy bỏ.
+TEXTCLIENT_CANNOTTRADE_ITEM,This item cannot be traded.,Vật phẩm này không thể được giao dịch.
+TEXTCLIENT_CANNOTTRADE_EDIT,You cannot add into or remove items from the trading window anymore after the first confirmation.,Bạn không thể thêm vào hoặc xóa các vật phẩm khỏi cửa sổ giao dịch nữa sau lần xác nhận đầu tiên.
+TEXTCLIENT_TRADEACCEPT,%s has completed the trade.,%s đã hoàn thành giao dịch.
+TEXTCLIENT_FINALCONFIRM,%s pushed final confirmation.,%s đã đẩy xác nhận cuối cùng.
+TEXTCLIENT_TRADEAGREE,You agreed to trade.,Bạn đã đồng ý giao dịch
+TEXTCLIENT_TRADEREFUSE,You refused to trade.,Bạn đã từ chối giao dịch
+TEXTCLIENT_SBEVE_NOTUSEITEM,You cannot use that item.,Bạn không thể sử dụng vật phẩm đó
+TEXTCLIENT_PIERCING_POSSIBLE_ITEM,The item cannot be pierced.,Vật phẩm không thể bị đục lỗ
+TEXTCLIENT_STILL_DEVELOPMENT,This functionality is still in development.,Chức năng này vẫn đang được phát triển.
+TEXTCLIENT_ENDUSE,You may no longer use %s . That item has expired.,Bạn có thể không sử dụng %s nữa. Vật phẩm đó đã hết hạn.
+TEXTCLIENT_DAYUSE,You can use the %s for %d days.,Bạn có thể sử dụng %s trong %d ngày.
+TEXTCLIENT_TIMEUSE,Time remaining on %s: %d days.,Thời gian còn lại trên %s: %d ngày.
+TEXTCLIENT_ITEM_EXPIRED,This item has expired.,Vật phẩm này đã hết hạn
+TEXTCLIENT_NOTUPGRADE,The item cannot be equipped or moved during refining.,Vật phẩm không thể được trang bị hoặc di chuyển trong quá trình tinh luyện.
+TEXTCLIENT_CARDRESHUFFLE_NOTAVAILABLE,Registration is not possible because the grade is not correct.,Không thể đăng ký vì hạng không đúng
+TEXTCLIENT_ERROR_NOPIERCING,There is no space to put a card.,Không có không gian để đặt một thẻ.
+TEXTCLIENT_PIERCINGFAIL,Piercing failed.,Đục lỗ thất bại
+TEXTCLIENT_PIERCINGSUCCESS,Piercing Succeeded.,Đục lỗ thành công
+TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,Chỉ những trang phục được đục lỗ bằng thẻ mới có thể được sử dụng.
+TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfully.,Thẻ đục lỗ của bạn đã được gỡ bỏ thành công.
+TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,Vật phẩm này không thể sử dụng
+TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,Vật phẩm cao cấp không thể được tinh chế.
+TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,Vật phẩm bổ sung sai.
+TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,Bạn có thể sử dụng vật phẩm này với menu Đục lỗ tại Cửa hàng vũ khí.
+TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,Bạn có thể sử dụng vật phẩm này với menu Nâng cấp Phụ kiện tại Cửa hàng vũ khí.
+TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,Bạn có thể sử dụng vật phẩm này với menu Nâng cấp tại Cửa hàng áo giáp.
+TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,Nhấp đúp vào mục này trong cửa sổ Kho chứa đồ để sử dụng nó.
+TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,Không thể nâng cấp vật phẩm bằng nguyên tố này.
+TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,Bạn không thể đặt hai nguyên tố khác nhau trên một vật phẩm
+TEXTCLIENT_WRONGUPLEVEL,Using wrong item to upgrade.,Sử dụng sai vật phẩm để nâng cấp
+TEXTCLIENT_UPGRADE_MAXOVER,Can only upgrade up to Level 10.,Chỉ có thể nâng cấp lên đến Cấp 10.
+TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,Trang sức có thể được nâng cấp lên +20.
+TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,Sử dụng sai vật phẩm để nâng cấp
+TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,Không đủ vật phẩm bổ sung.
+TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,Nâng cấp không thành công.
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,Nâng cấp thành công!
+TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,Vũ khí đó không thể xóa nâng cấp nguyên tố. Hãy thử lại sau khi kiểm tra
+TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,Nguyên tố của vũ khí đã bị loại bỏ.
+TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,Vật phẩm này có hiệu lực sau khi nhân vật của bạn chết. Bạn có muốn sử dụng nó không?
+TEXTCLIENT_SKILLINIT,This item resets your skills. Do you want to use this item?,Vật phẩm này thiết lập lại kỹ năng của bạn. Bạn có muốn sử dụng Vật phẩm này không?
+TEXTCLIENT_ERROR_SKILLRECCURENCE,Your skill has already been reset.,Kỹ năng của bạn đã được đặt lại.
+TEXTCLIENT_NOTUSEVAG,You can use this item after your 1st job change.,Bạn có thể sử dụng vật phẩm này sau lần thay đổi chức nghiệp đầu tiên của bạn.
+TEXTCLIENT_CHECKEQUIP,Please unequip the item first.,Xin vui lòng tháo trang bị trước.
+TEXTCLIENT_PK_BLINK_NO,You cannot use a blinkwing at Kebaras.,Bạn không thể sử dụng Blinkwing tại Kebaras.
+TEXTCLIENT_BLINK_EVENT_NO,You cannot use a blinkwing during event.,Bạn không thể sử dụng Blinkwing trong suốt sự kiện
+TEXTCLIENT_GUILDCOMBAT_NO_OUTWAR,You cannot use Blinkwings to escape the Guild Siege arena.,Bạn không thể sử dụng Blinkwings để thoát khỏi đấu trường Guild Siege.
+TEXTCLIENT_ARENA_BLINKPOOL,You cannot use Blinkpool in the Arena.,Bạn không thể sử dụng Blinkpool trong Đấu trường
+TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,Chỉ số của bạn sẽ đặt lại sau khi bạn thay đổi chức nghiệp của mình. Bạn có muốn thay đổi chức nghiệp của mình không?
+TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,Bạn đã thay đổi thành công Chức nghiệp của mình thành %s.
+TEXTCLIENT_RETURN_USEITEM,The item loses its potency 4 hours after being equipped if not returned to the inventory . Do you want to use the item?,Vật phẩm sẽ mất hiệu lực sau 4 giờ kể từ khi được trang bị nếu không được trả lại kho. Bạn có muốn sử dụng Vật phẩm này không?
+TEXTCLIENT_LIMITZONE_USE,Unable to use item in the limit zone.,Không thể sử dụng vật phẩm trong vùng giới hạn.
+TEXTCLIENT_ON_EVENT,The '%s' event is underway! Visit %s for event details!,Sự kiện '%s' đang được tiến hành! Truy cập %s để biết chi tiết sự kiện!
+TEXTCLIENT_ON_EVENT_DESC,The '%s' event is underway! %s,Sự kiện '%s' đang được tiến hành! %s
+TEXTCLIENT_START_EVENT,The '%s' event has just started. Visit %s for event details!,Sự kiện '%s' vừa bắt đầu. Truy cập %s để biết chi tiết sự kiện!
+TEXTCLIENT_START_EVENT_DESC,The '%s' event has just started. %s,Sự kiện '%s' vừa bắt đầu. %s
+TEXTCLIENT_END_EVENT,The '%s' event is over.,Sự kiện '%s' đã kết thúc
+TEXTCLIENT_ARENA_DISABLED,Arena is not available on this channel.,Đấu trường không có sẵn trên kênh này.
+TEXTCLIENT_CREATEMON_F_15,Summoning should be used on players that are 15 meters or closer to you.,Việc triệu hồi nên được sử dụng đối với những người chơi cách bạn từ 15 mét trở lên.
+TEXTCLIENT_CREATEMON_F_AREA,You can not summon there.,Bạn không thể triệu hồi ở đó.
+TEXTCLIENT_CREATEMON_S,You have summoned %s.,Bạn đã triệu hồi %s
+TEXTCLIENT_PRIORITYSUMMONMOB,This monster was summoned by %s. You cannot attack it.,Con quái vật này đã được triệu hồi bởi %s. Bạn không thể tấn công nó.
+TEXTCLIENT_CREATEMON_LIMIT,You cannot summon anymore monsters. Please wait and try again.,Bạn không thể triệu hồi quái vật nữa. Vui lòng đợi và thử lại.
+TEXTCLIENT_GETPKPOINT,You recovered your Karma points by %d.,Bạn đã phục hồi điểm Karma của mình theo %d.
+TEXTCLIENT_DECPKPOINT,%d Karma points have been reduced.,%d điểm Karma đã bị giảm.
+TEXTCLIENT_PK_MARKETNOUSE,You cannot use stores if your Karma grade is Vicious.,Bạn không thể sử dụng các cửa hàng nếu loại Karma của bạn là Vicious.
+TEXTCLIENT_PKDEAD,You have been slain by %s.,Bạn đã bị %s giết.
+TEXTCLIENT_GETFAMEPOINT,You gained %d fame points.,Bạn đã đạt được %d điểm danh vọng.
+TEXTCLIENT_DECFAMEPOINT,You lost %d fame points.,Bạn đã mất %d điểm danh vọng.
+TEXTCLIENT_BANKWRONGPASS,Wrong password. Please try again.,Sai mật khẩu. Vui lòng thử lại
+TEXTCLIENT_BANKFULL,The bank is full.,Ngân hàng đã đầy
+TEXTCLIENT_PK_LEVEL_GAP,Unable to duel. Level gap is more than 30.,Không thể đấu tay đôi. Khoảng cách đẳng cấp là hơn 30.
+TEXTCLIENT_PK_SAFETY_NO,You cannot duel in a safety zone.,Bạn không thể đấu tay đôi trong vùng an toàn.
+TEXTCLIENT_PK_SAME_NO,You can duel only if the other player is in the same place as you.,Bạn chỉ có thể đấu tay đôi nếu người chơi khác ở cùng vị trí với bạn.
+TEXTCLIENT_PK_CHANGEJOB_NO,You can only duel after your 1st job-change.,Bạn chỉ có thể đấu sau lần thay đổi chức nghiệp đầu tiên.
+TEXTCLIENT_PK_PARTY_LIMIT,You cannot duel with party members.,Bạn không thể đấu tay đôi với các thành viên trong nhóm.
+TEXTCLIENT_PK_MODE_REJECT,The other player is in duel rejection mode.,Người chơi khác đang ở chế độ từ chối đấu tay đôi.
+TEXTCLIENT_DUELNO,%s refused to duel.,%s từ chối đấu tay đôi
+TEXTCLIENT_DUELSTART,Duel with %s started!,Đấu tay đôi với %s bắt đầu
+TEXTCLIENT_DUELCANCEL,The duel has been cancelled.,Đấu tay đôi đã bị hủy
+TEXTCLIENT_PK_NO_IPARTYLEADER,You are not the Party leader.,Bạn không phải là trưởng nhóm
+TEXTCLIENT_PK_NO_UPARTYLEADER,The other member is not the Party leader.,Thành viên còn lại không phải là Trưởng nhóm
+TEXTCLIENT_PK_NO_DUEL,You cannot duel with the other player currently.,Bạn không thể đấu tay đôi với người chơi khác hiện tại.
+TEXTCLIENT_PDSTART,Duel has started with %s party.,Đấu tay đôi đã bắt đầu với nhóm %s.
+TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.","Chế độ đấu nhóm của %s đã kết thúc. Nếu bạn tham gia đấu một lần nữa, bạn sẽ bị phạt theo quy tắc PK."
+TEXTCLIENT_PDCANCEL,Duel has been cancelled.,Đấu tay đôi đã bị hủy
+TEXTCLIENT_PDVICTORY,You won the party duel.,Bạn đã thắng trong cuộc đấu nhóm
+TEXTCLIENT_PDLOSE,You lost the party duel.,Bạn đã thua trong cuộc đấu nhóm
+TEXTCLIENT_DONOTUSE_SHOP,You cannot use that item while using Hair Stylist or Plastic Surgeon.,Bạn không thể sử dụng vật phẩm đó khi đang sử dụng Nhà tạo mẫu tóc hoặc Bác sĩ phẫu thuật thẩm mỹ.
+TEXTCLIENT_CASHSHOP_NOACCOUNT,You cannot use the Flyff Shop without account. Please link an account.,Bạn không thể sử dụng Của hàng Flyff mà không có tài khoản. Vui lòng liên kết một tài khoản.
+TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,Sản phẩm này không đúng
+TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,Không thể sử dụng Của hàng Flyff vì máy chủ ngoại tuyến.
+TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,Bạn không có đủ tiền để mua vật phẩm. Tải lại tài khoản của bạn trước khi mua.
+TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,Bạn đã đạt đến số lượng mua tối đa trên mỗi nhân vật cho sản phẩm này.
+TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Lỗi không xác định, vui lòng thử lại."
+TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,Cám ơn vì đã mua hàng! Nếu kho đầy vui lòng xếp chỗ và đăng nhập lại để nhận vật phẩm.
+TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,Người chơi không hợp lệ và không thể sử dụng Của hàng Flyff
+TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,Hoạt động này mất quá nhiều thời gian. Vui lòng thử lại.
+TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ff Tôi là bố của bạn! #nc
+TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,#cff0000ff Tôi là mẹ của bạn! #nc
+TEXTCLIENT_COMNOHAVECOM,Cannot cancel because you do not belong to a guild.,Không thể hủy vì bạn không thuộc bang hội
+TEXTCLIENT_COMDELNOKINGPIN,Only the guild leader can disband the guild.,Chỉ có Bang chủ mới có thể giải tán Bang chủ.
+TEXTCLIENT_GUILDWARREQLV6,Your guild level has to be higher than 5 to declare a guild duel.,Cấp độ bang hội của bạn phải cao hơn 5 để tuyên bố đấu bang hội.
+TEXTCLIENT_GUILDWARSTILLNOWAR,Unable to declare war during guild duel.,Không thể tuyên chiến trong cuộc đấu bang hội.
+TEXTCLIENT_GUILDWARNOTHINGGUILD,That Guild does not exist.,Bang hội đó không tồn tại.
+TEXTCLIENT_GUILDWAROTHERLV6,Unable to declare a guild duel. Opposing guild level is below 6.,Không thể tuyên bố đấu bang hội. Cấp độ bang hội đối thủ dưới 6.
+TEXTCLIENT_GUILDWARMASTEROFF,The opposing Guild Leader is offline.,Thủ lĩnh Bang hội đối lập đang ngoại tuyến.
+TEXTCLIENT_GUILDWARMEMBER10,The opposing guild must have at least 10 members.,Bang hội đối lập phải có ít nhất 10 thành viên.
+TEXTCLIENT_GUILDWAROTHERWAR,The other guild is already participating in a guild duel.,Bang hội khác đã tham gia vào một cuộc đấu bang hội.
+TEXTCLIENT_GUILDWARDECLINED,Opposing guild leader declined the duel.,Bang chủ của Bang hội đối lập đã từ chối cuộc đấu.
+TEXTCLIENT_GUILDWARNOFINDGUILD,Cannot find the guild that declared a guild duel.,Không thể tìm thấy Bang hội đã tuyên bố đấu Bang hội.
+TEXTCLIENT_PK_NOFLIGHT_DURING,You cannot duel when only one player is flying.,Bạn không thể đấu tay đôi khi chỉ có một người chơi đang bay.
+TEXTCLIENT_GUILDWARERRORDUEL,You cannot duel during a guild duel.,Bạn không thể đấu tay đôi trong cuộc đấu bang hội.
+TEXTCLIENT_GUILDWARSTART,A guild duel has started between %s Guild and %s Guild.,Một cuộc đấu Bang hội đã bắt đầu giữa Bang hội %s và Bang hội %s
+TEXTCLIENT_GUILDWARSTILL,A guild duel between %s Guild and %s Guild is in progress.,Một cuộc đấu giữa Bang hội %s và Bang hội %s đang diễn ra.
+TEXTCLIENT_GUILDWARDOING,You are at war with another guild.,Bạn đang trong 1 cuộc chiến tranh với một bang hội khác
+TEXTCLIENT_SHOUTAGREE,Shout messages allowed,Tin nhắn la hét được cho phép
+TEXTCLIENT_SHOUTREFUSE,Shout messages refused,Tin nhắn la hét bị từ chối
+TEXTCLIENT_GUILDWARWIN_MASTER,A Guild Leader has been killed!,Bang chủ của bang hội đã bị giết!
+TEXTCLIENT_GUILDWARWIN_GIVEUP,Victory! Opponent guild has conceded.,Chiến thắng! Bang hội đối thủ đã nhượng bộ.
+TEXTCLIENT_GUILDWARWIN_TIMEUP,Victory by default!,Chiến thắng theo mặc định!
+TEXTCLIENT_GUILDWARWIN_KILLNUM,Victory due to number of opponents killed!,Chiến thắng do bởi số lượng đối thủ bị giết!
+TEXTCLIENT_GUILDWARWIN,The guild duel between %s and %s has finished. The Guild %s has won. %s.,Trận đấu giữa %s và %s đã kết thúc. Bang hội %s đã thắng. %s
+TEXTCLIENT_GUILDWARPEACE,%s and %s have agreed to a truce.,%s và %s đã đồng ý đình chiến.
+TEXTCLIENT_GUILDWARDRAW,The guild duel between %s and %s resulted in a tie.,Đấu tay đôi giữa Bang hội %s và Bang hội %s dẫn đến kết quả hòa.
+TEXTCLIENT_GUILDWARNOETC,You are either not participating in a guild duel or have already given up.,Bạn đang không tham gia cuộc đấu của bang hội hoặc đã bỏ cuộc.
+TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s của Bang hội %s đã bỏ cuộc.
+TEXTCLIENT_GUILDWARPEACEDECLINED,Opposing guild declined the truce.,Bang hội đối lập đã từ chối thỏa thuận đình chiến
+TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.","Chiến binh của Bang hội %s,%s, đã bị giết."
+TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same time.,Bạn không thể sử dụng vật phẩm Chuyển đổi và Phát sáng cùng một lúc.
+TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,Bạn đã sử dụng cùng một vật phẩm trước đó. Hãy thử lại sau khi tác dụng của nó đã hết.
+TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,Bạn đã khắc tên '%s' trên chiếc nhẫn này. Tặng nó cho người yêu của bạn!
+TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,Bản khắc ghi là '%s'. Tặng nó cho người yêu của bạn!
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,Người chơi có tên được khắc trên chiếc nhẫn này không trực tuyến.
+TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,Bạn không thể truy cập %s từ đây.
+TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,Bạn không thể đi đến những người đang bay.
+TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,Vật phẩm này chỉ có thể được sử dụng trên vũ khí và áo giáp hiện hành.
+TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,Bạn có muốn áp dụng nâng cấp chỉ số ngẫu nhiên cho vật phẩm sau không?\n%s
+TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,Điều này sẽ ghi đè nâng cấp chỉ số ngẫu nhiên trước đó đã được áp dụng. Bạn có muốn tiếp tục?
+TEXTCLIENT_RANDOMSCROLL_SUCCESS,%s has been enchanted with %s +%d.,%s đã bị mê hoặc với %s +%d.
+TEXTCLIENT_STATE_NOTUSE,You cannot use %s,Bạn không thể sử dụng %s
+TEXTCLIENT_TRADE_NOTUSE,Trading,Giao dịch
+TEXTCLIENT_TRADE_NOTUSE1,Because the person is trading.,Bởi vì có người đang giao dịch
+TEXTCLIENT_DIE_NOTUSE,If the person is dead,Nếu người đang giao dịch đã chết
+TEXTCLIENT_DIE_NOTUSE1,Because the person is dead,Bởi vì người đang giao dịch đã chết
+TEXTCLIENT_VENDOR_NOTUSE,On opening a private shop,Mở một cửa hàng tư nhân
+TEXTCLIENT_VENDOR_NOTUSE1,Because the person is on opening a private shop,Bởi vì người đó đang mở một cửa hàng tư nhân
+TEXTCLIENT_ATTACK_NOTUSE,In Combat,trong cuộc chiến
+TEXTCLIENT_ATTACK_NOTUSE1,Because the person is in combat.,Bởi vì có người đang chiến đấu.
+TEXTCLIENT_FLY_NOTUSE,On flying,Đang bay
+TEXTCLIENT_FLY_NOTUSE1,Because the person is flying.,Vì có người đang bay.
+TEXTCLIENT_DUEL_NOTUSE,In Duel,Trong cuộc đấu tay đôi
+TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,Bởi vì người đó đang đấu tay đôi.
+TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,Trong khu vực sự kiện
+TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,Ở Kebaras
+TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,Bạn không thể sử dụng vật phẩm cho chính mình.
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s không trực tuyến
+TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,Người chơi này không phải là bạn của bạn hoặc bị chặn.
+TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,Bạn không thể triệu tập %s
+TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,Bạn không thể chấp nhận %s
+TEXTCLIENT_WORLD_NOTUSE,Because you are in different areas,Bởi vì bạn ở những khu vực khác nhau
+TEXTCLIENT_DUNGEON_NOTUSE,Because you are in a dungeon,Bởi vì bạn đang ở trong ngục tối
+TEXTCLIENT_SUMMONFRIEND_CONFIRM,You have asked to summon %s,Bạn đã yêu cầu triệu tập %s
+TEXTCLIENT_SUMMON_FRIEND_CANCEL,%s has cancelled the summon.,%s đã hủy lệnh triệu hồi.
+TEXTCLIENT_SUMMONFRIEND_NOITEM,You don't have %s. You cannot summon %s.,Bạn không có %s. Bạn không thể triệu hồi %s.
+TEXTCLIENT_SUMMON_SUCCESS1,You are summoned to %s,Bạn được triệu tập đến %s
+TEXTCLIENT_SUMMON_SUCCESS,%s is summoned,%s được triệu tập
+TEXTCLIENT_SUMMONPARTY_NOTTIME,You can not go.,Bạn không thể đi.
+TEXTCLIENT_TROUPECREATE,Only the party leader can use this function.,Chỉ trưởng nhóm mới có thể sử dụng chức năng này.
+TEXTCLIENT_ITEM_TRANSY,This item is not available. Please input another item.,Vật phẩm này không có sẵn. Vui lòng nhập một vật phẩm khác.
+TEXTCLIENT_ITEM_TRANSY_NOT_LEVEL,Only %d-%d level items are usable.,Chỉ có thể sử dụng các vật phẩm cấp%d-%d.
+TEXTCLIENT_ITEM_TRANSY_SUCCESS,The change from %s to %s was successful.,Thay đổi từ %s thành %s đã thành công.
+TEXTCLIENT_GUILDCREATE,Only the guild master can use this function.,Chỉ có Bang chủ mới có thể sử dụng chức năng này.
+TEXTCLIENT_CHANGENAME,Player name successfully changed.,Tên người chơi đã được thay đổi thành công.
+TEXTCLIENT_MAP_MARK_MAX_NUMBER,You can't save your position any more. Please arrange your saved postion first and try again.,Bạn không thể lưu vị trí của mình nữa. Vui lòng sắp xếp vị trí đã lưu của bạn trước và thử lại.
+TEXTCLIENT_UPGRADE_ERROR_NOUNICK,You cannot upgrade a unique item.,Bạn không thể nâng cấp một vật phẩm duy nhất.
+TEXTCLIENT_NOTEQUALELEM,The attribute of %s and the applied attribute of the item are not the same.,Thuộc tính %s và thuộc tính áp dụng của vật phẩm không giống nhau.
+TEXTCLIENT_NOTELEMENT,The attribute has not been applied to the selected item. Please finish the attribute refining first.,Thuộc tính chưa được áp dụng cho vật phẩm đã chọn. Vui lòng hoàn thành việc tinh chỉnh thuộc tính trước.
+TEXTCLIENT_ALREADYELEM,Charge attribute has already been applied.,Thuộc tính đột kích đã được áp dụng.
+TEXTCLIENT_REMOVEELEMENT,The attribute of the selected item has been deleted.,Thuộc tính của vật phẩm đã chọn đã bị xóa.
+TEXTCLIENT_CHATSAMETEXT,Unable to enter the same sentence twice in a row.,Không thể nhập cùng một câu hai lần liên tiếp.
+TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to chat spam limitations.,Không thể truyền tin nhắn cuối cùng do giới hạn về spam trò chuyện.
+TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),Hiện tại cuộc trò chuyện của bạn đã bị chặn. (Còn lại: %d phút %d giây)
+TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,Chỉ được phép hét lên 5 lần mỗi 60 giây.
+TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,Chỉ được phép hét với Hét Trọn Vẹn 2 phút một lần.
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,Bạn không có Bang Hội hoặc bạn không phải là Bang Chủ
+TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Guild Siege đã đóng.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,Cấp độ bang hội của bạn phải đạt ít nhất %d để đăng ký bao vây.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,Bạn sẽ mất ít nhất %d penya để áp dụng cho cuộc bao vây
+TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,Bạn sẽ phải trả %d penya để áp dụng cho cuộc bao vây.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Bạn có thể áp dụng để bao vây bang hội nếu bạn có Penya cần thiết.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,Bạn đã yêu cầu %d penya trước. Và sau đó bạn yêu cầu thêm %d penya.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Bạn đã áp dụng thành công cuộc bao vây bang hội. Bạn có thể tổ chức nhập Bang hội từ 5 giờ chiều (PST) vào thứ Bảy hàng tuần.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,Đăng ký bao vây bang hội đã hoàn tất.
+TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Bạn không thể sử dụng nó ngay bây giờ.
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Bạn đã không đăng ký Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,Phí đăng ký sẽ được hoàn lại khi bạn không tham gia cuộc bao vây bang hội.
+TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,Cuộc bao vậy ban hội mà bạn tham gia đã bị hủy
+TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Hoàn vốn Penya
+TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,Xin chào. Tôi là người quản lý bang hội tên là Donaris.\nTôi sẽ trả lại tiền cho bạn vì bạn đã đăng ký hủy. Tôi đã trích 20% như một khoản hoa hồng.\nChúc bạn ngày mới tốt lành!
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Chúc bạn ngày mới tốt lành!
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","Bạn đủ điều kiện để vào bao vây bang hội. Hãy hoàn thành ""xếp hàng cho cuộc bao vây bang hội"" ở Flaris ngay bây giờ."
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","Bạn không đủ điều kiện. Hãy thử thách lại vào tuần sau. Sau khi hoàn thành guild siege, nhận phí đăng ký ở Flaris."
+TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,Bao vây bang hội sẽ sớm bắt đầu. Bạn sẽ được tự động dịch chuyển đến Flaris sau %d giây.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","Từ bây giờ, Franky ở Flarine có thể cho bạn vào đấu trường Bao vây bang hội"
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.","Từ bây giờ, bạn có thể tổ chức lối vào bao vây bang hội"
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,Thời gian tổ chức xếp hàng và chuẩn bị cho Bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Lịch bảo trì
+TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,Kết thúc trận chiến
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Dịch chuyển đến Flaris
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,Chế độ Bao vây bang hội hiện đã có sẵn
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.","Hiện tại, bạn không thể sắp xếp một lối vào"
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.","Bạn đã không áp dụng cuộc bao vây bang hội hoặc, bạn không được chấp nhận tham gia cuộc bao vây bang hội."
+TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,Đã vượt quá số %d người.
+TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Bạn phải trên cấp %d cho một mục nhập.
+TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Đã đăng ký. Đăng ký lại.
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Bang chủ không thể là một người bảo vệ.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,Không có kingpin hoặc bang chủ trong tại lối vào
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Không có hậu vệ. Chọn một hậu vệ.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Không có người tham gia. Chọn người tham gia.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,Cuộc bao vây bang hội được tổ chức trong tuần này
+TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Hãy tham gia sau một thời gian.
+TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Công tác chuẩn bị đang được tiến hành.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Vagrant không đủ điều kiện để bao vây bang hội. Hãy thử lại sau khi thay đổi chức nghiệp đầu tiên của bạn.
+TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Chào mừng bạn đến với Bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,Bạn có thể phóng to máy ảnh bằng cách nhấn phím [Scroll Lock].
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.","Bạn là Bang chủ! Đánh bại được hậu vệ, bạn sẽ nhận được tiền thưởng."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.","Bạn là hậu vệ! Nếu bạn bị kẻ thù đánh bại, họ sẽ nhận được tiền thưởng"
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.","Đánh bại đối thủ của bạn để giành vinh quang cho bang hội của bạn! Đánh bại được hậu vệ, bạn sẽ nhận được tiền thưởng."
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!","Xin chúc mừng, bạn đã nhận được bản đồ bang hội!"
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,Chiến đấu bắt đầu ngay sau khi bảo trì máy chủ. Chuẩn bị cho chiến tranh!
+TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Bắt đầu chiến đấu
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Bang chủ đã tăng %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,Bang hội của bạn đã tăng %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Hậu vệ của bạn đã chết! Bang hội %s đã đạt được điểm!
+TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,Bạn phải được kết nối trên Kênh 1 để vào Bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,Bao vây bang hội đã kết thúc
+TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,Bang hội chiến thắng trong tuần này: bang hội %s
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVP là %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Chúc mừng!
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Thời gian giới hạn
+TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Bạn không thể mời ai đó vào bang hội khi đang trong Cuộc bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,Bạn có thể giải tán một bang hội đã đăng ký Cuộc bao vây Bang hội.
+TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Bạn không thể thoát khỏi một bang hội khi đang ở trong Cuộc bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,Không thể sử dụng chức năng quản lý thành viên trong Cuộc bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,Bạn không thể thay đổi biểu tượng Bang hội của mình trong Cuộc bao vây Bang hội.
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,Bạn không thể thay đổi tên bang hội của mình trong Cuộc bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Không thể tuyên chiến trong Cuộc bao vây bang hội
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,Bạn không thể sử dụng các vật phẩm trong sự kiện
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,Bạn không thể sử dụng các kỹ năng trong sự kiện
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,Bạn không thể bỏ bùa trong thời gian diễn ra sự kiện.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,Bạn không thể la hét trong thời gian diễn ra sự kiện.
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,Điều đó không có sẵn trong Cuộc bao vây bang hội
+TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Hoàn lại tiền khi đấu thầu không thành công cho cuộc bao vây bang hội
+TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,Xin chào. Tôi là người quản lý bang hội tên là Donaris.\nTôi sẽ trả lại cho bạn một số tiền của bạn. Tôi đã trích 2% như một khoản hoa hồng.\nTôi hy vọng sẽ gặp lại bạn tại Cuộc bao vây bang hội.\nCảm ơn vì sự quan tâm của bạn
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.",Bạn đã nhận được tiền thưởng cho MVP hoặc bạn không phải là MVP.
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.","Vì số lượng vượt quá penya trong kho sau khi thêm tiền thưởng của cuộc bao vây bang hội, vui lòng yêu cầu GM nhận tiền thưởng trên trang web. Thành thật xin lỗi về sự bất tiện."
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,Bạn đã nhận được %d penya dưới dạng MVP. Xin chúc mừng!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",Bạn đã nhận được tiền thưởng hoặc bạn không phải là người cần nhận lại lệ phí đăng ký.
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,Bạn đã nhận được %d penya làm tiền thưởng cho cuộc bao vây bang hội. Xin chúc mừng!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Bạn đã nhận được %d penya trừ đi số tiền bạn đã trả cho đơn đăng ký
+TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Bạn không thể sử dụng cái này khi đang sử dụng transy.
+TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Tài khoản này bị cấm. Liên hệ với Bộ phận hỗ trợ FlyFF để được hỗ trợ.
+TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Bạn không thể đi lối này
+TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,Tài khoản của bạn không hợp lệ. Vui lòng kiểm tra hộp thư của bạn
+TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,Nhân vật này tạm thời bị chặn và không thể truy cập. Vui lòng liên hệ với dịch vụ khách hàng của Flyff Universe để biết thêm thông tin.
+TEXTCLIENT_RECONNECT_QUESTION,Do you want to try to reconnect?,Bạn có muốn thử kết nối lại không?
+TEXTCLIENT_ROSHAMBO_STARTGUID1,You need a Rock-Paper-Scissors Coupon in order to play.,Bạn cần có Phiếu giảm giá Rock-Paper-Scissors để chơi.
+TEXTCLIENT_MINIGAME_USING,You are playing a game now!,Bạn đang chơi một trò chơi bây giờ!
+TEXTCLIENT_MINIGAME_ITEM_POST,Item / Penya was sent to your mailbox.,Vật phẩm/Penya đã được gửi đến hộp thư của bạn.
+TEXTCLIENT_ERROR_TRYLATER,Please try again later,Xin vui lòng thử lại sau
+TEXTCLIENT_ERROR_LACKITEM,You don't have the right item.,Bạn không có vật phẩm phù hợp.
+TEXTCLIENT_EXCHANGE_SUCCESS,You have received %s x%d.,Bạn đã nhận được %s x%d.
+TEXTCLIENT_REAPITEM_EVENT,You have received %s as a reward!,Bạn đã nhận được %s như một phần thưởng!
+TEXTCLIENT_DISCONNECTED_CHEAT,"You have been disconnected from server due to abnormal detected activity. A GM will analyse the report and may decide to ban your account. If you think this is an error, please fill out a bug report indicating exactly what you were doing in game before this message. Thank you.","Bạn đã bị ngắt kết nối khỏi máy chủ do hoạt động bất thường được phát hiện. GM sẽ phân tích báo cáo và có thể quyết định cấm tài khoản của bạn. Nếu bạn cho rằng đây là lỗi, vui lòng điền vào báo cáo lỗi cho biết chính xác những gì bạn đang làm trong trò chơi trước thông báo này. Cảm ơn bạn."
+TEXTCLIENT_DISCONNECTED_HACK,Your character has been banned because the system detected a cheating software. A partial copy of your client memory has been stored as legal proof. You can create a new character and stop using any external tool. Thank you.,Nhân vật của bạn đã bị cấm vì hệ thống phát hiện phần mềm gian lận. Một bản sao một phần của bộ nhớ máy khách của bạn đã được lưu trữ như bằng chứng hợp lệ. Bạn có thể tạo một nhân vật mới và ngừng sử dụng bất kỳ công cụ bên ngoài nào. Cảm ơn bạn.
+TEXTCLIENT_CASHMAP_MAPITEMUSE,"If you use the torch, you will be able to see this map. Continue?","Nếu bạn sử dụng ngọn đuốc, bạn sẽ có thể nhìn thấy bản đồ này. Tiếp tục?"
+TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,Bạn đã có một thú cưng được triệu hồi.
+TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Một nhân vật có Định vị xấu không thể bay.
+TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Thông báo] Đây là một bài kiểm tra! Máy chủ sẽ đóng sau %s và các nhân vật sẽ bị xóa.
+TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Thông báo] Đây là quyền truy cập sớm! Các vấn đề về ổn định máy chủ và lỗi có thể xảy ra.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Thông báo] GM (Game Master) sẽ không bao giờ hỏi tài khoản hoặc mật khẩu ngân hàng của bạn.
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,[Thông báo] Không cho mượn hoặc cho người chơi mượn vật phẩm của bạn. Nếu họ không trả lại vật phẩm đó sẽ bị mất vĩnh viễn.
+TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Bạn đang ở quá xa mục tiêu.
+TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s đang ở trong một trận giết chóc!
+TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s đang nổi cơn thịnh nộ!
+TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%s là không thể ngăn cản!
+TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,%d phút còn lại để tiêu diệt boss
+TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s đã giết %s!
+TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s đến từ Bang %s đã giết %s!
+TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,%d phút còn lại để cướp các vật phẩm
+TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,Vagrant không thể tham gia Đấu trường
+TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,Vui lòng chuyển ra khỏi Đấu trường trước.
+TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,Bạn chỉ có thể sử dụng dịch chuyển Đấu trường 3 phút một lần.
+TEXTCLIENT_CHANGE_FACE,Change your Appearance.,Thay đổi diện mạo của bạn.
+TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,Bạn có muốn thay đổi diện mạo của mình không?
+TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%s phải đợi %s trước khi thực hiện lại nhiệm vụ ngục tối.
+TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,Bạn mất %s Penya (Tổng cộng: %s Penya)
+TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,Bạn không thể làm điều đó trong một cuộc đấu tay đôi.
+TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,Bạn có thể sử dụng vật phẩm này với menu Nâng cấp Thẻ tại Thẻ Master.
+TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,Nâng cấp thẻ thành công!
+TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,Nâng cấp thẻ không thành công
+TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,Nâng cấp thẻ không thành công. %d thẻ đã đăng ký sẽ bị hủy.
+TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,Bạn đã nhận được %s
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Chuyển đổi thành công!
+TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s đã tăng số lượng thành viên bạn có thể có trong bang hội lên 5!
+TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Đã gửi báo cáo thành công.
+TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,Bạn phải đợi trước khi báo cáo cùng một người chơi
+TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,Thành tựu
+TEXTCLIENT_ACHIEVEMENT_CLAIMSUCCESS,Successfully claimed,Xác nhận thành công
+TEXTCLIENT_ACHIEVEMENT_CLAIMNOTHING,You have nothing to claim,Bạn không có gì để yêu cầu
+TEXTCLIENT_ACHIEVEMENT_LEVELREACH,"You reached level %d of achievement ""%s""","Bạn đã đạt đến cấp %d của thành tích ""%s"""
+TEXTCLIENT_ACHIEVEMENT_COMPLETE,"You completed ""%s""","Bạn đã hoàn thành ""%s"""
+TEXTCLIENT_ACHIEVEMENT_TITLEUNLOCK,You unlocked title [%s],Bạn đã mở khóa danh hiệu [%s]
+TEXTCLIENT_PARTYMESSAGEERROR3,Your party is already level 40. You cannot use this item.,Nhóm của bạn đã lên cấp 40. Bạn không thể sử dụng vật phẩm này.
+TEXTCLIENT_PARTYALREADYPERMANENT,The party is already permanent.,Nhóm đã tồn tại vĩnh viễn
+TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatically ejected when they are offline.,Nhóm bây giờ là vĩnh viễn! Thành viên không tự động bị loại ra khi họ ngoại tuyến.
+TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,Bạn chỉ có thể tấn công quái vật này trong nhiệm vụ %s.
+TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,Không đủ Protection Scroll.
+TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,Không đủ nguyên liệu nâng cấp
+TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,Không đủ Penya
+TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,Sai nguyên liệu nâng cấp
+TEXTCLIENT_UPGRADESAFE_NOMINERAL,You need at least #b%d#nb additional %s.,Bạn cần ít nhất #b%d#nb thêm vào %s.
+TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,Kinh nghiệm nhóm đã thay đổi thành %s.
+TEXTCLIENT_PARTY_CHANGEITEM,Party Distribute Item changed to %s.,Phân phối vật phẩm nhóm đã thay đổi thành %s.
+TEXTCLIENT_JOIN_GROUP_APPROVAL,Please wait for Leader Approval.,Vui lòng đợi sự chấp thuận của Trưởng nhóm
+TEXTCLIENT_JOIN_GUILD_APPROVAL,Please wait for Master Approval.,Vui lòng đợi Phê duyệt chính.
+TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%s đã từ chối cho bạn tham gia nhóm.
+TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%s đã từ chối cho bạn tham gia Bang hội
+TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,Không thể sử dụng kỹ năng này khi đang bay.
+TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,Đồ ngốc! Tôi sẽ làm tan chảy tất cả các bạn!
+TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,Bạn sẽ đốt! Tất cả các bạn sẽ bùng cháy!
+TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s! Tới gần hơn! Đối mặt với tôi! Đốt cháy!
+TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,Anh tưởng tôi chỉ có một mình sao?!
+TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,Không thể giải trừ Buff bây giờ.
+TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,Buff đã được giải trừ
+TEXTCLIENT_ERROR_SNATCH,No Penya to steal from this target.,Không có Penya để đánh cắp từ mục tiêu này
+TEXTCLIENT_ERROR_ITEM_ACCESSLEVEL,You don't have the required access to use this item.,Bạn không có quyền truy cập cần thiết để sử dụng vật phẩm này.
+TEXTCLIENT_ERROR_CATCHERPRIORITY,You can only kill and collect one Catcher at a time.,Bạn chỉ có thể giết và thu thập một Catcher tại một thời điểm.
+TEXTCLIENT_MAX_COLLECTOR_LEVEL,Collector can be upgraded up to +5.,Collector có thể được nâng cấp lên đến +5.
+TEXTCLIENT_MAX_HARVEST_LEVEL,Harvesting gloves can only be upgraded up to +5.,Găng tay thu hoạch chỉ có thể được nâng cấp lên đến +5.
+TEXTCLIENT_CAN_JOIN_GUILD,You can already join a guild.,Bạn đã có thể tham gia một bang hội
+TEXTCLIENT_CAN_REJOIN_GUILD,You can join a guild now.,Bạn có thể tham gia một bang hội ngay bây giờ.
+TEXTCLIENT_NEED_PET,You must summon a pet first.,Bạn phải triệu hồi một thú cưng trước.
+TEXTCLIENT_CHANGENAME_PET,Pet name successfully changed.,Đã thay đổi thành công tên thú cưng.
+TEXTCLIENT_PET_SKILL_NOUSE,Your pet must have at least %d energy and a full progress bar to use the skill.,Thú cưng của bạn phải có ít nhất %d năng lượng và thanh tiến trình đầy để sử dụng kỹ năng.
+TEXTCLIENT_PET_SKILL_HASBUFF,The skill is already active.,Kỹ năng đã hoạt động.
+TEXTCLIENT_REAPMONEY_SHORT,Received %s Penya - Total %s,Đã nhận %s Penya - Tổng %s
+TEXTCLIENT_REAPITEM_SHORT,Received %s,Đã nhận %s
+TEXTCLIENT_TROUPEREAPITEM_SHORT,%s received %s,%s đã nhận %s
+TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,Máy chủ bảo trì trong %s
+TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,Máy chủ bảo trì bị hủy
+TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,Giá của %s không được vượt quá %s Penya
+TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,Cửa hàng đại lý của bạn hiện đã mở cửa.
+TEXTCLIENT_VENDOR_SHOP_CLOSE,Your Vendor Shop has been closed.,Cửa hàng đại lý của bạn hiện đã đóng cửa.
+TEXTCLIENT_VENDOR_SHOP_NOTOWN,You cannot purchase items from your own Vendor.,Bạn không thể mua các vật phẩm từ Nhà cung cấp của chính mình.
+TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your inventory and login again.,Bạn có %d vật phẩm để nhận. Vui lòng tạo chỗ trống trong kho của bạn và đăng nhập lại.
+TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,Đã đánh dấu vật phẩm thành Ưa thích
+TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,Bạn đang sử dụng 2 Túi phụ.
+TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,Kho chứa đồ đã được mở rộng
+TEXTCLIENT_APP_EXTRABAG,Inventory View,Xem kho chứa đồ
+TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,Ai đó phải giết bạn để đặt tiền thưởng.
+TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,Tiền thưởng đã đăng ký thành công.
+TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,Bạn phải đợi trước khi đăng ký tiền thưởng cho người chơi này.
+TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s hiện đang ngoại tuyến.
+TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,Không gian kho chứa đồ của bạn đã tăng %d!
+TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s đã nâng cấp %s lên %s +%d!
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s đã nâng cấp [Soul-Bound] %s lên %s +%d!
+TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s đã đạt đến cấp độ %d!
+TEXTCLIENT_APP_GACHA,Gacha,Gacha
+TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,Hộp đã được đặt lại thành công.
+TEXTCLIENT_APP_BOT,Bot,Bot
+TEXTCLIENT_SKILL_AWAKE,Item received a bonus.,Vật phẩm đã nhận được tiền thưởng.
+TEXTCLIENT_SKILL_AWAKE_FAILED,No bonus is available for this item.,Không có tiền thưởng cho vật phẩm này.
+TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,Không thể hoàn thành.
+TEXTCLIENT_ITEM_LEVELDOWN_ALREADY,Better effect has already been activated.,Hiệu ứng tốt hơn đã được kích hoạt.
+TEXTCLIENT_UNBINDING,The item is now tradable.,Vật phẩm hiện có thể giao dịch.
+TEXTCLIENT_EXPSTOP_EMPTY,Reload the Experience Lock gauge first.,Tải lại thước đo Experience Lock trước.
+TEXTCLIENT_EXPSTOP_STOP,You receive experience from monsters now!,Bạn nhận được kinh nghiệm từ quái vật ngay bây giờ!
+TEXTCLIENT_EXPSTOP_START,Your experience is now locked.,Kinh nghiệm của bạn hiện đã bị khóa.
+TEXTCLIENT_EXPSTOP_ALMOST,Your Experience Lock gauge is almost empty.,Đo Experience Lock của bạn gần như trống rỗng
+TEXTCLIENT_EXPSTOP_ACTIVE,You don't receive experience because Experience Lock is active.,Bạn không nhận được kinh nghiệm vì Experience Lock đang hoạt động.
+TEXTCLIENT_EXPSTOP_RELOAD,Your Experience Lock gauge is now %d.,Chỉ số Experience Lock của bạn hiện là %d.
+TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please refresh in a few seconds.,Xếp hạng đấu trường hiện đang tải. Vui lòng làm mới sau vài giây.
+TEXTCLIENT_ARENA_RANKING_WINNER,The best player of the Arena this week is %s!,Người chơi hay nhất của Đấu trường tuần này là %s!
+TEXTCLIENT_ARENA_RANKING_MAIL,Congratulations for your rank %d in the PvP Arena this week!,Xin chúc mừng vì thứ hạng %d của bạn trong Đấu trường PvP tuần này!
+TEXTCLIENT_QUEST_NOTELEPORT,Blinkwings are not allowed during the quest %s.,Blinkwings không được phép trong khi thực hiện nhiệm vụ %s.
+TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,Bạn vừa tìm thấy một %s!
+TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s vừa tìm thấy một %s!
+TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,Vật phẩm đó không thể được Ban phước.
+TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,Vật phẩm đã được đánh thức.
+TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,Tính năng này chỉ có thể được sử dụng trên các vật phẩm may mắn.
+TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,Ban phước của Nữ thần đã bị xóa.
+TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,Đây là một món quà vì bạn đã không đăng nhập trong một thời gian dài!
+TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,Có quá nhiều vật phẩm trên mặt đất.
+TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,Bạn đã tạo %dx %s.
+TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,Chế tạo trang sức không thành công.
+TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,Xin chúc mừng vì thứ hạng %d (%s) của bạn trong bảng xếp hạng Sức mạnh Chiến đấu!
+TEXTCLIENT_PVPLIMIT,This PvP kill is not counted because you already fought together a little while ago.,Lần giết PvP này không được tính vì các bạn đã chiến đấu với nhau cách đây ít lâu.
+TEXTCLIENT_GEM_WRONG,Please use the correct Jewel for the weapon.,Vui lòng sử dụng Trang sức chính xác cho vũ khí.
+TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,Chuyển đổi thành vũ khí độc nhất thành công!
+TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,Chuyển đổi thành vũ khí độc nhất không thành công!
+TEXTCLIENT_BOUNTY_OTHERCHANNEL,The player is currently in a different channel.,Người chơi hiện đang ở một kênh khác.
+TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,Người chơi hiện đang ở khu vực an toàn
+TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,Bạn đã ở rất gần nơi này!
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,Xin chúc mừng bạn đã có thứ hạng %d trong bảng xếp hạng Cuộc săn khổng lồ!
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,Chúc mừng bạn đã đạt %d điểm trong bảng xếp hạng Săn Khổng Lồ!
+TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,Bạn đã nhận được %d Điểm săn khổng lồ (Tổng %d)!
+TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,Bạn không thể mua bởi vì máy chủ sẽ bảo trì sau vài giây.
+TEXTCLIENT_CTRLRECOVERY,You found a HP container!,Bạn đã tìm thấy một hộp đựng HP!
+TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,Phần thưởng đã được xác nhận thành công
+TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,Bạn đã nhận được %s Tiền thưởng fCoins.
+TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,Vũ khí không có bất kỳ hiệu ứng nâng cấp nào.
+TEXTCLIENT_UPGRADEEFFECT,Upgrade effects are changed for this weapon.,Các hiệu ứng nâng cấp được thay đổi cho vũ khí này.
+TEXTCLIENT_INVALIDOTP,Invalid Two Factor authentication code.,Mã xác thực hai yếu tố không hợp lệ.
+TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,Không thể hoàn thành thử thách. Xin vui lòng thử lại.
+TEXTCLIENT_SERVERCLOSED,The game is in maintenance. Please wait.,Trò chơi đang được bảo trì. Vui lòng chờ
+TEXTCLIENT_PRIVATE_SHOP_LEVEL,You must complete your 1st Job Change to open a Private Shop.,Bạn phải hoàn thành Thay đổi chức nghiệp đầu tiên của mình để mở Cửa hàng tư nhân.
+TEXTCLIENT_VENDOR_SHOP_LEVEL,You must reach level %d to open a Vendor Shop.,Bạn phải đạt đến cấp độ %d để mở Cửa hàng đại lý.
+TEXTCLIENT_CANT_CHAT_LEVEL,Guest Characters under Level %d cannot use the chat.,Nhân vật Khách dưới Cấp %d không thể sử dụng trò chuyện.
+TEXTCLIENT_CANT_CHAT_LEVEL2,Characters under Level %d cannot use the chat.,Nhân vật dưới Cấp %d không thể sử dụng trò chuyện.
+TEXTCLIENT_TOOMANYREQUESTS,Too many requests. Please try again later.,Quá nhiều yêu cầu. Vui lòng thử lại sau.
+TEXTCLIENT_PLAYERDISCONNECTED,Player %s disconnected.,Người chơi %s đã bị ngắt kết nối
+TEXTCLIENT_ERROR_CATCHERLEVEL,You must complete your 1st Job Change to attack this monster.,Bạn phải hoàn thành Thay đổi chức nghiệp đầu tiên của mình để tấn công con quái vật này.
+TEXTCLIENT_ERROR_RESURRECTPK,You can only be resurrected on a PK channel.,Bạn chỉ có thể hồi sinh trên kênh PK.
+TEXTCLIENT_GUILD_ADDBAG,%s expanded the guild bank!,%s đã mở rộng ngân hàng bang hội!
+UI_CASHSHOP_MAXPURCHASE,Maximum amount of purchases per character: %d,Số lượng mua tối đa cho mỗi nhân vật: %d
+TEXTCLIENT_LEADERSHIPOFF,Cannot transfer Leadership to offline player.,Không thể chuyển Quyền lãnh đạo sang người chơi ngoại tuyến.
+TEXTCLIENT_PET_NOTFOUND,You do not have a summoned pet.,Bạn không có một con vật cưng nào được triệu hồi.
+TEXTCLIENT_PET_USEFEED,You have used %d pet candy.,Bạn đã sử dụng %d kẹo thú cưng.
+TEXTCLIENT_PET_HATCH,Bring your Pet to the Pet Tamer to upgrade it!,Mang thú cưng của bạn đến Pet Tamer để nâng cấp nó!
+TEXTCLIENT_PET_WRONGCANDY,You must use the correct Pet Candy to feed your pet.,Bạn phải sử dụng đúng Kẹo thú cưng để nuôi thú cưng của mình.
+TEXTCLIENT_PET_HATCH_CONF,Turns an egg into a D Level pet. Pet class will be decided at random.,Biến quả trứng thành một thú cưng D Level. Cấp của thú cưng sẽ được quyết định ngẫu nhiên.
+TEXTCLIENT_PET_REQEGG,Use on your egg.,Sử dụng trên quả trứng của bạn.
+TEXTCLIENT_PET_REROLL_TIER,The tier of the pet must be higher or equal.,Cấp của thú cưng phải cao hơn hoặc bằng.
+TEXTCLIENT_PET_REROLL_ALREADY,Your pet already has the maximum level possible.,Thú cưng của bạn có thể có cấp tối đa.
+TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!",Thú cưng của bạn đã lên 1 cấp độ mới!
+TEXTCLIENT_PET_REROLL_LOWER,"You rolled the same or a lower level, so nothing changed.","Bạn đã tung số cùng hoặc thấp hơn, vì vậy không có gì thay đổi."
+TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,Thanh năng lượng đã đầy.
+TEXTCLIENT_PET_NOTEGG,Cannot use on egg.,Không thể sử dụng trên trứng.
+TEXTCLIENT_PET_TRANSMUTE,Your pet has got a new appearance!,Thú cưng của bạn đã có một diện mạo mới!
+TEXTCLIENT_GUILDCOMBAT_REDCHIPS,%d Red Chips have been sent to your inventory or mail box.,%d Red Chips đã được gửi đến kho hoặc hộp thư của bạn.
+TEXTCLIENT_PET_TRANSMUTE_CONF,Your pet will get a new appearance. Do you want to continue?,Thú cưng của bạn sẽ có một diện mạo mới. Bạn có muốn tiếp tục?
+TEXTCLIENT_ITEM_TRANSMUTE_SUCCESS,You have transmuted your item!,Bạn đã chuyển đổi vật phẩm của mình!
+TEXTCLIENT_ITEM_TRANSMUTE_INCOMPATIBLE,These items are not compatible for transmutation.,Những vật phẩm này không tương thích để chuyển đổi.
+TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,Quá trình chuyển đổi đã bị loại bỏ.
+TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,Vật phẩm đã được thêm vào tủ quần áo của bạn.
+TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,Không thể tuyên chiến trong kênh này.
+TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Flyff Pass
+TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s nhiệm vụ %s đã hoàn thành.
+TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,Bạn đã nhận được %d %s điểm.
+TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,Phần %s đã được khởi động lại!
+TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,Bạn đã đạt điểm %s %d!
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,You reached the %s bonus grade %d+%d!
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,Battle Pass đã kết thúc.
+TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Cảm ơn bạn đã mua Extended %s!
+TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Mua Extended %s để nhận thêm phần thưởng!
+TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Chỉ những nhân vật cấp 80 trở xuống mới có thể áp dụng Lv80 Guild Siege.
+TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Chỉ những nhân vật không hoàn thành thay đổi lớp thứ hai mới có thể áp dụng Lv60 Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,Lv80 Guild Siege được tổ chức trong tuần này.
+TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,Lv80 Guild Siege được tổ chức trong tuần này.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Level 80 Guild Siege đã kết thúc.
+TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Level 60 Guild Siege đã kết thúc.
+TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s đã được gửi đến bảng kê tài nguyên hoặc hộp thư của bạn.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.","Từ bây giờ, Atlas in Flarine có thể cho phép bạn tham gia đấu trường Guild Siege Lv80."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.","Từ bây giờ, Olivia in Flarine có thể cho phép bạn tham gia đấu trường Guild Siege Lv80."
+TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,Guild Siege khác đang diễn ra.
+TEXTCLIENT_SKILL_ROOT,You cannot move right now.,Bạn không thể di chuyển ngay bây giờ được.
+TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s đã giảm!
+TEXTCLIENT_EVENT_REQGUILD,You should join a Guild to participate to the event!,Bạn nên tham gia Guild để tham gia sự kiện!
+TEXTCLIENT_GUILD_WORLDCUP_POINTS,%s brought %d GET'EM B'ALL points to the Guild (Total: %d)!,%s đã mang về %d điểm GET'EM B'ALL cho Hội (Tổng cộng: %d)!
+TEXTCLIENT_WORLDCUP_RANKING_MAIL,Congratulations for your rank %d in the GET'EM B'ALL ranking!,Chúc mừng bạn đã xếp hạng %d trong bảng xếp hạng GET'EM B'ALL!
+TEXTCLIENT_REMOVEPIERCING_NOSELECTION,You need to select a card to remove !,Bạn cần chọn một thẻ để xóa !
+TEXTCLIENT_REMOVEPIERCING_NOCARD,The slot you selected has no card in it !,Vị trí bạn đã chọn không có thẻ trong đó !
+TEXTCLIENT_DUNGEON_FAIL_ENTER,Unable to enter the dungeon.,Không thể vào ngục tối.
+TEXTCLIENT_DUNGEON_FAIL_LEADER,Your leader must enter the dungeon first.,Leader của bạn phải vào ngục tối trước.
+TEXTCLIENT_DUNGEON_START,%s started the dungeon %s!,%s đã bắt đầu dungeon %s!
+TEXTCLIENT_DUNGEON_START_DIFFICULTY,%s started the dungeon %s (%s)!,%s đã bắt đầu ngục tối %s (%s)!
+TEXTCLIENT_DUNGEON_FULL,Too many players are in this dungeon. Please wait a moment.,Quá nhiều người chơi đang ở trong ngục tối. Xin vui lòng chờ trong giây lát.
+TEXTCLIENT_DUNGEON_NOTRANS,You cannot enter an instanced dungeon while you are using a Trans.,Bạn không thể vào ngục tối trong khi đang sử dụng Trans.
+TEXTCLIENT_DUNGEON_NOTRANSUSE,You cannot use a Trans inside of an instanced dungeon.,Bạn không thể sử dụng Trans bên trong ngục tối.
+TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a moment.,Phiên bản trước đang đóng. Xin vui lòng chờ trong giây lát.
+TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,Ngục tối này không cho phép nhiều hơn %d thành viên trong nhóm tiến vào.
+TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,Lối vào không được phép cho bây giờ.
+TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,%d minute(s) còn lại để dọn %d monsters
+TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...","Thời gian đã hết, bạn đã thất bại trong ngục tối..."
+TEXTCLIENT_LACKITEM,You do not have the required items.,Bạn không có các vật phẩm cần thiết.
+TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,Chuẩn bị cho mình!
+TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,Dungeon của bạn đang chạy trên một kênh khác.
+TEXTCLIENT_DUNGEON_COOLDOWN,Please wait before challenging this dungeon again.,Vui lòng đợi trước khi thực hiện thử thách ngục tối này một lần nữa.
+TEXTCLIENT_DUNGEON_PARTY_REQ,You must be in a Party to enter this dungeon.,Bạn phải tham gia Party để vào được ngục tối này.
+TEXTCLIENT_DUNGEON_GUILD_REQ,You must be in a Guild to enter this dungeon.,Bạn phải ở trong một Guild để vào ngục tối này.
+TEXTCLIENT_GUILDCOMBAT_NOMASTERS,You cannot join a Lv80 Guild Siege or Lv60 Guild Siege when doing a master quest!,Bạn không thể tham gia Lv80 Guild Siege hoặc Lv60 Guild Siege khi đang thực hiện nhiệm vụ chính!
+TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,Bạn đã mở khóa skill [%s] lv.%d!
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL,Congratulations for your rank %d in the Thief Santa Hunt ranking!,Chúc mừng bạn đã xếp hạng %d trong Thief Santa Hunt ranking!
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Thief Santa Hunt ranking!,Xin chúc mừng bạn đã đạt được %d điểm trong Thief Santa Hunt ranking!
+TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,Bạn đã nhận được %d Thief Santa Hunting Points (Tổng %d)!
+TEXTCLIENT_APP_LOTTERY,Lottery,Lottery
+TEXTCLIENT_LOTTERY_LOWLEVEL,"Your level is too low, you must be level %d minimum to start this lottery!","Cấp độ của bạn quá thấp, tối thiểu bạn phải ở cấp độ %d để bắt đầu xổ số này!"
+TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!","Cấp độ của bạn quá cao, bạn phải ở cấp độ tối đa %d để bắt đầu xổ số này!"
+TEXTCLIENT_LOTTERY_ITEMSMISSING,You must have %d %s to start this lottery!,Bạn phải có %d %s để bắt đầu xổ số này!
+TEXTCLIENT_LOTTERY_ERRORSTARTED,You already started a lottery! Wait for it to finish!,Bạn đã bắt đầu chơi xổ số! Chờ cho nó kết thúc!
+TEXTCLIENT_LOTTERY_NOREWARD,Unlucky.. You got no reward this time!,Thật không may.. Lần này bạn không nhận được phần thưởng nào!
+TEXTCLIENT_LOTTERY_NOFREESPINS,You don't have any free spins left!,Bạn không còn bất kỳ vòng quay miễn phí nào!
+TEXTCLIENT_LOTTERY_FREESPIN,You can now claim your free Lottery Wheel spin!,Bây giờ bạn có thể yêu cầu vòng quay Xổ số miễn phí của mình!
+TEXTCLIENT_APP_EVENTPASS,Lunar Pass,Lunar Pass
+TEXTCLIENT_BATTLEPASS_REWARD,You need to be at least level %d to claim %s rewards!,Bạn cần đạt ít nhất cấp độ %d để nhận phần thưởng %s!
+TEXTCLIENT_EXCHANGECONSUME_ERROR,You already have one buff of that type active.,Bạn đã có một buff thuộc loại đó đang hoạt động.
+TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,Không tìm thấy guild %s.
+TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,Bạn phải cung cấp một lý do.
+TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,Bạn đã nhận được cảnh báo từ %s: %s
+TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s đã được cảnh báo.
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.","%s không trực tuyến, nhưng cảnh báo vẫn được ghi lại."
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,Còn %d minute(s) để tiêu diệt %s
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,Còn %d minute(s) để tiêu diệt %dx %s
+TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,Vé của bạn đã hết hạn! Bạn đã được dịch chuyển trở lại Madrigal!
+TEXTCLIENT_PETCAGE_FAIL01,The pet inside did not survive.,Pet bên trong đã không sống sót.
+TEXTCLIENT_MINTARGETLEVEL,This item can only be used on items level %d and above.,Vật phẩm này chỉ có thể được sử dụng trên các vật phẩm cấp %d trở lên.
+TEXTCLIENT_DUNGEON_MAXENTRY,Your reached the maximum entrance amount for today.,Bạn đã đạt đến số tiền truy cập tối đa cho ngày hôm nay.
+TEXTCLIENT_DUNGEON_MAXINSTANCE,You already have %d dungeon running. Please wait.,Bạn đã có %d dungeon đang chạy. Vui lòng chờ.
+TEXTCLIENT_DUNGEON_RATELIMIT,Too many players are starting dungeons. Please try again soon.,Quá nhiều người chơi đang khởi động dungeons. Vui lòng thử lại sớm.
+TEXTCLIENT_DUNGEON_FAILMASTER,You cannot enter dungeons while on a Master quest.,Bạn không thể vào dungeons khi đang thực hiện Master quest.
+TEXTCLIENT_ITEM_PK,This item is only usable on a PK Channel.,Vật phẩm này chỉ sử dụng được trên PK Channel.
+TEXTCLIENT_DUNGEON_RANKING_MAIL,Congratulations for your rank %d in the %s!,Chúc mừng bạn đã xếp hạng %d trong %s!
+TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,Người chiến thắng %s tuần này là %s Guild
+TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,Không có Guild of the %s nào chiến thắng
+TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,Bạn không thể dịch chuyển tức thời trên non-PK channel trong khi sử dụng PK ticket
+TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,Dungeon đã hoàn thành sau %s!
+TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,Chúc mừng! Bạn đã giết tất cả %s(s)! Boss sẽ xuất hiện với tiền thưởng!
+TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,Một người chơi khác đang sử dụng điều này! Vui lòng đợi..
+TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,Mục %s chỉ có thể tích lũy nếu buff là chính xác mục tiêu. Mục tiêu buff hiện tại là %s.
+TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,Trang phục đã được sử dụng.
+TEXTCLIENT_COSTUMECOLLECTION_NOTHING,You have nothing to submit.,Bạn không có gì để nộp.
+TEXTCLIENT_APP_EVENTS,Events,Sự kiện 
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_1,You have nothing to submit.,Bạn không có gì để nộp.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_2,Achievement collection error 02.,Lỗi thu thập thành tích 02.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_3,Achievement collection error 03.,Lỗi thu thập thành tích 03.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_4,Achievement collection error 04.,Lỗi thu thập thành tích 04.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_5,Costume is already used.,Trang phục đã được sử dụng.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_6,Achievement collection error 06.,Lỗi thu thập thành tích 06.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_7,Achievement collection error 07.,Lỗi thu thập thành tích 07
+TEXTCLIENT_ACHIEVEMENT_COLLECTIONSUCCESS,Costumes successfully submitted.,Trang phục đã được gửi thành công.
+TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""",Bạn đã đạt được %d trong số ''%s''
+TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Thông điệp của bạn vượt quá độ dài tối đa.
+TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,Bạn không thể di chuyển nếu đang bị đóng băng.
+TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,Bạn phải đạt cấp độ %d để giao dịch các vật phẩm cao cấp.
+TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,Bạn phải đạt cấp độ %d để sử dụng hành động này.
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Switch Equip
+TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,"""Bạn chỉ có thể trang bị các mặt hàng từ menu / phím tắt SwitchEquip."
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,Bạn đã cập nhật bộ cài đặt %s thành công!
+TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,Bạn có quá nhiều bộ cài đặt!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,Bạn đã tạo bộ cài đặt %s thành công!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,Bạn đã xóa bộ cài đặt %s thành công!
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,You don't have access to this preset anymore.. You need battlepass for it.,"""Bạn không còn quyền truy cập vào bộ cài đặt này nữa.. Bạn cần có Battle Pass để sử dụng nó."
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,Bạn không thể thêm %s vào trang bị cài đặt trước. Yêu cầu không đáp ứng được.
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,Bạn cần trang bị mặt hàng đó ít nhất một lần trước khi thêm nó vào trang bị cài đặt trước.
+TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,Vui lòng đợi một chút trước khi sử dụng chuyển đổi khác.
+TEXTCLIENT_PVPCONTEST_NOGUILD,You need a guild and be the leader to register.,Bạn cần gia nhập một bang và trở thành lãnh đạo để đăng ký.
+TEXTCLIENT_PVPCONTEST_ALREADYREGISTERED,Your guild is already registered for the FWC PVP Contest!,Bang của bạn đã đăng ký tham gia PVP FWC Contest!
+TEXTCLIENT_PVPCONTEST_NOTCLOSED,You can't register now. FWC PVP Contest has already started or will start tomorrow!,Bạn không thể đăng ký vào lúc này. PVP FWC Contest đã bắt đầu hoặc sẽ bắt đầu vào ngày mai!
+TEXTCLIENT_PVPCONTEST_COMPOSITIONNOTCLOSED,You can't change your participating players now. FWC PVP Contest has already started or will start tomorrow!,Bạn không thể thay đổi các người chơi tham gia của mình vào lúc này. PVP FWC Contest đã bắt đầu hoặc sẽ bắt đầu vào ngày mai!
+TEXTCLIENT_PVPCONTEST_NOTREGISTERED,Your guild is not registered for the FWC PVP Contest.,Bang của bạn chưa đăng ký tham gia PVP FWC Contest.
+TEXTCLIENT_PVPCONTEST_COMPOSITIONSUCCESS,You successfully set your player composition!,Bạn đã thiết lập thành công thành phần người chơi của mình!
+TEXTCLIENT_PVPCONTEST_REGISTRATIONSUCCESS,You successfully registered your guild for the FWC PVP Contest!,Bạn đã đăng ký bang của mình thành công cho PVP FWC Contest!
+TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s penyas to register to the FWC PVP Contest!,Bạn cần ít nhất %s penyas để đăng ký tham gia PVP FWC Contest!
+TEXTCLIENT_PVPCONTEST_STATE_REGISTRATIONS,Registrations for FWC PVP Contest are now open! ,Đăng ký cho PVP FWC Contest đang mở!
+TEXTCLIENT_PVPCONTEST_STATE_PRELIMINARY,Preliminaries will start from now on!,Vòng sơ loại sẽ bắt đầu từ bây giờ!
+TEXTCLIENT_PVPCONTEST_STATE_BACKUP,Backup Match will start from now on!,Trận đấu dự phòng sẽ bắt đầu từ bây giờ!
+TEXTCLIENT_PVPCONTEST_STATE_FINALS,Final Matchs will start from now on!,Trận đấu cuối cùng sẽ bắt đầu từ bây giờ!
+TEXTCLIENT_PVPCONTEST_HAVENOT_PLAYER,You need to select players to participate the FWC PVP Contest!,Bạn cần chọn người chơi để tham gia FWC PVP Contest!
+TEXTCLIENT_PVPCONTEST_SELECTION_MAX,You can only select %d players maximum!,Bạn chỉ có thể chọn tối đa %d người chơi!
+TEXTCLIENT_PVPCONTEST_LIMIT_LEVEL_NOTICE,Selected player must be at least level %d!,Người chơi được chọn ít nhất phải ở cấp độ %d!
+TEXTCLIENT_PVPCONTEST_ALREADY_ENTRY,That player is already selected! Please pick another.,Người chơi đó đã được lựa chọn! Hãy chọn người chơi khác
+TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC PVP Contest!,Người đứng đầu Guild phải tham dự FWC PVP Contes!
+TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,Cổng đăng ký cho FWC PVP Contest sẽ đóng trong vòng 1 giờ nữa! các Guid hãy đăng ký ngay để không bỏ lỡ cuộc thi hấp dẫn!
+TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,Đã xảy ra lỗi khi tìm danh sách người chơi đã chọn của bạn. Vui lòng thử lại.
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,Bạn cần lựa chọn trận đấu.
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %02d:%02d today.","Cảm ơn bạn đã xác nhận, trận đấu của bạn sẽ bắt đầu lúc %02d:%02d hôm nay."
+TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.","Không thể sử dụng chức năng quản lý thành viên khi FWC PVP Contest diễn ra, hoặc bạn đang cố chỉnh sửa thành viên đã được đăng ký trước đó."
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,Bạn không thể thay đổi tên của Guid trong quá trình FWC PVP Contest diễn ra.
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,Bạn không thể thay đổi logo của Guild trong khi FWC PVP Contest diễn ra.
+TEXTCLIENT_PVPCONTEST_NOT_WAR,Unable to declare war during FWC PVP Contest.,Không thể tuyên chiến trong khi FWC PVP Contest diễn ra.
+TEXTCLIENT_PVPCONTEST_CANNOT_FRIENDADD,You cannot add friends in the FWC PVP Contest.,Bạn không thể thêm bạn trong khi FWC PVP Contest diễn ra.
+TEXTCLIENT_PVPCONTEST_CANNOT_PARTY,You cannot make a party in the FWC PVP Contest.,Bạn không thể tổ đội trong khi FWC PVP Contest diễn ra.
+TEXTCLIENT_PVPCONTEST_NO_OUTWAR,You cannot use Blinkwings to escape the FWC PVP Contest.,Bạn không thể sử dụng Blinkwings để thoát khỏi FWC PVP Contest.
+TEXTCLIENT_PVPCONTEST_MATCHEND_WINNER,Match has ended! Winner is %s!,Trận đấu đã kết thúc! Người chiến thắng là %s!
+TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Trận đấu đã kết thúc! Lần này không có người chiến thắng!
+TEXTCLIENT_PVPCONTEST_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,Đang chờ đối thủ..
+TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,Preparation phase. Match will start in: 
+TEXTCLIENT_PVPCONTEST_CAPTION_FIGHT,End combat  ,Kết thúc trận chiến
+TEXTCLIENT_PVPCONTEST_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in ,Trận đấu đã kết thúc! Bạn sẽ được dịch chuyển tới Madrigal trong 
+TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedules!,Chỉ có người lãnh đạo mới có thể chọn lịch thi đấu!
+TEXTCLIENT_PVPCONTEST_ALREADYPLAYEDTODAY,You already played a match today! You can't select another schedule.,Hôm nay bạn đã chơi một trận rồi! Bạn không thể chọn lịch trình khác.
+TEXTCLIENT_PVPCONTEST_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Bạn không thể dịch chuyển tức thời trong trận đấu nữa. Trận đấu đã bắt đầu.
+TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there is no match waiting for you.,Dịch chuyển tức thời là không thể vì không có trận đấu nào đang chờ bạn.
+TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Không có đối thủ tham gia! Trận đấu sau đó sẽ kết thúc, mang về cho bạn chiến thắng!"
+TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Không tìm thấy đối thủ nào cho trận đấu của bạn! Vậy thì chúng tôi coi trận đấu của bạn là đã thắng!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s đã giết [%s] %s!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s killed [%s] %s and stopped their killing spree!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s is on a killing spree!
+TEXTCLIENT_PVPCONTEST_MATCHSOON,You can't change your participation now. Matches are starting soon!,Bạn không thể thay đổi sự tham gia của bạn bây giờ. Các trận đấu sắp bắt đầu!
+TEXTCLIENT_PVPCONTEST_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Một người chơi chưa tham gia hoặc đã rời khỏi trận đấu! Tổng số mạng sống còn lại của bang hội đã giảm %d!
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT,The FWC PVP Contest Preliminary %d:%d UTC matches have ended! The next matches will start at %d:%d UTC!,Các trận đấu sơ bộ FWC PVP Contest Preliminary %d:%d UTC đã kết thúc! Các trận đấu tiếp theo sẽ bắt đầu lúc %d:%d UTC!
+TEXTCLIENT_TRANSITEM_TRANSY,Your transmuted item does not have an equivalent item for the other gender. Please consider removing the transmutation or trying a different item.,Vật phẩm bạn muốn chuyển đổi không có phiên bản tương đương cho giới tính khác. Vui lòng xem xét việc hủy chuyển đổi hoặc thử với vật phẩm khác. 
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD,The FWC PVP Contest has ended! The winner is: %s! Congratulations!,FWC PVP Contest đã kết thúc! Nhà vô địch là: %s! Xin chúc mừnggg! 
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD,The FWC PVP Contest has ended on a draw! Congratulations!,FWC PVP Contest đã kết thúc với tỷ số hòa! Xin chúc mừng! 
+TEXTCLIENT_PVPCONTEST_NOMATCHS,There is no match to spectate.,Không có trận đấu nào để xem. 
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_1,You can't spectate if you're already participating in a match.,Bạn không thể xem trận đấu này nếu bạn đang tham gia 1 trận đấu khác.
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,Trận đấu bạn muốn xem đã kết thúc. Xin hãy lựa chọn trận đấu khác.
+TEXTCLIENT_PVPCONTEST_RANK34,"You lost that match, but you will have the opportunity to compete in a final match for the 3rd rank against the other losing guild when the final match takes place. Best of luck!","Bạn đã thua trận đấu đó, nhưng bạn sẽ có cơ hội thi đấu trận chung kết để tranh hạng 3 với bang hội thua cuộc còn lại khi trận đấu cuối cùng diễn ra. May mắn nhất!"
+TEXTCLIENT_SERVERTRANSFER,You have requested a server transfer to %s.,Bạn đã yêu cầu chuyển máy chủ tới %s.
+TEXTCLIENT_RPS_DAILYLIMITOVER,You've used all the chances for today.,Bạn đã tận dụng mọi cơ hội cho ngày hôm nay.
+TEXTCLIENT_RPS_SOLDOUT,All the rewards for today are gone. See you tomorrow.,Tất cả phần thưởng ngày hôm nay đã hết...Hẹn gặp bạn ngày mai.
+TEXTCLIENT_RPS_ISOPENED,You are already speaking with this NPC.,Bạn đã nói chuyện với NPC này.
+TEXTCLIENT_RPS_MINTARGETLEVEL,Only available to level %d or above.,Chỉ khả dụng cho cấp %d trở lên.
+TEXTCLIENT_RPS_PLAYABLE,You can't play Lucky RPS. Check your state.,Bạn không thể chơi Lucky RPS. Kiểm tra trạng thái của bạn.
+TEXTCLIENT_RPS_DAYCHANGE,You do not have the right to acquire the item.,Bạn không có quyền để có được món hàng.
+TEXTCLIENT_PVPCONTEST_SPECTATE_AUTH,You don't have the required auth to spectate.,Bạn không có quyền xác thực cần thiết để xem.
+TEXTCLIENT_GUILDBUFF_NEW,Your Guild just unlocked Guild Buff Level %d!,Guild của bạn vừa mở khóa Guild Buff Level %d!
+TEXTCLIENT_GUILDBUFF_DONATE,%s donated %s #bx%d#nb to the Guild (Total: %d)!,%s donated %s #bx%d#nb to the Guild (Total: %d)!
+TEXTCLIENT_GUILDBUFF_RANKING_MAIL,Congratulations for your rank %d in the First Come First Served ranking!,Xin chúc mừng bạn đã có thứ hạng %d trong bảng xếp hạng First Come First Served!
+TEXTCLIENT_PURCHASE_ERROR_LEVEL,You cannot purchase this item because your level is too low. (Req Lev: %d),Bạn không thể mua vật phẩm này vì cấp độ của bạn quá thấp. (Yêu cầu mức: %d)
+TEXTCLIENT_PURCHASE_ERROR_COUNT,You can purchase this item up to %d times.,Bạn có thể mua mặt hàng này tối đa %d lần.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_LEVEL,This monster can only be attacked by level %d or higher,Quái vật này chỉ có thể bị tấn công ở cấp độ %d trở lên
+TEXTCLIENT_REAPITEMCOUNT,You received %d %s.,Bạn đã nhận được %d %s.
+TEXTCLIENT_GUILDBANKSCROLL_NOGUILD,You can’t use this item because you are not part of a guild,Bạn không thể sử dụng vật phẩm này vì bạn không phải là thành viên của bang hội
+TEXTCLIENT_CANNOT_USE_OTHER_ACTIONS,You cannot use the item during other actions.,Bạn không thể sử dụng vật phẩm trong các hành động khác.
+TEXTCLIENT_CANNOT_USE_CURRENT_STATE,You cannot use the item in the current state.,Bạn không thể sử dụng vật phẩm ở trạng thái hiện tại.
+TEXTCLIENT_ACCEL_FUEL_PRIORITY01,"You are currently using Acceleration Fuel. When you use this item, the existing effect will not be applied any more. Are you sure you want to use this?","Bạn hiện đang sử dụng Acceleration Fuel. Khi bạn sử dụng vật phẩm này, hiệu ứng hiện có sẽ không còn hiệu lực nữa. Bạn có chắc chắn muốn sử dụng vật phẩm này? "
+TEXTCLIENT_ACCEL_FUEL_PRIORITY02,"You are currently using Nitro Booster. When you use this item, the existing effect will still take priority. Are you sure you want to use this?","Bạn hiện đang sử dụng Nitro Booster. Khi bạn sử dụng vật phẩm này, hiệu ứng hiện có vẫn sẽ được ưu tiên. Bạn có muốn sử dụng vật phẩm này? "
+TEXTCLIENT_DAILY_LOTTERY_COUNT,You've used all the roulette chances today.,Bạn đã sử dụng hết tất cả lượt quay ngày hôm nay. 
+TEXTCLIENT_TRANS_LOTTERY_TRANS,You can't use the roulette while being transformed.,Bạn không thể sử dụng vòng quay trong khi đang biến hình.
+TEXTCLIENT_TRANS_LOTTERY_WING,You can't use the roulette while using the wing effect.,Bạn không thể sử dụng vòng quay trong khi đang sử dụng hiệu ứng cho đôi cánh.
+TEXTCLIENT_TRANS_LOTTERY_FLY,You can't use the roulette while flying.,Bạn không thể sử dụng vòng quay trong khi đang bay.
+TEXTCLIENT_TRANS_LOTTERY_DUNGEON,You can't use the roulette in this dungeon.,Bạn không thể sử dụng vòng quay trong khi đang bên trong dungeon.
+TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,Bạn đã sử dụng Bank Extra Bag.
+TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,"Hiện tại, Bank đã được mở rộng."
+TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,Bạn không thể sử dụng vật phẩm khi đang chiến đấu.
+TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s đã sử dụng %s lên bạn!
+TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,You used %s on %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,You used %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,Không tìm thấy mục tiêu.
+TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,Mục tiêu đã bị chặn với Rainbow Barrier!
+TEXTCLIENT_RAINBOWRACE_USEITEM_USERBARRIER,You've blocked an item with your Rainbow Barrier!,Bạn đã chặn 1 vật phẩm với Rainbow Barrier của bạn!
+TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory period.,Bạn không thể bắt đầu bay trong thời gian chuẩn bị.
+TEXTCLIENT_RAINBOWRACE_NOSTAND,You cannot stop flying during the racing period.,Bạn không thể ngừng bay trong thời gian đua.
+TEXTCLIENT_RAINBOWRACE_NOSTACK,Your target is already suffering from this item!,Mục tiêu của bạn đã bị vật phẩm này ảnh hưởng!
+TEXTCLIENT_RAINBOWRACE_PREP,The Rainbow Race begins in %d seconds...,Rainbow Race sẽ bắt đầu trong %d giây...
+TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,Rainbow Race bắt đầu!
+TEXTCLIENT_RAINBOWRACE_FINISH,You've finished the race!,Bạn đã hoàn thành cuộc đua!
+TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,Rainbow Race đã kết thúc! Người chiến thắng là %s!
+TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,Bạn không có đủ Penya để đăng ký Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,Bạn đã đăng ký cho cuộc đua tiếp theo.
+TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,Rainbow Race không được tổ chức do thiếu người tham gia.
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,Chuyển đổi thành công!
+TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Không đủ Material..
+TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,Vật phẩm này đã đạt đến mức nâng cấp tối đa.
+TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,Việc nâng cấp đã là một thất bại lớn.
+TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,Nâng cấp thành công lớn!
+TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,Vật phẩm này không thể được sử dụng cho mục tiêu.
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,Bạn có thể sử dụng vật phẩm này với menu Tạo vũ khí tối thượng tại cửa hàng vũ khí
+TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,Bạn phải đặt mục tiêu trước.
+TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,Bạn phải là thành viên của bang hội để đấu giá tàu của bang hội.
+TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,Chỉ có thủ lĩnh bang hội mới có thể mua tàu của bang hội.
+TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,Bang hội của bạn đã sở hữu một tàu của bang hội.
+TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,Bạn đã đặt giá thầu thành công cho tàu hội này!
+TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,Tàu của bang hội này đã thuộc về một bang hội khác. Bạn không thể đặt giá thầu cho nó.
+TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,Con tàu này không thuộc về bang hội của bạn.
+TEXTCLIENT_HOUSEOBJECTS_TOOFAR,The position you're trying to put your furniture at is too far from you.,Vị trí bạn đang cố gắng đặt đồ đạc quá xa bạn.
+TEXTCLIENT_HOUSEOBJECTS_ALREADYPLACED,You already placed that furniture. Please disable it before.,Bạn đã đặt đồ nội thất đó rồi. Hãy vô hiệu hóa nó trước.
+TEXTCLIENT_HOUSEOBJECTS_NOTPLACED,You first need to place that furniture before disabling it.,Trước tiên bạn cần đặt đồ nội thất đó trước khi vô hiệu hóa nó.
+TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,Bạn không thể đặt đồ nội thất ở đây.
+TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,Chạm vào mặt đất nơi bạn muốn đặt vật thể. Xoay nó bằng bánh xe chuột. Nhấn bánh xe chuột và di chuyển chuột sang trái/phải để thay đổi kích thước.
+TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,Vị trí đối tượng trang trí đã bị hủy.
+TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,Bạn không có quyền đặt đồ đạc trong ngôi nhà đó.
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,Bạn cần phải ở trong nhà hoặc nhà hội để đặt đồ đạc đó.
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,Bạn không có nhà cũng không có hội quán.
+TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,Bạn đã thêm thành công %s làm khách truy cập!
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,Người chơi bạn đã chọn đang không trực tuyến.
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,Bạn đã xóa thành công người chơi đó khỏi danh sách khách truy cập của mình.
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,Người chơi đó không có trong danh sách khách truy cập của bạn.
+TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,Hiện tại bạn không sở hữu một ngôi nhà.
+TEXTCLIENT_PLAYERHOUSING_BUYSUCCESS,You successfully setup your house.,Bạn đã thiết lập thành công ngôi nhà của mình.
+TEXTCLIENT_HOUSING_PACKOWNED,You already unlocked that housing pack!,Bạn đã mở khóa gói nhà ở đó!
+TEXTCLIENT_HOUSING_PACKSUCCESS,You successfully unlocked %s!,Bạn đã mở khóa thành công %s!
+TEXTCLIENT_PLAYERHOUSING_VISIT_EMPTY,There are currently no available houses to visit from your friends list.,Hiện tại không có nhà trống nào để ghé thăm từ danh sách bạn bè của bạn.
+TEXTCLIENT_PLAYERHOUSING_VISIT_OFFLINE,The owner of that house is currently offline.,Chủ nhân của ngôi nhà đó hiện đang ngoại tuyến.
+TEXTCLIENT_PLAYERHOUSING_VISIT_NOHOUSE,That player has no house to visit.,Người chơi đó không có nhà để thăm.
+TEXTCLIENT_HOUSEOBJECTS_RESET_NOTOWNER,Only the owner can reset the house decorations!,Chỉ có chủ sở hữu mới có thể thiết lập lại đồ trang trí trong nhà!
+TEXTCLIENT_HOUSEOBJECTS_RESET_SUCCESS,You successfully reset the house decorations.,Bạn đã thiết lập lại thành công việc trang trí ngôi nhà.
+TEXTCLIENT_HOUSEOBJECTS_NOPACKS,You do not have any unlocked decoration packs.,Bạn không có bất kỳ gói trang trí đã mở khóa nào.
+TEXTCLIENT_HOUSEOBJECTS_NOTUNLOCKED,You do not have that decoration unlocked.,Bạn chưa mở khóa trang trí đó.
+TEXTCLIENT_HOUSEOBJECTS_NPCEXIST,This NPC already exists in the house.,NPC này đã tồn tại trong nhà.
+TEXTCLIENT_PLAYERHOUSINGWND_BUYNOTEMPLATES,There are currently no house templates available. ,Hiện tại không có mẫu nhà nào. 
+TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase the template again or set a different one to access your house.,Mẫu nhà %s đã hết hạn! Mua lại mẫu hoặc đặt một mẫu khác để truy cập vào ngôi nhà của bạn.
+TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,Bạn đã sở hữu mẫu nhà này rồi.
+TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","Bạn đã mở khóa thành công mẫu nhà ""%s""!"
+TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,Bạn cần mở khóa mẫu nhà ở đó trước.
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild house does not belong to anyone. Place a bid if you want it!,Ngôi nhà hội này không thuộc về ai cả. Đặt giá thầu nếu bạn muốn!
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild house does not belong to your guild. You can't enter.,Nhà hội này không thuộc về hội của bạn. Bạn không thể vào.
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. You can't place a bid on it.,Ngôi nhà bang hội này đã thuộc về một bang hội. Bạn không thể đặt giá thầu cho nó.
+TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,Bang hội của bạn đã thắng cuộc đấu giá tàu của bang hội! Bây giờ bạn có thể dịch chuyển tức thời đến nó bằng bản đồ và nhấp chuột phải vào tàu của bạn. Chúc mừng!
+TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,Bạn không có quyền đặt giá thầu.
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!,Giá thầu mới của bạn cho ngôi nhà bang hội đó hiện là %s!
+TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough penya in your guild bank.,Bạn không có đủ penya trong ngân hàng hội của mình.
+TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,Bạn đã đặt giá thầu trên một tàu bang hội khác.
+TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s penya.,Bạn phải đặt giá thầu ban đầu tối thiểu là %s penya.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,Xin vui lòng chờ trong giây lát...
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,Bạn đã thiết lập thành công vị trí xuất hiện hiện vật của mình! Một khoản phí %s đã được trừ khỏi ngân hàng bang hội của bạn!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,Bạn không có quyền đặt vị trí xuất hiện hiện vật.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough penya in your guild bank to set the artifact spawn position.,Bạn không có đủ penya trong ngân hàng bang hội của mình để đặt vị trí xuất hiện hiện vật.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.","Bang hội của bạn bây giờ có thể đặt hiện vật tàu! Kiểm tra tab cửa sổ Guild ""Housing"" để biết thêm thông tin."
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,Vẫn chưa đến lúc thiết lập vị trí xuất hiện của hiện vật.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,Bang hội của bạn đã mất quyền sở hữu tàu của bang hội vì không có Artifact nào được đặt trong tuần này.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,Cổ vật Tàu Bang hội đã xuất hiện! Hãy săn lùng chúng để giành quyền sở hữu tàu trên kênh PK!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,Nhóm của bạn đã phá hủy cổ vật tàu hội! Con tàu của bang hội đó giờ thuộc về bang hội của bạn!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,Nhóm của bạn đã phá hủy cổ vật tàu hội!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s penya has been deposited into your guild bank. Congratulations!,%s penya đã được gửi vào ngân hàng bang hội của bạn. Chúc mừng!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,Cổ vật bang hội của bạn đã bị phá hủy! Bạn đã mất quyền sở hữu con tàu.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,Bang hội của bạn đã bảo vệ thành công cổ vật con tàu!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s penya has been deposited into the guild bank. Congratulations!,Bạn giữ quyền sở hữu và %s penya đã được gửi vào ngân hàng của bang hội. Chúc mừng!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,Bang hội %s đã bảo vệ được cổ vật! Bạn sẽ gặp may mắn hơn vào lần sau.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,Bạn phải ở trong bang hội để tấn công cổ vật.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,Bạn không thể tấn công cổ vật tàu của chính mình!
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on the channel 1 to teleport to the guild house ship!,Bạn cần ở kênh 1 để dịch chuyển đến tàu của hội quán!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,Bạn đã cập nhật thành công vị trí xuất hiện hiện vật của mình.
+TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,Bạn cần chọn một cài đặt trước để xóa.
+TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,Bạn có quá nhiều cài đặt trước cho bản đồ đó.
+TEXTCLIENT_HOUSINGPRESETS_NORIGHTS,You don't have rights to make a preset of that house.,Bạn không có quyền đặt trước ngôi nhà đó.
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS,"You successfully created housing preset ""%s""","Bạn đã tạo thành công giá trị đặt trước nhà ở ""%s"""
+TEXTCLIENT_HOUSINGPRESETS_EXIST,You already have a preset with that name. Please use another name.,Bạn đã có một cài đặt trước đó với tên đã chọn. Vui lòng sử dụng tên khác.
+TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?,Vật phẩm của bạn sẽ bị phá hủy nếu quá trình thất bại. Chúng tôi khuyên bạn sử dụng menu nâng cấp tại cửa hàng Armor. Bạn có chắc chắn muốn tiếp tục?
+TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,Bạn không thể có nhiều hơn %d đạo cụ thuộc yếu tố này.
+TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,Bánh xe bị kẹt... Con tàu lúc này dường như không thể điều khiển được.
+TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,Một số thứ không thể được đặt vào vì chúng đã hết hạn.
+TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,Bạn đã nhận được %s Penya dưới dạng tiền hoàn lại từ Rainbow Race.
+TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,Bạn đã đạt đến số lượng không gian tối đa có thể mở khóa cho cài đặt nhà ở!
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,Bây giờ bạn có thể có tối đa %d cài đặt cho nhà ở!
+TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,Bạn không thể mở một cửa hàng tự kinh doanh trong nhà!
+TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,Bạn không thể sử dụng return scroll trong nhà!
+TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,Vật phẩm này đã có chỉ số ngẫu nhiên tốt nhất có thể.
+TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,%d phút còn lại đến %s
+TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,Bạn không thể dịch chuyển tức thời trong khi Rainbow Race diễn ra.
+TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,Bạn đã bị loại khỏi cuộc đua.
+TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,Rainbow Race sẽ bắt đầu sau 10 phút nữa! Đăng ký ngay tại Darken City. 
+TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,"Hiện tại, Bank đã được mở rộng."
+TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,Đăng nhập trực tiếp hiện không có sẵn. Vui lòng đăng nhập từ trang web. 
+TEXTCLIENT_EVENTBUFF,%s is active!,%s đang hoạt động! 
+TEXTCLIENT_STORAGEFULL,The bag is full.,Túi đã đầy. 
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Armor Pack (%d/%d) 
+TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,Bạn chỉ có thể sử dụng một túi mỗi lần. 
+TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,Bạn không thể sử dụng chiêu thức này trong khu vực PvP.
+TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,Nâng cấp thành công.
+TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,Bạn cần thêm chỗ dựa đó để đặt nó.
+TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,Bạn cần nhiều npc đó hơn để đặt nó.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.,Bạn đã không đăng ký tham gia trận chiến cổ vật này.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!,Bạn cần một bang hội để tham gia trận chiến cổ vật!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing permission to register to the artifact battle.,Bạn cần có sự cho phép của bang hội để đăng ký tham gia trận chiến cổ vật.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d penyas to register to the artifact battle.,Bạn cần ít nhất %d penya để đăng ký tham gia trận chiến cổ vật.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the artifact battle!,Bang hội của bạn đã được đăng ký tham gia trận chiến cổ vật!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d penyas fee has been taken off your guild bank.,Bạn đã đăng ký thành công cho trận chiến cổ vật tiếp theo. Một khoản phí %d penyas đã được trừ khỏi ngân hàng bang hội của bạn.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d penyas fee has been deposited back into your guild bank.,Bạn đã hủy thành công đơn đăng ký tham gia trận chiến cổ vật tiếp theo. Phí %d penyas đã được gửi lại vào ngân hàng bang hội của bạn.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!","Trận chiến cổ vật đã bắt đầu, bạn không thể hủy đơn đăng ký của mình!"
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,Không có trận chiến cổ vật trong tuần này. Vui lòng thử lại vào tuần tới!
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,Bạn chỉ có thể đặt NPC nhà bang hội ở đây.
+TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,Không thể sử dụng mặt hàng này.
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Đã gửi thành công.
+TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,Bạn chỉ có thể đặt Personal House NPC ở đây.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,Vị trí xuất hiện cổ vật này đã được một bang hội khác đảm nhận.
+TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,Bạn không thể đặt nhiều hơn %d đạo cụ cùng một lúc!
+TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,The %s can only be obtained while the %s is in progress.
+TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.","Bạn có thể di chuyển props / npcs bằng menu phiên bản. Để thoát khỏi chế độ đó, nhấn ESC."
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,Bang hội %s đã phá hủy cổ vật của Bang hội %s!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled the guild!,The owner of this guild house has dismantled the guild!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant.","The guild house's artifact is now in ruins, and the ownership of the house is now vacant."
+TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
+TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,You cannot trade in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,You cannot use items in the Kalgas Assault.
+TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,You can't use the roulette in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,You cannot use Blinkwings to escape the Kalgas Assault.
+TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
+TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
+TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
+TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
+TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
+TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,You cannot enter an Kalgas Assault while you are using a Trans item.
+TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,You cannot use party skills in this area.
+TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,Please wait a little before posting another guest book message.
+TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,There are still some players in your house. You can't change the template until there's nobody left inside.
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s does not have enough Penya to apply for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s is during other actions.
+TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Teams will be randomly matched after %d seconds
+TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Teleportation is no longer available.
+TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Team member invitations are in progress.
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
+TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
+TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
+TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
+TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
+TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,You received %dx %s.
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
+TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
+TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Re-entry cooldown for %s has been reduced by %d minutes.
+TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,There is no dungeon where cooldown reduction is possible.
+TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,You've already used maximum count of Magic Clock
+TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?
+TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You must reach level %d to access this area.
+TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
+TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
+TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
+TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
+TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
+TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,The coupon has been submitted successfully. Please check in the Flyff Shop.
+TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Coupon has already been used.
+TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,The coupon usage limit has been reached.
+TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,No coupon found with this code. Please try again.
+TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Invalid coupon code. Please try again.
+TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
+TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
+TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
+TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
+TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
+TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
+TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,It can only be used when the target is within 15 meters.
+TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,There is no target to use it on.
+TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,You cannot use it there.
+TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,You cannot teleport to yourself.
+TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,The shop has been closed.
+TEXTCLIENT_PVPMATCH_TEAM,Team ,Team 
+TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,Trận đấu đã kết thúc! Người chiến thắng là %s!
+TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Trận đấu đã kết thúc! Lần này không có người chiến thắng!
+TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
+TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Không có đối thủ tham gia! Trận đấu sau đó sẽ kết thúc, mang về cho bạn chiến thắng!"
+TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Không tìm thấy đối thủ nào cho trận đấu của bạn! Vậy thì chúng tôi coi trận đấu của bạn là đã thắng!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s đã giết [%s] %s!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_PVPMATCH_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Một người chơi chưa tham gia hoặc đã rời khỏi trận đấu! Tổng số mạng sống còn lại của bang hội đã giảm %d!
+TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,Trận đấu bạn muốn xem đã kết thúc. Xin hãy lựa chọn trận đấu khác.
+TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,You cannot add friends in a PVP Match.
+TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You cannot make a party in a PVP Match.
+TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
+TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
+TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
+TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
+TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
+TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,You can't use the roulette in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,You cannot trade in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_PARTY,You cannot make a party in the Madrigal Tournament.,You cannot make a party in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_FRIENDADD,You cannot add friends in the Madrigal Tournament.,You cannot add friends in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_HAVENOT_MASTER,party leader has to participate to the Madrigal Tournament!,party leader has to participate to the Madrigal Tournament!
+TEXTCLIENT_MATOURNAMENT_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,Đang chờ đối thủ..
+TEXTCLIENT_MATOURNAMENT_CAPTION_PREPARE,Preparation phase. Match will start in ,Preparation phase. Match will start in 
+TEXTCLIENT_MATOURNAMENT_CAPTION_FIGHT,End combat  ,Kết thúc trận chiến
+TEXTCLIENT_MATOURNAMENT_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in,Match has ended! You will be teleported on Madrigal in
+TEXTCLIENT_MATOURNAMENT_NOT_REGISTRABLE_TIME,Registration is not available at this time.,Registration is not available at this time.
+TEXTCLIENT_MATOURNAMENT_NOPARTY,You are not in a party.,You are not in a party.
+TEXTCLIENT_MATOURNAMENT_NOTPARTYLEADER,You are not the party leader.,You are not the party leader.
+TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,Invalid number of party members.
+TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
+TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
+TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
+TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
+TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
+TEXTCLIENT_MATOURNAMENT_TELEPORTNOMATCH,You can't enter because there is no match available.,You can't enter because there is no match available.
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Không có đối thủ tham gia! Trận đấu sau đó sẽ kết thúc, mang về cho bạn chiến thắng!"
+TEXTCLIENT_MATOURNAMENT_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT_WIN,No opponent was found for your match! We then considered your match as won!,Không tìm thấy đối thủ nào cho trận đấu của bạn! Vậy thì chúng tôi coi trận đấu của bạn là đã thắng!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Trận đấu đã kết thúc! Lần này không có người chiến thắng!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_WINNER,Match has ended! Winner is %s!,Trận đấu đã kết thúc! Người chiến thắng là %s!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s đã giết [%s] %s!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Bạn không thể dịch chuyển tức thời trong trận đấu nữa. Trận đấu đã bắt đầu.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,You have received the betting dividends.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,Failed to send the dividends. Check your state.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.,You bet %s penya to %s.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,You already bet other team.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,You can't bid at this time.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.,You have no penya to collect.
+TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,You have no participation or rewards to receive.
+TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,You have received a reward.
+TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,You can't receive the reward. Check your mail.
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT_MAIL,Madrigal Tournament Betting Payout,Madrigal Tournament Betting Payout
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT,You receive betting's payout.,You receive betting's payout.
+TEXTCLIENT_MATOURNAMENT_BETTING_FAIL,Betting failed. Please try again.,Betting failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.,Registration failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_FAIL_ENTER,Unable to enter the Madrigal Tournament.,Unable to enter the Madrigal Tournament.
+TEXTCLIENT_ULTIMATE_JEWEL_POSSIBLE_ITEM,The item is not allowed to add jewel.,The item is not allowed to add jewel.
+TEXTCLIENT_ERROR_NOULTIMATEJEWEL,There is no space to put a ultimate jewel.,There is no space to put a ultimate jewel.
+TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel is available.,Only ultimate weapon equipped with jewel is available.
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOSELECTION,You need to select a jewel to remove!,You need to select a jewel to remove!
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOJEWEL,The slot you selected has no jewel in it !,The slot you selected has no jewel in it !
+TEXTCLIENT_ULTIMATE_JEWEL_REMOVE_SUCCESS,Your ultimate jewel has been removed succesfully.,Your ultimate jewel has been removed succesfully.
+TEXTCLIENT_COMPOSEJEWEL_SUCCESS,You received %s.,Bạn đã nhận %s
+TEXTCLIENT_ERROR_SAMEKIND_JEWEL,You can only attach one of each kind of jewel or rune.,You can only attach one of each kind of jewel or rune.
+TEXTCLIENT_COMPOSEJEWEL_FAIL,Fusion failed. Returned %d %s.,Fusion failed. Returned %d %s.
+TEXTCLIENT_COMPOSEJEWEL_REGISTER_SAMEKIND,Only the same jewel can be registered.,Only the same jewel can be registered.
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_SUCCESS,Ultimate jewel creation successful!,Ultimate jewel creation successful!
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,Ultimate jewel creation failed.
+TEXTCLIENT_COUPLENOTARGET,You must select a player first.,You must select a player first.
+TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,Your proposal was refused.
+TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,Your request for break up was refused.
+TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!","You are now a couple, congratulations!"
+TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,Your target is already in a couple.
+TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s and %s have become a couple!
+TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,The couple skill %s has been used.
+TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,You already have the %s skill active.
+TEXTCLIENT_COUPLE_SKILL_NOPOINTS,You do not have enough points.,You do not have enough points.
+TEXTCLIENT_COUPLE_SKILL_NOPARTY,You must be in the same party to use this skill.,You must be in the same party to use this skill.
+TEXTCLIENT_COUPLE_REPLACE_RING,This will replace your current couple ring. Are you sure you would like to send this request to your partner?,This will replace your current couple ring. Are you sure you would like to send this request to your partner?
+TEXTCLIENT_COUPLE_NEW_RING,Your ring has been replaced!,Your ring has been replaced!
+TEXTCLIENT_COUPLE_SAME_RING,You are already using this ring.,You are already using this ring.
+TEXTCLIENT_COUPLE_MISSING,You must be in a couple to use this item.,You must be in a couple to use this item.
+TEXTCLIENT_COUPLE_QUESTEXP,Your couple has gained experience!,Your couple has gained experience!
+TEXTCLIENT_COUPLE_NOTITLE,You must be in a couple to use this title.,You must be in a couple to use this title.
+TEXTCLIENT_COUPLE_BREAKUP_DEADLINE,The break up request was not answered. Forceful break up notification timer has begun.,The break up request was not answered. Forceful break up notification timer has begun.
+TEXTCLIENT_COUPLE_MAX_POINTS,Your couple cannot exceed the maximum skill points.,Your couple cannot exceed the maximum skill points.
+TEXTCLIENT_COUPLE_CHEER_SEND,You have cheered your partner.,You have cheered your partner.
+TEXTCLIENT_COUPLE_CHEER_REC,You have been cheered by your partner.,You have been cheered by your partner.
+TEXTCLIENT_COUPLE_MINLEVEL,You and your target must both be at least level %d.,You and your target must both be at least level %d.
+TEXTCLIENT_COUPLE_COOLDOWN,You need to wait %s to form a couple with this player.,You need to wait %s to form a couple with this player.
+TEXTCLIENT_COUPLE_PROPOSAL_SENT,You have sent a proposal!,You have sent a proposal!
+TEXTCLIENT_COMPOSE_RAINBOWJEWEL_FAIL,Composing rainbow jewel failed.,Composing rainbow jewel failed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_SUCCESS,Dismantle rainbow jewel succeed.,Dismantle rainbow jewel succeed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_FAIL,Dismantle rainbow jewel failed.,Dismantle rainbow jewel failed.
+TEXTCLIENT_HOUSINGWARDROBE_NPCNOTFOUND,The NPC you intended to edit does not exist in your house!,The NPC you intended to edit does not exist in your house!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMNOTFOUND,The item you intented to equip is not in your wardrobe!,The item you intented to equip is not in your wardrobe!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMALREADYUSED,There is already an NPC using that item!,There is already an NPC using that item!
+TEXTCLIENT_HOUSINGEQUIP_NORIGHTS,You don't have permission to edit the equipment of that NPC.,You don't have permission to edit the equipment of that NPC.
+TEXTCLIENT_HOUSINGINVENTORY_NORIGHTS,You don't have permission to edit the inventory of this house.,You don't have permission to edit the inventory of this house.
+TEXTCLIENT_HOUSINGINVENTORY_WRONGITEM,You can only put pets or eggs in the house pet inventory.,You can only put pets or eggs in the house pet inventory.
+TEXTCLIENT_HOUSEOBJECTS_PETEXIST,This pet already exists in the house.,This pet already exists in the house.
+TEXTCLIENT_HOUSINGPET_SPAWNED,You need to remove that pet before taking it out of the pet inventory!,You need to remove that pet before taking it out of the pet inventory!
+TEXTCLIENT_PETTRAINING_MAXLEVEL,This pet has already reached its maximum experience!,This pet has already reached its maximum experience!
+TEXTCLIENT_PETTRAINING_WRONGPET,This trainer can't accept that pet.,This trainer can't accept that pet.
+TEXTCLIENT_HOUSINGINVENTORY_FULL,Pet inventory is full!,Pet inventory is full!
+TEXTCLIENT_PETTRAINING_PETINUSE,You need to remove that pet from the field before training it!,You need to remove that pet from the field before training it!
+TEXTCLIENT_PETTRAINING_NAME,[Training],[Training]
+TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,Trainer %s has completed your pet training!
+TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,You have already unlocked the maximum pet inventory slots!
+TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,You have successfully unlocked a new pet inventory slot for your house!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,You need a guild to use this scroll!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses.","You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses."
+TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,You must be in a level %d couple to use this motion.
+TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,You must select your partner in order to request this motion.
+TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Your partner refused to perform the motion.
+TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,You are too far away from each other to perform this motion.
+TEXTCLIENT_APP_LIFE,Life,Life
+TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,You need to equip a(n) %s.
+TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Please check the correct tool.
+TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
+TEXTCLIENT_GATHERING_HOE,hoe,hoe
+TEXTCLIENT_GATHERING_AXE,axe,axe
+TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pickaxe
+TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Fishing failed.
+TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Too many players are using this prop. Please try again later.
+TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,Repaired %s for %s points.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,You cannot change your expertise yet.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Successfully changed your expertise.
+TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,Failed to use the production reduction item. Please check your production status.
+TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,You do not have enough ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Unable to check your ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,You are already producing this item.
+TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,The production time has been reduced by %d minutes.
+TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,Wondering shop inventory renewed successfully.
+TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No space in inventory, %d empty slots needed."
+TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,You can only fish near a body of water.
+TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,You need to equip a fishing rod.
+TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Your fishing rod must be repaired.
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Not enough bait.
+TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
+TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,You cannot produce this item without the required title.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,You need to add the correct ingredients.
+TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,This item does not require repairing.
+TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Product upgrade failed.
+TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,Product upgrade successful!
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,%s's recipe has been unlocked.
+TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,You cannot stack this item anymore. This item can only be stacked %d times.
+TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
+TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
+TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
+TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
+TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
+TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,You are too far.
+TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,You need to use that pet at least once before putting it in the pet inventory.
+TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,You cannot put eggs in the pet inventory.
+TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,You have exceeded the maximum number of invitees.
+TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,The entrance time for the tournament match is now.
+TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,You can't use an equipment preset while attacking.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,There are currently no races available to enter.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,You are not a registered player.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,You cannot enter on the current channel.
+TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
+TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,You can't harvest this now.
+TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,You can't harvest this here.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this motion.,You must complete the quest %s to use this motion.
+TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,You cannot use this item in a PvP setting.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!,You can now use the motion %s!
+TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.,The motion %s has expired.
+TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,You can't remove a Blessing of the Demon!
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,This feature is only available with the Extended Battle Pass.
+TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,You already used all your daily teleports.
+TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,You cannot teleport to this shop because it is on a different channel.
+TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Harvests %d/%d
+TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,Infinite harvests
+TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,The same level was rolled. No scrolls were consumed.
+TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,The selected tier has been rerolled to a %d.
+TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Legendary fighters, imbued with the spirit of war."
+TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.","Mystical leaders, channeling Rhisis' powers to command and protect their allies."
+TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.","Cunning tricksters, weaving illusions and chaos."
+TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.","Elusive hunters, guided by the spirits of nature."
+TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolve.","Noble defenders, bound by honor and unbreakable resolve."
+TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
+TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
+TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
+TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,The start of all. You are Vagrant.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Failed to reveal a recipe.
+TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
+TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
+TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,You can't fly when fishing.
+TEXTCLIENT_COUPLEHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your current or further couple house!,You have successfully unlocked a new pet inventory slot for your current or further couple house!
+TEXTCLIENT_WANDERING_SHOP_TICKET_FAIL,You can only use this item when the Wandering Shop is open.,You can only use this item when the Wandering Shop is open.
+TEXTCLIENT_VENDOR_RADIUS,"There is already a Private Shop at this position, please move a little bit.","There is already a Private Shop at this position, please move a little bit."
+TEXTCLIENT_NO_SPECTATE_WORLD,You cannot spectate in this world.,You cannot spectate in this world.
+TEXTCLIENT_NO_SPECTATE_PLAYER,You cannot spectate this player.,You cannot spectate this player.
+TEXTCLIENT_NO_SPECTATE_WAR,You cannot spectate right now.,You cannot spectate right now.
+TEXTCLIENT_NO_SPECTATE_SELF,You cannot spectate yourself.,You cannot spectate yourself.
+TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not have permission to spectate.
+TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
+UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
+TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
+TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
+TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
+TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
+TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,Vật phẩm bị phá hủy do lỗi. 
+TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
+TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
+TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
+TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
+TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d hours have passed] Excessive gaming can interfere with normal daily life.
+TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Your account is not allowed to access this server.
+TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,A statue in the name of the first person to reach maximum level.
+TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maximum upgrade.,A statue in the name of the first person to reach maximum upgrade.
+TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid material item for upgrade.
+TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
+TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
+TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
+TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
+TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
+TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
+TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
+TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,Bạn đã nhận được %s x%d.
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.
+TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
+TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
+TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.
+TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,You do not have enough Trap Tool.
+TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping the same jewel failed.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,You do not have enough jewel or penya for synthesis.
+TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
+TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
+TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
+TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
+TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
+TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.

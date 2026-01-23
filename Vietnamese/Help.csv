@@ -1,0 +1,725 @@
+﻿Key,English,Vietnamese
+CLIENT_HELP_INC_000000,Basic Operations,Thao tác cơ bản
+CLIENT_HELP_INC_000001,This section will continue were the Info-Pang left off. You can expect a more in-depth explanation of the game mechanics and some unique features.,Phần này sẽ tiếp tục với phần Info-Pang bị bỏ sót. Bạn có thể mong đợi một lời giải thích chuyên sâu hơn về cơ chế trò chơi và một số tính năng độc đáo
+CLIENT_HELP_INC_000002,If you read through this section and you still have questions you should visit the Official Website and Forums. These can be found at $WEBSITE$,"Nếu bạn đọc qua phần này và vẫn còn thắc mắc, bạn nên truy cập Trang web chính thức và Diễn đàn. Bạn có thể tìm thấy những thứ này tại $ WEBSITE $"
+CLIENT_HELP_INC_000003,Mouse,Chuột
+CLIENT_HELP_INC_000004,"Your mouse will be used constantly throughout game play. Left Clicking your mouse will be used most commonly for movement, targeting, and selecting menu options. The Right Click will be used predominately for controlling the camera and accessing the NPC Menu when a NPC is targeted. All of these features will be covered in the Help Menu.","Chuột của bạn sẽ được sử dụng liên tục trong suốt quá trình chơi trò chơi. Chuột trái của bạn sẽ được sử dụng phổ biến nhất để di chuyển, nhắm mục tiêu và chọn các tùy chọn menu. Chuột phải sẽ được sử dụng chủ yếu để điều khiển máy ảnh và truy cập Menu NPC khi một NPC trở thành mục tiêu. Tất cả các tính năng này sẽ được đề cập trong Menu Trợ giúp."
+CLIENT_HELP_INC_000005,Movement,Di chuyển
+CLIENT_HELP_INC_000006,"To move using the keyboard, press the “W” Key to go forward, the “A” Key to go left, the “S” Key to go backwards, and the “D” Key to go right. You can also use the Left Click of the Mouse to move.","Để di chuyển bằng bàn phím, nhấn phím “W” để tiến, phím “A” để sang trái, phím “S” để lùi và phím “D” để sang phải. Bạn cũng có thể sử dụng Click chuột trái để di chuyển."
+CLIENT_HELP_INC_000007,"To jump, simply press the spacebar. You can jump either from a standing position or while moving.","Để nhảy, chỉ cần nhấn phím cách. Bạn có thể nhảy từ vị trí đang đứng hoặc khi đang di chuyển."
+CLIENT_HELP_INC_000008,Camera,Máy ảnh
+CLIENT_HELP_INC_000009,"You can control the camera view in many different ways. You can even lock the camera into place. To do this access the Start Menu, select Option and then toggle Camera Fix. This will allow you to control the Camera with the A and D keys. This overrides movement controls. If this setup does not feel comfortable to you, you can simply hold down the Right Mouse Button and move the mouse.","Bạn có thể điều khiển chế độ xem Máy ảnh theo nhiều cách khác nhau. Bạn thậm chí có thể khóa máy ảnh vào đúng vị trí. Để thực hiện việc này, hãy truy cập Start Menu, chọn Option và sau đó chuyển đổi máy ảnh cố định. Điều này sẽ cho phép bạn điều khiển Máy ảnh bằng phím A và D. Điều này ghi đè lên các điều khiển chuyển động. Nếu thiết lập này khiến bạn cảm thấy không thoải mái, bạn có thể chỉ cần giữ chuột phải và di chuyển chuột."
+CLIENT_HELP_INC_000010,"Regardless of how you choose to manipulate the camera, the zoom functions will always be the same. You can Zoom in and out with the mouse wheel or the Page Up and Page Down keys. In order to zoom in even further, press the Scroll Lock Button.","Bất kể bạn chọn thao tác với máy ảnh như thế nào, các chức năng thu phóng sẽ luôn giống nhau. Bạn có thể phóng to và thu nhỏ bằng con lăn chuột hoặc các phím Page Up và Page Down. Để phóng to hơn nữa, hãy nhấn nút Scroll Lock."
+CLIENT_HELP_INC_000011,Flying,Phi hành (bay)
+CLIENT_HELP_INC_000012,A character that has reached level 20 and has finished the flying quest can take advantage of flying with broom and boards.,Nhân vật đạt cấp 20 và hoàn thành nhiệm vụ phi hành (bay) có thể tận dụng lợi thế của việc bay với chổi và ván.
+CLIENT_HELP_INC_000013,Station NPC's sell a variety of Brooms and Boards. If you feel like you would like to spice up your method of flying you can check the premium shop for faster and more unique items to fly on.,"Trạm NPC bán nhiều loại Chổi và Ván. Nếu bạn cảm thấy muốn phương pháp bay của mình đặc sắc hơn, bạn có thể kiểm tra cửa hàng cao cấp để bay nhanh hơn và các vật phẩm độc đáo hơn."
+CLIENT_HELP_INC_000014,,
+CLIENT_HELP_INC_000015,,
+CLIENT_HELP_INC_000016,,
+CLIENT_HELP_INC_000017,,
+CLIENT_HELP_INC_000018,,
+CLIENT_HELP_INC_000019,How do I fly?,Làm thế nào để bay?
+CLIENT_HELP_INC_000020,"To fly, simply equip a flying board or broom and then press the Spacebar. You will automatically accelerate until your reach your maximum speed. To stop, press the Spacebar again.","Để bay, bạn chỉ cần trang bị một tấm ván bay hoặc chổi rồi nhấn phím cách. Bạn sẽ tự động tăng tốc cho đến khi đạt tốc độ tối đa. Để dừng, hãy nhấn lại phím cách."
+CLIENT_HELP_INC_000021,"You can steer while flying with your mouse or with the W,A,S,D keys.","Bạn có thể điều khiển khi đang bay bằng chuột hoặc bằng các phím W, A, S, D."
+CLIENT_HELP_INC_000022,You can buy fuel to increase the speed of your broom or board. Double-click the fuel and press the X key to activate or de-activate the fuel.,Bạn có thể mua nhiên liệu để tăng tốc độ của chổi hoặc ván của bạn. Nhấp đúp vào nhiên liệu và nhấn phím X để kích hoạt hoặc hủy kích hoạt nhiên liệu.
+CLIENT_HELP_INC_000023,,
+CLIENT_HELP_INC_000024,,
+CLIENT_HELP_INC_000025,,
+CLIENT_HELP_INC_000026,,
+CLIENT_HELP_INC_000027,,
+CLIENT_HELP_INC_000028,Combat,Chiến đấu
+CLIENT_HELP_INC_000029,"You will encounter hundreds of hostile masquerpets in the land of Madrigal. Depending on what type of character you build, you will have multiple options on how to attack these villainous monsters. These methods will be explained in more detail here.","Bạn sẽ chạm trán với hàng trăm con masquerpets thù địch ở vùng đất Madrigal. Tùy thuộc vào loại nhân vật bạn xây dựng, bạn sẽ có nhiều lựa chọn về cách tấn công những con quái vật phản diện này. Các phương pháp này sẽ được giải thích chi tiết hơn tại đây."
+CLIENT_HELP_INC_000030,"Along with these masquerpets, you can engage in intense PVP Combat if you have chosen to play on Demian. To attack players on Demian, you must hold down the Ctrl Key and then initiate your attack.","Cùng với những con quái masquerpets này, bạn có thể tham gia vào Trận chiến PVP (Người chơi chiến đấu với người chơi) khốc liệt nếu bạn đã chọn chơi trên Demian. Để tấn công người chơi trên Demian, bạn phải giữ phím Ctrl và sau đó bắt đầu cuộc tấn công của mình."
+CLIENT_HELP_INC_000031,,
+CLIENT_HELP_INC_000032,Melee Attack,Tấn công cận chiến
+CLIENT_HELP_INC_000033,"Melee attacks are done with all variations of close combat weapons, this includes swords, axes, staffs, and even knuckle weapons. To engage a enemy in a Melee attack simply equip your weapon, target your enemy, and then click on them.","Các cuộc tấn công cận chiến được thực hiện với sự đa dạng của tất cả vũ khí cận chiến, bao gồm kiếm, rìu, quyền trượng và thậm chí cả vũ khí bọc vào đốt ngón tay. Để giao chiến với kẻ thù trong một cuộc tấn công Cận chiến, chỉ cần trang bị vũ khí của bạn, nhắm mục tiêu kẻ thù, sau đó nhấp vào chúng."
+CLIENT_HELP_INC_000034,Ranged Attack,Phạm vị tấn công
+CLIENT_HELP_INC_000035,"Ranged attacks are done with Yo-yos, and bows. To engage an enemy with a ranged attack, equip the appropriate weapon, target the enemy, and then Right Click on the target. Note that Bow require arrows to be used.","Các cuộc tấn công tầm xa được thực hiện bằng Yo-yo và cung tên. Để tấn công kẻ thù bằng đòn tấn công tầm xa, hãy trang bị vũ khí thích hợp, nhắm mục tiêu vào kẻ thù và sau đó Nhấp chuột phải vào mục tiêu. Lưu ý rằng Bow yêu cầu sử dụng mũi tên."
+CLIENT_HELP_INC_000036,Magic Attack,Tấn công ma thuật
+CLIENT_HELP_INC_000037,Wands have the unique ability to shoot a charged magic attack. Do this by holding down the Right Mouse button after you have selected your target. Release the button to launch your attack.,Đũa phép có khả năng độc đáo là để bắn ra một tấn công bằng ma thuật tích điện. Bạn làm điều này bằng cách giữ chuột phải sau khi bạn đã chọn mục tiêu của mình. Thả nút để khởi động cuộc tấn công của bạn.
+CLIENT_HELP_INC_000038,Equipping items,Trang bị vật phẩm
+CLIENT_HELP_INC_000039,"To equip an item, open your inventory then double click the item you want to equip. It will then automatically replace the item you currently have equipped in that slot. Double click on equipped item to unequip it.","Để trang bị một vật phẩm, hãy mở túi đồ của bạn sau đó nhấp đúp vào vật phẩm bạn muốn trang bị. Sau đó, nó sẽ tự động thay thế vật phẩm mà hiện tại bạn đã trang bị tại vị trí đó. Nhấp đúp vào vật phẩm được trang bị để tìm hiểu nó."
+CLIENT_HELP_INC_000040,Using Items,Sử dụng vật phẩm
+CLIENT_HELP_INC_000041,You can use an item by double clicking it. You can also place items in your Extra Bags by simply opening them and then dragging it over. The item drops to the ground if you place the item outside your inventory.,Bạn có thể sử dụng vật phẩm bằng cách nhấp đúp vào nó. Bạn cũng có thể đặt các vật phẩm vào Túi phụ của mình bằng cách mở chúng ra rồi kéo nó qua. Vật phẩm rơi xuống đất nếu bạn đặt vật phẩm bên ngoài kho của mình.
+CLIENT_HELP_INC_000042,You can place an item in the quick task bar located at the bottom of your screen. It is possible to use it instantly with the corresponding Hot Key or by clicking with your Mouse. Right click an item to remove the item from the quick slot.,Bạn có thể đặt vật phẩm trong thanh tác vụ nhanh ở cuối màn hình. Có thể sử dụng nó ngay lập tức bằng Phím nóng tương ứng hoặc bằng cách nhấp bằng Chuột của bạn. Nhấp chuột phải vào một vật phẩm để xóa vật phẩm đó khỏi vị trí đó 1 cách nhanh chóng.
+CLIENT_HELP_INC_000043,,
+CLIENT_HELP_INC_000044,Chatting,Trò chuyện
+CLIENT_HELP_INC_000045,"Pressing enter will toggle the Chat Menu display on if you have closed it for any reason. Once the Chat Menu is open simply press Enter one time to toggle the chat function. Once you have typed your message simply press Enter again to send your message out. You will also see buttons for Whisper, Shout, Party, and Guild. These buttons will filter your message directly to those respective groups. There are also options for filtering your incoming chats, and viewing System Messages.","Nhấn enter sẽ bật màn hình Menu Trò chuyện nếu bạn đã đóng nó vì bất kỳ lý do gì. Khi Menu trò chuyện được mở, chỉ cần nhấn Enter một lần để chuyển đổi chức năng trò chuyện. Khi bạn đã nhập xong tin nhắn của mình, chỉ cần nhấn Enter một lần nữa để gửi tin nhắn của bạn ra ngoài. Bạn cũng sẽ thấy các nút cho Thì thầm, La hét, Trò chuyện nhóm và Bang hội. Các nút này sẽ lọc tin nhắn của bạn trực tiếp đến các nhóm tương ứng đó. Ngoài ra còn có các tùy chọn để lọc các cuộc trò chuyện đến và xem Tin nhắn hệ thống."
+CLIENT_HELP_INC_000046,NPC Trading,Giao dịch cùng NPC
+CLIENT_HELP_INC_000047,"To trade with an NPC, left click the NPC and choose Trade.","Để giao dịch cùng NPC, nhấp chuột trái vào NPC và chọn Giao Dịch"
+CLIENT_HELP_INC_000048,You can purchase an item you want by dragging it into your inventory. The price of the item will show and if you accept the price a confirmation window will pop-up. Accept the confirmation window to finish the transaction.,"Bạn có thể mua một vật phẩm bạn muốn bằng cách kéo nó vào kho của bạn. Giá của vật phẩm sẽ hiển thị và nếu bạn chấp nhận giá, cửa sổ xác nhận sẽ hiện lên. Chấp nhận cửa sổ xác nhận để kết thúc giao dịch."
+CLIENT_HELP_INC_000049,"If you are trying to sell items, just drag the item you want to sell from your inventory, into the NPC trade window.","Nếu bạn đang cố gắng bán các vật phẩm, chỉ cần kéo vật phẩm bạn muốn bán từ kho của mình vào cửa sổ giao dịch NPC."
+CLIENT_HELP_INC_000050,Player Trading,Giao dịch giữa người chơi
+CLIENT_HELP_INC_000051,"If you would like to trade with another player, you can hold down the ALT key and Left Click on the player, or simply Right Click on the player . A menu will appear, select trade, and wait for the other player to approve the trade.","Nếu bạn muốn giao dịch với người chơi khác, bạn có thể giữ phím ALT và nhấp chuột trái vào người chơi hoặc chỉ cần nhấp chuột phải vào người chơi. Một menu sẽ xuất hiện, chọn giao dịch và đợi người chơi khác chấp thuận giao dịch."
+CLIENT_HELP_INC_000052,"Once the trade window opens you can drag items or Penya into the window. Make very sure that everything is just how you want it before clicking OK and ACCEPT. Never let anyone BORROW any items as they may not return what you lend them. Make sure you are getting the right items and right amount of Penya before you go through with a trade. All trades are done at your own risk so please be very careful. If you lose something, get the wrong item, or the wrong Penya amount there is nothing that can be done to get the item back. So be careful. If at any time you feel uncomfortable with a trade click the CANCEL button to end the trade.","Khi cửa sổ giao dịch mở ra, bạn có thể kéo các vật phẩm hoặc Penya vào cửa sổ. Hãy chắc chắn rằng mọi thứ đúng như cách bạn muốn trước khi nhấp vào OK và CHẤP NHẬN. Đừng bao giờ để bất kỳ ai MƯỢN bất kỳ vật phẩm nào vì họ có thể không trả lại những gì bạn cho họ mượn. Đảm bảo rằng bạn đang nhận được đúng vật phẩm và đúng số lượng Penya trước khi thực hiện giao dịch. Tất cả các giao dịch được thực hiện với rủi ro của riêng bạn, vì vậy hãy rất cẩn thận. Nếu bạn bị mất thứ gì đó, nhận nhầm vật phẩm, hoặc số tiền Penya sai thì bạn không thể làm gì để lấy lại vật phẩm đó. Vì vậy, hãy cẩn thận. Nếu bất kỳ lúc nào bạn cảm thấy không thoải mái với giao dịch, hãy nhấp vào nút HỦY để kết thúc giao dịch."
+CLIENT_HELP_INC_000053,Once you put items in a trade window and select OK and ACCEPT the trade will go through and the items you traded for will be in your inventory. If your inventory box is full the trade will be canceled.,"Sau khi bạn đặt các vật phẩm vào cửa sổ giao dịch và chọn OK và CHẤP NHẬN, giao dịch sẽ được thực hiện và các vật phẩm bạn đã giao dịch sẽ nằm trong kho của bạn. Nếu kho hàng của bạn đầy thì giao dịch sẽ bị hủy bỏ."
+CLIENT_HELP_INC_000054,Quests,Nhiệm vụ
+CLIENT_HELP_INC_000055,"NPC's with a Yellow ""!"" above their heads have a Quest you can complete. Select the NPC and then select New Quest. This will show you all of the available quests and the level required to accept the quest.","NPC có dấu ""!"" Màu vàng trên đầu họ có một Nhiệm vụ mà bạn có thể hoàn thành. Chọn NPC và sau đó chọn Nhiệm vụ mới. Điều này sẽ hiển thị cho bạn tất cả các nhiệm vụ có sẵn và cấp độ cần thiết để chấp nhận nhiệm vụ."
+CLIENT_HELP_INC_000056,Complete as many quests as you can as they will give you many rewards along with valuable Exp bonuses!,"Hoàn thành càng nhiều nhiệm vụ càng tốt, chúng sẽ mang lại cho bạn nhiều phần thưởng cùng với các phần thưởng Kinh nghiệm (EXP) giá trị!"
+CLIENT_HELP_INC_000057,Interface,Giao diện
+CLIENT_HELP_INC_000058,This Section will detail the various Menus you will be seeing and using while you play.,Phần này sẽ trình bày chi tiết các Menu khác nhau mà bạn sẽ thấy và sử dụng khi chơi.
+CLIENT_HELP_INC_000059,Status Menu,Menu trạng thái
+CLIENT_HELP_INC_000060,"You can toggle this window by pressing the T Button. This Window will give you the overall status of your character. It includes your Health Points, Magic Points, Focus Points, Experience, and Bubble Time.","Bạn có thể chuyển đổi cửa sổ này bằng cách nhấn phím T. Cửa sổ này sẽ cung cấp cho bạn trạng thái tổng thể của nhân vật của bạn. Nó bao gồm Health Points, Magic Points, Focus Points, Experience, and Bubble Time."
+CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA, the more HP you have the longer you will live. MP is necessary for magician and assist skills. Your total MP increases as you increase your INT. FP is necessary for mercenary and acrobat skills, your total FP increases as you increase your STA.","Tổng HP của bạn tăng lên khi bạn tăng STA, bạn càng có nhiều HP thì bạn sẽ sống lâu hơn. MP cần thiết cho pháp sư và các kỹ năng hỗ trợ. Tổng MP của bạn tăng lên khi bạn tăng INT. FP cần thiết cho lính đánh thuê và các kỹ năng nhào lộn, tổng FP của bạn tăng lên khi bạn tăng STA của mình."
+CLIENT_HELP_INC_000062,Exp notes the necessary amount of experience needed to level up. Exp is gained by hunting monsters and completing quests. Bubble Time is a special Buff that gives you bonus Exp. This is filled through the Guild House and is explained under that section of the Help Menu.,Exp ghi nhận lượng kinh nghiệm cần thiết để lên cấp. Exp nhận được khi săn quái vật và hoàn thành nhiệm vụ. Bubble Time là một Buff đặc biệt giúp bạn có thêm Exp. Điều này đã được điền thông qua Guild House và được giải thích tại phần đó của Menu Trợ giúp.
+CLIENT_HELP_INC_000063,Character Menu,Menu nhân vật
+CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.","Menu này có thể được bật tắt bằng phím H. Nó hiển thị thông tin quan trọng về nhân vật. Phần Cơ sở hiển thị thông tin cơ bản như tên nhân vật, công việc, cấp độ, v.v. ... Phần Chi tiết hiển thị trạng thái nhân vật theo trang bị và cấp độ hiện đang sử dụng, và PVP / PK theo dõi thông tin PVP của bạn."
+CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.","Khi bạn đạt được các cấp độ, bạn sẽ được thưởng Điểm thống kê. Những thứ này có thể được chi tiêu trên Menu này. Điểm thống kê nhận được khi bạn lên cấp và bạn có thể tăng khả năng cơ bản của mình."
+CLIENT_HELP_INC_000066,"ATK represents your Attack Power, this is how much damage you can deliver to the enemy. DEF represents your Defense, this is how much damage you can absorb from an enemy's attack. Critical means how much chance you have to make a critical attack, and A. Speed shows how fast your character will attack.","ATK đại diện cho Sức tấn công của bạn, đây là lượng sát thương bạn có thể gây ra cho kẻ thù. DEF đại diện cho Phòng thủ của bạn, đây là mức độ sát thương bạn có thể hấp thụ từ tấn công của kẻ thù. Critical có nghĩa là bạn có bao nhiêu cơ hội để thực hiện một cuộc tấn công quan trọng và A. Tốc độ cho thấy nhân vật của bạn sẽ tấn công nhanh như thế nào."
+CLIENT_HELP_INC_000067,"STR affects the attack power of all melee weapons. STA affects defense, max HP, max FP, and HP/FP restoration. DEX affects attack speed, dodge, blocking, critical chance and bow attack power. INT affects maximum MP, MP restoration, magical spell damage and magic defense.","STR ảnh hưởng đến sức tấn công của tất cả các vũ khí cận chiến. STA ảnh hưởng đến khả năng phòng thủ, HP tối đa, FP tối đa và phục hồi HP / FP. DEX ảnh hưởng đến tốc độ tấn công, né tránh, ngăn chặn, cơ hội quan trọng và sức mạnh tấn công của cung. INT ảnh hưởng đến MP tối đa, phục hồi MP, sát thương phép thuật và phòng thủ phép thuật."
+CLIENT_HELP_INC_000068,The Fame/Master Tab will display of all the Titles you have earned. Select one of these Titles to show the world what you can accomplish!,Thẻ Danh vọng / Bậc thầy sẽ hiển thị tất cả các Chức danh mà bạn đã kiếm được. Chọn một trong những chức danh này để cho cả thế giới thấy những gì bạn có thể đạt được!
+CLIENT_HELP_INC_000069,Chat Menu,Menu trò chuyện
+CLIENT_HELP_INC_000070,"Press Enter to activate this Menu and then you can type in it. Chat, Whisper, Shout, Party and Guild Chats are possible. You can click the System button to view any system messages that have been displayed.","Nhấn Enter để kích hoạt Menu này và sau đó bạn có thể nhập ký tự vào. Có thể trò chuyện, thì thầm, la hét, trò chuyện nhóm và bang hội. Bạn có thể nhấp vào nút Hệ thống để xem bất kỳ thông báo hệ thống nào đã được hiển thị."
+CLIENT_HELP_INC_000071,"If you want to copy a message and paste it with the Shortcut key then type the message into the chat window, don’t press enter, then drag the balloon mark located on the left side of the chat window to your quick slot.","Nếu bạn muốn sao chép và dán tin nhắn đó bằng phím Phím tắt, hãy nhập tin nhắn vào cửa sổ trò chuyện, không nhấn enter, sau đó kéo dấu bong bóng nằm ở bên trái cửa sổ trò chuyện vào vị trí nhanh của bạn."
+CLIENT_HELP_INC_000072,Navigator,Điều hướng
+CLIENT_HELP_INC_000073,Press the N Button to toggle this Menu. The Navigator is the mini-map located at the upper-right of your screen.,Nhấn nút N để chuyển đổi Menu này. Bộ điều hướng là bản đồ thu nhỏ nằm ở phía trên bên phải màn hình của bạn.
+CLIENT_HELP_INC_000074,"NPC's will appear as purple dots, while other players will appear as white dots. NPC Shops will be displayed with an icon that indicates what shop they are. If you are turning in a quest look for a yellow and black dot. Yellow and orange dots indicate enemy mobs. If you use your mouse to roll over a dot, it will tell you the name of that specific target.","NPC sẽ xuất hiện dưới dạng chấm tím, trong khi những người chơi khác sẽ xuất hiện dưới dạng chấm trắng. Cửa hàng NPC sẽ được hiển thị với một biểu tượng cho biết họ là cửa hàng nào. Nếu bạn đang thực hiện nhiệm vụ, hãy tìm một chấm màu vàng và đen. Các chấm màu vàng và cam biểu thị đám đông kẻ thù. Nếu bạn sử dụng chuột để cuộn qua một dấu chấm, nó sẽ cho bạn biết tên của mục tiêu cụ thể đó."
+CLIENT_HELP_INC_000075,There are a few buttons on the Mini-Map to help you as well. You can zoom the mini-map in and out using the + and - icons. The drop down will allow you to filter what appears on your Mini-Map.,Có một số nút trên Bản đồ thu nhỏ cũng giúp bạn. Bạn có thể phóng to và thu nhỏ bản đồ thu nhỏ bằng cách sử dụng các biểu tượng + và -. Trình đơn thả xuống sẽ cho phép bạn lọc những gì xuất hiện trên Bản đồ thu nhỏ của bạn.
+CLIENT_HELP_INC_000076,Skill Menu,Menu kỹ năng
+CLIENT_HELP_INC_000077,Toggle this Menu with the K Button. This window displays the skills and skill tree of your character. You can upgrade skills if you have the necessary requirements.,Chuyển đổi Menu này bằng Nút K. Cửa sổ này hiển thị các kỹ năng và cây kỹ năng của nhân vật của bạn. Bạn có thể nâng cấp kỹ năng nếu bạn có các yêu cầu cần thiết.
+CLIENT_HELP_INC_000078,"To use skills, drag the skill to the quick slots in the bottom center of the screen and use F1 - F9. Otherwise, drag the skill in the skill window to the Action Slot on the bottom right of the screen and press C.","Để sử dụng kỹ năng, hãy kéo kỹ năng vào các vị trí nhanh ở giữa dưới cùng của màn hình và sử dụng F1 - F9. Nếu không, hãy kéo kỹ năng trong cửa sổ kỹ năng đến vị trí hành động ở phía dưới bên phải của màn hình và nhấn C."
+CLIENT_HELP_INC_000079,"Skill points are necessary to level up your skill. Skill points are earned as you level up. Click the skill you want to increase and adjust the skill level with +,- button and click Finish.","Điểm kỹ năng là cần thiết để nâng cấp kỹ năng của bạn. Bạn sẽ kiếm được điểm kỹ năng khi bạn lên cấp. Nhấp vào kỹ năng bạn muốn tăng và điều chỉnh cấp độ kỹ năng bằng nút +, - và nhấp vào Hoàn Thành."
+CLIENT_HELP_INC_000080,Inventory,Kho trữ đồ
+CLIENT_HELP_INC_000081,"Your inventory shows you everything you currently have equipped and everything you are carrying. You can store weapons, armor, items, Penya and anything that isn't nailed down inside your inventory. View your inventory by Pressing the I Button.","Kho trữ đồ của bạn hiển thị cho bạn mọi thứ bạn hiện đã trang bị và mọi thứ bạn đang mang theo. Bạn có thể lưu trữ vũ khí, áo giáp, vật phẩm, tiền Penya và bất cứ thứ gì không được kiểm chứng bên trong túi đồ của bạn. Xem hành trang của bạn bằng cách Nhấn nút I."
+CLIENT_HELP_INC_000082,Messenger Menu,Menu tin nhắn
+CLIENT_HELP_INC_000083,"You can talk to friends and Guildies as well as check their current connection status. It will be updated as you add friends and guild members. To add your friend, hold down ALT and left click the character, then select ‘add to my list’ or click the + icon located below the messenger window. Your Guild list will automatically update as players come and go. There is also a Tab to check you Mentor Pupil Status but that system is outlined later in the Help Guide.","Bạn có thể nói chuyện với bạn bè và Bang hội cũng như kiểm tra trạng thái kết nối hiện tại của họ. Nó sẽ được cập nhật khi bạn thêm bạn bè và thành viên bang hội. Để thêm bạn bè của bạn, hãy giữ ALT và nhấp chuột trái vào nhân vật, sau đó chọn ‘thêm vào danh sách của tôi’ hoặc nhấp vào biểu tượng + nằm bên dưới cửa sổ messenger. Danh sách Bang hội của bạn sẽ tự động cập nhật khi người chơi đến và đi. Ngoài ra còn có một Thẻ để bạn kiểm tra Tình trạng người Cố vấn nhưng hệ thống đó được nêu sau trong Hướng dẫn Trợ giúp."
+CLIENT_HELP_INC_000084,Quest Menu,Menu nhiệm vụ
+CLIENT_HELP_INC_000085,"By pressing the Q Button, you can check the progress of your current quests and other valuable information about your quests. This Menu is divided into tabs to better help you organize your quests. If you select a quest from the list it will be added to your on screen display to help you better track your progress quickly.","Bằng cách nhấn phím Q, bạn có thể kiểm tra tiến độ của các nhiệm vụ hiện tại và thông tin có giá trị khác về các nhiệm vụ của bạn. Menu này được chia thành các thẻ để giúp bạn tổ chức các nhiệm vụ của mình tốt hơn. Nếu bạn chọn một nhiệm vụ từ danh sách, nhiệm vụ đó sẽ được thêm vào hiển thị trên màn hình của bạn để giúp bạn theo dõi nhanh hơn tiến trình của mình."
+CLIENT_HELP_INC_000086,Motion Menu,Menu chuyển động
+CLIENT_HELP_INC_000087,This window displays emoticons and motion icons.,Cửa sổ này hiển thị các biểu tượng cảm xúc và biểu tượng chuyển động.
+CLIENT_HELP_INC_000088,You can open this Menu by pressing O. You can left click the icon to use it instantly or drag it the shortcut window and use it later.,Bạn có thể mở Menu này bằng cách nhấn O. Bạn có thể nhấp chuột trái vào biểu tượng để sử dụng nó ngay lập tức hoặc kéo nó vào cửa sổ lối tắt và sử dụng nó sau.
+CLIENT_HELP_INC_000089,,
+CLIENT_HELP_INC_000090,Party Menu,Menu nhóm
+CLIENT_HELP_INC_000091,"This window manages your party. There are basic parties and advanced parties. Basic parties are groups that you share exp and items with, while an advanced party uses various party skills. When a basic party reaches level 10 you can change it to an advanced party and use party skills.","Cửa sổ này quản lý nhóm của bạn. Có nhóm cơ bản và nhóm nâng cao. Nhóm cơ bản là nhóm mà bạn chia sẻ kinh nghiệm và vật phẩm, trong khi nhóm nâng cao sử dụng nhiều kỹ năng của nhóm. Khi một nhóm cơ bản đạt đến cấp độ 10, bạn có thể đổi thành nhóm nâng cao và sử dụng các kỹ năng của nhóm."
+CLIENT_HELP_INC_000092,Guild Menu,Menu Bang hội
+CLIENT_HELP_INC_000093,"A Guild is a bigger community than a party and anyone level 40 or higher can create one. You have to complete the quest from NPC Helena to make a guild. The Info tab shows general information and notices, the member tab allows you to manage guild members, the title tab shows titles and allows you to pay members, and the duel tab shows info on your guild duels.","Bang hội là một cộng đồng lớn hơn một nhóm và bất kỳ ai từ cấp 40 trở lên đều có thể tạo một bang hội. Bạn phải hoàn thành nhiệm vụ từ NPC Helena để lập bang hội. Thẻ Thông tin hiển thị thông tin và thông báo chung, thẻ thành viên cho phép bạn quản lý các thành viên của bang hội, thẻ tiêu đề hiển thị danh hiệu và cho phép bạn thanh toán cho các thành viên và thẻ đấu hiển thị thông tin về các cuộc đấu bang hội của bạn."
+CLIENT_HELP_INC_000094,Options Tab,Thẻ lựa chọn
+CLIENT_HELP_INC_000095,This window configures the basic details and options for the Game and can be found in the Start Tab. There are many settings here and they have been separated into two Tabs: Video and Game / Audio.,Cửa sổ này cấu hình các chi tiết và tùy chọn cơ bản cho Trò chơi và bạn có thể tìm thấy trong Thẻ Bắt đầu. Có rất nhiều cài đặt ở đây và chúng đã được tách thành hai Thẻ: Video và Trò chơi / Âm thanh.
+CLIENT_HELP_INC_000096,Video,Video
+CLIENT_HELP_INC_000097,This window is for video settings. If you set the options to their highest settings you may encounter some additional lag. You will also see other settings for various visual elements.,"Cửa sổ này dành cho cài đặt video. Nếu bạn đặt các tùy chọn thành cài đặt cao nhất, bạn có thể gặp phải một số độ trễ. Bạn cũng sẽ thấy các cài đặt khác cho các yếu tố hình ảnh khác nhau."
+CLIENT_HELP_INC_000098,Game / Audio,Trò chơi/ Âm thanh
+CLIENT_HELP_INC_000099,"From this tab you can allow or block Trades, Whispers, Friend Requests, Duel Requests, Party Requests, along with numerous other options. You can also control the audio levels and Battle Music.","Từ thẻ này, bạn có thể cho phép hoặc chặn Giao dịch, Thì thầm, Yêu cầu kết bạn, Yêu cầu chiến đấu, Yêu cầu gia nhập nhóm, cùng với nhiều tùy chọn khác. Bạn cũng có thể kiểm soát các mức âm thanh và âm nhạc của cuộc chiến."
+CLIENT_HELP_INC_000100,Helper Tab,Thẻ trợ giúp
+CLIENT_HELP_INC_000101,Selecting the Help Tab from the Start Menu will open various help texts. You can find all forms of helpful things in this area.,Chọn Thẻ Trợ giúp từ Menu Bắt đầu sẽ mở ra nhiều văn bản trợ giúp khác nhau. Bạn có thể tìm thấy tất cả các hình thức hữu ích trong khu vực này.
+CLIENT_HELP_INC_000102,Help,Trợ giúp
+CLIENT_HELP_INC_000103,This selection includes the Helper Tree you are currently looking at. There are numerous topics here that are described in detail to help give you a better understanding of the game.,Lựa chọn này bao gồm Cây trợ giúp mà bạn hiện đang xem. Có rất nhiều chủ đề ở đây được mô tả chi tiết để giúp bạn hiểu rõ hơn về trò chơi.
+CLIENT_HELP_INC_000104,Tips,Lời gợi ý
+CLIENT_HELP_INC_000105,This selection contains tips that help with game play and other things that are easily overlooked.,Lựa chọn này chứa các mẹo giúp chơi trò chơi và những thứ khác dễ bị bỏ qua.
+CLIENT_HELP_INC_000106,FAQ,Câu hỏi thường gặp
+CLIENT_HELP_INC_000107,This is the FAQ window. When you have questions you should start here as there are numerous answers to various questions.,"Đây là cửa sổ Câu hỏi thường gặp. Khi bạn có câu hỏi, bạn nên bắt đầu ở đây vì có rất nhiều câu trả lời cho các câu hỏi khác nhau."
+CLIENT_HELP_INC_000108,Information Tab,Thẻ thông tin
+CLIENT_HELP_INC_000109,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.,Thẻ này sẽ cung cấp cho bạn quyền truy cập vào thông báo trong trò chơi. Thông tin khác và tin tức chính sẽ được liệt kê ở đây theo thời gian. Thông báo này cũng được hiển thị theo mặc định khi trò chơi khởi chạy.
+CLIENT_HELP_INC_000110,Revive Menu,Menu hồi sinh
+CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.","Cửa sổ này mở ra khi HP của bạn về 0. Có ba tùy chọn, 'Sao bắc cực' cho phép bạn hồi sinh từ thị trấn gần nhất. Nếu bạn có 'Cuộn sách hồi sinh', bạn có thể hồi sinh từ chỗ bằng tùy chọn 'Vị trí ban đầu'. Bạn cũng có thể ghé thăm cửa hàng vật phẩm Tiền mặt thông qua menu này."
+CLIENT_HELP_INC_000112,Trade Menu,Menu giao dịch
+CLIENT_HELP_INC_000113,"If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed.","Nếu bạn bắt đầu Giao dịch hoặc Chấp nhận Yêu cầu Giao dịch của người chơi khác, bạn sẽ thấy menu này. Từ đây bạn có thể giao dịch tiền Penya và các vật phẩm khác nhau. Giao dịch sẽ phải được xác nhận trước khi hoàn thành."
+CLIENT_HELP_INC_000114,Bank Menu,Menu ngân hàng
+CLIENT_HELP_INC_000115,This Menu will allow you to store various items and Penya without taking up space in your inventory. You can access your bank from the [Public Office] NPC in each major city.,Menu này sẽ cho phép bạn lưu trữ các vật phẩm khác nhau và tiền Penya mà không chiếm dung không gian trong kho của bạn. Bạn có thể truy cập ngân hàng của mình từ NPC [Văn phòng Công cộng] ở mỗi thành phố lớn.
+CLIENT_HELP_INC_000116,Task Bar,Thanh tác vụ
+CLIENT_HELP_INC_000117,"This section refers to the bar that runs along the bottom of your screen. It houses your Start Menu, System Slots, and Quick Action Slots.","Phần này đề cập đến thanh chạy dọc theo cuối màn hình của bạn. Nó chứa Start Menu, System Slots và Quick Action Slots."
+CLIENT_HELP_INC_000118,Start Menu,Menu bắt đầu
+CLIENT_HELP_INC_000119,This Menu allows the user to access all of the game options and various game play functions. Many of the Hot Keyed Menus can be accessed through the Start Menu.,Menu này cho phép người dùng truy cập tất cả các tùy chọn trò chơi và các chức năng chơi trò chơi khác nhau. Nhiều Menu có phím nóng có thể được truy cập thông qua Menu Bắt đầu.
+CLIENT_HELP_INC_000120,System Slots,Vị trí hệ thống
+CLIENT_HELP_INC_000121,"This refers to the slots to the right of the Start Menu. These slots are used so that users can quickly access skills, save text strings, or other various tasks they want to repeat.","Điều này đề cập đến các vị trí ở bên phải của Menu bắt đầu. Các vị trí này được sử dụng để người dùng có thể nhanh chóng truy cập các kỹ năng, lưu chuỗi văn bản hoặc các tác vụ khác nhau mà họ muốn lặp lại."
+CLIENT_HELP_INC_000122,Hot Keys,Phím nóng
+CLIENT_HELP_INC_000123,This refers to the nine slots in the middle of the bottom bar labeled F1-F9. These slots are linked to the corresponding Function keys and can be triggered accordingly. Reserve these for your most important funtions!,Điều này đề cập đến chín vị trí ở giữa thanh dưới cùng có nhãn F1-F9. Các vị trí này được liên kết với các phím Chức năng tương ứng và có thể được kích hoạt tương ứng. Hãy dành những thứ này cho những hành động quan trọng nhất của bạn!
+CLIENT_HELP_INC_000124,Action Slot,Vị trí hành động
+CLIENT_HELP_INC_000125,The Action Slot is located in the lower right corner of the screen.,Vị trí hành động nằm ở góc dưới bên phải của màn hình.
+CLIENT_HELP_INC_000126,What is the Action Slot,Vị trí hành động là gì
+CLIENT_HELP_INC_000127,The Action Slot allows you to trigger a pre-determined set of skills. You can place skills in the Action Slot from the Skills Menu.,Vị trí hành động cho phép bạn kích hoạt một bộ kỹ năng được xác định trước. Bạn có thể đặt các kỹ năng trong vị trí hành động từ Menu Kỹ năng.
+CLIENT_HELP_INC_000128,Using the Action Slot,Sử dụng vị trí hành động
+CLIENT_HELP_INC_000129,"To actually use the Action Slot you will need to select a target and press ""C"". This can be done repeatedly.","Để thực sự sử dụng Vị trí hành động, bạn sẽ cần chọn mục tiêu và nhấn ""C"". Điều này có thể được thực hiện nhiều lần."
+CLIENT_HELP_INC_000130,Order of the Action Slot,Thứ tự của vị trí hành động
+CLIENT_HELP_INC_000131,Skills can be used in a succession as long as you follow the order of the different types of skills. The order is; Step > Circle > Finish. You can only use the action icons if the skills are in order.,Các kỹ năng có thể được sử dụng liên tiếp miễn là bạn tuân theo thứ tự của các loại kỹ năng khác nhau. Thứ tự là; Bước> Vòng tròn> Kết thúc. Bạn chỉ có thể sử dụng các biểu tượng hành động nếu các kỹ năng theo thứ tự.
+CLIENT_HELP_INC_000132,Action Slot Cooldown,Thời gian hồi của vị trí hành động
+CLIENT_HELP_INC_000133,There is a Cooldown for the Action Slot. As you cast you will notice a shadow the will begin covering the Action Slot. You will not be able to uses Skills that are covered in shadow. Simply wait and the shadow will vanish.,"Có thời gian hồi chiêu cho vị trí hành động. Khi bạn sử dụng tuyệt chiêu, bạn sẽ nhận thấy một cái bóng sẽ bắt đầu bao phủ vị trí hành động. Bạn sẽ không thể sử dụng Kỹ năng bị bao phủ bởi bóng tối. Đơn giản chỉ cần chờ đợi và bóng tối sẽ biến mất."
+CLIENT_HELP_INC_000134,Community,Cộng đồng
+CLIENT_HELP_INC_000135,In order to make Flyff more social and entertaining we encourage users to band together. There is both an intricate Party System and a Guild System.,"Để làm cho Flyff trở nên mang tính xã hội và giải trí hơn, chúng tôi khuyến khích người dùng kết hợp với nhau. Có cả Hệ thống nhóm và Hệ thống Bang hội phức tạp."
+CLIENT_HELP_INC_000136,Basic Party System,Hệ thống nhóm cơ bản
+CLIENT_HELP_INC_000137,"Parties are used to help benefit users who band together for a short time. There are numerous benefits to joining a Party as opposed to playing alone. The Party Menu can be accessed by pressing ""P"".","Các nhóm được sử dụng để giúp mang lại lợi ích cho những người chơi kết hợp với nhau trong một thời gian ngắn. Có rất nhiều lợi ích khi tham gia một nhóm thay vì chơi một mình. Có thể truy cập Menu Nhóm bằng cách nhấn ""P""."
+CLIENT_HELP_INC_000138,Party Requirements,Những yêu cầu khi tham gia nhóm
+CLIENT_HELP_INC_000139,"To make a party, at least 2 people are needed. There are no job or level requirements to create normal party.","Để tạo ra 1 nhóm, cần ít nhất 2 người. Không có yêu cầu về công việc hoặc cấp độ để tạo 1 nhóm bình thường."
+CLIENT_HELP_INC_000140,Inviting members to a Party,Mời thành viên vào nhóm
+CLIENT_HELP_INC_000141,"To invite a player, either hold the ALT key and left click on the player or simply right click on the user. After accessing the Player Menu, simply select ""Invite to join party"".","Để mời một người chơi, hãy giữ phím ALT và nhấp chuột trái vào người chơi hoặc chỉ cần nhấp chuột phải vào người chơi. Sau khi truy cập Menu Người chơi, chỉ cần chọn ""Mời tham gia nhóm""."
+CLIENT_HELP_INC_000142,Joining a Party,Tham gia vào nhóm
+CLIENT_HELP_INC_000143,Select ACCEPT when you are invited to join a party.,Chọn CHẤP NHẬN khi bạn được mời vào nhóm
+CLIENT_HELP_INC_000144,Leave a Party,Rời khỏi nhóm
+CLIENT_HELP_INC_000145,"To leave a Party, open the Party Menu and click on the LEAVE button. A Party will be disbanded automatically if everyone leaves the Party.","Để rời khỏi nhóm, hãy mở Menu Nhóm và nhấp vào nút RỜI KHỎI. Một Nhóm sẽ tự động bị giải tán nếu tất cả mọi người rời khỏi Nhóm."
+CLIENT_HELP_INC_000146,Removing a Party member,Xóa bỏ thành viên ra khỏi nhóm
+CLIENT_HELP_INC_000147,"Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button.","Chỉ có Trưởng nhóm mới có thể xóa thành viên ra khỏi nhóm. Để thực hiện việc này, bạn cần truy cập Menu Nhóm chọn thành viên cần xóa khỏi nhóm, sau đó nhấn nút Rời khỏi."
+CLIENT_HELP_INC_000148,Changing Party Leader,Thay đổi Trưởng nhóm
+CLIENT_HELP_INC_000149,"To transfer leadership in a Basic Party the Leader must choose a Party member and click the Transfer button. In case the Leader leaves the party, then the Party member placed next to Leader becomes the Party Leader.","Để chuyển giao quyền lãnh đạo trong một Nhóm cơ bản, trưởng nhóm phải chọn một thành viên và nhấp vào nút Chuyển giao. Trong trường hợp Trưởng nhóm rời Nhóm, thì thành viên được đặt bên cạnh Trưởng nhóm trở thành Trưởng nhóm mới."
+CLIENT_HELP_INC_000150,Become an Advanced Party,Trở thành 1 nhóm cao cấp
+CLIENT_HELP_INC_000151,When a basic Party’s level reaches 10 it is able to change to an Advanced Party. Simply select the Change button on the Party Menu. Once your Party changes to an Advanced Party you will be able to name your Party. Once you have an Advanced Party you can begin to take advantage of the Skills Tab inside the Party Menu.,"Khi cấp độ của một Nhóm cơ bản đạt đến 10 thì có thể thay đổi thành một Nhóm cao cấp. Chỉ cần chọn nút Thay đổi trên Menu Nhóm. Sau khi Nhóm của bạn chuyển thành Nhóm cao cấp, bạn sẽ có thể đặt tên cho Nhóm của mình. Sau khi có Nhóm cao cấp, bạn có thể bắt đầu tận dụng Thẻ Kỹ năng bên trong Menu Nhóm."
+CLIENT_HELP_INC_000152,Advanced Party System,Hệ thống Nhóm cao cấp
+CLIENT_HELP_INC_000153,Advanced Parties evolve from Basic Parties. They are very beneficial for groups attempting to conquer the most difficult tasks!,Các Nhóm cao cấp phát triển từ các Nhóm cơ bản. Chúng rất có lợi cho các nhóm đang cố gắng chinh phục những nhiệm vụ khó khăn nhất!
+CLIENT_HELP_INC_000154,Become an Advanced Party,Trở thành 1 nhóm cao cấp
+CLIENT_HELP_INC_000155,When a basic Party’s level reaches 10 it is able to change to an Advanced Party. Simply select the Change button on the Party Menu. Once your Party changes to an Advanced Party you will be able to name your Party. Once you have an Advanced Party you can begin to take advantage of the Skills Tab inside the Party Menu.,"Khi cấp độ của một Nhóm cơ bản đạt đến 10 thì có thể thay đổi thành một Nhóm cao cấp. Chỉ cần chọn nút Thay đổi trên Menu Nhóm. Sau khi Nhóm của bạn chuyển thành Nhóm cao cấp, bạn sẽ có thể đặt tên cho Nhóm của mình. Sau khi có Nhóm cao cấp, bạn có thể bắt đầu tận dụng Thẻ Kỹ năng bên trong Menu Nhóm."
+CLIENT_HELP_INC_000156,Inviting members to a Party,Mời thành viên vào nhóm
+CLIENT_HELP_INC_000157,"To invite a player, either hold the ALT key and left click on the player or simply right click on the user. After accessing the Player Menu, simply select ""Invite to join party"".","Để mời một người chơi, hãy giữ phím ALT và nhấp chuột trái vào người chơi hoặc chỉ cần nhấp chuột phải vào người chơi. Sau khi truy cập Menu Người chơi, chỉ cần chọn ""Mời tham gia nhóm""."
+CLIENT_HELP_INC_000158,Joining an advanced party.,Tham gia 1 nhóm cao cấp
+CLIENT_HELP_INC_000159,Select ACCEPT when you are invited to join a party.,Chọn CHẤP NHẬN khi bạn được mời vào nhóm
+CLIENT_HELP_INC_000160,Party Exp and Skills,Kinh nghiệm và kỹ năng của nhóm
+CLIENT_HELP_INC_000161,The Advanced Party will get stronger as your Party earns Exp which in turn gives the Party Points. These Party Points are then consumed to use Party Skills. The Party Skills and Points are different according to the level of the Party. Only the Party Leader can use the Party Skills.,"Nhóm cao cấp sẽ mạnh hơn khi nhóm của bạn kiếm được Exp (điểm kinh nghiệm), từ đó mang lại Điểm Nhóm. Các Điểm Nhóm này sau đó sẽ được dùng để sử dụng Kỹ năng Nhóm. Các Kỹ năng và Điểm Nhóm khác nhau tùy theo cấp độ của Nhóm. Chỉ Trưởng nhóm mới có thể sử dụng Kỹ năng Nhóm."
+CLIENT_HELP_INC_000162,Leave a Party,Rời khỏi nhóm
+CLIENT_HELP_INC_000163,"To leave a Party, open the Party Menu and click on the LEAVE button. A Party will be disbanded automatically if everyone leaves the Party.","Để rời khỏi nhóm, hãy mở Menu Nhóm và nhấp vào nút RỜI KHỎI. Một Nhóm sẽ tự động bị giải tán nếu tất cả mọi người rời khỏi Nhóm."
+CLIENT_HELP_INC_000164,Removing a Party member,Xóa bỏ thành viên ra khỏi nhóm
+CLIENT_HELP_INC_000165,"Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button.","Chỉ có Trưởng nhóm mới có thể xóa thành viên ra khỏi nhóm. Để thực hiện việc này, bạn cần truy cập Menu Nhóm chọn thành viên cần xóa khỏi nhóm, sau đó nhấn nút Rời khỏi."
+CLIENT_HELP_INC_000166,Changing Party Leader,Thay đổi Trưởng nhóm
+CLIENT_HELP_INC_000167,"To transfer leadership in an Advanced Party the Leader must choose a Party member and click the Transfer button. In case the Leader leaves the party, then the Party member placed next to Leader becomes the Party Leader.","Để chuyển giao quyền trưởng nhóm trong một Nhóm cao cấp, Trưởng nhóm phải chọn một thành viên và nhấp vào nút Chuyển giao. Trong trường hợp Trưởng nhóm rời khỏi nhóm, thì thành viên được đặt bên cạnh Trưởng nhóm trở thành Trưởng nhóm."
+CLIENT_HELP_INC_000168,,
+CLIENT_HELP_INC_000169,,
+CLIENT_HELP_INC_000170,Advanced Party Skills,Kỹ năng của nhóm cao cấp
+CLIENT_HELP_INC_000171,Only the Advanced Party Leader can use the Advanced Party Skills. The Advanced Party Skills will be acquired as you reach a certain Party Level. Party Points are consumed to use Skills.,Chỉ Trưởng nhóm cao cấp mới có thể sử dụng Kỹ năng Nhóm cao cấp. Kỹ năng Nhóm cao cấp sẽ có được khi bạn đạt đến Cấp độ nhóm nhất định. Điểm Nhóm được sử dụng để sử dụng Kỹ năng.
+CLIENT_HELP_INC_000172,Call,Cuộc gọi
+CLIENT_HELP_INC_000173,Informs all Party members of the location of the Party Leader. It does not consume any Party Points.,Thông báo cho tất cả các Thành viên biết vị trí của Trưởng nhóm. Điều này không tiêu tốn bất kỳ Điểm Nhóm nào.
+CLIENT_HELP_INC_000174,Blitz,Tấn công nhanh
+CLIENT_HELP_INC_000175,Party Leader orders Party members to attack a target. It does not consume any Party Points.,Trưởng nhóm ra lệnh cho các Thành viên tấn công một mục tiêu. Điều này không tiêu tốn bất kỳ Điểm Nhóm nào.
+CLIENT_HELP_INC_000176,Retreat,Hiệu lệnh rút quân
+CLIENT_HELP_INC_000177,Party Leader orders all Party members to retreat. It does not consume any Party Points.,Trưởng nhóm ra lệnh cho tất cả các thành viên rút lui. Điều này không tiêu tốn bất kỳ Điểm Nhóm nào.
+CLIENT_HELP_INC_000179,,
+CLIENT_HELP_INC_000180,Precision,Độ chính xác
+CLIENT_HELP_INC_000181,"Use this ability to gain an almost guaranteed critical hit on your next attack. Available at party level 17, consumes 1 Party Point.","Sử dụng khả năng này để đạt được một đòn chí mạng gần như được đảm bảo trong cuộc tấn công tiếp theo của bạn. Có sẵn ở cấp độ nhóm 17, tiêu thụ 1 Điểm Nhóm."
+CLIENT_HELP_INC_000182,Linked Attack,Hợp lực tấn công 
+CLIENT_HELP_INC_000183,"While the Party Leader is attacking a target, damage increase for all Party members attacking the same target. Available at party level 20, consumes 3 Party Points.","Trong khi Trưởng nhóm đang tấn công một mục tiêu, thiệt hại tăng lên cho tất cả các Thành viên trong nhóm tấn công cùng một mục tiêu. Có sẵn ở cấp độ nhóm 20, tiêu thụ 3 Điểm Nhóm."
+CLIENT_HELP_INC_000184,Lucky Drop,Vật phẩm may mắn rơi ra
+CLIENT_HELP_INC_000185,"Increases the chance of Masquerpets dropping unique items. Available at party level 25, consumes 5 Party Points.","Tăng cơ hội rơi ra các vật phẩm độc nhất khi đánh Masquerpets. Có sẵn ở cấp độ nhóm 25, tiêu thụ 5 Điểm Nhóm."
+CLIENT_HELP_INC_000186,Resting,Nghỉ ngơi
+CLIENT_HELP_INC_000187,"Party members recover 1.5 times faster. It the Party Leader is an Assist, Party members recover 1.8 times faster. Available at party level 30, consumes 2 Party Points.","Thành viên phục hồi nhanh hơn 1,5 lần. Nếu Trưởng nhóm là người Hỗ trợ, thành viên phục hồi nhanh hơn 1,8 lần. Có sẵn ở cấp độ bên 30, tiêu tốn 2 Điểm Nhóm."
+CLIENT_HELP_INC_000188,Gift Box,Hộp quà
+CLIENT_HELP_INC_000189,"Increases the amount of items dropped by Masquerpets. Available at party level 40, consumes 8 Party Points.","Tăng số lượng vật phẩm rơi ra khi đánh quái Masquerpets. Có sẵn ở cấp độ bên 40, tiêu thụ 8 Điểm Nhóm."
+CLIENT_HELP_INC_000190,Jobs and their Skills,Chức nghiệp và kỹ năng của từng chức nghiệp
+CLIENT_HELP_INC_000191,This section details the various Jobs in Flyff and all of their corresponding skills. The Skill Menu can be pulled up by pressing the K Key.,Phần này trình bày chi tiết các Chức nghiệp khác nhau trong Flyff và tất cả các kỹ năng tương ứng của họ. Menu Kỹ năng có thể được kéo lên bằng cách nhấn phím K.
+CLIENT_HELP_INC_000192,Players will receive Skill Points as they Level up their characters.,Người chơi sẽ nhận được Điểm Kỹ năng khi thăng cấp cho nhân vật của mình.
+CLIENT_HELP_INC_000193,These Skill Points can then be assigned to various skills to increase the strength of that particular Skill.,Các Điểm Kỹ năng này sau đó có thể được gán cho các kỹ năng khác nhau để tăng sức mạnh của Kỹ năng cụ thể đó.
+CLIENT_HELP_INC_000194,PH1,PH1
+CLIENT_HELP_INC_000195,Vagrants are the basic class everyone in Flyff starts with before they decide on their First Job Change. They use physical attacks and use melee weapons like swords and axes.,Vagrant là lớp cơ bản mà mọi người trong Flyff bắt đầu trước khi họ quyết định Thay đổi Chức Nghiệp Đầu tiên của mình. Họ sử dụng các đòn tấn công vật lý và sử dụng vũ khí cận chiến như kiếm và rìu.
+CLIENT_HELP_INC_000196,Clean Hit,Clean Hit
+CLIENT_HELP_INC_000197,"A powerful, downward strike. This skill is available at Level 3 and can be used with any Melee Weapon.",Một đòn đánh xuống mạnh mẽ. Kỹ năng này có sẵn ở Cấp độ 3 và có thể được sử dụng với bất kỳ Vũ khí Cận chiến nào.
+CLIENT_HELP_INC_000198,Flurry,Flurry
+CLIENT_HELP_INC_000199,A rapid stabbing attack that follows a Clean Hit in the Action Slot. This skill is available at Level 5 to Players who have at least 3 Skill Points in Clean Hit and can be used with any Melee Weapon.,Tấn công bằng cách đâm nhanh sau một Clean hit trong Action Slot. Kỹ năng này có sẵn ở Cấp độ 5 cho Người chơi có ít nhất 3 Điểm kỹ năng trong Clean Hit và có thể được sử dụng với bất kỳ Vũ khí Cận chiến nào.
+CLIENT_HELP_INC_000200,Over Cutter,Over Cutter
+CLIENT_HELP_INC_000201,This attack gathers all of the power the vagrant has and unleashes it in a strong upwards finishing blow. Over Cutter completes the combo after Flurry in the Action Slot. This skill is available at Level 10 to Players who have at least 3 Skill Points in Flurry and can be used with any Melee Weapon.,Đòn tấn công này tập hợp tất cả sức mạnh mà Vagrant có và giải phóng nó bằng một đòn kết liễu mạnh mẽ hướng lên. Over Cutter hoàn thành combo sau khi Flurry trong Action Slot. Kỹ năng này có sẵn ở Cấp 10 cho Người chơi có ít nhất 3 Điểm kỹ năng trong Flurry và có thể được sử dụng với bất kỳ Vũ khí Cận chiến nào.
+CLIENT_HELP_INC_000202,Mercenary,Mercenary
+CLIENT_HELP_INC_000203,"Mercenaries prefer to partake in close range combat. The main characteristics of this particular class involve physical strength, and a strong body that is able to withstand attacks.",Mercenaries thích tham gia chiến đấu tầm gần. Các đặc điểm chính của Class đặc biệt này liên quan đến sức mạnh thể chất và một cơ thể mạnh mẽ có thể chống lại các cuộc tấn công
+CLIENT_HELP_INC_000204,"Powerful and headstrong, the mercenary has both inner and physical strength. Mercenaries will become either a Blade or a Knight.","Mạnh mẽ và cứng cỏi, Mercenary có cả sức mạnh nội tâm và thể chất. Mercenary sẽ trở thành Blade hoặc Knight."
+CLIENT_HELP_INC_000205,PH2,PH2
+CLIENT_HELP_INC_000206,"Strikes the enemy two times, in rapid succession. This skill is available at Level 15 and can be used with any Axe or Sword.","Tấn công kẻ thù hai lần, liên tiếp nhanh chóng. Kỹ năng này có sẵn ở Cấp 15 và có thể được sử dụng với bất kỳ Rìu hoặc Kiếm nào."
+CLIENT_HELP_INC_000207,PH3,PH3
+CLIENT_HELP_INC_000208,A continuous spinning attack. This skill is available at Level 18 to Players who have at least 4 Skill Points in Slash and can be used with any Axe or Sword.,Một cuộc tấn công quay liên tục. Kỹ năng này có sẵn ở Cấp 18 cho Người chơi có ít nhất 4 Điểm kỹ năng trong Chém và có thể được sử dụng với bất kỳ Rìu hoặc Kiếm nào.
+CLIENT_HELP_INC_000209,PH4,PH4
+CLIENT_HELP_INC_000210,"A spinning, finishing move. This skill is available at Level 24 to Players who have at least 6 Skill Points in Keenwheel and can be used with any Axe or Sword.","Một động tác quay, kết thúc. Kỹ năng này có sẵn ở Cấp độ 24 cho Người chơi có ít nhất 6 Điểm kỹ năng trong Keenwheel và có thể được sử dụng với bất kỳ Rìu hoặc Kiếm nào."
+CLIENT_HELP_INC_000211,Special Hit,Special Hit
+CLIENT_HELP_INC_000212,A single powerful strike. This skill is available at Level 30 to Players who have at least 8 Skill Points in Blindside and can be used with any Axe or Sword.,Một đòn đánh mạnh mẽ duy nhất. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 8 Điểm kỹ năng trong Blindside và có thể được sử dụng với bất kỳ Rìu hoặc Kiếm nào.
+CLIENT_HELP_INC_000213,PH5,PH5
+CLIENT_HELP_INC_000214,Drains life from an enemy. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slash and can be used with any Axe or Sword.,Hút sinh mạng từ kẻ thù. Kỹ năng này có sẵn ở Cấp 20 cho những người chơi có ít nhất 3 Skill Points trong Slash và có thể được sử dụng với bất kỳ Axe hoặc Sword nào.
+CLIENT_HELP_INC_000215,Reflex Hit,Reflex Hit
+CLIENT_HELP_INC_000216,This Skill absorbs one attack and releases it back at an enemy. This skill is available at Level 25 to Players who have at least 8 Skill Points in Bloody Strike and can be used with any Axe or Sword.,Kỹ năng này hấp thụ một đòn tấn công và thả nó trở lại kẻ thù. Kỹ năng này có sẵn ở Cấp độ 25 cho những người chơi có ít nhất 8 Skill Points trong Bloody Strike và có thể được sử dụng với bất kỳ Axe hay Sword. nào.
+CLIENT_HELP_INC_000217,Guillotine,Guillotine
+CLIENT_HELP_INC_000218,This attack begins from a short distance and then launches the player at the enemy in a fiery burst. This skill is available at Level 30 to Players who have at least 10 Skill Points in Reflex Hit and can be used with any Axe or Sword.,Đòn tấn công này bắt đầu từ một khoảng cách ngắn và sau đó phóng người chơi vào kẻ thù trong một vụ nổ rực lửa. Kỹ năng này có sẵn ở Cấp độ 30 cho những người chơi có ít nhất 10 Điểm kỹ năng trong Reflex Hit và có thể được sử dụng với bất kỳ Axe hoặc Sword
+CLIENT_HELP_INC_000219,Protection,Protection
+CLIENT_HELP_INC_000220,Increases the defense of a Shield against melee attacks. This skill is available at Level 15 and requires a shield.,Tăng khả năng phòng thủ của Khiên chống lại các cuộc tấn công cận chiến. Kỹ năng này có sẵn ở Cấp 15 và yêu cầu phải có khiên.
+CLIENT_HELP_INC_000221,Pan Barrier,Pan Barrier
+CLIENT_HELP_INC_000222,Increases the defense of a Shield against ranged attacks. This skill is available at Level 18 to Players who have at least 3 Skill Points in Protection and requires a shield.,Tăng khả năng phòng thủ của Khiên chống lại các cuộc tấn công tầm xa. Kỹ năng này có sẵn ở Cấp 18 cho Người chơi có ít nhất 3 Điểm kỹ năng ở mức Protection và cần có khiên.
+CLIENT_HELP_INC_000223,Sneaker,Sneaker
+CLIENT_HELP_INC_000224,Holds an enemy in place with a net. This skill is available at Level 20 to Players who have at least 10 Skill Points in Pan Barrier and can be used with any Axe or Sword.,Giữ kẻ thù tại chỗ bằng lưới. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 10 Điểm kỹ năng trong Pan Barrier và có thể được sử dụng với bất kỳ Rìu hoặc Kiếm nào.
+CLIENT_HELP_INC_000225,Empower Weapon,Empower Weapon
+CLIENT_HELP_INC_000226,This Skill strengthens the elemental damage of a weapon. It is not applied if there is no elemental attack power on the weapon. This skill is available at Level 20 to Players who have at least 5 Skill Points in Protection and can be used with any Axe or Sword.,Kỹ năng này tăng cường sát thương nguyên tố của vũ khí. Kỹ năng này sẽ không được áp dụng nếu vũ khí không có sức mạnh tấn công nguyên tố. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 5 Điểm kỹ năng trong protection và có thể được sử dụng với bất kỳ Rìu hoặc Kiếm nào.
+CLIENT_HELP_INC_000227,Smite Axe,Smite Axe
+CLIENT_HELP_INC_000228,Increases the attack level of an Axe and gives additional defense. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Axe.,Tăng mức độ tấn công của Rìu và tăng thêm khả năng phòng thủ. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 4 Điểm kỹ năng trong Empower Weapon và có thể được sử dụng với bất kỳ Rìu nào.
+CLIENT_HELP_INC_000229,Axe Mastery,Axe Mastery
+CLIENT_HELP_INC_000230,Increases the attack level of an Axe. This skill is available at Level 30 to Players who have at least 9 Skill Points in Smite Axe and can be used with any Axe.,Tăng mức độ tấn công của Rìu. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 9 Điểm kỹ năng trong Smite Axe và có thể được sử dụng với bất kỳ Rìu nào.
+CLIENT_HELP_INC_000231,Blazing Sword,Blazing Sword
+CLIENT_HELP_INC_000232,Increases the attack level and accuracy of a Sword. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Sword.,Tăng mức độ tấn công và độ chính xác của Kiếm. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 4 Điểm kỹ năng trong Empower Weapon và có thể được sử dụng với bất kỳ Thanh kiếm nào.
+CLIENT_HELP_INC_000233,Sword Mastery,Sword Mastery
+CLIENT_HELP_INC_000234,Increases the attack level of a Sword. This skill is available at Level 30 to Players who have at least 9 Skill Points in Blazing Sword and can be used with any Sword.,Tăng mức độ tấn công của Kiếm. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 9 Điểm kỹ năng trong Blazing Sword và có thể được sử dụng với bất kỳ thanh kiếm nào.
+CLIENT_HELP_INC_000235,Acrobat,Acrobat
+CLIENT_HELP_INC_000236,"Acrobats mainly wield long distance weapons such as Bows or Yo-Yos. Using tactics based on speed and accuracy, they are usually able to break anyone willing enough to fight them. Sly and witty, the acrobat is a cunning trickster.","Acrobats chủ yếu sử dụng vũ khí tầm xa như Cung hoặc Yo-Yos. Sử dụng chiến thuật dựa trên tốc độ và độ chính xác, chúng thường có thể phá vỡ bất kỳ ai đủ sẵn sàng chiến đấu với chúng. Thông minh và hóm hỉnh, Acrobat là một kẻ xảo quyệt."
+CLIENT_HELP_INC_000237,"An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger.","Một Acrobat sẽ sử dụng MP cho Kỹ năng Cung và FP cho Kỹ năng Yo-Yo. Đối với các kỹ năng phổ thông như Dark Illusion, Acrobats sử dụng FP. Acrobats sẽ trở thành Jester hoặc Ranger."
+CLIENT_HELP_INC_000238,Pulling,Pulling
+CLIENT_HELP_INC_000239,Pulls a target towards the player. This skill is available at Level 15 to Players and can be used with any Yo-Yo.,Kéo mục tiêu về phía người chơi. Kỹ năng này có sẵn ở Cấp độ 15 cho Người chơi và có thể được sử dụng với bất kỳ Yo-Yo nào.
+CLIENT_HELP_INC_000240,Fast Walker,Fast Walker
+CLIENT_HELP_INC_000241,Increases the walking speed of the user for a limited time. This skill is available at Level 18 to Players who have at least 3 Skill Points in Pulling and can be used with any Bow or Yo-Yo.,Tăng tốc độ đi bộ của người chơi trong một khoảng thời gian giới hạn. Kỹ năng này có sẵn ở Cấp 18 cho Người chơi có ít nhất 3 Điểm kỹ năng trong Pulling và có thể được sử dụng với bất kỳ Cung hoặc Yo-Yo nào
+CLIENT_HELP_INC_000242,Dark Illusion,Dark Illusion
+CLIENT_HELP_INC_000243,Turn a character invisible for a short time. This skill is available at Level 30 to Players who have at least 6 Skill Points in Fast Walker and can be used with any Bow or Yo-Yo.,Chuyển nhân vật sang chế độ vô hình trong một thời gian ngắn. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 6 Điểm kỹ năng trong Fast Walker và có thể được sử dụng với bất kỳ Cung hoặc Yo-Yo nào.
+CLIENT_HELP_INC_000244,Perfect Block,Perfect Block
+CLIENT_HELP_INC_000245,Block rate will be increased. This skill is available at Level 45 to Players who have at least 8 Skill Points in Dark Illusion and can be used with any Bow or Yo-Yo.,Tỷ lệ chặn sẽ được tăng lên. Kỹ năng này có sẵn ở Cấp độ 45 cho Người chơi có ít nhất 8 Điểm kỹ năng trong Dark Illusion và có thể được sử dụng với bất kỳ Cung hoặc Yo-Yo nào.
+CLIENT_HELP_INC_000246,Slow Step,Slow Step
+CLIENT_HELP_INC_000247,You have a chance to decrease the moving speed of enemy. This skill is available at Level 15 and can be used with any Yo-Yo.,Bạn có cơ hội giảm tốc độ di chuyển của kẻ thù. Kỹ năng này có sẵn ở Cấp độ 15 và có thể được sử dụng với bất kỳ Yo-Yo nào.
+CLIENT_HELP_INC_000248,Yo-Yo Mastery,Yo-Yo Mastery
+CLIENT_HELP_INC_000249,Increases Yo-Yo damage. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slow Step and can be used with any Yo-Yo.,Tăng sát thương Yo-Yo. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 3 Điểm kỹ năng ở Slow Step và có thể được sử dụng với bất kỳ Yo-Yo nào.
+CLIENT_HELP_INC_000250,Snatch,Snatch
+CLIENT_HELP_INC_000251,Steals Penya from the target; can only be used while in Dark Illusion from behind target. This skill is available at Level 35 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo.,Đánh cắp Penya khỏi mục tiêu; chỉ có thể được sử dụng khi đang ở trong Dark Illusion từ phía sau mục tiêu. Kỹ năng này có sẵn ở Cấp độ 35 cho Người chơi có ít nhất 8 Điểm kỹ năng trong Yo-Yo Mastery và có thể được sử dụng với bất kỳ Yo-Yo nào.
+CLIENT_HELP_INC_000252,Deadly Swing,Deadly Swing
+CLIENT_HELP_INC_000253,A critical attack that has a chance to cause the enemy to bleed. This skill is available at Level 50 to Players who have at least 10 Skill Points in Snatch and can be used with any Yo-Yo.,Một đòn chí mạng có cơ hội khiến kẻ địch mất máu. Kỹ năng này có sẵn ở Cấp độ 50 cho Người chơi có ít nhất 10 Điểm kỹ năng trong Snatch và có thể được sử dụng với bất kỳ Yo-Yo nào
+CLIENT_HELP_INC_000254,Cross Line,Cross Line
+CLIENT_HELP_INC_000255,Gather energy into your Yo-Yo in order to strike an enemy with a powerful attack that has the chance to stun your target. This skill is available at Level 30 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo. .,Thu thập năng lượng vào Yo-Yo của bạn để tấn công kẻ thù bằng một đòn tấn công mạnh mẽ có cơ hội làm choáng mục tiêu của bạn. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 8 Điểm kỹ năng trong Yo-Yo Mastery và có thể được sử dụng với bất kỳ Yo-Yo nào.
+CLIENT_HELP_INC_000256,Counterattack,Counterattack
+CLIENT_HELP_INC_000257,Evade the enemy's next attack and strike back with an attack of your own. This skill is available at Level 40 to Players who have at least 10 Skill Points in Cross Line and can be used with any Yo-Yo.,Tránh đòn tấn công tiếp theo của kẻ thù và phản công bằng một cuộc tấn công của riêng bạn. Kỹ năng này có sẵn ở Cấp độ 40 cho Người chơi có ít nhất 10 Điểm kỹ năng trong Cross Line và có thể được sử dụng với bất kỳ Yo-Yo nào.
+CLIENT_HELP_INC_000258,Junk Arrow,Junk Arrow
+CLIENT_HELP_INC_000259,This skill shoots four arrows very quickly but with reduced accuracy. This skill is available at Level 15 and can be used with any Bow.,Kỹ năng này bắn bốn mũi tên rất nhanh nhưng độ chính xác giảm. Kỹ năng này có sẵn ở Cấp 15 và có thể được sử dụng với bất kỳ Cung nào.
+CLIENT_HELP_INC_000260,Bow Mastery,Bow Mastery
+CLIENT_HELP_INC_000261,Increases Bow damage. This skill is available at Level 20 to Players who have at least 5 Skill Points in Junk Arrow and can be used with any Bow.,Tăng sát thương cung. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Junk Arrow và có thể được sử dụng với bất kỳ Cung nào.
+CLIENT_HELP_INC_000262,Silent Shot,Silent Shot
+CLIENT_HELP_INC_000263,Delivers a powerful sneak attack to the target if you are in Dark Illusion. This skill is available at Level 30 to Players who have at least 4 Skill Points in Bow Mastery and can be used with any Bow.,Tạo ra 1 đòn đánh mạnh mẽ đến mục tiêu nếu bạn đang ở trong Dark Illusion. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 4 Điểm kỹ năng ở mức Bow Mastery và có thể được sử dụng với bất kỳ Cung nào.
+CLIENT_HELP_INC_000264,Auto Shot,Auto Shot
+CLIENT_HELP_INC_000265,Attacks four times in succession without missing. Each hit is slightly less damaging than a hit from Junk Arrow. This skill is available at Level 45 to Players who have at least 9 Skill Points in Silent Shot and can be used with any Bow.,Tấn công liên tiếp bốn lần mà không bị trượt. Mỗi đòn đánh sẽ ít gây sát thương hơn một chút so với một đòn đánh từ Junk Arrow. Kỹ năng này có sẵn ở Cấp độ 45 cho Người chơi có ít nhất 9 Điểm kỹ năng trong Silent Shot và có thể sử dụng với bất kỳ Cung nào.
+CLIENT_HELP_INC_000266,Aimed Shot,Aimed Shot
+CLIENT_HELP_INC_000267,A carefully aimed shot that has a chance to deal double damage to the target. This skill is available at Level 35 to Players who have at least 5 Skill Points in Bow Mastery and can be used with any Bow.,Một phát bắn được nhắm cẩn thận có cơ hội gây sát thương gấp đôi cho mục tiêu. Kỹ năng này có sẵn ở Cấp độ 35 cho Người chơi có ít nhất 5 Điểm kỹ năng ở mức Bow Mastery và có thể được sử dụng với bất kỳ Cung nào.
+CLIENT_HELP_INC_000268,Arrow Rain,Arrow Rain
+CLIENT_HELP_INC_000269,A rain of arrows that will fall on all enemies in a wide circle around your target. This skill is available at Level 50 to Players who have at least 5 Skill Points in Aimed Shot and can be used with any Bow.,Một cơn mưa tên sẽ rơi xuống tất cả kẻ thù trong một vòng tròn rộng xung quanh mục tiêu của bạn. Kỹ năng này có sẵn ở Cấp 50 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Aimed Shot và có thể được sử dụng với bất kỳ Cung nào.
+CLIENT_HELP_INC_000270,Assist,Assist
+CLIENT_HELP_INC_000271,"The Assist is the priest or medic of Flyff. The two primary builds for this job are a Full Support healer or a Buff Warrior. Both have the same skills to chose from. Where the Healer will need a partner to level, the Warrior can self-buff and fight alone.","Assit là linh mục hoặc bác sĩ của Flyff. Hai bản dựng chính cho chức nghiệp này là một người chữa lành Full Support hoặc một Buff Warrior. Cả hai đều có các kỹ năng giống nhau để lựa chọn. Nơi Healer sẽ cần đồng đội để lên level, Warrior có thể tự buff và chiến đấu một mình."
+CLIENT_HELP_INC_000272,The Assist may chose from Ringmaster or Billposter when the times comes to progress into a second Job.,Assit có thể được chọn từ Ringmaster hoặc Billposter khi thời điểm tiến triển thành chức nghiệp thứ hai.
+CLIENT_HELP_INC_000273,Heal,Heal
+CLIENT_HELP_INC_000274,"Primary healing spell, which recovers a portion of the target's HP. This skill is available at Level 15 and can be used with any Stick.",Phép chữa lành chính yếu là hồi một phần HP của mục tiêu. Kỹ năng này có sẵn ở Cấp độ 15 và có thể được sử dụng với bất kỳ Gậy nào.
+CLIENT_HELP_INC_000275,Patience,Patience
+CLIENT_HELP_INC_000276,Increases the target’s maximum HP. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,Tăng HP tối đa của mục tiêu. Kỹ năng này có sẵn ở Cấp độ 18 cho Người chơi có ít nhất 3 Điểm kỹ năng khi Hồi máu và có thể sử dụng với bất kỳ Gậy nào.
+CLIENT_HELP_INC_000277,Resurrection,Resurrection
+CLIENT_HELP_INC_000278,"Revives a dead Player, but only grants a portion of their HP. This skill is available at Level 20 to Players who have at least 4 Skill Points in Patience and can be used with any Stick.","Hồi sinh Người chơi đã chết, nhưng chỉ cấp một phần HP cho họ. Kỹ năng này có sẵn ở Cấp độ 20 cho Người chơi có ít nhất 4 Điểm kỹ năng Patience và có thể được sử dụng với bất kỳ Gậy nào"
+CLIENT_HELP_INC_000279,Circle Healing,Circle Healing
+CLIENT_HELP_INC_000280,Heals Party Members within a specified range of yourself. This skill is available at Level 25 to Players who have at least 4 Skill Points in Resurrection and can be used with any Stick.,Chữa lành các Thành viên Nhóm trong một phạm vi được chỉ định của bạn. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 4 Điểm kỹ năng Resurrection và có thể sử dụng với bất kỳ Gậy nào.
+CLIENT_HELP_INC_000281,Prevention,Prevention
+CLIENT_HELP_INC_000282,This spell will automatically recover all of your HP if you drop below 10% HP. This skill is available at Level 30 to Players who have at least 4 Skill Points in Circle Healing and can be used with any Stick.,"Phép thuật này sẽ tự động phục hồi tất cả HP của bạn nếu bạn có dưới 10% HP. Kỹ năng này có thể sử dụng với bất kỳ loại Stick nào, và sẽ được mở khóa cho người chơi từ Cấp độ 30 khi có ít nhất 4 Skill Points trong Circle Healing."
+CLIENT_HELP_INC_000283,Quick Step,Quick Step
+CLIENT_HELP_INC_000284,"Increases the target’s walking speed. The higher the level, the faster the target walks. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.","Tăng tốc độ đi bộ của mục tiêu. Cấp độ càng cao, mục tiêu đi bộ càng nhanh. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 3 Điểm Kỹ năng trong Heal và có thể sử dụng với bất kỳ Gậy nào."
+CLIENT_HELP_INC_000285,Haste,Haste
+CLIENT_HELP_INC_000286,Increases the attack speed of a target Player. This skill is available at Level 25 to Players who have at least 3 Skill Points in Quick Step and can be used with any Stick.,Tăng tốc độ tấn công của Người chơi được nhắm đến. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 3 Skill Points trong Quick Step và có thể được sử dụng với bất kỳ Stick nào.
+CLIENT_HELP_INC_000287,Cat's Reflex,Cat's Reflex
+CLIENT_HELP_INC_000288,Increases the Evasion rate of a target Player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Haste and can be used with any Stick.,"Tăng Evasion rate của Người chơi được nhắm đến. Kỹ năng này có thể sử dụng được với bất kỳ Stick nào, sẽ được mở khóa cho Người chơi từ Cấp độ 30 có ít nhất 4 Skill Points Haste."
+CLIENT_HELP_INC_000289,Cannon Ball,Cannon Ball
+CLIENT_HELP_INC_000290,Increases the DEX of a target Player. This skill is available at Level 35 to Players who have at least 4 Skill Points in Cat's Reflex and can be used with any Stick.,"Tăng DEX của Người chơi được nhắm đến. Kỹ năng này có thể sử dụng với bất kỳ loại Stick nào, và sẽ được mở khóa cho người chơi từ Cấp độ 35 khi có ít nhất 4 Skill Points trong Cat's Reflex."
+CLIENT_HELP_INC_000291,Mental Sign,Mental Sign
+CLIENT_HELP_INC_000292,Increases the INT of a target Player. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,"Tăng INT của Người chơi được nhắm đến. Tăng DEX của Người chơi mục tiêu. Kỹ năng này có thể sử dụng với bất kỳ loại Stick nào, và sẽ được mở khóa cho người chơi từ Cấp độ 18 khi có ít nhất 3 Skill Points trong Heal."
+CLIENT_HELP_INC_000293,Heap Up,Heap Up
+CLIENT_HELP_INC_000294,Increases the STA of a target Player. This skill is available at Level 20 to Players who have at least 4 Skill Points in Mental Sign and can be used with any Stick.,Tăng chỉ số STA của Người chơi được nhắm đến. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 4 Skill Points trong Mental Sign và có thể được sử dụng với bất kỳ Stick nào.
+CLIENT_HELP_INC_000295,Beef Up,Beef Up
+CLIENT_HELP_INC_000296,Increases the STR of a target Player. This skill is available at Level 25 to Players who have at least 4 Skill Points in Heap Up and can be used with any Stick.,Tăng STR của một người chơi mục tiêu. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 4 Điểm kỹ năng trong Heap Up và có thể được sử dụng với bất kỳ Gậy nào.
+CLIENT_HELP_INC_000297,Accuracy,Accuracy
+CLIENT_HELP_INC_000298,Increases the accuracy of a target player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Beef Up and can be used with any Stick.,"Tăng độ chính xác của người chơi mục tiêu. Kỹ năng này có thể sử dụng với bất kỳ loại Stick nào, và sẽ được mở khóa cho người chơi từ Cấp độ 30 khi có ít nhất 4 Skill Points trong Beef Up."
+CLIENT_HELP_INC_000299,Temping Hole,Temping Hole
+CLIENT_HELP_INC_000300,"A powerful, straight punch that strikes the enemy with a concentrated attack. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Knuckle.","Một cú đấm thẳng, mạnh mẽ, tấn công kẻ thù với một đòn tấn công tập trung. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 3 Điểm Kỹ năng Heal và có thể được sử dụng với bất kỳ Knuckle nào."
+CLIENT_HELP_INC_000301,Stone Hand,Stone Hand
+CLIENT_HELP_INC_000302,Physical attacks gain the chance to stun the target. This skill is available at Level 25 to Players who have at least 4 Skill Points in Temping Hole and can be used with any Knuckle.,"Các đòn tấn công vật lý có cơ hội làm choáng mục tiêu. Kỹ năng này có thể sử dụng với bất kỳ Knuckle nào, và sẽ được mở khóa cho người chơi từ Cấp độ 25 khi có ít nhất 4 Skill Points trong Temping Hole."
+CLIENT_HELP_INC_000303,Burst Crack,Burst Crack
+CLIENT_HELP_INC_000304,Smashes the ground and inflicts damage to enemies within the surrounding area. This skill is available at Level 28 to Players who have at least 4 Skill Points in Stone Hand and can be used with any Knuckle.,Đập đất và gây sát thương cho kẻ địch trong khu vực xung quanh. Kỹ năng này có sẵn ở Cấp độ 28 cho Người chơi có ít nhất 4 Điểm kỹ năng trong Stone Hand và có thể được sử dụng với bất kỳ Knuckle nào.
+CLIENT_HELP_INC_000305,Power Fist,Power Fist
+CLIENT_HELP_INC_000306,A concentrated powerful strike. This skill is available at Level 35 to Players who have at least 4 Skill Points in Burst Crack and can be used with any Knuckle.,Một đòn đánh tập trung mạnh mẽ . Kỹ năng này có sẵn ở Cấp độ 35 cho Người chơi có ít nhất 4 Điểm kỹ năng trong Burst Crack và có thể được sử dụng với bất kỳ Knuckle nào.
+CLIENT_HELP_INC_000307,Magician,Magician
+CLIENT_HELP_INC_000308,Magicians control powerful elemental magic with the use of wands or staves. Magicians benefit from high intelligence.,Magicians điều khiển ma thuật nguyên tố mạnh mẽ bằng cách sử dụng đũa phép hoặc cây gậy. Magicians được hưởng lợi từ trí thông minh cao.
+CLIENT_HELP_INC_000309,Magicians will be able to advance in their Jobs to become either an Elementor or a Psykeeper.,Magicians sẽ có thể thăng tiến trong Chức nghiệp của họ để trở thành Elementor hoặc Psykeeper
+CLIENT_HELP_INC_000310,Mental Strike,Mental Strike
+CLIENT_HELP_INC_000311,Deals non elemental magic damage to the target. Damage dealt varies by the difference of INT between the caster and the target. This skill is available at Level 15 and can be used with any Wand or Staff.,Gây sát thương pháp thuật không thuộc nguyên tố lên mục tiêu. Sát thương gây ra thay đổi theo sự khác biệt của INT giữa người bắn và mục tiêu. Kỹ năng này có sẵn ở Cấp độ 15 và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000312,Flame Ball,Flame Ball
+CLIENT_HELP_INC_000313,Strikes at the enemy with a ball of flame. This skill is available at Level 18 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,Tấn công kẻ thù bằng một quả cầu lửa. Kỹ năng này có sẵn ở Cấp độ 18 cho Người chơi có ít nhất 3 Điểm kỹ năng trong Mental Strike và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000314,Flame Geyser,Flame Geyser
+CLIENT_HELP_INC_000315,Inflicts intermediate fire damage to the target with a lasting Damage Over Time effect. This skill is available at Level 25 to Players who have at least 5 Skill Points in Flame Ball and can be used with any Wand or Staff.,Gây sát thương lửa trung bình lên mục tiêu với hiệu ứng Sát thương kéo dài theo thời gian. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Flame Ball và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000316,Fire Strike,Fire Strike
+CLIENT_HELP_INC_000317,Damages an enemy with a fire ball. The enemy loses health for a limited time afterwards. This skill is available at Level 30 to Players who have at least 7 Skill Points in Flame Geyser and can be used with any Wand or Staff.,Gây sát thương cho kẻ thù bằng quả cầu lửa. Kẻ thù sẽ mất máu trong một thời gian giới hạn sau đó. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 7 Điểm kỹ năng trong Flame Geyser và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000318,Swordwind,Swordwind
+CLIENT_HELP_INC_000319,A violent wind that attacks a target from a short distance. This skill is available at Level 20 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,"Một cơn gió dữ dội tấn công mục tiêu từ khoảng cách ngắn. Kỹ năng này có thể sử dụng với bất kỳ Wand hoặc Staff nào, và sẽ được mở khóa cho người chơi từ Cấp độ 20 khi có ít nhất 5 Skill Points trong Mental Strike."
+CLIENT_HELP_INC_000320,Strongwind,Strongwind
+CLIENT_HELP_INC_000321,A tornado of wind that deals damage to the target as well as pushing them back. This skill is available at Level 25 to Players who have at least 5 Skill Points in Swordwind and can be used with any Wand or Staff.,Một cơn lốc xoáy gió gây sát thương lên mục tiêu cũng như đẩy lùi chúng. Kỹ năng này có sẵn ở Cấp 25 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Swordwind và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000322,Wind Cutter,Wind Cutter
+CLIENT_HELP_INC_000323,A blade of wind that deals damage to the target. This skill is available at Level 30 to Players who have at least 7 Skill Points in Strongwind and can be used with any Wand or Staff.,Một ngọn gió gây sát thương lên mục tiêu. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 7 Điểm kỹ năng trong Strongwind và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000324,Ice Missile,Ice Missile
+CLIENT_HELP_INC_000325,Inflicts basic water damage with a chance of slowing down the target’s movement. This skill is available at Level 20 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,Gây sát thương cơ bản bằng nước với khả năng làm chậm chuyển động của mục tiêu. Kỹ năng này có sẵn ở Cấp 20 cho Người chơi có ít nhất 3 Điểm kỹ năng trong Mental Strike và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000326,Waterball,Waterball
+CLIENT_HELP_INC_000327,Shoots damaging balls of water at the target. The number of balls fired increases as the skill level increases. This skill is available at Level 25 to Players who have at least 5 Skill Points in Ice Missile and can be used with any Wand or Staff.,Bắn những quả bóng nước gây sát thương vào mục tiêu. Số lượng bóng bắn ra tăng lên khi cấp độ kỹ năng tăng lên. Kỹ năng này có sẵn ở Cấp 25 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Ice Missile và có thể sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000328,Water Well,Water Well
+CLIENT_HELP_INC_000329,"A spell that throws columns of water at the target, dealing a large amount of damage. This skill is available at Level 30 to Players who have at least 7 Skill Points in Waterball and can be used with any Wand or Staff.","Một câu thần chú ném cột nước vào mục tiêu, gây ra một lượng lớn sát thương. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 7 Điểm kỹ năng trong Waterball và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào."
+CLIENT_HELP_INC_000330,Lightning Ball,Lightning Ball
+CLIENT_HELP_INC_000331,A spell that gathers static electricity and forms it into a small ball that causes basic lightning damage. This skill is available at Level 18 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,Một câu thần chú tập hợp tĩnh điện và tạo thành một quả cầu nhỏ gây sát thương cơ bản bằng tia sét. Kỹ năng này có sẵn ở Cấp 18 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Mental Strike và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000332,Lightning Ram,Lightning Ram
+CLIENT_HELP_INC_000333,Deals a medium amount of lightning damage to the target. This skill is available at Level 25 to Players who have at least 5 Skill Points in Lightning Ball and can be used with any Wand or Staff.,Gây một lượng sát thương trung bình bằng sét lên mục tiêu. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Lightning Ball và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000334,Lightning Shock,Lightning Shock
+CLIENT_HELP_INC_000335,Damages the enemy with a small but fast lightning ball. This skill is available at Level 40 to Players who have at least 7 Skill Points in Lightning Ram and can be used with any Wand or Staff.,Gây sát thương cho kẻ thù bằng một quả cầu tia chớp nhỏ nhưng nhanh. Kỹ năng này có sẵn ở Cấp độ 40 cho Người chơi có ít nhất 7 Điểm kỹ năng trong Lightning Ram và có thể được sử dụng với bất kỳ Wand hoặc Staff nào.
+CLIENT_HELP_INC_000336,Stone Spike,Stone Spike
+CLIENT_HELP_INC_000337,Inflicts earth elemental damage to the opponent as well as creating a chance to stun the target. This skill is available at Level 18 to Players who have at least 2 Skill Points in Mental Strike and can be used with any Wand or Staff.,Gây sát thương nguyên tố đất cho đối thủ cũng như tạo cơ hội làm choáng mục tiêu. Kỹ năng này có sẵn ở Cấp độ 18 cho Người chơi có ít nhất 2 Điểm kỹ năng trong Mental Strike và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000338,Rock Crash,Rock Crash
+CLIENT_HELP_INC_000339,Damages the enemy with a giant stone. This skill is available at Level 25 to Players who have at least 5 Skill Points in Stone Spike and can be used with any Wand or Staff.,Gây sát thương cho kẻ thù bằng một viên đá khổng lồ. Kỹ năng này có sẵn ở Cấp độ 25 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Stone Spike và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000340,Rooting,Rooting
+CLIENT_HELP_INC_000341,Harnesses the power of the ground to prevent a user from moving. This skill is available at Level 30 to Players who have at least 7 Skill Points in Rock Crash and can be used with any Wand or Staff.,Khai thác sức mạnh của mặt đất để ngăn người chơi di chuyển. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 7 Điểm kỹ năng trong Rock Crash và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000342,Blinkpool,Blinkpool
+CLIENT_HELP_INC_000343,Teleports the user in a specified location within the limited range. The range increases as the skill level goes up. This skill is available at Level 30 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,Dịch chuyển người chơi đến một vị trí xác định trong phạm vi giới hạn. Phạm vi tăng khi cấp độ kỹ năng tăng lên. Kỹ năng này có sẵn ở Cấp độ 30 cho Người chơi có ít nhất 3 Điểm kỹ năng trong Mental Strike và có thể được sử dụng với bất kỳ Đũa phép hoặc Quyền trượng nào.
+CLIENT_HELP_INC_000344,Power Stomp,Power Stomp
+CLIENT_HELP_INC_000345,Hits the ground with the handle of the axe. The shock wave deals damage with a chance to stun to all nearby enemies. The damage and stun chance will increase with every Skill Level. This skill is available at Level 65 to Players who have at least 4 Skill Points in Pain Dealer and can be used with any two handed Axe.,Đòn đánh xuống mặt đất bằng cán rìu. Sóng xung kích gây sát thương với cơ hội làm choáng tất cả kẻ địch xung quanh. Sát thương và cơ hội gây choáng sẽ tăng lên theo mỗi Cấp độ kỹ năng. Kỹ năng này có sẵn ở Cấp 65 cho những người chơi có ít nhất 4 điểm kỹ năng trong Pain Dealer và có thể được sử dụng với bất kỳ Rìu sử dụng cả hai tay nào.
+CLIENT_HELP_INC_000346,Knight,Knight
+CLIENT_HELP_INC_000347,Mercenaries who chose to follow the teachings of the Hero Billaon become Knights. Knights are capable of incredible defense and possess the power to withstand the greatest assaults.,Mercenaries đã chọn làm theo lời dạy của Anh hùng Billaon trở thành Knight. Knight có khả năng phòng thủ đáng kinh ngạc và sở hữu sức mạnh để chống lại những cuộc tấn công lớn nhất
+CLIENT_HELP_INC_000348,Charge,Charge
+CLIENT_HELP_INC_000349,A melee attack that deals maximum damage to a monster regardless of its level. This skill is available at Level 60 to Players who have at least 3 Skill Points in Sword Mastery and can be used with any two handed Sword.,Đòn tấn công cận chiến gây sát thương tối đa lên quái vật bất kể cấp độ của nó. Kỹ năng này có sẵn ở Cấp 60 cho Người chơi có ít nhất 3 Điểm kỹ năng ở mức Sword Mastery và có thể sử dụng với bất kỳ Kiếm hai tay nào.
+CLIENT_HELP_INC_000350,Earth Divider,Earth Divider
+CLIENT_HELP_INC_000351,A skill which damages nearby enemies. Higher Skill Level will result in more damage. This skill is available at Level 65 to Players who have at least 4 Skill Points in Charge and can be used with any two handed Sword.,Một kỹ năng gây sát thương cho kẻ thù xung quanh. Cấp Kỹ năng cao hơn sẽ gây ra nhiều sát thương hơn. Kỹ năng này có sẵn ở Cấp 65 cho Người chơi có ít nhất 4 Điểm Kỹ năng Charge và có thể được sử dụng với bất kỳ Kiếm dùng cho hai tay nào.
+CLIENT_HELP_INC_000352,Pain Dealer,Pain Dealer
+CLIENT_HELP_INC_000353,A melee skill which damages the target as  lowering its defense. Higher Skill Level will result in more damage and a bigger decrease in defense. This skill is available at Level 60 to Players who have at least 3 Skill Points in Axe Mastery and can be used with any two handed Axe.,Một kỹ năng cận chiến gây sát thương lên mục tiêu khi làm chậm khả năng phòng thủ của nó. Cấp Kỹ năng cao hơn sẽ gây ra nhiều sát thương hơn và giảm khả năng phòng thủ nhiều hơn. Kỹ năng này có sẵn ở Cấp 60 cho những Người chơi có ít nhất 3 Điểm Kỹ năng ở mức Axe Mastery và có thể sử dụng với bất kỳ Rìu được sử dụng hai tay nào.
+CLIENT_HELP_INC_000354,Guard,Guard
+CLIENT_HELP_INC_000355,Increases the characters defense but reduces the characters attack power. This skill is available at Level 62 and can be used with either a two handed Axe or Sword.,Tăng khả năng phòng thủ nhưng giảm sức tấn công của nhân vật. Kỹ năng này có sẵn ở Cấp độ 62 và có thể được sử dụng với Rìu hoặc Kiếm được sử dụng hai tay.
+CLIENT_HELP_INC_000356,Rage,Rage
+CLIENT_HELP_INC_000357,"Increases the characters attack power and HP, but it also reduces the characters defense and accuracy. This skill is available at Level 65 to Players who have at least 5 Skill Points in Guard and can be used with either a two handed Axe or Sword.","Tăng sức tấn công và HP của nhân vật, nhưng nó cũng làm giảm khả năng phòng thủ và độ chính xác của nhân vật. Kỹ năng này có sẵn ở Cấp độ 65 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Guard và có thể sử dụng với Rìu hoặc Kiếm được sử dụng hai tay."
+CLIENT_HELP_INC_000358,Pain Reflection,Pain Reflection
+CLIENT_HELP_INC_000359,Reflects a portion of damage you receive back at the target. This skill is available at Level 70 to Players who have at least 4 Skill Points in Rage and can be used with either a two handed Axe or Sword.,Mang lại một phần sát thương bạn nhận lại tại mục tiêu. Kỹ năng này có sẵn ở Cấp 70 cho Người chơi có ít nhất 4 Điểm kỹ năng Rage và có thể sử dụng với Rìu hoặc Kiếm được sử dụng hai tay.
+CLIENT_HELP_INC_000360,Power Swing,Power Swing
+CLIENT_HELP_INC_000361,"A huge horizontal swing that deals damage, and knocks enemies back. This skill is available at Level 75 to Players who have at least 7 Skill Points in Pain Reflection and can be used with either a two handed Axe or Sword.",Một cú xoay ngang khổng lồ gây sát thương và đánh bật kẻ thù trở lại. Kỹ năng này có sẵn ở Cấp 75 cho những người chơi có ít nhất 7 điểm kỹ năng trong Pain Reflection và có thể sử dụng với Rìu hoặc Kiếm được sử dụng hai tay.
+CLIENT_HELP_INC_000362,Blade,Blade
+CLIENT_HELP_INC_000363,Blades are a second class for mercenaries and are the best damage dealers in the game. As a blade you will be able to wield two weapons at the same time and thus drastically increase your damage output.,"Lưỡi kiếm là lớp thứ hai dành cho Mercenaries và là người gây sát thương tốt nhất trong trò chơi. Là một thanh kiếm, bạn sẽ có thể sử dụng hai vũ khí cùng một lúc và do đó tăng đáng kể lượng sát thương của bạn."
+CLIENT_HELP_INC_000364,Silent Strike,Silent Strike
+CLIENT_HELP_INC_000365,A melee skill which deals a vicious cut in a sliding motion to the enemy. This skill is available at Level 60 to Players who have at least 3 Skill Points in Sword Mastery and can be used with a one handed Sword.,Một kỹ năng cận chiến gây ra một vết cắt nguy hiểm trong chuyển động trượt tới kẻ thù. Kỹ năng này có sẵn ở Cấp 60 cho Người chơi có ít nhất 3 Điểm kỹ năng ở mức Sword Mastery và có thể sử dụng bằng Kiếm một tay.
+CLIENT_HELP_INC_000366,Blade Dance,Blade Dance
+CLIENT_HELP_INC_000367,Uses both swords to attack all of the enemies around the wielder. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with a one handed Sword.,Sử dụng cả hai thanh kiếm để tấn công tất cả kẻ thù xung quanh người sử dụng. Kỹ năng này có sẵn ở Cấp 65 cho Người chơi có ít nhất 5 Điểm kỹ năng trong Silent Strike và có thể sử dụng bằng Kiếm một tay.
+CLIENT_HELP_INC_000368,Spring Attack,Spring Attack
+CLIENT_HELP_INC_000369,Strike at multiple enemies times. This skill is available at Level 60 to Players who have at least 3 Skill Points in Axe Mastery and can be used with two one handed axes.,Tấn công nhiều kẻ thù cùng lúc. Kỹ năng này có sẵn ở Cấp độ 60 cho Người chơi có ít nhất 3 Điểm kỹ năng ở mức Axe Mastery và có thể sử dụng với hai chiếc rìu cầm một tay.
+CLIENT_HELP_INC_000370,Hawk Attack,Hawk Attack
+CLIENT_HELP_INC_000371,"Jumps, striking the enemy with both weapons. Deals massive damage and possibly blinds the enemy for a short period of time. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with two one handed axes.","Nhảy và tấn công kẻ thù bằng cả hai vũ khí. Gây sát thương lớn và có thể làm kẻ thù không nhìn thấy gì trong một khoảng thời gian ngắn. Kỹ năng này có thể sử dụng với hai chiếc rìu cầm một tay, và sẽ được mở khóa cho người chơi từ Cấp độ 65 khi có ít nhất 5 Điểm kỹ năng trong Silent Strike."
+CLIENT_HELP_INC_000372,Armor Penetrate,Armor Penetrate
+CLIENT_HELP_INC_000373,A melee skill which ignores 50% of target's defense rating. This skill is available at Level 62 and can be used with a one handed Sword or Axe.,Một kỹ năng cận chiến bỏ qua 50% tỉ lệ phòng thủ của mục tiêu. Kỹ năng này có sẵn ở Cấp 62 và có thể được sử dụng với Kiếm hoặc Rìu một tay.
+CLIENT_HELP_INC_000374,Berserk,Berserk
+CLIENT_HELP_INC_000375,"Temporarily raises attack power and attack speed, but you can not use any skills for the duration of the spell. This skill is available at Level 65 to Players who have at least 4 Skill Points in Armor Penetrate and can be used with a one handed Sword or Axe.","Tạm thời tăng sức mạnh và tốc độ tấn công, nhưng bạn không thể sử dụng bất kỳ kỹ năng nào trong thời gian của phép thuật. Kỹ năng này có sẵn ở Cấp 65 cho Người chơi có ít nhất 4 Điểm kỹ năng trong Armor Penetrate và có thể sử dụng với Kiếm hoặc Rìu một tay."
+CLIENT_HELP_INC_000376,Sonic Blade,Sonic Blade
+CLIENT_HELP_INC_000377,"Gathers a powerful aura and transfers it to your weapon, and then deals damage to the closest enemy. This skill is available at Level 70 to Players who have at least 7 Skill Points in Berserk and can be used with a one handed Sword or Axe.","Thu thập một luồng khí mạnh mẽ và chuyển nó vào vũ khí của bạn, sau đó gây sát thương lên kẻ thù gần nhất. Kỹ năng này có sẵn ở Cấp 70 cho những người chơi có ít nhất 7 điểm Kỹ năng trong Berserk và có thể sử dụng với Kiếm hoặc Rìu một tay."
+CLIENT_HELP_INC_000378,Cross Strike,Cross Strike
+CLIENT_HELP_INC_000379,A strong attack is dealt to the enemy with both weapons at once. This skill is available at Level 75 to Players who have at least 7 Skill Points in Sonic Blade and can be used with a one handed Sword or Axe.,Một cuộc tấn công mạnh mẽ được đối phó với kẻ thù bằng cả hai vũ khí cùng một lúc. Kỹ năng này có sẵn ở Cấp 75 cho những người chơi có ít nhất 7 điểm kỹ năng trong Sonic Blade và có thể sử dụng bằng một tay Kiếm hoặc Rìu.
+CLIENT_HELP_INC_000380,Jester,Jester
+CLIENT_HELP_INC_000381,"The first job class for Acrobats, they specialize in strong attacks made with a Yo-yo.","Lớp chức nghiệp đầu tiên dành cho Acrobats, họ chuyên tấn công mạnh mẽ bằng Yo-yo"
+CLIENT_HELP_INC_000382,placholder 31,Placholder 31
+CLIENT_HELP_INC_000383,Critical swing,Critical swing
+CLIENT_HELP_INC_000384,Increase the probability of a critical strike.,Tăng xác suất của một đòn đánh chí mạng
+CLIENT_HELP_INC_000385,Enchant Poison,Enchant Poison
+CLIENT_HELP_INC_000386,Plastering poison on the weapon to increase the normal damage and available to infect the enemy with poision,Bôi chất độc lên vũ khí để tăng sát thương bình thường và có thể lây nhiễm cho kẻ thù bằng những cú đâm
+CLIENT_HELP_INC_000387,Enchant Bleed,Enchant Bleed
+CLIENT_HELP_INC_000388,Increase the normal damage with the bleeding attribute and available to make the enemy bleeding.,Tăng sát thương bình thường với thuộc tính gây mất máu và luôn có sẵn để làm cho kẻ thù mất máu.
+CLIENT_HELP_INC_000389,Enchant Absorb,Enchant Absorb
+CLIENT_HELP_INC_000390,You can drain the HP of enemy with striking. The drain will be occurred with certain probability.,Bạn có thể tiêu hao HP của kẻ thù bằng đòn đánh. Việc tiêu hao HP sẽ xảy ra với một xác suất nhất định.
+CLIENT_HELP_INC_000391,Back Step,Back Step
+CLIENT_HELP_INC_000392,"When attacking from behind, deals a critical strike to the enemy. Also has a chance to stun the enemy.","Khi tấn công từ phía sau, gây ra một đòn chí mạng cho kẻ thù. Cũng có một cơ hội để làm choáng kẻ thù."
+CLIENT_HELP_INC_000393,Hit of Penya,Hit of Penya
+CLIENT_HELP_INC_000394,Uses a Yo-yo and a small amount of Penya to deal massive damage.,Sử dụng Yo-yo và một lượng nhỏ Penya để gây sát thương lớn.
+CLIENT_HELP_INC_000395,Escape,Escape
+CLIENT_HELP_INC_000396,Enables character to escape from any movement impairing effects.,Cho phép nhân vật thoát khỏi bất kỳ hiệu ứng làm giảm chuyển động nào.
+CLIENT_HELP_INC_000397,Vital Stab,Vital Stab
+CLIENT_HELP_INC_000398,"While using Dark Illusion, allows for a sudden attack from the shadows.","Khi sử dụng Dark Illusion, cho phép tấn công bất ngờ từ bóng tối."
+CLIENT_HELP_INC_000399,Ranger,Ranger
+CLIENT_HELP_INC_000400,"The second job class for Acrobats, they specialize in long distance attacks, mainly with a bow.","Hạng chức nghiệp thứ hai cho Acrobats, họ chuyên tấn công khoảng cách xa, chủ yếu bằng cung."
+CLIENT_HELP_INC_000401,placholder 32,Placholder 32
+CLIENT_HELP_INC_000402,Critical Shot,Critical Shot
+CLIENT_HELP_INC_000403,This skill increases Critical Hit for a limited time.,Kỹ năng này tăng Critical Hit trong một thời gian giới hạn.
+CLIENT_HELP_INC_000404,Ice Arrow,Ice Arrow
+CLIENT_HELP_INC_000405,"This skill causes an explosion of frost, slowing all enemies in a certain area for a certain period of time.","Kỹ năng này gây ra một vụ nổ băng, làm chậm tất cả kẻ địch trong một khu vực nhất định trong một khoảng thời gian nhất định."
+CLIENT_HELP_INC_000406,Flame Arrow,Flame Arrow
+CLIENT_HELP_INC_000407,This skill gives the fire element to arrows and damages surrounding enemies.,Kỹ năng này cung cấp nguyên tố lửa cho các mũi tên và gây sát thương lên kẻ địch xung quanh.
+CLIENT_HELP_INC_000408,Piercing Arrow,Piercing Arrow
+CLIENT_HELP_INC_000409,"This skill pierces monsters who are a straight line, dealing damage to all of them.","Kỹ năng này xuyên qua những con quái vật khi xếp thành một đường thẳng, gây sát thương lên tất cả chúng."
+CLIENT_HELP_INC_000410,Poison Arrow,Poison Arrow
+CLIENT_HELP_INC_000411,The strong damage and continuous poisonous damage will be occurred simutaneously.,Sát thương mạnh và sát thương độc liên tục sẽ xảy ra đồng thời.
+CLIENT_HELP_INC_000412,Silent Arrow,Silent Arrow
+CLIENT_HELP_INC_000413,"Deals strong damage and silences the target. While silenced, the target cannot cast spells of any kind.","Gây sát thương mạnh và làm mục tiêu im lặng. Trong khi bị làm im lặng, mục tiêu không thể sử dụng bất kỳ loại phép thuật nào."
+CLIENT_HELP_INC_000414,Nature,Nature
+CLIENT_HELP_INC_000415,This skill heightenses the users senses with nature to increase Magic Defense & Bow Range.,Kỹ năng này nâng cao cảm nhận của người dùng với tự nhiên để tăng Magic Defense & Bow Range
+CLIENT_HELP_INC_000416,Triple shot,Triple shot
+CLIENT_HELP_INC_000417,Triple arrows will be shot to deal strong damage.,Ba mũi tên sẽ được bắn để gây sát thương mạnh
+CLIENT_HELP_INC_000418,Ringmaster,Ringmaster
+CLIENT_HELP_INC_000419,"The first job class for Assists, uses a staff like an Assist. Focuses more on supporting party than damaging monsters.","Lớp chức nghiệp đầu tiên dành cho Assists, sử dụng một nhân viên giống như một Assists. Tập trung nhiều vào việc hỗ trợ nhóm hơn là gây sát thương lên quái vật."
+CLIENT_HELP_INC_000420,Protect,Protect
+CLIENT_HELP_INC_000421,This buff increases the physical defense of the target.,Buff này giúp tăng khả năng phòng thủ vật lý của mục tiêu.
+CLIENT_HELP_INC_000422,Holyguard,Holyguard
+CLIENT_HELP_INC_000423,This buff protects the target from incoming critical hits for a limited amount of time.,Phép bổ trợ này bảo vệ mục tiêu khỏi những đòn chí mạng trong một khoảng thời gian giới hạn
+CLIENT_HELP_INC_000424,Holycross,Holycross
+CLIENT_HELP_INC_000425,The enemy will take double damage.,Kẻ thù sẽ bị thiệt hại gấp đôi.
+CLIENT_HELP_INC_000426,Spiriture Fortune,Spiriture Fortune
+CLIENT_HELP_INC_000427,Greatly increases your physical attack power for a period of time.,Tăng đáng kể sức tấn công vật lý của bạn trong một khoảng thời gian.
+CLIENT_HELP_INC_000428,Gebura Tiphreth,Gebura Tiphreth
+CLIENT_HELP_INC_000429,"Increases accuracy, attack speed and attack power for all party members within range.","Tăng độ chính xác, tốc độ tấn công và sức tấn công cho tất cả các thành viên trong nhóm trong phạm vi."
+CLIENT_HELP_INC_000430,Gvur Tialla,Gvur Tialla
+CLIENT_HELP_INC_000431,Cleanses any abnormal conditions.,Làm sạch mọi tình trạng bất thường.
+CLIENT_HELP_INC_000432,Heal Rain,Heal Rain
+CLIENT_HELP_INC_000433,Recovers a large amount of HP for all party members.,Phục hồi một lượng lớn HP cho tất cả các thành viên trong nhóm.
+CLIENT_HELP_INC_000434,Merkaba Hanzelrusha,Merkaba Hanzelrusha
+CLIENT_HELP_INC_000435,Deals damage over time to all enemies in a certain area.,Gây sát thương theo thời gian cho tất cả kẻ thù trong một khu vực nhất định.
+CLIENT_HELP_INC_000436,Billposter,Billposter
+CLIENT_HELP_INC_000437,"The second job class for Assists, they use a knuckle hammer like Assists. They specialize in Critical attacks but have a slower attack speed.","Hạng chức nghiệp thứ hai dành cho Assists, họ sử dụng một chiếc búa gõ như Assists. Chúng chuyên tấn công chí mạng nhưng có tốc độ ra đòn chậm hơn."
+CLIENT_HELP_INC_000438,Belial Smashing,Belial Smashing
+CLIENT_HELP_INC_000439,A skill that delivers one powerful dashing punch.,Một kỹ năng mang lại một cú đấm mạnh mẽ.
+CLIENT_HELP_INC_000440,Blood Fist,Blood Fist
+CLIENT_HELP_INC_000441,"Strikes the enemy, making it bleed. Bleeding causes additional damage over time.","Đánh kẻ thù, làm cho kẻ thù mất máu. Mất máu gây thêm tổn thương theo thời gian."
+CLIENT_HELP_INC_000442,Piercing Serpent,Piercing Serpent
+CLIENT_HELP_INC_000443,"Dashes forward with a burning fist, striking the enemy.","Lao về phía trước với một nắm đấm bùng cháy, tấn công kẻ thù."
+CLIENT_HELP_INC_000444,Asmodeus,Asmodeus
+CLIENT_HELP_INC_000445,Increases the attack power bonus of knuckles.,Tăng sức mạnh tấn công cộng thêm của các đốt ngón tay.
+CLIENT_HELP_INC_000446,Baraqijal Esna,Baraqijal Esna
+CLIENT_HELP_INC_000447,"When the skill works, it reduces the monsters defense and increases the monsters attack power.","Khi kỹ năng hoạt động, nó làm giảm khả năng phòng thủ của quái vật và tăng sức tấn công của quái vật."
+CLIENT_HELP_INC_000448,Grvub Tialbold,Grvub Tialbold
+CLIENT_HELP_INC_000449,An energy wave deals damage to all monsters around the caster.,Một làn sóng năng lượng gây sát thương lên tất cả quái vật xung quanh người sử dụng phép
+CLIENT_HELP_INC_000450,Sonic Hand,Sonic Hand
+CLIENT_HELP_INC_000451,Uses a knuckle hammer to strike with deadly speed.,Sử dụng một chiếc búa đốt ngón tay để tấn công với tốc độ chết người.
+CLIENT_HELP_INC_000452,Asalraalaikum,Asalraalaikum
+CLIENT_HELP_INC_000453,"Strikes the enemy with concentrated power, consumes all MP.","Tấn công kẻ thù bằng sức mạnh tập trung, tiêu hao tất cả MP."
+CLIENT_HELP_INC_000454,Elementor,Elementor
+CLIENT_HELP_INC_000455,"The first job class for Magicians, they use staves like Magicians. They specialize in magic effecting large numbers of enemies at once.","Lớp chức nghiệp đầu tiên dành cho các Magicians, họ sử dụng gậy như các Magicians. Họ chuyên về phép thuật gây hiệu ứng với số lượng lớn kẻ thù cùng một lúc."
+CLIENT_HELP_INC_000456,Firebird,Firebird
+CLIENT_HELP_INC_000457,A fireball strikes the enemy.,Một quả cầu lửa tấn công kẻ thù.
+CLIENT_HELP_INC_000458,Burning Field,Burning Field
+CLIENT_HELP_INC_000459,Sheets of flame burn the enemy for a period of time.,Những tấm lửa thiêu đốt kẻ thù trong một khoảng thời gian.
+CLIENT_HELP_INC_000460,Fire Mastery,Fire Mastery
+CLIENT_HELP_INC_000461,Increases damage done by fire skills.,Tăng sát thương gây ra bởi các kỹ năng lửa.
+CLIENT_HELP_INC_000462,Stone Spear,Stone Spear
+CLIENT_HELP_INC_000463,A spear made of rock strikes the enemy.,Một ngọn giáo làm bằng đá tấn công kẻ thù.
+CLIENT_HELP_INC_000464,Earthquake,Earthquake
+CLIENT_HELP_INC_000465,Make a huge earthquake which deals a large amount of damage.,Tạo ra một trận động đất lớn gây ra một lượng lớn thiệt hại.
+CLIENT_HELP_INC_000466,Earth Mastery,Earth Mastery
+CLIENT_HELP_INC_000467,Increases damage done by earth skills.,Tăng sát thương gây ra bởi các kỹ năng trái đất.
+CLIENT_HELP_INC_000468,Void,Void
+CLIENT_HELP_INC_000469,Strong Wind damage is dealt to a single target.,Sát thương của Gió mạnh gây ra cho một mục tiêu.
+CLIENT_HELP_INC_000470,Windfield,Windfield
+CLIENT_HELP_INC_000471,A strong wind slows all enemies around the caster for a period of time.,Một cơn gió mạnh làm chậm tất cả kẻ thù xung quanh người thực hiện kỹ năng trong một khoảng thời gian.
+CLIENT_HELP_INC_000472,Wind Mastery,Wind Mastery
+CLIENT_HELP_INC_000473,Increases damage done by wind skills.,Tăng sát thương gây ra bởi các kỹ năng gió.
+CLIENT_HELP_INC_000474,Thunder Strike,Thunder Strike
+CLIENT_HELP_INC_000475,Strong Lightning damage is dealt to a single target.,Sát thương Sét mạnh gây ra cho một mục tiêu.
+CLIENT_HELP_INC_000476,Electric Shock,Electric Shock
+CLIENT_HELP_INC_000477,"Deals lightning damage to all enemies around the caster, also lowering their defense temporarily.","Gây sát thương chớp nhoáng cho tất cả kẻ địch xung quanh người thực hiện kỹ năng, đồng thời hạ thấp khả năng phòng thủ của chúng 1 cách tạm thời."
+CLIENT_HELP_INC_000478,Lightning Mastery,Lightning Mastery
+CLIENT_HELP_INC_000479,Increases damage done by lightning skills.,Tăng sát thương gây ra bởi các kỹ năng sét.
+CLIENT_HELP_INC_000480,Iceshark,Iceshark
+CLIENT_HELP_INC_000481,A shark made of ice strikes the enemy.,Một con cá mập làm bằng băng tấn công kẻ thù.
+CLIENT_HELP_INC_000482,Poison Cloud,Poison Cloud
+CLIENT_HELP_INC_000483,"A poison cloud engulfs the enemy, dealing poison and wind damage.","Một đám mây độc nhấn chìm kẻ thù, gây sát thương bằng chất độc và gió."
+CLIENT_HELP_INC_000484,Water Mastery,Water Mastery
+CLIENT_HELP_INC_000485,Increases damage done by water skills.,Tăng sát thương gây ra bởi các kỹ năng nước.
+CLIENT_HELP_INC_000486,Meteo Shower,Meteo Shower
+CLIENT_HELP_INC_000487,"Meteors strike all the enemies in a certain area, dealing fire and earth damage.","Thiên thạch tấn công tất cả kẻ thù trong một khu vực nhất định, gây sát thương bằng lửa và đất."
+CLIENT_HELP_INC_000488,Lightning Storm,Lightning Storm
+CLIENT_HELP_INC_000489,Lightning and wind damage is dealt to all enemies in the area of effect.,Sát thương do sét và gió gây ra cho tất cả kẻ địch trong vùng ảnh hưởng.
+CLIENT_HELP_INC_000490,Sandstorm,Sandstorm
+CLIENT_HELP_INC_000491,"A sand storm strikes all the enemies in a certain area, dealing wind and earth damage.","Một cơn bão cát tấn công tất cả kẻ thù trong một khu vực nhất định, gây sát thương bằng gió và đất."
+CLIENT_HELP_INC_000492,Blizzard,Blizzard
+CLIENT_HELP_INC_000493,"A blizzard strikes all the enemies in a certain area, dealing earth and water damage as well as stunning them.","Một trận bão tuyết tấn công tất cả kẻ thù trong một khu vực nhất định, gây sát thương đất và nước cũng như làm choáng chúng"
+CLIENT_HELP_INC_000494,Psykeeper,Psykeeper
+CLIENT_HELP_INC_000495,"The second job class for Magicians, they use a wand like a Magician. They specialize in magic attacks that assault the mind of the enemy.","Hạng chức nghiệp thứ hai dành cho các Magicians, họ sử dụng một cây đũa phép như một Magicians. Họ chuyên tấn công bằng phép thuật tấn công tâm trí của kẻ thù."
+CLIENT_HELP_INC_000496,Demonology,Demonology
+CLIENT_HELP_INC_000497,"Deals damage to the mind of the enemy, by creating illusions of devils.","Gây sát thương cho tâm trí của kẻ thù, bằng cách tạo ra ảo ảnh của quỷ."
+CLIENT_HELP_INC_000498,Satanology,Satanology
+CLIENT_HELP_INC_000499,"Confuses the enemy, and binds them in place for a certain amount of time.",Gây nhầm lẫn cho kẻ thù và trói chúng tại chỗ trong một khoảng thời gian nhất định.
+CLIENT_HELP_INC_000500,Psychic Bomb,Psychic Bomb
+CLIENT_HELP_INC_000501,"Builds up spiritual power, and releases it to do massive damage.",Tăng cường sức mạnh tinh thần và giải phóng nó để gây sát thương lớn.
+CLIENT_HELP_INC_000502,Spirit Bomb,Spirit Bomb
+CLIENT_HELP_INC_000503,"Collapse the spirit of the enemy, deals damage based on MP.","Thu gọn linh hồn của kẻ thù, gây sát thương dựa trên MP."
+CLIENT_HELP_INC_000504,Psychic Wall,Psychic Wall
+CLIENT_HELP_INC_000505,Creates a psychic barrier in front of the caster that the monster cannot pass.,Tạo ra một rào cản tâm linh trước mặt người thi triển ký năng mà con quái vật không thể vượt qua.
+CLIENT_HELP_INC_000506,Crucio Spell,Crucio Spell
+CLIENT_HELP_INC_000507,"Gives a certain chance to reflect skill and magic attacks, at double damage.","Đưa ra một cơ hội nhất định để phản lại các đòn tấn công kỹ năng và phép thuật, với mức sát thương gấp đôi."
+CLIENT_HELP_INC_000508,Maximum Crisis,Maximum Crisis
+CLIENT_HELP_INC_000509,"If it works then it deals huge damage to the monster. If not, the caster takes the damage instead.","Nếu nó hoạt động thì nó sẽ gây sát thương rất lớn cho con quái vật. Nếu không, người thi triển kỹ năng sẽ chịu thiệt hại thay thế."
+CLIENT_HELP_INC_000510,Psychic Square,Psychic Square
+CLIENT_HELP_INC_000511,Dazzles the monster and deals a large amount of damage.,Làm chói mắt quái vật và gây ra một lượng sát thương lớn.
+CLIENT_HELP_INC_000512,Information of the ability,Thông tin về khả năng
+CLIENT_HELP_INC_000513,This explains the information of various abilities that can be increased by growth of character.,Điều này giải thích thông tin về các khả năng khác nhau có thể được tăng lên theo sự phát triển của nhân vật.
+CLIENT_HELP_INC_000514,Name,Name
+CLIENT_HELP_INC_000515,The given name of the avatar/character.,Tên đã cho của hình đại diện / nhân vật.
+CLIENT_HELP_INC_000516,Job,Chức nghiệp
+CLIENT_HELP_INC_000517,This shows the job/class that the player has chosen for his character.,Điều này hiển thị chức nghiệp / lớp mà người chơi đã chọn cho nhân vật của mình.
+CLIENT_HELP_INC_000518,Level,Level
+CLIENT_HELP_INC_000519,This increases according to the accumulated experience. You get new Stat Points and Skill Points for every level reached.,Điều này tăng lên theo kinh nghiệm tích lũy. Bạn nhận được Điểm thống kê và Điểm kỹ năng mới cho mỗi cấp độ đạt được.
+CLIENT_HELP_INC_000520,placholder 33,Placholder 33
+CLIENT_HELP_INC_000521,placholder 34,Placholder 34
+CLIENT_HELP_INC_000522,placholder 35,Placholder 35
+CLIENT_HELP_INC_000523,placholder 36,Placholder 36
+CLIENT_HELP_INC_000524,Strength,Strength
+CLIENT_HELP_INC_000525,Weapon attack rate increases except for wands and bows.,Tỷ lệ tấn công của vũ khí tăng lên ngoại trừ đũa phép và cung tên.
+CLIENT_HELP_INC_000526,Stamina,Stamina
+CLIENT_HELP_INC_000527,"Affects HP, FP, Defense and HP/FP restoration rate.","Ảnh hưởng đến HP, FP, Phòng thủ và tỷ lệ phục hồi HP / FP."
+CLIENT_HELP_INC_000528,Dexterity,Dexterity
+CLIENT_HELP_INC_000529,"Affects accuracy, attack speed, dodge rate, block rate, critical chance and bow attack power.","Ảnh hưởng đến độ chính xác, tốc độ tấn công, tỷ lệ né tránh, tỷ lệ chặn, cơ hội chí mạng và sức tấn công của cung."
+CLIENT_HELP_INC_000530,Intelligence,Intelligence
+CLIENT_HELP_INC_000531,"Affects maximum MP, MP restoration amount, magic power and magic defense.","Ảnh hưởng đến lượng MP tối đa, lượng hồi phục MP, sức mạnh phép thuật và phòng thủ phép thuật."
+CLIENT_HELP_INC_000532,HP (life),HP (life)
+CLIENT_HELP_INC_000533,This is the vitality of the character and the character will die if it reaches 0. You can recover it with food and pill items.,Đây là sinh lực của nhân vật và nhân vật sẽ chết nếu trờ về 0. Bạn có thể phục hồi nó bằng thức ăn và vật phẩm thuốc.
+CLIENT_HELP_INC_000534,MP (spirit),MP (spirit)
+CLIENT_HELP_INC_000535,"This is for using magic, you can revive it by drinking refresher.","Đây là để sử dụng phép thuật, bạn có thể hồi sinh nó bằng cách uống nước giải khát."
+CLIENT_HELP_INC_000536,FP (endurance),FP (endurance)
+CLIENT_HELP_INC_000537,This is needed to use physical skills. It can be replenished by resting/sitting down but it can be immediately recovered by using vitality drink items.,Điều này là cần thiết để sử dụng các kỹ năng thể chất. Nó có thể được bổ sung bằng cách nghỉ ngơi / ngồi xuống nhưng nó có thể được phục hồi ngay lập tức bằng cách sử dụng các vật phẩm uống sinh lực.
+CLIENT_HELP_INC_000538,Exp (experience),Exp (experience)
+CLIENT_HELP_INC_000539,This is required to raise the level of a character. It can be earned by killing monsters or through quests.,Điều này là cần thiết để nâng cao cấp độ của một nhân vật. Nó có thể kiếm được bằng cách giết quái vật hoặc thông qua các nhiệm vụ.
+CLIENT_HELP_INC_000540,Skills,Skills
+CLIENT_HELP_INC_000541,Skills get stronger as you level and put more points into them.,Các kỹ năng trở nên mạnh hơn khi bạn lên cấp và đặt nhiều điểm hơn vào chúng.
+CLIENT_HELP_INC_000542,Stat points,Stat points
+CLIENT_HELP_INC_000543,"This is the point you get when you level up. You can distribute the points to your STR,STA,DEX, and INT.","Đây là điểm bạn nhận được khi lên cấp. Bạn có thể phân phối điểm cho STR, STA, DEX và INT của mình."
+CLIENT_HELP_INC_000544,Extra ability,Extra ability
+CLIENT_HELP_INC_000545,"Some skills require you to become a Hero before being usable, and require special training to be leveled / trained.",Một số kỹ năng yêu cầu bạn trở thành Hero trước khi có thể sử dụng được và yêu cầu đào tạo đặc biệt để được thăng cấp / huấn luyện
+CLIENT_HELP_INC_000546,Attack,Tấn công
+CLIENT_HELP_INC_000547,This shows the Attack Capacity of a character. The character’s equipment and supportive skills cast on the character also influences this.,Điều này cho thấy Năng lực tấn công của một nhân vật. Trang bị của nhân vật và các kỹ năng hỗ trợ của nhân vật cũng ảnh hưởng đến điều này.
+CLIENT_HELP_INC_000548,Defense,Phòng thủ
+CLIENT_HELP_INC_000549,This shows the Defense Capacity of a character. The character’s equipment and supportive skills cast on the character also influences this.,Điều này cho thấy Năng lực Phòng thủ của một nhân vật. Trang bị của nhân vật và các kỹ năng hỗ trợ của nhân vật cũng ảnh hưởng đến điều này.
+CLIENT_HELP_INC_000550,Critical hit rate,Tỉ lệ tấn công chí mạng
+CLIENT_HELP_INC_000551,This means how much chance you have to make a critical hit.,Điều này có nghĩa là bạn có bao nhiêu cơ hội để thực hiện một đòn chí mạng.
+CLIENT_HELP_INC_000552,Attack Speed,Tốc độ tấn công
+CLIENT_HELP_INC_000553,This shows the Attack Rate of a character when attacking.,Điều này cho thấy Tỷ lệ tấn công của một nhân vật khi tấn công.
+CLIENT_HELP_INC_000554,Resisting power,Resisting power
+CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damage” a character can receive.,"Điều này cho biết mức độ ""Giảm / làm suy yếu sát thương phép thuật"" mà một nhân vật có thể nhận được."
+CLIENT_HELP_INC_000556,Properties,Thuộc tính
+CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,Có 5 đặc tính nguyên tố hoặc thuộc tính tồn tại trong FLYFF. Mỗi thuộc tính này có một điểm mạnh và điểm yếu. Người chơi có thể đạt được mức sát thương cao nhất có thể khi anh ta sử dụng một vũ khí được thấm nhuần thuộc tính vốn là điểm yếu của tài sản của kẻ thù của anh ta.
+CLIENT_HELP_INC_000558,Fire,Hỏa
+CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,Hỏa - Một thuộc tính yếu đối với thuộc tính Phong và Thủy
+CLIENT_HELP_INC_000560,Water,Thủy
+CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,Thủy. Một thuộc tính mạnh đối với Thuộc tính Hỏa nhưng lại yếu đối với thuộc tính Điện.
+CLIENT_HELP_INC_000562,Electricity,Điện
+CLIENT_HELP_INC_000563,A property that is strong against the Water Property but weak against the Earth Property.,Thuộc tính mạnh đối với Thuộc tính Thủy nhưng lại yếu đối với Thuộc tính Thổ
+CLIENT_HELP_INC_000564,Earth,Thổ
+CLIENT_HELP_INC_000565,earth A property that is strong against the Electricity Property but weak against the Wind Property.,Thổ - Một thuộc tính mạnh đối với Thuộc tính Điện nhưng yếu đối với Thuộc tính Phong.
+CLIENT_HELP_INC_000566,Wind,Phong
+CLIENT_HELP_INC_000567,A property that is strong against the Earth Property but weak against the Fire property.,Thuộc tính mạnh đối với Thuộc tính Thổ nhưng lại yếu đối với thuộc tính Hỏa.
+CLIENT_HELP_INC_000568,Enchant,Enchant
+CLIENT_HELP_INC_000569,"Upgrading means making the item more powerful. Each item can be normally upgraded over 10 levels, and weapons / armor chest pieces can be elementally upgraded over 10 levels. If the upgrade fails, there is no penalty between levels 1 and 3, but from levels 4-10 the item will be lost.","Nâng cấp có nghĩa là làm cho vật phẩm mạnh hơn. Mỗi vật phẩm có thể được nâng cấp thông thường trên 10 cấp và các mảnh vũ khí / áo giáp có thể được nâng cấp nguyên tố trên 10 cấp. Nếu nâng cấp không thành công, không có hình phạt giữa cấp độ 1 và 3, nhưng từ cấp độ 4-10, vật phẩm sẽ bị mất."
+CLIENT_HELP_INC_000570,Attribute Enchant,Thuộc tính Enchant
+CLIENT_HELP_INC_000571,"Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT.","Vật phẩm của bạn có thể nhận được một công cụ sửa đổi thuộc tính (hiển thị trong tên của vật phẩm) thông qua nhiều cách khác nhau, cấp cho nó thêm STR, STA, DEX và / hoặc INT."
+CLIENT_HELP_INC_000572,Fire Upgrade,Nâng cấp thuộc tính Hỏa
+CLIENT_HELP_INC_000573,"When you refine an item with the Fire property, you’ll need a Fire Property Card. When an item is imbued with the Fire Property the item becomes weak to Water but stronger against Wind.","Khi tinh chỉnh một vật phẩm có thuộc tính Hỏa, bạn sẽ cần Thẻ thuộc tính Hỏa. Khi một vật phẩm được thấm nhuần Thuộc tính Hỏa, vật phẩm đó trở nên yếu đối với Thủy nhưng mạnh hơn đối với Phong."
+CLIENT_HELP_INC_000574,Water Upgrade,Nâng cấp thuộc tính Thủy
+CLIENT_HELP_INC_000575,"When you refine an item with the Water property, you’ll need a Water Property Card. When an item is imbued with the Water Property the item becomes weak to Electricity but stronger against Fire.","Khi tinh chỉnh một vật phẩm có thuộc tính Thủy, bạn sẽ cần có Thẻ thuộc tính Thủy. Khi một vật phẩm được thấm nhuần thuộc tính Thủy, vật phẩm đó trở nên yếu đối với Điện nhưng mạnh hơn đối với Hỏa."
+CLIENT_HELP_INC_000576,Electric Upgrade,Nâng cấp thuộc tính Điện
+CLIENT_HELP_INC_000577,"When you refine an item with the Electricity property, you’ll need an Electricity Property Card. When an item is imbued with the Electricity Property the item becomes weak to Earth but stronger against Water.","Khi tinh chỉnh một mặt hàng bằng thuộc tính Điện, bạn sẽ cần có Thẻ thuộc tính Điện. Khi một vật phẩm được thấm nhuần Thuộc tính Điện, vật phẩm đó trở nên yếu đối với Thổ nhưng mạnh hơn đối với Thủy."
+CLIENT_HELP_INC_000578,Wind Upgrade,Nâng cấp thuộc tính Phong
+CLIENT_HELP_INC_000579,"When you refine an item with the Wind property, you’ll need a Wind Property Card. When an item is imbued with the Wind Property the item becomes weak to Fire but stronger against Earth.","Khi tinh chỉnh một vật phẩm có thuộc tính Phong, bạn sẽ cần có Thẻ thuộc tính Phong. Khi một vật phẩm được thấm nhuần Thuộc tính Phong, vật phẩm đó trở nên yếu hơn đối với Hỏa nhưng mạnh hơn đối với Thổ."
+CLIENT_HELP_INC_000580,Earth Upgrade,Nâng cấp thuộc tính Thổ
+CLIENT_HELP_INC_000581,"When you refine an item with the Earth property, you’ll need an Earth Property Card. When an item is imbued with the Earth Property the item becomes weak to Wind but stronger against Electricity.","Khi tinh chỉnh một mục có thuộc tính Thổ, bạn sẽ cần có Thẻ thuộc tính Thổ. Khi một vật phẩm được thấm nhuần thuộc tính Thổ, vật phẩm đó sẽ yếu hơn đối với Phong nhưng mạnh hơn đối với Điện"
+CLIENT_HELP_INC_000582,General Upgrade,Nâng cấp chung
+CLIENT_HELP_INC_000583,"Normal upgrade means a non-element upgrade. Power Dice are required to upgrade, there are 5 types of Power Dice, 4, 6, 8, 10 and 12.","Nâng cấp chung có nghĩa là nâng cấp không phải phần tử. Power Dice là bắt buộc để nâng cấp, có 5 loại Power Dice là 4, 6, 8, 10 và 12"
+CLIENT_HELP_INC_000584,Ultimate Weapon Upgrade,Nâng cấp vũ khí tối thượng
+CLIENT_HELP_INC_000585,"You can make an Ultimate Weapon with a +10 upgraded unique weapon by using the Ultimate Weapon Upgrade. The maximum upgrade for an Ultimate weapon is up to +10 the same as any other item upgrade but it needs 'Shining Orikalkum'. The Ultimate upgrade is available only for weapons, and the item is destroyed in case of a failure. From +6 you are able to socket your weapon.","Bạn có thể chế tạo Vũ khí tối thượng với vũ khí duy nhất được nâng cấp +10 bằng cách sử dụng Nâng cấp vũ khí tối thượng. Nâng cấp tối đa cho vũ khí Tối thượng lên đến +10 giống như bất kỳ nâng cấp vật phẩm nào khác nhưng cần 'Shining Orikalkum'. Nâng cấp cuối cùng chỉ có sẵn cho vũ khí và vật phẩm sẽ bị phá hủy trong trường hợp bị hỏng. Từ +6, bạn có thể lắp vào vũ khí của mình."
+CLIENT_HELP_INC_000586,placholder 39,Placholder 39
+CLIENT_HELP_INC_000587,placholder 40,Placholder 40
+CLIENT_HELP_INC_000588,placholder 41,Placholder 41
+CLIENT_HELP_INC_000589,placholder 42,Placholder 42
+CLIENT_HELP_INC_000590,placholder 43,Placholder 43
+CLIENT_HELP_INC_000591,placholder 44,Placholder 44
+CLIENT_HELP_INC_000592,placholder 45,Placholder 45
+CLIENT_HELP_INC_000593,placholder 46,Placholder 46
+CLIENT_HELP_INC_000594,placholder 47,Placholder 47
+CLIENT_HELP_INC_000595,placholder 48,Placholder 48
+CLIENT_HELP_INC_000596,Building,Tòa nhà
+CLIENT_HELP_INC_000597,Information about the buildings that provide services.,Thông tin về các tòa nhà cung cấp dịch vụ.
+CLIENT_HELP_INC_000598,Lodestar,Lodestar
+CLIENT_HELP_INC_000599,This is a structure that gathers spiritual life and resurrects players who died. It is located inside a city or a wide open clearing.,Đây là cấu trúc tập hợp đời sống tâm linh và hồi sinh những người chơi đã chết. Nó nằm bên trong một thành phố hoặc một bãi đất trống rộng rãi.
+CLIENT_HELP_INC_000600,Lodelight,Lodelight
+CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,Đây là một cấu trúc có chức năng giống như Lodestar nhưng nó hồi sinh người chơi ở một nơi gần bãi săn.
+CLIENT_HELP_INC_000602,Weapon shop,Cửa hàng vũ khí
+CLIENT_HELP_INC_000603,"This place sells weapons for the 1st job class such as vagrant, mercenary, and acrobat. It also sells weapons for the 2nd job class such as knight, blade, ringmaster, billposter, jester, and ranger.","Nơi này bán vũ khí cho hạng chức nghiệp đầu tiên như vagrant, mercenary, and acrobat. Nó cũng bán các loại vũ khí cho lớp chức nghiệp thứ 2 như knight, blade, ringmaster, billposter, jester, and ranger."
+CLIENT_HELP_INC_000604,Armor shop,Của hàng áo giáp
+CLIENT_HELP_INC_000605,"This place sells armor for Mercenaries, Assists, and Acrobats.","Nơi này bán áo giáp cho Mercenaries, Assists, and Acrobats"
+CLIENT_HELP_INC_000606,Magic store,Cửa hàng ma thuật
+CLIENT_HELP_INC_000607,"This place sells weapons, armor, and magic items best suited for Magicians.","Nơi này bán vũ khí, áo giáp và các vật phẩm ma thuật phù hợp nhất cho các Magicians."
+CLIENT_HELP_INC_000608,Food shop,Của hàng thực phẩm
+CLIENT_HELP_INC_000609,This shop sells food items that help recover HP,Cửa hàng này bán các mặt hàng thực phẩm giúp phục hồi HP
+CLIENT_HELP_INC_000610,General merchandise,Hàng hóa thông thường
+CLIENT_HELP_INC_000611,"This place sells Arrows, Posters, and those sorts of things.","Nơi này bán Mũi tên, Posters và một vài loại tương tự."
+CLIENT_HELP_INC_000612,Public Office,Văn phòng công cộng
+CLIENT_HELP_INC_000613,"This place is for selling Perin, using your personal bank, and guild bank.","Nơi này dành để bán Perin, sử dụng ngân hàng cá nhân của bạn và ngân hàng bang hội"
+CLIENT_HELP_INC_000614,Station,Trạm
+CLIENT_HELP_INC_000615,This shop sells Flight related items like Flight gears as well as guide’s player on how to fly.,Cửa hàng này bán các mặt hàng liên quan đến việc bay chẳng hạn như nguyên bộ dành cho bay cũng như trình phát hướng dẫn cách bay.
+CLIENT_HELP_INC_000616,Duel,Đấu tay đôi
+CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different from PK. It is called PvP (Player Vs Player) which can only start when 2 players agree to a duel. A duel has no penalties associated with it.,Đấu tay đôi là cuộc chiến giữa 2 người chơi. Điều này khác với PK. Nó được gọi là PvP (Player Vs Player) chỉ có thể bắt đầu khi 2 người chơi đồng ý đấu tay đôi. Một cuộc đấu tay đôi không có hình phạt nào liên quan đến nó.
+CLIENT_HELP_INC_000618,Fame,Danh vọng
+CLIENT_HELP_INC_000619,You will gain the fame if you keep winning duels. You will also gain  different titles as well.,Bạn sẽ đạt được danh tiếng nếu bạn tiếp tục chiến thắng trong các cuộc đấu tay đôi. Bạn cũng sẽ đạt được các danh hiệu khác nhau.
+CLIENT_HELP_INC_000620,Guild Combat Center,Trung tâm Chiến đấu Bang hội
+CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,Nơi này dành cho việc áp dụng và tiến hành các cuộc bao vây bang hội và bao vây bang hội 1-1. Chỉ có sẵn trên server phụ thứ nhất.
+CLIENT_HELP_INC_000622,Other inquiries,Những hướng dẫn khác
+CLIENT_HELP_INC_000623,Please visit the official homepage: $WEBSITE$ for more inquiries. Have a nice day.,Vui lòng truy cập trang chủ chính thức: $ WEBSITE $ nếu có thêm thắc mắc. Chúc một ngày tốt lành.
+CLIENT_HELP_INC_000624,Beauty shop,Cửa hàng làm đẹp
+CLIENT_HELP_INC_000625,You can change your hair style and color. The price varies based on the color and style you choose.,Bạn có thể thay đổi kiểu và màu tóc của mình. Giá cả khác nhau tùy thuộc vào màu sắc và kiểu dáng bạn chọn.
+CLIENT_HELP_INC_000626,Private Shop,Của hàng tư nhân
+CLIENT_HELP_INC_000627,Items can be conveniently presented for sale to through this option. You can set the quantity and the price.,Các vật phẩm có thể được trưng bày thuận tiện để bán thông qua tùy chọn này. Bạn có thể đặt số lượng và giá cả.
+CLIENT_HELP_INC_000628,"Open the Start menu, select Personal Shop, and the Personal Shop window will appear.","Mở menu Bắt đầu, chọn Cửa hàng Cá nhân và cửa sổ Cửa hàng Cá nhân sẽ xuất hiện."
+CLIENT_HELP_INC_000629,Drag the items you wish to sell from your inventory and drop them into the Personal Shop window.,Kéo các vật phẩm bạn muốn bán từ kho của mình và thả chúng vào cửa sổ Cửa hàng cá nhân.
+CLIENT_HELP_INC_000630,"After dragging the item into the window, you can set the price for the item, and the quantity you wish to sell.","Sau khi kéo vật phẩm vào cửa sổ, bạn có thể đặt giá cho vật phẩm và số lượng bạn muốn bán."
+CLIENT_HELP_INC_000631,"Put a name in the Shop Name Window, and press OK. You can start selling items after that.",Đặt 1 cái tên trong Cửa sổ Tên cửa hàng và nhấn OK. Bạn có thể bắt đầu bán các vật phẩm sau đó
+CLIENT_HELP_INC_000632,Creating a Guild,Cách tạo 1 Bang Hội
+CLIENT_HELP_INC_000633,"There are some basic requirements to creating a Guild. You will need a party of three players all at least level 40, then you have to complete a quest through the Public office NPC Helena in SM. Once finished you and your party members will become a guild.","Có một số yêu cầu cơ bản để tạo ra 1 Bang hội. Bạn sẽ cần một nhóm gồm ba người chơi ít nhất là cấp 40, sau đó bạn phải hoàn thành một nhiệm vụ thông qua NPC Văn phòng công cộng Helena ở SM. Sau khi hoàn thành, bạn và các thành viên trong nhóm của bạn sẽ trở thành một Bang hội."
+CLIENT_HELP_INC_000634,Raising the Guild Level,Nâng đẳng cấp của Bang hội
+CLIENT_HELP_INC_000635,"Guild Members area able to contribute items and Penya towards raising the guild level. To contribute items, simply press the Support Button inside of the Guild Storage. Raising the Guild Level will open up various options to the Guild to help it grow and distinguish itself.","Khu vực Thành viên Bang hội có thể đóng góp vật phẩm và tiền Penya hướng tới việc nâng cao đẳng cấp Bang hội. Để đóng góp vật phẩm, chỉ cần nhấn nút Hỗ trợ bên trong Kho chứa đồ Bang hội. Nâng cao đẳng cấp Bang hội sẽ mở ra nhiều tùy chọn khác nhau cho Bang hội để giúp nó phát triển và phân biệt chính nó."
+CLIENT_HELP_INC_000636,Joining a Guild,Tham gia 1 Bang hội
+CLIENT_HELP_INC_000637,Initially only a Guild Master has the authority to invite Guild members. But a Guild Master can give authority to any Guildie to recruit other members to his Guild.,"Ban đầu, chỉ có Bang chủ mới có quyền mời người chơi vào Bang hội. Nhưng Bang chủ có thể trao quyền cho bất kỳ Thành viên nào để tuyển dụng các người chơi khác vào Bang hội của mình."
+CLIENT_HELP_INC_000638,Disbanding a Guild,Giải tán Bang hội
+CLIENT_HELP_INC_000639,"The Guild Master can disband the Guild by pressing the DISMISS button on the Guild Menu. Once the Guild is dismissed, it takes 2 days before Members can create or join a new Guild.","Bang chủ có thể giải tán Bang hội bằng cách nhấn nút GIẢI TÁN trên Menu Bang hội. Sau khi Bang hội bị giải tán, phải mất 2 ngày trước khi Thành viên có thể tạo hoặc tham gia Bang hội mới."
+CLIENT_HELP_INC_000640,Managing Guild Members,Quản lý thành viên Bang hội
+CLIENT_HELP_INC_000641,"The Guild Master can manage his Guild from the Guild Menu. He can set things such as promotions, demotions, nicknames, kicking from Guild, etc.","Bang chủ có thể quản lý Bang hội của mình từ Menu Bang hội. Bang chủ có thể thiết lập những thứ như thăng cấp, cách chức, biệt hiệu, đuổi khỏi Bang hội, v.v."
+CLIENT_HELP_INC_000642,Managing Guild Ranks,Quản lý thứ hạng Bang hội
+CLIENT_HELP_INC_000643,"The Guild Master can manage Guild Ranks in the Guild Menu. He can set the authority of the title, degree, admission, access to items and monthly payment.","Bang chủ có thể quản lý Thứ hạng Bang hội trong Menu Bang hội. Bang chủ có thể thiết lập quyền hạn của chức danh, địa vị, chấp nhận vào Bang hội, quyền truy cập vào các vật phẩm và thanh toán hàng tháng."
+CLIENT_HELP_INC_000644,Announcement,Thông báo
+CLIENT_HELP_INC_000645,Guild Masters can make an announcement by clicking the Notice button on the Information Tab in the Guild Menu. Either a new message can be made of the old one can simply be modified.,Các Bang chủ có thể gửi thông báo bằng cách nhấp vào nút Thông báo trên Thẻ Thông tin trong Menu Bang hội. Một tin nhắn mới có thể được tạo từ tin nhắn cũ có thể được sửa đổi một cách đơn giản.
+CLIENT_HELP_INC_000646,Guild Logo,Biểu tượng Bang hội
+CLIENT_HELP_INC_000647,"The Guild Logo is the symbol or emblem of the Guild. This can be chosen only once and only by the Guild Master. To use this function, select the Logo button in the Guild Menu.","Biểu trưng của Bang hội là 1 biểu tượng hoặc hình ảnh tượng trưng của Bang hội. Điều này chỉ có thể được chọn một lần và duy nhất bởi Bang chủ. Để sử dụng chức năng này, hãy chọn nút Biểu trưng trong Menu Bang hội."
+CLIENT_HELP_INC_000648,Guild Storage,Kho lưu trữ của Bang hội
+CLIENT_HELP_INC_000649,You can use the Guild Storage only on the 1st Channel of each Server. Anyone can deposit items and Penya into the Guild Storage but only authorized Guild Members can withdraw items and penya.,Bạn chỉ có thể sử dụng Kho lưu trữ Bang hội trên Kênh đầu tiên của mỗi Máy chủ. Bất kỳ ai cũng có thể gửi vật phẩm và tiền Penya vào Kho lưu trữ của Bang hội nhưng chỉ Thành viên Bang hội được ủy quyền mới có thể rút vật phẩm và tiền penya.
+CLIENT_HELP_INC_000650,Info-Pang,Info-Pang
+CLIENT_HELP_INC_000651,You may have noticed when you first logged into the game that you were greeted by the Info-Pang in the lower right corner of your screen. This section briefly explains the Info-Pang and how to use him.,"Bạn có thể nhận thấy khi lần đầu tiên đăng nhập vào trò chơi, bạn đã được chào đón bởi Info-Pang ở góc dưới bên phải của màn hình. Phần này giải thích ngắn gọn về Info-Pang và cách sử dụng nó."
+CLIENT_HELP_INC_000652,What is it?,Nó là gì?
+CLIENT_HELP_INC_000653,"The Info-Pang will guide you through all of the basics including controls, hotkeys, menus, and even some game functions. Once you have completed a section, you can always access it if you need to review it. Simply right click on the Info-Pang and select Check the List.","Info-Pang sẽ hướng dẫn bạn tất cả những điều cơ bản bao gồm điều khiển, phím nóng, menu và thậm chí một số chức năng trò chơi. Khi bạn đã hoàn thành một phần, bạn luôn có thể truy cập phần đó nếu bạn cần xem lại. Chỉ cần nhấp chuột phải vào Info-Pang và chọn Kiểm tra danh sách."
+CLIENT_HELP_INC_000654,Access the Info-Pang,Truy cập vào Info-Pang
+CLIENT_HELP_INC_000655,"The Info-Pang will be activated by default when you log into the game. If you would like to turn the Info-Pang off, Right Click on the Info-Pang and select Hide. If later you would like to recall the Info-Pang you can do that by accessing the Start Menu, selecting Helper, and then selecting Info-Pang.","Info-Pang sẽ được kích hoạt theo mặc định khi bạn đăng nhập vào trò chơi. Nếu bạn muốn tắt Info-Pang, Nhấp chuột phải vào Info-Pang và chọn Ẩn. Nếu sau này bạn muốn mở lại Info-Pang, bạn có thể truy cập Menu Bắt đầu, chọn Người trợ giúp, sau đó chọn Thông tin-Pang."
+CLIENT_HELP_INC_000656,Duel among users,Đấu tay đôi giữa những người chơi
+CLIENT_HELP_INC_000657,This is a duel between 2 players.,Đây là cuộc đấu tay đôi giữa 2 người chơi.
+CLIENT_HELP_INC_000658,PvP,PvP
+CLIENT_HELP_INC_000659,It means a fight between characters by mutual agreement. Affects PVP fame and PVP point.,Nó có nghĩa là một cuộc chiến giữa các nhân vật theo thỏa thuận chung. Những trận đấu này cũng ảnh hưởng đến danh tiếng PVP và điểm PVP.
+CLIENT_HELP_INC_000660,Asking for PvP,Yêu cầu PvP
+CLIENT_HELP_INC_000661,"If you right-click with ALT key on the player whom you want to have duel with, you can have a duel with the player in case of that the user accepts that.","Nếu bạn nhấp chuột phải cùng với phím ALT vào người chơi mà bạn muốn đấu tay đôi, bạn có thể đấu tay đôi với người chơi đó trong trường hợp người chơi đó chấp nhận điều đó"
+CLIENT_HELP_INC_000662,"In case of that you are the leader of your troupe and the clicked one is another leader of other troupe, you can have a group duel, if the other lead accept it.","Trong trường hợp bạn là trưởng nhóm của mình và người được nhấp là một trưởng nhóm khác của nhóm khác, bạn có thể có một cuộc đấu nhóm, nếu người dẫn đầu kia chấp nhận."
+CLIENT_HELP_INC_000663,The result of PVP and Fame,Kết quả của PvP và Danh vọng
+CLIENT_HELP_INC_000664,PVP fame and PVP point change according to PvP record.,Danh vọng PVP và điểm PVP thay đổi theo bản ghi PvP.
+CLIENT_HELP_INC_000665,placholder 49,Placholder 49
+CLIENT_HELP_INC_000666,placholder 50,Placholder 50
+CLIENT_HELP_INC_000667,placholder 51,Placholder 51
+CLIENT_HELP_INC_000668,placholder 52,Placholder 52
+CLIENT_HELP_INC_000669,placholder 53,Placholder 53
+CLIENT_HELP_INC_000670,placholder 54,Placholder 54
+CLIENT_HELP_INC_000671,placholder 55,Placholder 55
+CLIENT_HELP_INC_000672,placholder 56,Placholder 56
+CLIENT_HELP_INC_000673,placholder 57,Placholder 57
+CLIENT_HELP_INC_000674,placholder 58,Placholder 58
+CLIENT_HELP_INC_000675,placholder 59,Placholder 59
+CLIENT_HELP_INC_000676,placholder 60,Placholder 60
+CLIENT_HELP_INC_000677,placholder 61,Placholder 61
+CLIENT_HELP_INC_000678,placholder 62,Placholder 62
+CLIENT_HELP_INC_000679,placholder 63,Placholder 63
+CLIENT_HELP_INC_000680,placholder 64,Placholder 64
+CLIENT_HELP_INC_000681,placholder 65,Placholder 65
+CLIENT_HELP_INC_000682,placholder 66,Placholder 66
+CLIENT_HELP_INC_000683,Server,Server
+CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,Ngân hàng Bang hội và các cuộc bao vây Bang hội chỉ có ở máy chủ phụ đầu tiên của mỗi bộ máy chủ.
+CLIENT_HELP_INC_000685,placholder 67,Placholder 67
+CLIENT_HELP_INC_000686,placholder 68,Placholder 68
+CLIENT_HELP_INC_000687,placholder 69,Placholder 69
+CLIENT_HELP_INC_000688,placholder 70,Placholder 70
+CLIENT_HELP_INC_000689,placholder 71,Placholder 71
+CLIENT_HELP_INC_000690,placholder 72,Placholder 72
+CLIENT_HELP_INC_000691,placholder 73,Placholder 73
+CLIENT_HELP_INC_000692,placholder 74,Placholder 74
+CLIENT_HELP_INC_000693,placholder 75,Placholder 75
+CLIENT_HELP_INC_000694,placholder 76,Placholder 76
+CLIENT_HELP_INC_000695,placholder 77,Placholder 77
+CLIENT_HELP_INC_000696,placholder 78,Placholder 78
+CLIENT_HELP_INC_000697,placholder 79,Placholder 79
+CLIENT_HELP_INC_000698,placholder 80,Placholder 80
+CLIENT_HELP_INC_000699,placholder 81,Placholder 81
+CLIENT_HELP_INC_000700,placholder 82,Placholder 82
+CLIENT_HELP_INC_000701,placholder 83,Placholder 83
+CLIENT_HELP_INC_000702,placholder 84,Placholder 84
+CLIENT_HELP_INC_000703,placholder 85,Placholder 85
+CLIENT_HELP_INC_100000,Achievements,Thành tựu
+CLIENT_HELP_INC_100001,"There are many kinds of missions: Daily Rewards, Time-Limited Events, Account Shared Achievements, etc. Complete them and you will receive various rewards such as Items, Custom Title, Attack Power Bonus, Penya or Bonus fCoins!","Có nhiều loại nhiệm vụ: Phần thưởng hàng ngày, Sự kiện có giới hạn thời gian, Thành tích được chia sẻ tài khoản, v.v. Hoàn thành những nhiệm vụ này và bạn sẽ nhận được nhiều phần thưởng khác nhau như Vật phẩm, Danh hiệu tùy chỉnh, Phần thưởng Sức tấn công, Penya hoặc Tiền thưởng fCoins!"
+CLIENT_HELP_INC_100002,Battle Pass,Battle Pass
+CLIENT_HELP_INC_100003,"Complete daily, weekly and season missions to receive rewards!\n\nDon't forget to claim your rewards before the end of the Battle Pass season.\n\nPoints earned through the Season missions are not included in the weekly limit.","Hoàn thành nhiệm vụ hàng ngày, hàng tuần và theo mùa để nhận phần thưởng! \n\nĐừng quên nhận phần thưởng của bạn trước khi kết thúc mùa Battle Pass.\n\nĐiểm kiếm được thông qua các nhiệm vụ Season không được tính vào giới hạn hàng tuần."
+CLIENT_HELP_INC_100004,Equipment Switch,Equipment Switch
+CLIENT_HELP_INC_100005,"Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle.","Tạo cài đặt trước thiết bị, cho phép bạn có sẵn set, weapons và accessories của mình. Với một phím tắt đơn giản, bạn có thể dễ dàng trang bị chúng mà không gặp rắc rối nào."
+CLIENT_HELP_INC_100006,Create ultimate weapon,Tạo ultimate weapon
+CLIENT_HELP_INC_100007,Kalgas Assault Revival,Kalgas Assault Revival
+CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).","In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20)."
+CLIENT_HELP_INC_100009,Couple Menu,Couple Menu
+CLIENT_HELP_INC_100010,"This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled.","This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled."
+CLIENT_HELP_INC_100011,Life,Life
+CLIENT_HELP_INC_100012,"This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time.","This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time."
+CLIENT_HELP_INC_100013,Fishing Menu,Fishing Menu
+CLIENT_HELP_INC_100014,"If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button.","If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button."
+CLIENT_HELP_INC_100015,Pet Training,Pet Training
+CLIENT_HELP_INC_100016,"You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc"
+CLIENT_HELP_INC_100017,Housing Objects,Housing Objects
+CLIENT_HELP_INC_100018,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.,Chọn mô hình trang trí bạn muốn sử dụng và nhấp vào địa điểm. Sau đó làm theo hướng dẫn: \n\n- Nhấp chuột trái để đặt\n- Bánh xe chuột để xoay\n- Nhấn bánh xe chuột và chuột trái/phải để thay đổi kích thước.
+CLIENT_HELP_INC_100019,Production,Production
+CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success","You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success"

@@ -1,0 +1,16 @@
+﻿#b#cffffdd66Participation#nb#nc
+* Inscription : du dimanche 00:00 au samedi 13:00 UTC
+* Lieu du combat : Canal 1
+* Conditions
+ - la guilde doit avoir placé une offre de participation avant la clôture des inscriptions
+ - l'offre de participation minimale est de 100 Millions de Penyas
+ - la guilde doit être au moins de niveau 6
+ - les participants doivent être au moins de niveau 30
+ - le Maître de guilde ou le Général doivent participer
+ - seules les 8 guildes ayant fait la meilleure offre de participation prennent part au combat
+* Agenda
+ - 13:00 Entrée
+ - 13:10 L'entrée est terminée
+ - 13:20 Début du combat
+ - 13:50 Le combat est terminé
+ #b#cffff0000* Le siège de guilde ne commencera que si 2 guildes ou plus sont acceptées.#nb#nc

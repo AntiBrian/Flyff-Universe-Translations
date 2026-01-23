@@ -1,0 +1,2 @@
+﻿#b#cffffdd66 - Supprimer un enchantement #nb#nc
+Glissez un objet dans la fenêtre et appuyez sur le bouton Supprimer pour retirer l'enchantement de l'objet. L'opération vous coûtera 1,000,000 Penyas.

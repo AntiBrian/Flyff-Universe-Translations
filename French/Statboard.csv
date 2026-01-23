@@ -1,0 +1,27 @@
+﻿Key,English,French
+STATBOARD_TXT_000000,1. General,1. Général
+STATBOARD_TXT_000001,2. Time,2. Temps
+STATBOARD_TXT_000002,3. Class,3. Classe
+STATBOARD_TXT_000003,Total Damage,Dégâts Totaux
+STATBOARD_TXT_000004,Skill Damage,Dégâts des Compétences
+STATBOARD_TXT_000005,Damage Taken,Dégâts Subis
+STATBOARD_TXT_000006,Healing Done,Soins Procurés
+STATBOARD_TXT_000007,Total Kills,Nombre de Tués
+STATBOARD_TXT_000008,Total Deaths,Nombre de Morts
+STATBOARD_TXT_000009,Damage Per Death,Dégâts infligés par mort
+STATBOARD_TXT_000010,Tanking Per Death,Dégâts subis par mort
+STATBOARD_TXT_000011,Healing Per Death,Soins par mort
+STATBOARD_TXT_000012,Kills Per Death,Tués par mort
+STATBOARD_TXT_000013,Damage Per Min,Dégâts infligés par minute
+STATBOARD_TXT_000014,Tanking Per Min,Dégâts reçus par minute
+STATBOARD_TXT_000015,Healing Per Min,Soins par minute
+STATBOARD_TXT_000016,Deaths Per Min,Tués par minute
+STATBOARD_TXT_000017,Time Spent CC'd,Temps passé Restreint
+STATBOARD_TXT_000018,CC's applied,Restriction appliquées
+STATBOARD_TXT_000019,Damage Amped,Dégâts Démultipliés
+STATBOARD_TXT_000020,Damage Mitigated,Dégâts Mitigés
+STATBOARD_TXT_000021,Damage Reflected,Dégâts Renvoyés
+STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,Temps total en secondes passé sous restriction de mouvement.
+STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,Temps total en secondes des restrictions de mouvement infligées aux autre joueurs.
+STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Dégâts totaux que le joueur a démultiplié au travers d'effets comme Croix du Templier, Crucifix, etc."
+STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.","Dégâts totaux que le joueur à mitigé au travers d'effets comme Redirection de Dégâts, etc."

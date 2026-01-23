@@ -1,0 +1,1544 @@
+﻿Key,English,French
+TEXTCLIENT_CONNECTING,Connecting. Please wait.,Connexion en cours.\nMerci de patienter.
+TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,La connexion ne peut être établie. Merci de vérifier votre connexion internet.
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Ancienne version du client. Veuillez fermer la page et la ré-ouvrir.
+TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Mauvais identifiant serveur
+TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Erreur inconnue, veuillez réessayer."
+TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Votre compte est déjà connecté.
+TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Souhaitez-vous déconnecter l'autre appareil ?
+TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,L'appareil est en train d'être déconnecté. Réessayez de vous connecter dans 10 secondes.
+TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Ce canal est actuellement plein, veuillez patienter un moment ou sélectionnez un autre canal."
+TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Ce nom est déjà utilisé. Merci d'en choisir un autre.
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss détecté !!!
+TEXTCLIENT_APP_MAP,World Map,Carte du Monde
+TEXTCLIENT_APP_OPTION,Options,Options
+TEXTCLIENT_APP_LOGOUT,Logout,Déconnexion
+TEXTCLIENT_APP_QUIT,Quit,Quitter
+TEXTCLIENT_APP_SUPPORT,Support,Assistance
+TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_NAVIGATOR,Navigator,Navigateur
+TEXTCLIENT_APP_DEBUG,Debug,Debug
+TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,Quitter le jeu dans %d sec.
+TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,Changement de personnage dans %d sec(s).
+TEXTCLIENT_LINKACCOUNT,Linking account in %d sec(s).,Liaison au compte dans %d sec(s).
+TEXTCLIENT_LOGOUT,Do you want to disconnect?,Souhaitez-vous vous déconnecter ?
+TEXTCLIENT_LOGOUT_GUEST,#cffff0000You will lose your guest character.#nc Please link an account.,#cffff0000Votre personnage invité sera perdu.#nc Veuillez lier un compte.
+TEXTCLIENT_EXIT,Do you want to exit the program?,Souhaitez-vous quitter Flyff ?
+TEXTCLIENT_DISCONNECTED,Disconnected from the server.,Déconnecté du serveur du jeu.
+TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,La création de personnage est désactivée sur ce serveur.
+TEXTCLIENT_MAPHIDDEN,There seems to be an evil force clouding your vision of the area.,Les ténèbres vous empêchent de vous repérer dans cette zone.
+TEXTCLIENT_ITEM_DESC,Description:,Description :
+TEXTCLIENT_INVALIDCHARACTERS,This name contains unauthorized characters.,Ce nom contient des caractères non autorisés.
+TEXTCLIENT_INVALIDNAME,This name contains unauthorized words.,Ce nom contient des mots non autorisés.
+TEXTCLIENT_IPBANNED,Your public internet address has been banned. Contact the administrator for more informations.,Votre adresse Internet publique a été interdite. Contactez l'administrateur pour plus d'informations.
+TEXTCLIENT_IPRESTRAINTED,The game is currently not available in your country.,Ce jeu n'est actuellement pas disponible dans votre pays.
+TEXTCLIENT_IPBLOCKED,An important activity has been detected on your public internet address. Please wait %s before trying again.,Une activité importante a été détectée sur votre adresse Internet publique. Veuillez attendre %s avant de réessayer.
+TEXTCLIENT_SECS,second(s),seconde(s)
+TEXTCLIENT_MINS,minute(s),minute(s)
+TEXTCLIENT_HOURS,hour(s),heure(s)
+TEXTCLIENT_SESSIONEXPIRED,"Your session has expired, please enter your login and password again.","Votre session a expiré, veuillez saisir à nouveau votre identifiant et votre mot de passe."
+TEXTCLIENT_ADMIN,Admin,Admin
+TEXTCLIENT_DEVELOPER,Dev,Dev
+TEXTCLIENT_GAMEMASTER,Game Master,Maitre du Jeu
+TEXTCLIENT_MODERATOR,MOD,Mod
+TEXTCLIENT_VENDOR_NPC,[Vendor],[Marchand]
+TEXTCLIENT_APP_CHAT,Chatting,Discussion
+TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Votre identifiant ou mot de passe n'est pas valide.
+TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,Échec de l'authentification. Veuillez réessayer.
+TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Position : x = %f, y = %f, z = %f, angle = %f"
+TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,Vous ne pouvez pas vous envoyer de MP.
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s n'existe pas ou n'est pas en ligne.
+TEXTCLIENT_APP_NOTICE,Notice,Notice
+TEXTCLIENT_APP_STATUS,Status,Statut
+TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s Niv. %d
+TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,Vous ne pouvez pas utiliser de compétence pendant cette action.
+TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,Vous ne pouvez pas utiliser une Elytre en étant assis.
+TEXTCLIENT_STAND_LIMIT,You can use it when you stand up.,Vous ne pouvez pas effectuer cette action en vous déplaçant.
+TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,Vous êtes dans l'incapacité d'utiliser ceci en volant.
+TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,Vous ne pouvez pas voler ici.
+TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,Vous n'êtes pas autorisé à parler.
+TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,Vous avez reçu %d minutes de pénalité en raison d'un trop grand nombre de conversations.
+TEXTCLIENT_APP_MOTION,Motion,Émotions
+TEXTCLIENT_APP_CHARINFO,Character,Personnage
+TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,Restauration des %s limitée à %d.
+TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,cet objet n'est pas encore disponible.
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,Appuyez sur Cristal de Vie pour ressusciter (ville la plus proche) ou utilisez un élément pour ressusciter sur place.
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,Appuyez sur Cristal de Vie pour ressusciter à l'Arène.
+TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,Vous ne pouvez attaquer un monstre qui se bat déjà contre un autre joueur.
+TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,Vous ne pouvez pas quitter Flyff pendant un combat.
+TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,Level up ! Vous pouvez maintenant améliorer les statistiques de votre personnage !
+TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,Level up !!!
+TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,Confirmer les nouvelles statistiques ?
+TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,(statistiques réinitialisées au niveau 15)
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,Cette fonctionnalité n'est disponible qu'avec le Battle Pass Étendu.
+TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,Vous pouvez changer de page de statistiques dans %d secondes.
+TEXTCLIENT_ADMIN_STATE,Status,Statut
+TEXTCLIENT_ADMIN_NORMAL,Normal,Normale
+TEXTCLIENT_SPEED_VERYSLOW,Very slow,Très lente
+TEXTCLIENT_SPEED_LOW,Slow,Lente
+TEXTCLIENT_SPEED_NORMAL,Normal,Normale
+TEXTCLIENT_SPEED_FAST,Fast,Rapide
+TEXTCLIENT_SPEED_VERYFAST,Very fast,Très rapide
+TEXTCLIENT_SPEED_FASTEST,Fastest,Fulgurante
+TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%s appartient actuellement à un autre joueur.
+TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Votre inventaire est plein.
+TEXTCLIENT_REAPITEM,You received %s.,%s
+TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Vous avez reçu un(e) %s + %d.
+TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s a reçu %s.
+TEXTCLIENT_APP_INVENTORY,Inventory,Inventaire
+TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,Vous recevez %s Penyas (total: %s Penyas).
+TEXTCLIENT_ERROR_SEX,%s is not for your gender.,Vous ne pouvez équiper cet objet: %s.
+TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,Vous ne pouvez pas équiper %s. Les exigences ne sont pas satisfaites.
+TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),Vous ne pouvez pas équiper cet objet car votre niveau est trop bas. (Niveau requis: %d)
+TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,Cet objet ne peut être supprimé ou jeté au sol.
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,You are already using this item.
+TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,Nombre de %s supprimés: %d.
+TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.","Il vous est impossible d'attaquer, aucune cible n'a été sélectionnée."
+TEXTCLIENT_NOTUSE,You cannot use this yet.,Vous ne pouvez pas encore utiliser cela.
+TEXTCLIENT_ERROR_NOTLEVEL,Your level is too low.,Votre niveau est trop bas.
+TEXTCLIENT_BLOCK_PM,%s is in the 'Refuse to Whisper/Messenger' setting.,%s n'est pas disposé à discuter en privé.
+TEXTCLIENT_YETTRADE,That player is currently busy. Please try again after few minutes.,Marchander prend du temps. Réessayez dans quelques instants.
+TEXTCLIENT_ITEMNOTUSE_TRADING,You cannot use items while trading.,Vous ne pouvez pas utiliser un objet pendant un échange.
+TEXTCLIENT_REDCHIP,Red Chip,(Jeton Rouge)
+TEXTCLIENT_ERROR_EQUIPTRADE,Please unequip the item before selling it.,Dépose l'objet avant de pouvoir le vendre.
+TEXTCLIENT_ERROR_NPCBUFFLEVEL,Only level %d~%d character can get buffs.,Seul le joueur de niveau %d~%d peut obtenir des buffs.
+TEXTCLIENT_ERROR_NPCBUFFFAIL,You cannot use %s right now.,Vous ne pouvez pas utiliser %s car cette capacité est deja en cours d'utilisation.
+TEXTCLIENT_LEVEL15JOB,Now it's time to choose your job.,Félicitations ! Vous pouvez désormais changer de classe et faire évoluer le personnage.
+TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,Félicitations ! Vous êtes désormais un %s.
+TEXTCLIENT_APP_SKILL,Skills,Compétences
+TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,Niveau du personnage : %d
+TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Vous avez appris une nouvelle compétence.
+TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,Vous n'avez pas équipé un objet requis pour utiliser cette compétence.
+TEXTCLIENT_REQFP,Not enough FP.,Pas assez de PF
+TEXTCLIENT_REQMP,Not enough MP.,Pas assez de PM
+TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Vous ne pouvez pas attaquer car un obstacle vous barre la route.
+TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,La compétence %s de niveau %d est nécessaire.
+TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,Augmentation du niveau de compétence %s.
+TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,Boutique Perso
+TEXTCLIENT_APP_QUEST,Quests,Livre des quêtes
+TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Boutique Flyff
+TEXTCLIENT_PREMIUM_ITEMS,Premium Items,Boutique Flyff
+TEXTCLIENT_COMMUNICATION,Communication,Communication
+TEXTCLIENT_COMMUNITY,Community,Communauté
+TEXTCLIENT_HELPER,Helper,Assistance
+TEXTCLIENT_APP_ITEM_DURATION,Duration,Durée
+TEXTCLIENT_APP_MESSENGER,Messenger,Messagerie
+TEXTCLIENT_APP_PARTY,Party,Groupe
+TEXTCLIENT_APP_GUILD,Guild,Guilde
+TEXTCLIENT_APP_COUPLE,Couple,Couple
+TEXTCLIENT_APP_HELP,Help,Aide
+TEXTCLIENT_APP_HELP_TIPS,Tips,Astuces
+TEXTCLIENT_APP_FAQ,FAQ,FAQ
+TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Cabine d'Essayage
+TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Page Wiki
+TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Vous ne pouvez pas faire de groupe dans l'arène du siège de guilde.
+TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Vous ne pouvez pas inviter d'autre joueur pendant un combat entre joueurs.
+TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Vous ne pouvez pas rejoindre de groupe durant un duel.
+TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Vous ne pouvez pas rejoindre de guilde durant un duel.
+TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,Vous ne pouvez pas inviter ce joueur à rejoindre le groupe car il est en combat.
+TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,Vous ne pouvez pas inviter de joueurs d'un autre canal.
+TEXTCLIENT_PARTYOTHER,%s is currently in another party.,%s fait déjà partie d'un groupe.
+TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s est déjà dans votre groupe.
+TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,Le joueur ne peut pas rejoindre le groupe.
+TEXTCLIENT_PARTYFAILINVITATE,%s has refused to join the party.,%s a refusé l'invitation à rejoindre le groupe.
+TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,%s n'est pas disposé à rejoindre un groupe.
+TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,Seul le leader du groupe est habilité à inviter de nouveaux membres.
+TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,La limite maximale de 8 joueurs est déjà atteinte.
+TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,Vous ne pouvez pas rejoindre ce groupe.
+TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,Vous n'avez pas rejoint la guilde.
+TEXTCLIENT_PARTYCREATE,Party has been created.,Le groupe a été formé.
+TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s a rejoint le groupe.
+TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s a quitté le groupe.
+TEXTCLIENT_PARTYEXIT,You have left the party.,Vous avez quitté le groupe.
+TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,Le groupe a été dissous.
+TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,Vous choisissez de revenir à la vie au Havre de Vie.
+TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,Seul le leader peut céder le commandement du groupe.
+TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,Vous ne pouvez confier la responsabilité du groupe à un joueur non connecté.
+TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,Vous êtes déjà le chef du groupe.
+TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,Vous ne pouvez pas changer le leader du groupe au cours d'un duel.
+TEXTCLIENT_PARTY_TROUPEUP,Party level increased to 10.,Le groupe a atteint le niveau 10 !
+TEXTCLIENT_PARTY_LEVELUP,Party level increased.,Le niveau du groupe a augmenté.
+TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose another one.,Ce nom de groupe est déjà utilisé. Merci d'en choisir un autre.
+TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,Ce nom de groupe contient des caractères ou des mots non autorisés.
+TEXTCLIENT_ERROR,Error,Erreur
+TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,Le groupe a évolué en un groupe avancé.
+TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,Le groupe s'appelle désormais %s.
+TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,Seul le chef de groupe peut utiliser les compétences du groupe.
+TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Votre groupe n'a pas le niveau requis.
+TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,Votre groupe ne dispose pas de suffisamment de points pour utiliser cette compétence.
+TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,La compétence de groupe %s est déjà activée. Réessayez dans quelques instants.
+TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,La compétence de groupe %s est activée.
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,L'effet de la compétence de groupe %s est sur le point de se terminer.
+TEXTCLIENT_ACR_FAME01,Rogue,Rôdeur
+TEXTCLIENT_ACR_FAME02,Outlaw,Roublard
+TEXTCLIENT_ACR_FAME03,Vigilante,Brigand
+TEXTCLIENT_ACR_FAME04,Pathfinder,Chasseur
+TEXTCLIENT_ACR_FAME05,Pursuer,Traqueur
+TEXTCLIENT_ACR_FAME06,Hejerdor,Conquérant
+TEXTCLIENT_ACR_FAME07,Phoenix,Maréchal
+TEXTCLIENT_ACR_FAME08,Splitter,Stratège
+TEXTCLIENT_ACR_FAME09,Valcan,Chancelier
+TEXTCLIENT_ACR_FAME10,Lamia,Connétable
+TEXTCLIENT_MER_FAME01,Trainer,Combattant
+TEXTCLIENT_MER_FAME02,Fighter,Soldat
+TEXTCLIENT_MER_FAME03,Gladiator,Baroudeur
+TEXTCLIENT_MER_FAME04,Berserker,Guerrier
+TEXTCLIENT_MER_FAME05,Wardancer,Belluaire
+TEXTCLIENT_MER_FAME06,Blaster,Mirmillon
+TEXTCLIENT_MER_FAME07,Eraser,Gladiateur
+TEXTCLIENT_MER_FAME08,Champion,Maître d'arme
+TEXTCLIENT_MER_FAME09,Warrior,Champion
+TEXTCLIENT_MER_FAME10,Bearcat,Seigneur de Guerre
+TEXTCLIENT_MAG_FAME01,Apprentice,Disciple
+TEXTCLIENT_MAG_FAME02,Mage,Erudit
+TEXTCLIENT_MAG_FAME03,War Mage,Devin
+TEXTCLIENT_MAG_FAME04,Grand Mage,Mage
+TEXTCLIENT_MAG_FAME05,Arch Mage,Grand Mage
+TEXTCLIENT_MAG_FAME06,Sorcerer,Archimage
+TEXTCLIENT_MAG_FAME07,Warlock,Ensorceleur
+TEXTCLIENT_MAG_FAME08,Sage,Mystique
+TEXTCLIENT_MAG_FAME09,Arch Sage,Théurgiste
+TEXTCLIENT_MAG_FAME10,Elder,Thaumaturge
+TEXTCLIENT_ASS_FAME01,Protector,Diacre
+TEXTCLIENT_ASS_FAME02,Guardian,Gardien
+TEXTCLIENT_ASS_FAME03,Knight,Chevalier
+TEXTCLIENT_ASS_FAME04,Paladin,Croisé
+TEXTCLIENT_ASS_FAME05,Crusader,Crusader
+TEXTCLIENT_ASS_FAME06,Crusader,Crusader
+TEXTCLIENT_ASS_FAME07,Chaplain,Cardinal
+TEXTCLIENT_ASS_FAME08,Luminary,Grand cardinal
+TEXTCLIENT_ASS_FAME09,Prophet,Apôtre
+TEXTCLIENT_ASS_FAME10,Oracle,Oracle
+TEXTCLIENT_ALREADYFRIEND,That player is already in your friends list.,Ce joueur fait déjà partie de votre liste d'amis.
+TEXTCLIENT_MSGINVATE,You have asked for permission to add %s to your messenger.,Vous avez invité %s à rejoindre votre liste d'amis.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_FRIENDADD,You cannot add friends in the Guild Siege arena.,Vous ne pouvez pas ajouter d'amis dans l'arène du siège de guilde.
+TEXTCLIENT_BATTLE_NOTFRIEND,You cannot add someone to your friends list while dueling.,Vous ne pouvez pas ajouter de nouveaux contacts à votre liste d'amis au cours d'un duel.
+TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,L'invitation a été refusée.
+TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s n'est pas disposé à utiliser la messagerie instantané.
+TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,Votre liste d'amis ne peut contenir plus de 200 contacts.
+TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s vous a ajouté dans sa liste d'amis.
+TEXTCLIENT_NOTLOGIN,That player is not connected.,Non connecté
+TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.","Impossible d'envoyer le message, %s est bloqué."
+TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,%d nouveau(x) message(s).
+TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,Votre message ne peut être remis car la boîte de réception du destinataire est pleine.
+TEXTCLIENT_MESSNOTE,You sent the memo.,Vous avez envoyé un mémo.
+TEXTCLIENT_MAILRECEIVE,You have received new mail!,Vous avez reçu du courrier.
+TEXTCLIENT_CANT_SHOUT_BELOW_20,Characters under Level %d cannot shout.,Les personnages de niveau inférieur à %d ne peuvent pas crier.
+TEXTCLIENT_NOPARTY,Party does not exist.,Ce groupe n'existe pas.
+TEXTCLIENT_NOGUILD,Guild does not exist.,Cette guilde n'existe pas.
+TEXTCLIENT_WHISPERAGREE,Private messages allowed,Messages privés autorisés
+TEXTCLIENT_WHISPERREFUSE,Private messages refused,Messages privés refusés
+TEXTCLIENT_MSGERAGREE,Messenger allowed,Messagerie autorisé
+TEXTCLIENT_MSGERREFUSE,Messenger refused,Messagerie refusé
+TEXTCLIENT_STAGEAGREE,Party & guild invites allowed,Invitations de groupe et de guilde autorisées
+TEXTCLIENT_STAGEREFUSE,Party & guild invites refused,Invitations de groupe et de guilde refusées
+TEXTCLIENT_CONNAGREE,Post connection status,Afficher l'état de connexion.
+TEXTCLIENT_CONNREFUSE,Do not post connection status.,Masquer l'état de connexion.
+TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,la blacklist est pleine. Veuillez ignorer certaines personnes ou reconnecter-vous pour réinitialiser votre blacklist.
+TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,Vous ne devez pas vous ignorer. Vous pourriez avoir quelque chose d'important à dire!
+TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,La personne est déjà ignorée
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,%s a été ignoré. Tapez /Unignore <NAME> pour les supprimer de votre liste Ignorer.
+TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s n'est plus ignoré.
+TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,La personne n'est pas ignorée
+TEXTCLIENT_EQUIPPUT,Please unequip the item first.,Veuillez déséquiper le premier item.
+TEXTCLIENT_CHARGED_NOTUSE,You can not use the premium items.,Vous ne pouvez pas utiliser les objets premiums.
+TEXTCLIENT_MSGSELFSENDERERROR,"You cannot send a message to yourself, silly.",Vous ne pouvez pas vous envoyer des messages privés.
+TEXTCLIENT_MAILBOX_FULL,%s's mail box is full.,La boîte aux lettres de %s est pleine.
+TEXTCLIENT_LACKMONEY,You do not have enough Penya.,Vous ne disposez pas de suffisamment de Penyas.
+TEXTCLIENT_CANNOTPOST,You cannot send this item.,Vous ne pouvez pas envoyer cet objet.
+TEXTCLIENT_MAIL_UNKNOWN,Unknown user,Personnage inconnu
+TEXTCLIENT_POST_ERROR,You have failed to send.,L'envoi a échoué.
+TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Le courrier a bien été envoyé.
+TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Une erreur s'est produite, veuillez réessayer l'opération."
+TEXTCLIENT_REALTIME,Real Time - %s,Temps réel - %s
+TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Temps Madrigal - %s
+TEXTCLIENT_NEW_QUEST,New Quest,Nouvelle quête
+TEXTCLIENT_CURRENT_QUEST,Quests in Progress,Quêtes en cours
+TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,"Quête : %s acceptée, surveillez votre livre des quêtes."
+TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,Vous avez annulé la quête : %s.
+TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,Quête annulée.
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,Vous ne pouvez effectuer cette action que sur le Canal 1.
+TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,Il n'est pas possible de voler en ce lieu.
+TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,Vous avez besoin de l'objet %s pour l'ouvrir.
+TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.",Votre niveau ne vous permet pas d'ouvrir la boîte à objets.
+TEXTCLIENT_ITEMBOX_MESSAGE3,"Wrong sex, unable to open itembox.",Votre genre ne vous permet pas d'ouvrir la boîte à objets.
+TEXTCLIENT_ITEMBOX_MESSAGE4,You need to be on the %s quest to open it.,Vous devez être sur la quete %s pour l'ouvrir.
+TEXTCLIENT_ITEMBOX_MESSAGE5,"Wrong job, unable to open itembox.",Votre classe ne vous permet pas d'ouvrir la boîte à objets.
+TEXTCLIENT_QUEST_NOINVENTORYSPACE,Unable to complete quest. Not enough room in your inventory.,La quête ne peut être terminée car votre inventaire est plein !
+TEXTCLIENT_REAPEXP,You have gained Experience.,Vous gagnez de l'expérience.
+TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,"Félicitations, vous avez terminé la quête : %s."
+TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.","Si un membre du groupe a dépassé le niveau %d, il ne peut pas entrer."
+TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,Impossible de vérifier à présent
+TEXTCLIENT_COMACCEPT,You have joined the %s guild.,Vous avez rejoint la guilde %s.
+TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,Vous n'êtes désormais plus membre de la guilde %s.
+TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,Vous ne pouvez pas modifier l'emblème de la guilde pendant une Guerre des Guildes.
+TEXTCLIENT_GUILDWARERRORNAME,You cannot change your guild name during a guild duel.,Vous ne pouvez pas changer le nom de votre guilde pendant un duel de guilde.
+TEXTCLIENT_GUILDNOTICEUPDATE,A new Guild Notice has been posted. Please check it in the guild window.,Une nouvelle notice a été publiée dans la fenêtre de guilde.
+TEXTCLIENT_GUILD_NAMEINUSE,That guild name is already in use. Please choose another one.,Ce nom de guilde est déjà utilisé. Veuillez en choisir un autre.
+TEXTCLIENT_GUILD_INVALIDNAME,This guild name contains unauthorized characters or words.,Ce nom de guilde contient des caractères ou des mots non autorisés.
+TEXTCLIENT_GUILDCHANGENAME,%s guild has changed their name to %s.,La guilde %sa été nommée : %s.
+TEXTCLIENT_GUILDWARNODISMISS,You cannot disband your guild during a guild duel.,Vous ne pouvez pas dissoudre la guilde pendant une Guerre des Guildes.
+TEXTCLIENT_GUILDSALARYCHANGED,Salary for each title has been changed.,Le salaire attribué par la guilde à chaque statut a été modifié. 
+TEXTCLIENT_GUILDPOWERCHANGED,Authority for each title has been changed.,Les droits pour chaque statut dans la guilde ont été modifiés. 
+TEXTCLIENT_GUILDWARNOMEMBER,Unable to use the member management function during a guild duel.,Vous ne pouvez pas utiliser les fonctions pour gérer les membres pendant une Guerre des Guildes.
+TEXTCLIENT_GUILDMEMBER_PROMOTED,%s has been promoted.,%s a été promu.
+TEXTCLIENT_GUILDMEMBER_DEMOTED,%s has been demoted.,%s a été retrogradé.
+TEXTCLIENT_GUILD_TRANSFERLEADER,%s has become the guild master.,%s est devenu le nouveau Maître de Guilde.
+TEXTCLIENT_GUILD_MEMBERLEAVE,%s has left the guild.,%s a quitté la guilde.
+TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%s est déjà membre d'une guilde.
+TEXTCLIENT_BATTLE_NOTGUILD,You cannot invite others to join your guild during a battle.,Vous ne pouvez pas inviter ce joueur à rejoindre la guilde car il est en combat.
+TEXTCLIENT_COMACCEPTKINGPIN,You invited %s to your guild.,Vous avez invité %s à rejoindre la guilde.
+TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,Le personnage que vous souhaitez inviter n'est pas connecté.
+TEXTCLIENT_GUILDNOTINCLUDE,You have to wait 2 days before joining another guild.,Vous devez attendre 2 jours avant de rejoindre une autre guilde.
+TEXTCLIENT_GUILDFAILINVITATE,%s has refused to join the guild.,%s a refusé de rejoindre la guilde.
+TEXTCLIENT_COMNOEXCOM,That guild does not exist.,Cette guilde n'existe pas.
+TEXTCLIENT_GUILDWARNOINVATE,Cannot join a guild during a guild duel.,Vous ne pouvez pas rejoindre une guilde actuellement en guerre.
+TEXTCLIENT_COMHAVECOM,You are already in a guild.,Vous êtes déjà membre d'une guilde.
+TEXTCLIENT_COMOVERMEMBER,The guild is full.,La guilde ne peut contenir plus de membres.
+TEXTCLIENT_COMACCEPTWELCOME,%s has joined the guild.,%s a rejoint la guilde.
+TEXTCLIENT_GUILDNOTHINGNAME,Unable to make a contribution. Ask your Guild Leader to set the guild name first.,Demandez au maître de guilde de définir le nom de la guilde avant de pouvoir effectuer une contribution.
+TEXTCLIENT_GUILDMERITMAXLEVEL,Unable to make a contribution. The guild has reached its maximum level.,"Vou ne pouvez pas effectuer de contribution, la guilde ayant atteint le niveau maximum."
+TEXTCLIENT_GUILDLEVELUP,Guild level has increased.,Le niveau de la guilde a augmenté.
+TEXTCLIENT_GUILDCLOAK,%s Guild Cloak,Cape de la guilde %s 
+TEXTCLIENT_NOTTRADE,You cannot trade a premium item.,Vous ne pouvez pas revendre un objet premium.
+TEXTCLIENT_GUILDBANKFULL,The guild warehouse is full.,La coffre de guilde est plein.
+TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,The couple storage is full.
+TEXTCLIENT_SLOTFULL,Your inventory is full.,Votre inventaire est plein.
+TEXTCLIENT_CONFIRMMOVEITEM,Really move this item?,Vraiment déplacer cet article?
+TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,La cape de la guilde a été créée.
+TEXTCLIENT_GUILDNEEDGOLD,Unable to create guild cloak. Insufficient Penya in the guild warehouse.,La guilde ne dispose pas de suffisamment de Penyas pour créer la cape de la guilde.
+TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,Salaire de guilde de %d Penya reçu.
+TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,Objectif inconnu
+TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Aucun profession
+TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,Les points de compétence de votre personnage ont été réinitialisés. Veuillez redistribuer vos points dans la fenêtre Compétences.
+TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,Vous devez choisir une nouvelle classe une fois le niveau 15 atteint.
+TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,Non 1ère Classe
+TEXTCLIENT_EXPERTJOBS,Expert Job: %s,1ère Classe : %s
+TEXTCLIENT_EXPERTLEVEL,Expert Level: %d ~ %d,Niveau de l'expert : %d ~ %d
+TEXTCLIENT_ERROR_NOTPROFESSIONALJOB,Not Professional Job,Non 2ème Classe
+TEXTCLIENT_ERROR_NOTSPECIALISTJOB,Not Specialist Job,Not Specialist Job
+TEXTCLIENT_PROFESSIONALJOBS,Professional Job: %s,2ème Classe : %s
+TEXTCLIENT_PROFESSIONALLEVEL,Professional Level: %d ~~~,Niveau professionnel : %d ~~~
+TEXTCLIENT_SPECIALISTJOBS,Specialist Job: %s,Specialist Job: %s
+TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Specialist Level: %d ~~~
+TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,Augmentation des points de compétence
+TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,Vous avez appris %s. Vous pouvez désormais attribuer des points de compétence à cette capacité.
+TEXTCLIENT_FLYLVLUP,Flying level up!,Votre expérience de vol a augmenté.
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,Qui ose me défier ?!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,Tu ne sembles pas connaître la peur !!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,Prépare toi à souffrir !
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG4,Don't make me angry!,Ne m'énerve pas !
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG5,"%s, you fool! How dare you!","%s, prépare toi à mourir !"
+TEXTCLIENT_BOSS_MUSHMOOT_MSG1,I will crush your bones!,"Tremblez, humains !"
+TEXTCLIENT_BOSS_MUSHMOOT_MSG2,I will destroy you all!,Seule la mort vous attend !!!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG3,I will break you!,Occupez-vous de ces misérables !
+TEXTCLIENT_BOSS_KRRR_MSG1,Who woke me?,Qui a osé me réveiller ?!
+TEXTCLIENT_BOSS_KRRR_MSG2,%s! My axe and I will destroy you!,%s !!! Ma hache et moi allons te détruire !!!
+TEXTCLIENT_BOSS_KRRR_MSG3,Go to Hell!,Je vais t'envoyer en enfer !
+TEXTCLIENT_SKILLLEVELLIMIT,Set %s' skill level: 1 ~ %d.,Choisissez le niveau de compétences de %s : 1 ~ %d.
+TEXTCLIENT_REQ_DARK,You are not in Dark Illusion mode.,Vous n'êtes pas sous l'effet de l'Illusion des ténèbres.
+TEXTCLIENT_NEVERKILLSTOP,You cannot use the skill.,Vous ne pouvez pas utiliser cette compétence.
+TEXTCLIENT_NOTELEMWEAPON,Unable to use equipped item. Item needs an elemental upgrade first.,Vous ne pouvez effectuer cette action. Une amélioration est nécessaire.
+TEXTCLIENT_DONOTUSEBUFF,Cannot use the skill at this time.,Vous ne pouvez pas utiliser cette compétence.
+TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_SKILLWAITTIME,Please wait.,Cette technique n'est pas encore disponible.
+TEXTCLIENT_SKILL_SELF,You use %s.,Vous utilisez : %s.
+TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
+TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s utilise : %s.
+TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you.
+TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,Vous n'êtes pas autorisé à consulter cet équipement.
+TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,Vous devez redémarrer le jeu pour que toutes les modifications prennent effet.
+TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,Vous êtes déjà en train d'utiliser cet objet. Réessayez quand les effets se seront dissipés. 
+TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,Votre niveau est trop bas pour utiliser cet objet. Atteignez au moins le niveau %s.
+TEXTCLIENT_NOTOVERLAP_USE,You cannot use these items at the same time.,Vous ne pouvez pas utiliser ces deux objets simultanément.
+TEXTCLIENT_COND_USE,Takes effect when player dies.,L'objet agira à la mort du personnage.
+TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d Jour
+TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d Hr
+TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d Min
+TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d Sec
+TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,Impossible de remettre vos stat à 0 car vos stat sont déjà les stats par défaut.
+TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,Seuls les criminels peuvent utiliser cet objet.
+TEXTCLIENT_GETKARMA,Recovered 1 Karma.,Régénération de 1 point de Karma.
+TEXTCLIENT_NTROUPEO10,Either you are not a party member or the party level is higher than 10.,"Vous n'êtes pas membre du groupe, ou le groupe a atteint le niveau 10."
+TEXTCLIENT_EXP_NOTUSE,"You cannot stack this scroll anymore. At level %d ~ %d, this scroll can only be stacked %d times.","Vous ne pouvez plus cumuler l'effet de ce parchemin. Au niveau %d à %d, l'effet de ce parchemin ne peut se cumuler que %d fois."
+TEXTCLIENT_EXP_NOTUSELEVEL,You cannot use this scroll. This scroll is only available for level %d ~ %d.,Vous ne pouvez pas utiliser ce parchemin. Ce parchemin n'est utilisable qu'entre les niveaux %d et %d.
+TEXTCLIENT_EXPITEM_TOOLTIP,*** Your Experience rate has been amplified by #cffff5a50%d%%#nc ***,*** Exp augmentée de #cffff5a50%d%%#nc ***
+TEXTCLIENT_EXP_COUTMSG0,The time left,Temps restant
+TEXTCLIENT_EXP_COUTMSG1,First:,Premier :
+TEXTCLIENT_EXP_COUTMSG2,Second:,Second :
+TEXTCLIENT_EXP_COUTMSG3,Third:,Troisième :
+TEXTCLIENT_EXPBOX_INFO_MSG,You can recover some of your Experience If you return to the place where you died.,Vous pouvez récupérer des points d'expérience en retournant sur le lieu de votre mort.
+TEXTCLIENT_NOT_EXPBOX,You can not use it.,Vous ne pouvez pas l'utiliser.
+TEXTCLIENT_EXPBOX_EAT,You have recovered 30% of decreased Experience from your death.,Vous avez récupéré 30% des exp diminués de votre mort.
+TEXTCLIENT_ADMIN_INVISIBLE,Invisible,Invisibilité
+TEXTCLIENT_ADMIN_IMMORTAL,Undying1,Immortel1
+TEXTCLIENT_ADMIN_IMMORTALHALF,Undying2,Immortel2
+TEXTCLIENT_ADMIN_NOMOVING,Freeze player,Geler le joueur
+TEXTCLIENT_ADMIN_MIGHTY,OneKill,Mort subite
+TEXTCLIENT_TELESKILL_CLICK,Touch on the ground where you want to use %s.,Appuyez sur le sol où vous souhaitez utiliser %s.
+TEXTCLIENT_CREATEMON_CLICK,Touch on the ground where you want to invoke the monster.,Touchez le sol où vous voulez invoquer le monstre.
+TEXTCLIENT_TELESKILL_CANCEL,%s invocation was cancelled.,L'invocation de %s a été annulée.
+TEXTCLIENT_CREATEMON_CANCEL,Monster invocation was cancelled.,L'invocation du monstre a été annulée.
+TEXTCLIENT_USEAIRCRAFT,"In order to ride a flying vehicle, you must reach level 20.","Pour pouvoir voler, vous devez être niveau 20 minimum."
+TEXTCLIENT_QUEST_DISGUISE_NOTFLY,You cannot fly while transforming.,Vous ne pouvez pas voler sous l'effet d'une transformation.
+TEXTCLIENT_UPGRADE_FIRE,Fire,Feu
+TEXTCLIENT_UPGRADE_WATER,Water,Eau
+TEXTCLIENT_UPGRADE_ELECTRICITY,Electric,Foudre 
+TEXTCLIENT_UPGRADE_WIND,Wind,Vent
+TEXTCLIENT_UPGRADE_EARTH,Earth,Terre
+TEXTCLIENT_RUN,Run,Courir
+TEXTCLIENT_WALK,Walk,Marcher
+TEXTCLIENT_CANNOT_DROPMONEY,You cannot drop your Penya on the ground.,Sacrilège ! Vous ne pouvez jeter vos Penyas !
+TEXTCLIENT_NOTDROP,You cannot drop a premium item on the ground.,Vous ne pouvez pas jeter un objet premium.
+TEXTCLIENT_QUEITMWARNING,The quest will not progress without this item. Continue discarding item?,La quête ne pourra être accomplie sans cet objet. Souhaitez-vous tout de même le jeter ?
+TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,Vous ne pouvez jeter des objets en vol.
+TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,Vous ne pouvez pas jeter d'objets pendant un échange.
+TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Seules les ailes peuvent vous sauver lorsque vous tombez.
+TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Ce nom de boutique n'est pas autorisé.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Vous ne pouvez pas échanger dans l'arène de siège de guilde.
+TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,Il est impossible d'ouvrir une boutique privée dans cette zone
+TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Vous ne pouvez pas ouvrir une boutique près d'un PNJ.
+TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Tous les articles de la boutique privée ont été vendus.
+TEXTCLIENT_CHEER_MESSAGE1,Cheer Message Point(s): %d/3,Points d'encouragement : %d/3
+TEXTCLIENT_CHEER_MESSAGE2,Time left until the next point,Prochain point dans 
+TEXTCLIENT_CHEER_MESSAGE3,%s sent you a cheer message of friendship!,%s vous adresse un mesage d'amitié.
+TEXTCLIENT_CHEER_MESSAGE4,%s sent you a cheer message of love!,%s vous encourage.
+TEXTCLIENT_CHEER_MESSAGE5,Your cheer points have increased by 1.,Vous avez gagné un point d'encouragement.
+TEXTCLIENT_CHEER_NO1,Unable to send cheer message. Please try again after %s minutes.,Vous ne pouvez plus encourager de joueur pendant %s minutes.
+TEXTCLIENT_CHEER_NO2,Please select a player to cheer. You can only send cheer messages to players other than yourself.,Vous devez tout d'abord sélectionner un joueur.
+TEXTCLIENT_COLLECT_EQUIP,You need to equip a collector.,Vous devez équiper un collecteur.
+TEXTCLIENT_COLLECT_TARGET,"Cannot collect, no dead catcher monster targeted.","Impossible de collecter, aucun monstre catcher mort n'est ciblé."
+TEXTCLIENT_COLLECT_EMPTY,Insufficient supplements.,Collecte terminée.
+TEXTCLIENT_COLLECT_ERROROTHER,Unable to collect resource from a monster killed by another player.,Vous ne pouvez pas ramasser les objets lachés par un monstre tué par un autre joueur.
+TEXTCLIENT_HARVEST_EQUIP,You need to equip harvesting gloves.,Vous devez équiper des gants de récolte.
+TEXTCLIENT_HARVEST_RECEIVE,You have harvested %s x%d.,Vous avez récolté %s x%d.
+TEXTCLIENT_HARVEST_CARRIER,A harvest carrier has been revealed! Kill it to gain its extra berries.,Un porteur de récolte a été révélé ! Tuez-le pour obtenir des baies supplémentaires.
+TEXTCLIENT_HARVEST_COOLDOWN,"You cannot currently open it, try again in a few seconds.","You cannot currently open it, try again in a few seconds."
+TEXTCLIENT_NOTREADY_USESHOP,Please try again after taking off the head item,Vous devez d'abord déséquiper votre casque.
+TEXTCLIENT_SHOP_CHOICE,Selected,Choisi
+TEXTCLIENT_CHANGE_HAIR,Change your Hair,Changement de coiffure
+TEXTCLIENT_SHOP_COST,Price is,:
+TEXTCLIENT_SHOP_PENYA,Penya.,Penyas.
+TEXTCLIENT_CHANGE_HAIR_QUESTION,Do you want to change your hair?,Effectuer le relooking ?
+TEXTCLIENT_TRADEREQUEST,You have offered to trade with %s.,Vous avez invité %s à effectuer un échange.
+TEXTCLIENT_ALREADY_TRADING,The player is already trading.,Le joueur échange déjà.
+TEXTCLIENT_BATTLE_NOTTRADE,The player cannot trade while fighting.,Le joueur ne peut pas échanger en combattant.
+TEXTCLIENT_TRADECANCEL,The trade has been cancelled.,L'échange a été annulé.
+TEXTCLIENT_CANNOTTRADE_ITEM,This item cannot be traded.,cet objet ne peut être échangé.
+TEXTCLIENT_CANNOTTRADE_EDIT,You cannot add into or remove items from the trading window anymore after the first confirmation.,Vous ne pouvez ajouter ou supprimer des objets de la fenêtre après avoir confirmé l'échange.
+TEXTCLIENT_TRADEACCEPT,%s has completed the trade.,%s a terminé la transaction.
+TEXTCLIENT_FINALCONFIRM,%s pushed final confirmation.,%s a confirmé l'échange.
+TEXTCLIENT_TRADEAGREE,You agreed to trade.,Vous avez accepté l'échange.
+TEXTCLIENT_TRADEREFUSE,You refused to trade.,Vous avez refusé l'échange.
+TEXTCLIENT_SBEVE_NOTUSEITEM,You cannot use that item.,Impossible d'utiliser l'objet.
+TEXTCLIENT_PIERCING_POSSIBLE_ITEM,The item cannot be pierced.,Cet objet ne peut être l'objet d'un piercing.
+TEXTCLIENT_STILL_DEVELOPMENT,This functionality is still in development.,Cette fonctionnalité est toujours en développement.
+TEXTCLIENT_ENDUSE,You may no longer use %s . That item has expired.,Vous ne pouvez plus utiliser cet objet: %s car il a expiré.
+TEXTCLIENT_DAYUSE,You can use the %s for %d days.,Vous pouvez utiliser cet objet: %s pendant %d jours.
+TEXTCLIENT_TIMEUSE,Time remaining on %s: %d days.,Vous pouvez utiliser cet objet: %s pendant %d heures.
+TEXTCLIENT_ITEM_EXPIRED,This item has expired.,L'objet a expiré.
+TEXTCLIENT_NOTUPGRADE,The item cannot be equipped or moved during refining.,L'objet ne peut pas être équipé ou déplacé pendant un enchantement. 
+TEXTCLIENT_CARDRESHUFFLE_NOTAVAILABLE,Registration is not possible because the grade is not correct.,L'enregistrement n'est pas possible car le grade n'est pas correct.
+TEXTCLIENT_ERROR_NOPIERCING,There is no space to put a card.,Il n'y a pas de piercing disponible pour insérer une carte.
+TEXTCLIENT_PIERCINGFAIL,Piercing failed.,Le piercing a échoué.
+TEXTCLIENT_PIERCINGSUCCESS,Piercing Succeeded.,Félicitations ! Le piercing a réussi !
+TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,Ceci n'est disponible que sur les armures piercées.
+TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfully.,Carte de piercing enlevée avec succès.
+TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,cet objet ne peut pas être utilisé.
+TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,un objet premium ne peut pas être enchanté.
+TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,Vous avez utilisé le mauvais objet supplémentaire.
+TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,Vous pouvez utiliser cet item dans le menu Piercing de l'Armurerie.
+TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,Vous pouvez utiliser cet objet au menu d'amélioration d'accessoire à la Boutique d'armes.
+TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,Vous pouvez utiliser cet item dans le menu d'amélioration de l'Armurerie.
+TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,Double-cliquez sur cet item dans l'inventaire pour l'utiliser.
+TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,L'objet ne peut pas être amélioré avec cet élément.
+TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,Vous ne pouvez pas enchanter un objet avec deux éléments différents.
+TEXTCLIENT_WRONGUPLEVEL,Using wrong item to upgrade.,Vous avez utilisé un mauvais objet.
+TEXTCLIENT_UPGRADE_MAXOVER,Can only upgrade up to Level 10.,Ne peut être amélioré que jusqu'au niveau 10.
+TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,Les accessoires peuvent être améliorés jusqu'à +20.
+TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,Vous avez utilisé un mauvais objet.
+TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,Vous ne disposez pas de suffisamment d'objets supplémentaires.
+TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,L'enchantement a échoué.
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,Félicitations ! L'enchantement a réussi !
+TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,L'enchantement de cet objet ne peut être supprimé.
+TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,L'enchantement de cet objet a été supprimé.
+TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,Cet objet prend effet à la mort du personnage. Souhaitez-vous l'utiliser ?
+TEXTCLIENT_SKILLINIT,This item resets your skills. Do you want to use this item?,Cet objet remet à zéro les statistiques du personnage. Souhaitez-vous l'utiliser ?
+TEXTCLIENT_ERROR_SKILLRECCURENCE,Your skill has already been reset.,Cette compétence est déjà entrain d'être utilisée.
+TEXTCLIENT_NOTUSEVAG,You can use this item after your 1st job change.,Vous pourrez l'utiliser après votre premier changement de classe.
+TEXTCLIENT_CHECKEQUIP,Please unequip the item first.,Veuillez déséquiper le premier item.
+TEXTCLIENT_PK_BLINK_NO,You cannot use a blinkwing at Kebaras.,Vous ne pouvez pas utiliser d'élitre à Kebaras.
+TEXTCLIENT_BLINK_EVENT_NO,You cannot use a blinkwing during event.,Vous ne pouvez pas utiliser d'Élytre ici.
+TEXTCLIENT_GUILDCOMBAT_NO_OUTWAR,You cannot use Blinkwings to escape the Guild Siege arena.,Vous ne pouvez pas utiliser d'Elytre pour fuir de l'arène.
+TEXTCLIENT_ARENA_BLINKPOOL,You cannot use Blinkpool in the Arena.,Vous ne pouvez pas utiliser Téléportation ici.
+TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,Souhaitez-vous changer de classe? Vos points de statistiques seront alors remis à zéro.
+TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,Félicitations ! Vous êtes devenu un %s.
+TEXTCLIENT_RETURN_USEITEM,The item loses its potency 4 hours after being equipped if not returned to the inventory . Do you want to use the item?,Les effets de cet objet se dissiperont 4 heures après avoir été équipé (si vous ne l'avez pas remis dans l'inventaire). Souhaitez-vous l'utiliser ?
+TEXTCLIENT_LIMITZONE_USE,Unable to use item in the limit zone.,Il est impossible d'utiliser cet objet ici.
+TEXTCLIENT_ON_EVENT,The '%s' event is underway! Visit %s for event details!,L'évènement '%s' est en cours ! Visitez %s pour plus de détails !
+TEXTCLIENT_ON_EVENT_DESC,The '%s' event is underway! %s,L'évènement '%s' est en cours ! %s
+TEXTCLIENT_START_EVENT,The '%s' event has just started. Visit %s for event details!,L'évènement '%s' a commencé ! Visitez %s pour plus de détails !
+TEXTCLIENT_START_EVENT_DESC,The '%s' event has just started. %s,L'évènement '%s' a commencé ! %s
+TEXTCLIENT_END_EVENT,The '%s' event is over.,L'évènement '%s' est terminé.
+TEXTCLIENT_ARENA_DISABLED,Arena is not available on this channel.,L'arène n'est pas disponible sur ce canal.
+TEXTCLIENT_CREATEMON_F_15,Summoning should be used on players that are 15 meters or closer to you.,L'invocation doit être utilisée dans un rayon de 15m.
+TEXTCLIENT_CREATEMON_F_AREA,You can not summon there.,Vous ne pouvez pas invoquer à l'endroit sélectionné.
+TEXTCLIENT_CREATEMON_S,You have summoned %s.,Vous avez invoqué %s.
+TEXTCLIENT_PRIORITYSUMMONMOB,This monster was summoned by %s. You cannot attack it.,Ce monstre a été invoqué par %s. Vous ne pouvez pas l'attaquer.
+TEXTCLIENT_CREATEMON_LIMIT,You cannot summon anymore monsters. Please wait and try again.,Vous ne pouvez plus invoquer de monstres. Veuillez essayer plus tard.
+TEXTCLIENT_GETPKPOINT,You recovered your Karma points by %d.,Vous gagnez %d points de Karma.
+TEXTCLIENT_DECPKPOINT,%d Karma points have been reduced.,Vous perdez %d points de Karma.
+TEXTCLIENT_PK_MARKETNOUSE,You cannot use stores if your Karma grade is Vicious.,Votre Karma ne vous permet pas de visiter la boutique.
+TEXTCLIENT_PKDEAD,You have been slain by %s.,Vous avez été vaincu par %s.
+TEXTCLIENT_GETFAMEPOINT,You gained %d fame points.,Vous avez gagné %d points de Réputation.
+TEXTCLIENT_DECFAMEPOINT,You lost %d fame points.,Vous avez perdu %d points de Réputation.
+TEXTCLIENT_BANKWRONGPASS,Wrong password. Please try again.,Mot de passe erroné. Merci de bien vouloir réessayer.
+TEXTCLIENT_BANKFULL,The bank is full.,La banque est pleine.
+TEXTCLIENT_PK_LEVEL_GAP,Unable to duel. Level gap is more than 30.,Vous ne pouvez pas vous battre en duel avec plus de 30 niveaux d'écart.
+TEXTCLIENT_PK_SAFETY_NO,You cannot duel in a safety zone.,Vous ne pouvez pas vous battre en duel dans une zone de sécurité.
+TEXTCLIENT_PK_SAME_NO,You can duel only if the other player is in the same place as you.,Vous ne pouvez pas vous battre en duel si l'autre joueur ne se trouve pas dans la même zone.
+TEXTCLIENT_PK_CHANGEJOB_NO,You can only duel after your 1st job-change.,Vous ne pouvez pas vous battre en duel en tant que Vagabond.
+TEXTCLIENT_PK_PARTY_LIMIT,You cannot duel with party members.,Vous ne pouvez pas vous battre en duel avec les autres membres du groupe.
+TEXTCLIENT_PK_MODE_REJECT,The other player is in duel rejection mode.,Ce joueur n'est pas disposé à se battre en duel.
+TEXTCLIENT_DUELNO,%s refused to duel.,%s a refusé le duel.
+TEXTCLIENT_DUELSTART,Duel with %s started!,Le duel contre %s a commencé !
+TEXTCLIENT_DUELCANCEL,The duel has been cancelled.,Le duel a été annulé.
+TEXTCLIENT_PK_NO_IPARTYLEADER,You are not the Party leader.,Vous n'êtes pas le leader du groupe.
+TEXTCLIENT_PK_NO_UPARTYLEADER,The other member is not the Party leader.,L'autre membre n'est pas le leader du groupe.
+TEXTCLIENT_PK_NO_DUEL,You cannot duel with the other player currently.,Vous ne pouvez pas faire de duel avec l'autre joueur actuellement.
+TEXTCLIENT_PDSTART,Duel has started with %s party.,Le duel contre le groupe %s a commencé!
+TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.","Le duel en groupe de %s est terminé. Si vous entrez de nouveau en duel, vous serez pénalisé conformément aux règles du monde de Flyff."
+TEXTCLIENT_PDCANCEL,Duel has been cancelled.,Le duel a été annulé.
+TEXTCLIENT_PDVICTORY,You won the party duel.,Vous avez remporté le duel.
+TEXTCLIENT_PDLOSE,You lost the party duel.,Tu avez été vaincu en duel.
+TEXTCLIENT_DONOTUSE_SHOP,You cannot use that item while using Hair Stylist or Plastic Surgeon.,Vous ne pouvez pas utiliser cet objet dans le Salon de coiffure ou de l'Institut de beauté.
+TEXTCLIENT_CASHSHOP_NOACCOUNT,You cannot use the Flyff Shop without account. Please link an account.,Vous ne pouvez pas utiliser la Boutique Flyff sans compte. Veuillez lier un compte.
+TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,Ce produit n'est pas valide.
+TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,Impossible d'utiliser la Boutique Flyff car le serveur est hors ligne.
+TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,Vous n'avez pas assez d'argent pour acheter l'article. Rechargez votre compte avant d'acheter.
+TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,Vous avez atteint le nombre d'achats maximum par personnage pour cet objet.
+TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Erreur inconnue, veuillez réessayer."
+TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,"Merci pour votre achat ! Si l'inventaire est complet, veuillez faire de la place et vous reconnecter pour recevoir l'article."
+TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,Le joueur n'est pas valide et ne peut pas utiliser la Boutique Flyff.
+TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,L'opération prend trop de temps. Veuillez réessayer.
+TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ffJe suis ton père !#nc
+TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,#cff0000ffJe suis ta mère !#nc
+TEXTCLIENT_COMNOHAVECOM,Cannot cancel because you do not belong to a guild.,Impossible d'annuler car vous ne faites pas partie d'une guilde.
+TEXTCLIENT_COMDELNOKINGPIN,Only the guild leader can disband the guild.,Seul le maître de guilde est habilité à dissoudre la guilde.
+TEXTCLIENT_GUILDWARREQLV6,Your guild level has to be higher than 5 to declare a guild duel.,La guilde doit avoir atteint le niveau 6 pour déclarer une guerre.
+TEXTCLIENT_GUILDWARSTILLNOWAR,Unable to declare war during guild duel.,Vous ne pouvez pas déclarer une nouvelle guerre pendant une Guerre des Guildes en cours.
+TEXTCLIENT_GUILDWARNOTHINGGUILD,That Guild does not exist.,Cette guilde n'existe pas.
+TEXTCLIENT_GUILDWAROTHERLV6,Unable to declare a guild duel. Opposing guild level is below 6.,La guilde adverse doit avoir atteint le niveau 6 pour entrer en guerre.
+TEXTCLIENT_GUILDWARMASTEROFF,The opposing Guild Leader is offline.,Le maître de guilde adverse n'est pas connecté actuellement.
+TEXTCLIENT_GUILDWARMEMBER10,The opposing guild must have at least 10 members.,La guilde adverse doit comporte plus de 10 membres pour entrer en guerre.
+TEXTCLIENT_GUILDWAROTHERWAR,The other guild is already participating in a guild duel.,La guilde adverse est déjà engagé dans une Guerre des Guildes.
+TEXTCLIENT_GUILDWARDECLINED,Opposing guild leader declined the duel.,Le chef de guilde opposé a refusé le duel.
+TEXTCLIENT_GUILDWARNOFINDGUILD,Cannot find the guild that declared a guild duel.,Impossible de trouver la guilde ayant déclaré une Guerre des Guildes.
+TEXTCLIENT_PK_NOFLIGHT_DURING,You cannot duel when only one player is flying.,Vous ne pouvez pas vous battre en duel en situation de vol.
+TEXTCLIENT_GUILDWARERRORDUEL,You cannot duel during a guild duel.,Vous ne pouvez pas vous battre en duel pendant une Guerre des Guildes.
+TEXTCLIENT_GUILDWARSTART,A guild duel has started between %s Guild and %s Guild.,Une Guerre des Guildes a démarré entre %s et %s.
+TEXTCLIENT_GUILDWARSTILL,A guild duel between %s Guild and %s Guild is in progress.,Une Guerre des Guildes entre %s et %s est en cours.
+TEXTCLIENT_GUILDWARDOING,You are at war with another guild.,Vous êtes déjà en guerre avec une autre guilde.
+TEXTCLIENT_SHOUTAGREE,Shout messages allowed,Crier les messages est autorisés
+TEXTCLIENT_SHOUTREFUSE,Shout messages refused,Crier les messages n'est plus autorisés
+TEXTCLIENT_GUILDWARWIN_MASTER,A Guild Leader has been killed!,Le maître de guilde a été vaincu !
+TEXTCLIENT_GUILDWARWIN_GIVEUP,Victory! Opponent guild has conceded.,La guilde adverse a abandonné la guerre.
+TEXTCLIENT_GUILDWARWIN_TIMEUP,Victory by default!,Victoire !
+TEXTCLIENT_GUILDWARWIN_KILLNUM,Victory due to number of opponents killed!,De nombreux joueurs de la guilde adverse ont été tués .
+TEXTCLIENT_GUILDWARWIN,The guild duel between %s and %s has finished. The Guild %s has won. %s.,La Guerre entre %s et %s a été remportée par %s ! %s.
+TEXTCLIENT_GUILDWARPEACE,%s and %s have agreed to a truce.,Un cessez-le-feu a été conclu entre les guildes %s et %s.
+TEXTCLIENT_GUILDWARDRAW,The guild duel between %s and %s resulted in a tie.,La Guerre des Guildes entre %s et %s s'est conclue par un match nul.
+TEXTCLIENT_GUILDWARNOETC,You are either not participating in a guild duel or have already given up.,"Vous ne participez pas à une Guerre des Guildes actuellement, ou avez déjà abandonné."
+TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s de la guilde %s a abandonné la guerre.
+TEXTCLIENT_GUILDWARPEACEDECLINED,Opposing guild declined the truce.,La guilde adverse a refusé la trêve.
+TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.","Un guerrier de %s Guild,%s, a été tué."
+TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same time.,Vous ne pouvez pas utiliser une Morph et une Elytre en même temps.
+TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,Vous avez déjà utilisé cet objet précédemment. Réessayez quand ses effets se seront dissipés.
+TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,Le nom de %s a déjà été gravé dans l'anneau. Offrez-le à votre bien-aimé(e).
+TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,Le nom de %s a été gravé dans l'anneau. Offrez-le à votre bien-aimé(e).
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,Le joueur dont le nom est gravé sur cette bague n'est pas en ligne.
+TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,Vous ne pouvez pas aller à %s d'ici.
+TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,Vous ne pouvez pas utiliser la bague d'osiris en volant.
+TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,cet objet ne peut être utilisé que sur des armes et armures.
+TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,Voulez-vous appliquer une amélioration des statistiques aléatoire à l'élément suivant?\n%s
+TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,Cela remplacera la précédente amélioration des statistiques qui a été appliquée. Voulez-vous continuer?
+TEXTCLIENT_RANDOMSCROLL_SUCCESS,%s has been enchanted with %s +%d.,%s a reçu %s+%d.
+TEXTCLIENT_STATE_NOTUSE,You cannot use %s,Vous ne pouvez pas utiliser %s.
+TEXTCLIENT_TRADE_NOTUSE,Trading,Commence
+TEXTCLIENT_TRADE_NOTUSE1,Because the person is trading.,car le joueur réalise un échange.
+TEXTCLIENT_DIE_NOTUSE,If the person is dead,Mort
+TEXTCLIENT_DIE_NOTUSE1,Because the person is dead,car le joueur a perdu la vie
+TEXTCLIENT_VENDOR_NOTUSE,On opening a private shop,Boutique privée
+TEXTCLIENT_VENDOR_NOTUSE1,Because the person is on opening a private shop,car le joueur a ouvert une boutique privée
+TEXTCLIENT_ATTACK_NOTUSE,In Combat,Combat
+TEXTCLIENT_ATTACK_NOTUSE1,Because the person is in combat.,car le joueur est en combat
+TEXTCLIENT_FLY_NOTUSE,On flying,ceci en vol
+TEXTCLIENT_FLY_NOTUSE1,Because the person is flying.,car le joueur est en train de voler
+TEXTCLIENT_DUEL_NOTUSE,In Duel,en Duel
+TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,Parce que la personne est en duel.
+TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,Évènement
+TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,Sur Kebaras
+TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,cet objet n'est pas utilisable sur vous-même.
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s n'est pas connecté.
+TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,Ce joueur n'est pas votre ami ou est bloqué.
+TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,Vous ne pouvez pas invoquer %s.
+TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,Vous ne pouvez pas accepter %s.
+TEXTCLIENT_WORLD_NOTUSE,Because you are in different areas,Parce que vous êtes dans des zones différentes 
+TEXTCLIENT_DUNGEON_NOTUSE,Because you are in a dungeon,car vous êtes dans un donjon.
+TEXTCLIENT_SUMMONFRIEND_CONFIRM,You have asked to summon %s,Vous avez invoqué %s
+TEXTCLIENT_SUMMON_FRIEND_CANCEL,%s has cancelled the summon.,%s a annulé l'invocation.
+TEXTCLIENT_SUMMONFRIEND_NOITEM,You don't have %s. You cannot summon %s.,Vous n'avez pas %s et ne pouvez donc pas invoquer %s.
+TEXTCLIENT_SUMMON_SUCCESS1,You are summoned to %s,Vous êtes invoqué à %s.
+TEXTCLIENT_SUMMON_SUCCESS,%s is summoned,%s est invoqué.
+TEXTCLIENT_SUMMONPARTY_NOTTIME,You can not go.,Vous ne pouvez pas bouger pendant la durée de l'invocation.
+TEXTCLIENT_TROUPECREATE,Only the party leader can use this function.,Seul le leader du groupe est habilité à utiliser cette fonction.
+TEXTCLIENT_ITEM_TRANSY,This item is not available. Please input another item.,cet objet n'est pas disponible. Veuillez utiliser un autre objet.
+TEXTCLIENT_ITEM_TRANSY_NOT_LEVEL,Only %d-%d level items are usable.,Vous pouvez seulement utiliser les objets de niveau %d à %d.
+TEXTCLIENT_ITEM_TRANSY_SUCCESS,The change from %s to %s was successful.,Le changement de %s à %s a réussi.
+TEXTCLIENT_GUILDCREATE,Only the guild master can use this function.,Seul le maître de guilde peut utiliser cette fonction.
+TEXTCLIENT_CHANGENAME,Player name successfully changed.,Le personnage a été renommé avec succès.
+TEXTCLIENT_MAP_MARK_MAX_NUMBER,You can't save your position any more. Please arrange your saved postion first and try again.,Vous ne pouvez plus enregistrer votre position. Veuillez d'abord fixer votre position enregistrée et réessayer.
+TEXTCLIENT_UPGRADE_ERROR_NOUNICK,You cannot upgrade a unique item.,Vous ne pouvez pas enchanter un objet unique.
+TEXTCLIENT_NOTEQUALELEM,The attribute of %s and the applied attribute of the item are not the same.,L'enchantement de %s et l'enchantement appliqué sur l'objet sont différents.
+TEXTCLIENT_NOTELEMENT,The attribute has not been applied to the selected item. Please finish the attribute refining first.,L'enchantement n'a pas été appliqué sur l'objet. Veuillez d'abord terminer l'opération d'enchantement.
+TEXTCLIENT_ALREADYELEM,Charge attribute has already been applied.,Cet enchantement a déjà été appliqué.
+TEXTCLIENT_REMOVEELEMENT,The attribute of the selected item has been deleted.,L'enchantement de l'objet sélectionné a été supprimé.
+TEXTCLIENT_CHATSAMETEXT,Unable to enter the same sentence twice in a row.,Vous ne pouvez répéter la même phrase deux fois de suite.
+TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to chat spam limitations.,Le dernier message n'a pas pu être transmis en raison des limitations du spam de chat.
+TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),Messages locaux bloqués. (Temps restant: %d min %d s)
+TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,"Sur une période de 60 secondes, vous ne pouvez crier que 5 fois."
+TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,Crier avec le hurlement n'est autorisé qu'une fois toutes les 2 minutes.
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,Seul le maître de guilde peut faire une offre de participation.
+TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Fin des inscriptions pour la Guerre des Guildes !
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,"Pour participer à la Guerre des Guildes, la guilde doit avoir atteint le niveau %d."
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,La particiation à la Guerre des Guildes vous coûtera au moins %d Penyas.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,Il vous en coûtera %d penya pour postuler au siège.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Vous pouvez participez à la Guerre des Guildes une fois la contribution payée.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,"Votre ancienne offre est de %d penya, et vous avez ajouté %d penya à votre offre."
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Vous vous êtes inscrit avec succès à la Guerre des Guildes ! La préparation des équipes se déroule le samedi à partir de 17h.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,"Si votre participation est retenue, vous aurez alors une heure pour composer votre équipe auprès de Franky."
+TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Vous ne pouvez pas l'utiliser maintenant.
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Vous n'êtes pas inscrit à la Guerre des Guildes.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,Une partie de l'offre de participation est remboursée si vous n'êtes pas qualifiés pour participer à la Guerre des Guildes. 
+TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,La Guerre des Guildes que tu as rejointe a été annulée.
+TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Abandon de la Guerre des Guildes
+TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,Bonjour. Je suis un gestionnaire de guilde nommé Donaris.\nJe vais vous rembourser en raison de votre annulation. J'ai déduit 20% de commission.\nBonne journée!
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Amusez-vous !
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","Félicitations, vous êtes qualifié pour participer à la Guerre des Guildes ! Terminez la composition de votre équipe auprès de Franky à Flarine."
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","Dommage, vous n'êtes pas qualifié pour participer à la Guerre des Guildes... Quand l'affrontement sera terminé, retournez voir Donaris à Flarine pour récupérer une partie de votre offre de participation."
+TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,La Guerre des Guildes débute dans un instant ! Vous serez automatiquement téléporté à Flarine d'ici %d s.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","Désormais, Franky à Flarine peut vous laisser entrer dans l'arène du siège de guilde."
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.",La composition des équipes pour la Guerre des Guildes a commencé !
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,Phase de constitution des équipes et de préparation à la Guerre des Guildes :
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Le Siège de Guilde commence dans
+TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,Fin de la guerre dans 
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Vous allez être téléporté à Flaris dans :
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,Les inscriptions à la Guerre des Guildes sont ouvertes.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.",Vous ne pouvez plus modifier la composition de l'équipe.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.",Vous n'êtes pas inscrit à la Guerre des Guildes ou avez pas été qualifié pour y participer.
+TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,Le nombre %d de personnes a été dépassé.
+TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Votre guilde doit avoir atteint le niveau %d pour participer.
+TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Enregistrez-vous à nouveau.
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Le maître de guilde ne peut pas être choisi comme défenseur.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,Le Maître de guilde ou le Général doivent faire partie de l'équipe. 
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Choisissez un défenseur.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Choisissez les membres de l'équipe.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,La Guerre des Guildes aura lieu cette semaine.
+TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Merci de vous joindre d'ici un moment.
+TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Préparatifs en cours
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Un Vagabond ne peut pas participer à la Guerre des Guildes.
+TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Bienvenue à la Guerre des Guildes.
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,Préparez-vous au combat !
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.","Soyez victorieux pour l'honneur de votre guilde ! En tant que maître de guilde, un bonus vous sera attribué pour tout adversaire vaincu."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.","Soyez victorieux pour l'honneur de votre guilde ! En tant que défenseur, un bonus sera attribué à votre adversaire s'il parvient à vous vaincre."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.",Soyez victorieux pour l'honneur de votre guilde ! Un bonus vous sera attribué pour tout défenseur vaincu.
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!","Félicitations, vous avez reçu la carte de la guilde !"
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,La Guerre des Guildes débutera dès la fin de la maintenance. Préparez vous au combat !
+TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Commencer la guerre
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Le maître de guilde a gagné %d points !
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,Votre guilde a gagné %d points !
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Votre défenseur a été vaincu par la guilde %s !!
+TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,Vous devez être connecté sur le canal 1 pour accéder au siège de guilde.
+TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,La Guerre des Guildes est terminée.
+TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,La guilde victorieuse cette semaine est: %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,Le meilleur joueur (MVP) est: %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Félicitations !
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Début de la Guerre des Guildes dans
+TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Vous ne pouvez pas inviter un joueur à rejoindre la guilde pendant la Guerre des Guildes.
+TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,Il est impossible de dissoudre une guilde inscrite à la Guerre des Guildes.
+TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Vous ne pouvez pas céder votre statut de maître de guilde pendant la Guerre des Guildes.
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,Impossible d'utiliser la fonction de gestion des membres pendant le siège de guilde.
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,Vous ne pouvez pas changer le logo de votre guilde pendant le siège de guilde.
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,Vous ne pouvez pas changer le nom de votre guilde pendant le siège de guilde.
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Impossible de déclarer la guerre pendant le siège de guilde.
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,Vous ne pouvez pas utiliser d'objets ici.
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,Vous ne pouvez pas utiliser de compétences ici.
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,Vous ne pouvez pas enchanter d'objets ici.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,Vous ne pouvez pas crier ici.
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,Ceci n'est pas possible pendant une Guerre des Guildes.
+TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Remboursement d'un échec d'offre pour la Guerre des Guildes 
+TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,"Bien le bonjour ! \nMalheureusement tu n'as pas été retenu pour la Guerre des Guildes, c'est bien dommage pour toi !\nJe vais donc te rendre tes Penyas mais... j'ai déduit ma petite commission de 2%, héhé.\nRetente ta chance la prochaine fois, bonne journée !"
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.","Vous avez déjà reçu la récompense du MVP, ou n'êtes pas habilité à la recevoir."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.","Étant donné que le montant dépasse la pénalité de l'inventaire après avoir ajouté le prix du siège de guilde, veuillez demander de remettre le prix à un GM sur le site Web. Désolé pour l'incommodité."
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,Vous avez reçu %d penya en tant que MVP. Félicitations !!!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",Vous avez déjà reçu la récompense ou n'êtes pas habilité à la recevoir.
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,Vous avez reçu %d penya comme prix pour le siège de guilde. Toutes nos félicitations !!!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Vous avez reçu %d penya moins le montant que vous avez payé pour la demande.
+TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Vous ne pouvez pas utiliser ceci lors d'une transaction.
+TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Ce compte a été suspendu. Contactez le support Flyff pour plus d'information.
+TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Vous ne pouvez pas y aller par ce chemin.
+TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,Votre compte n'est pas vérifié. Veuillez vérifier votre boîte mail.
+TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,Ce personnage est temporairement bloqué et ne peut pas être sélectionné. Contactez le support FlyFF pour obtenir de l'aide.
+TEXTCLIENT_RECONNECT_QUESTION,Do you want to try to reconnect?,Voulez-vous essayer de vous reconnecter ?
+TEXTCLIENT_ROSHAMBO_STARTGUID1,You need a Rock-Paper-Scissors Coupon in order to play.,Vous pouvez jouer en utilisant un Coupon du Jeu du Flyffoumi.
+TEXTCLIENT_MINIGAME_USING,You are playing a game now!,Le jeu a commencé !
+TEXTCLIENT_MINIGAME_ITEM_POST,Item / Penya was sent to your mailbox.,La récompense a été envoyée par courrier car votre inventaire est plein.
+TEXTCLIENT_ERROR_TRYLATER,Please try again later,Veuillez réessayer plus tard
+TEXTCLIENT_ERROR_LACKITEM,You don't have the right item.,Il vous manque certains objets !
+TEXTCLIENT_EXCHANGE_SUCCESS,You have received %s x%d.,Vous avez obtenu : %s x%d
+TEXTCLIENT_REAPITEM_EVENT,You have received %s as a reward!,%s est offert en cadeau.
+TEXTCLIENT_DISCONNECTED_CHEAT,"You have been disconnected from server due to abnormal detected activity. A GM will analyse the report and may decide to ban your account. If you think this is an error, please fill out a bug report indicating exactly what you were doing in game before this message. Thank you.","Vous avez été déconnecté du serveur en raison d'une activité anormale détectée. Un MJ examinera le rapport et pourrait décider de bannir votre compte. Si vous pensez qu'il s'agit d'une erreur, veuillez remplir un rapport de bug indiquant exactement ce que vous faisiez dans le jeu avant ce message. Merci."
+TEXTCLIENT_DISCONNECTED_HACK,Your character has been banned because the system detected a cheating software. A partial copy of your client memory has been stored as legal proof. You can create a new character and stop using any external tool. Thank you.,Votre personnage a été banni car le système a détecté un logiciel de triche. Une copie partielle de votre mémoire client a été stockée comme preuve légale. Vous pouvez créer un nouveau personnage et cesser d'utiliser tout outil externe. Merci.
+TEXTCLIENT_CASHMAP_MAPITEMUSE,"If you use the torch, you will be able to see this map. Continue?","Si vous utilisez la torche, la carte sera révélée mais la torche disparaitra. Continuer ?"
+TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,Un familier est déjà invoqué.
+TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Votre mauvais Karma vous empêche de voler !
+TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Info] C'est un test! Le serveur fermera dans %s et les personnages seront supprimés.
+TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Attention] Le jeu est en accès anticipé ! Des instabilités serveur et bugs peuvent survenir.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Info] Un MJ (Maître du Jeu) ne vous demandera jamais vos identifiants de compte.
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Info] Ne prêtez pas et ne laissez pas un joueur emprunter vos items. S'ils ne rendent pas l'item, il est perdu à jamais."
+TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Vous êtes trop éloigné de la cible.
+TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s est sur une lancée meurtrière !
+TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s est déchaîné !
+TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%s est inarrêtable !
+TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,%d minute(s) restantes pour tuer le boss.
+TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s a vaincu le boss %s !
+TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s de la guilde %s a tué le %s !
+TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,%d minute(s) restantes pour récupérer les objets tombés
+TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,Un vagabond ne peut pas entrer dans l'arène.
+TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,Veuillez d'abord sortir de l'arène.
+TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,Vous ne pouvez utiliser la téléportation de l'arène que toutes les 3 minutes.
+TEXTCLIENT_CHANGE_FACE,Change your Appearance.,Prix de la chirurgie
+TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,Effectuer le relooking ?
+TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%s doit attendre %s avant de pouvoir rejoindre le donjon à nouveau.
+TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,Vous avez perdu %s penya (total : %s penya).
+TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,Vous ne pouvez pas faire cela pendant un duel.
+TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,Vous pouvez utiliser cet objet pour une Amélioration de Carte auprès du Maître des Cartes.
+TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,Amélioration réussie !
+TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,L'amélioration de carte à échoué...
+TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,L'amélioration de carte a échoué. %d cartes vont être détruites.
+TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,Vous avez reçu %s.
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Conversion réussie !
+TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s a augmenté le nombre maximal de membres de la guilde de 5 !
+TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Le signalement a été envoyé.
+TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,Vous devez attendre avant de signaler ce joueur à nouveau.
+TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,Succès
+TEXTCLIENT_ACHIEVEMENT_CLAIMSUCCESS,Successfully claimed,Réclamé avec succès
+TEXTCLIENT_ACHIEVEMENT_CLAIMNOTHING,You have nothing to claim,Vous n'avez rien à recevoir
+TEXTCLIENT_ACHIEVEMENT_LEVELREACH,"You reached level %d of achievement ""%s""","Vous avez atteint le niveau %d du succès ""%s"""
+TEXTCLIENT_ACHIEVEMENT_COMPLETE,"You completed ""%s""","Vous avez obtenu le succès ""%s"""
+TEXTCLIENT_ACHIEVEMENT_TITLEUNLOCK,You unlocked title [%s],"Titre débloqué : ""%s"""
+TEXTCLIENT_PARTYMESSAGEERROR3,Your party is already level 40. You cannot use this item.,Votre groupe est déjà niveau 40 !
+TEXTCLIENT_PARTYALREADYPERMANENT,The party is already permanent.,Le groupe est déjà permanent.
+TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatically ejected when they are offline.,Le groupe est désormais permanent ! Ses membres ne seront plus expulsés automatiquement s'ils se déconnectent.
+TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,Vous ne pouvez attaquer ce monstre que durant la quête %s.
+TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,Vous ne disposez pas de suffisamment de Parchemins de Protection.
+TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,Vous ne disposez pas de suffisamment de Matériaux d'Amélioration.
+TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,Vous ne disposez pas de suffisamment de Penyas.
+TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,Les Matériaux d'Amélioration sont incorrects.
+TEXTCLIENT_UPGRADESAFE_NOMINERAL,You need at least #b%d#nb additional %s.,Vous avez besoin d'au moins #b%d#nb %s supplémentaires.
+TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,Le mode d'attribution d'expérience du groupe est désormais %s.
+TEXTCLIENT_PARTY_CHANGEITEM,Party Distribute Item changed to %s.,Le mode de distribution d'objets du groupe est désormais %s.
+TEXTCLIENT_JOIN_GROUP_APPROVAL,Please wait for Leader Approval.,Veuillez attendre l'approbation du Leader.
+TEXTCLIENT_JOIN_GUILD_APPROVAL,Please wait for Master Approval.,Veuillez attendre l'approbation du Maître.
+TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%s a refusé que vous rejoigniez son groupe.
+TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%s a refusé que vous rejoigniez sa guilde.
+TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,Cette compétence ne peut être utilisée en vol.
+TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,Bande de fous ! Je vous brûlerai tous !
+TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,Vous allez brûler ! Vous brûlerez tous !
+TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,"%s ! Approche-toi... Fais moi face, et brûle !"
+TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,Tu pensais que j'étais seul ?!
+TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,Impossible d'annuler ce buff actuellement.
+TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,Le buff a été annulé.
+TEXTCLIENT_ERROR_SNATCH,No Penya to steal from this target.,Aucun penya à voler à cette cible.
+TEXTCLIENT_ERROR_ITEM_ACCESSLEVEL,You don't have the required access to use this item.,Vous n'avez pas les permissions requises pour utiliser cet objet.
+TEXTCLIENT_ERROR_CATCHERPRIORITY,You can only kill and collect one Catcher at a time.,Vous ne pouvez tuer et collecter qu'un seul Catcher à la fois.
+TEXTCLIENT_MAX_COLLECTOR_LEVEL,Collector can be upgraded up to +5.,Le collecteur peut être amélioré jusqu'à +5.
+TEXTCLIENT_MAX_HARVEST_LEVEL,Harvesting gloves can only be upgraded up to +5.,Les gants de récolte ne peuvent être améliorés que jusqu'à +5.
+TEXTCLIENT_CAN_JOIN_GUILD,You can already join a guild.,Vous pouvez déjà rejoindre une guilde.
+TEXTCLIENT_CAN_REJOIN_GUILD,You can join a guild now.,Vous pouvez rejoindre une guilde.
+TEXTCLIENT_NEED_PET,You must summon a pet first.,Vous devez d'abord invoquer un familier.
+TEXTCLIENT_CHANGENAME_PET,Pet name successfully changed.,Le nom du familier a été changé.
+TEXTCLIENT_PET_SKILL_NOUSE,Your pet must have at least %d energy and a full progress bar to use the skill.,Votre familier doit avoir au moins %d énergie et une barre de progrès remplie pour utiliser cette compétence.
+TEXTCLIENT_PET_SKILL_HASBUFF,The skill is already active.,Cette compétence est déjà active.
+TEXTCLIENT_REAPMONEY_SHORT,Received %s Penya - Total %s,Vous avez reçu %s Penya - Total : %s
+TEXTCLIENT_REAPITEM_SHORT,Received %s,Vous avez reçu %s
+TEXTCLIENT_TROUPEREAPITEM_SHORT,%s received %s,%s a reçu %s
+TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,Maintenance dans %s
+TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,La maintenance a été annulée
+TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,Le prix de %s% ne peut excéder %s% Penya.
+TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,La boutique de votre Marchand a été ouverte.
+TEXTCLIENT_VENDOR_SHOP_CLOSE,Your Vendor Shop has been closed.,La boutique de votre Marchand a été fermée.
+TEXTCLIENT_VENDOR_SHOP_NOTOWN,You cannot purchase items from your own Vendor.,Vous ne pouvez pas acheter d'articles de votre propre boutique.
+TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your inventory and login again.,Vous avez %d objets prêts à être reçus. Veuillez libérer de la place dans votre inventaire et vous reconnecter.
+TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,Cet objet est marqué comme Favori.
+TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,Vous utilisez déjà 2 sacs supplémentaires.
+TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,Votre inventaire est désormais agrandi.
+TEXTCLIENT_APP_EXTRABAG,Inventory View,Vue d'inventaire
+TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,Vous devez vous faire tuer par quelqu'un pour créer une prime.
+TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,Prime enregistrée.
+TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,Vous devez attendre avant de placer une prime sur ce joueur.
+TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s est actuellement hors ligne.
+TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,Votre inventaire est élargi de %d emplacements !
+TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s a amélioré %s à %s+%d !
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s a amélioré [Lié] %s à %s+%d!
+TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s a atteint le niveau %d !
+TEXTCLIENT_APP_GACHA,Gacha,Gacha
+TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,La boîte a été remise à zéro.
+TEXTCLIENT_APP_BOT,Bot,Bot
+TEXTCLIENT_SKILL_AWAKE,Item received a bonus.,L'objet a reçu un bonus.
+TEXTCLIENT_SKILL_AWAKE_FAILED,No bonus is available for this item.,Aucun bonus n'est disponible pour cet item.
+TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,Cela n'est pas approprié
+TEXTCLIENT_ITEM_LEVELDOWN_ALREADY,Better effect has already been activated.,Un effet plus puissant est déjà présent.
+TEXTCLIENT_UNBINDING,The item is now tradable.,L'objet est désormais échangeable.
+TEXTCLIENT_EXPSTOP_EMPTY,Reload the Experience Lock gauge first.,Rechargez d'abord la jauge de verrouillage d'Exp.
+TEXTCLIENT_EXPSTOP_STOP,You receive experience from monsters now!,Vous recevez désormais de l'expérience des monstres.
+TEXTCLIENT_EXPSTOP_START,Your experience is now locked.,Votre expérience est désormais bloquée.
+TEXTCLIENT_EXPSTOP_ALMOST,Your Experience Lock gauge is almost empty.,Votre jauge de verrouillage d'expérience est presque vide.
+TEXTCLIENT_EXPSTOP_ACTIVE,You don't receive experience because Experience Lock is active.,Vous ne recevez pas d'expérience car le verrouillage d'expérience est actif.
+TEXTCLIENT_EXPSTOP_RELOAD,Your Experience Lock gauge is now %d.,Votre jauge de verrouillage d'expérience est désormais à %d.
+TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please refresh in a few seconds.,Le classement d'arène est en chargement. Veuillez actualiser dans quelques instants.
+TEXTCLIENT_ARENA_RANKING_WINNER,The best player of the Arena this week is %s!,Le meilleur joueur de l'Arène cette semaine est %s !
+TEXTCLIENT_ARENA_RANKING_MAIL,Congratulations for your rank %d in the PvP Arena this week!,Félicitations pour avoir atteint le rang %d à l'Arène cette semaine !
+TEXTCLIENT_QUEST_NOTELEPORT,Blinkwings are not allowed during the quest %s.,Les Élytres ne sont pas autorisées durant la quête %s.
+TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,Vous avez trouvé un(e) %s !
+TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s a trouvé un(e) %s !
+TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,Cet objet ne peut pas être Béni ou l'est déjà.
+TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,L'objet a été éveillé avec succès.
+TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,Ceci ne peut être utilisé que sur les objets ayant été Bénis par la Déesse.
+TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,La Bénédiction de la Déesse a été retirée. L'objet peut être à nouveau Béni.
+TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,Voici un cadeau comme tu ne t'es pas connecté depuis longtemps !
+TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,Trop d'objets sont déjà au sol.
+TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,Vous avez créé %dx %s.
+TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,La création du joyau a échoué...
+TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,Félicitations pour avoir atteint le rang %d (%s) dans le classement de puissance de combat !
+TEXTCLIENT_PVPLIMIT,This PvP kill is not counted because you already fought together a little while ago.,"Cette victoire PvP ne sera pas comptée, parce que vous avez combattu ce joueur récemment."
+TEXTCLIENT_GEM_WRONG,Please use the correct Jewel for the weapon.,Veuillez utiliser le joyau approprié pour cette arme.
+TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,La transformation en Arme Unique a réussi !
+TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,La transformation en Arme Unique a échoué...
+TEXTCLIENT_BOUNTY_OTHERCHANNEL,The player is currently in a different channel.,Ce joueur est actuellement dans un canal différent.
+TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,Ce joueur est actuellement dans une zone protégée.
+TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,Vous êtes déjà très proche de cet endroit !
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,Félicitations pour avoir atteint le rang %d dans le classement de Chasse aux Géants !
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,Félicitations pour avoir atteint %d points dans le classement de Chasse aux Géants !
+TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,Vous avez obtenu %d points de Chasse au Géant (total : %d) !
+TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,"Vous ne pouvez pas faire d'achats maintenant, car une maintenance est programmée pour dans quelques instants."
+TEXTCLIENT_CTRLRECOVERY,You found a HP container!,Vous avez trouvé un récipient de PV !
+TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,Les récompenses ont été reçues.
+TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,Vous avez reçu %s fCoins bonus.
+TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,Cette arme n'a pas d'effet d'amélioration.
+TEXTCLIENT_UPGRADEEFFECT,Upgrade effects are changed for this weapon.,Les effets d'amélioration de cette arme ont été changés.
+TEXTCLIENT_INVALIDOTP,Invalid Two Factor authentication code.,Mauvais code d'authentification en 2 étapes.
+TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,Vous n'avez pas réussi le défi. Veuillez réessayer.
+TEXTCLIENT_SERVERCLOSED,The game is in maintenance. Please wait.,Le jeu est en maintenance. Veuillez attendre.
+TEXTCLIENT_PRIVATE_SHOP_LEVEL,You must complete your 1st Job Change to open a Private Shop.,Vous devez atteindre votre première classe afin d'ouvrir une Boutique Personnelle.
+TEXTCLIENT_VENDOR_SHOP_LEVEL,You must reach level %d to open a Vendor Shop.,Vous devez atteindre le niveau %d pour utiliser une boutique gérée.
+TEXTCLIENT_CANT_CHAT_LEVEL,Guest Characters under Level %d cannot use the chat.,Les personnages invités ayant un niveau inférieur à %d ne peuvent pas utiliser le chat.
+TEXTCLIENT_CANT_CHAT_LEVEL2,Characters under Level %d cannot use the chat.,Les personnages de niveau inférieur à %d ne peuvent pas utiliser le chat.
+TEXTCLIENT_TOOMANYREQUESTS,Too many requests. Please try again later.,Trop de requêtes détectées. Veuillez réessayer plus tard.
+TEXTCLIENT_PLAYERDISCONNECTED,Player %s disconnected.,Le joueur %s s'est déconnecté.
+TEXTCLIENT_ERROR_CATCHERLEVEL,You must complete your 1st Job Change to attack this monster.,Vous devez terminer votre premier changement de classe pour attaquer ce monstre.
+TEXTCLIENT_ERROR_RESURRECTPK,You can only be resurrected on a PK channel.,Vous ne pouvez être ressuscité que dans un canal PK.
+TEXTCLIENT_GUILD_ADDBAG,%s expanded the guild bank!,%s a augmenté la taille du coffre de guilde !
+UI_CASHSHOP_MAXPURCHASE,Maximum amount of purchases per character: %d,Nombre d'achats maximum par personnage : %d
+TEXTCLIENT_LEADERSHIPOFF,Cannot transfer Leadership to offline player.,Seul un joueur en ligne peut être nommé chef de groupe.
+TEXTCLIENT_PET_NOTFOUND,You do not have a summoned pet.,Le familier doit être invoqué pour utiliser cet objet.
+TEXTCLIENT_PET_USEFEED,You have used %d pet candy.,Vous avez utilisé %d bonbons pour familiers.
+TEXTCLIENT_PET_HATCH,Bring your Pet to the Pet Tamer to upgrade it!,L'expérience de votre familier a atteint son maximum. Retournez voir l'éleveur de familiers pour qu'il le fasse évoluer.
+TEXTCLIENT_PET_WRONGCANDY,You must use the correct Pet Candy to feed your pet.,Vous devez utiliser le bonbon de familier correct pour nourrir votre familier.
+TEXTCLIENT_PET_HATCH_CONF,Turns an egg into a D Level pet. Pet class will be decided at random.,Transforme un œuf en un familier de niveau D. La classe du familier sera choisie aléatoirement.
+TEXTCLIENT_PET_REQEGG,Use on your egg.,Cet objet ne peut être utilisé que sur un œuf.
+TEXTCLIENT_PET_REROLL_TIER,The tier of the pet must be higher or equal.,La classe du familier doit être supérieure ou égale.
+TEXTCLIENT_PET_REROLL_ALREADY,Your pet already has the maximum level possible.,Votre familier est déjà au niveau maximum possible.
+TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!",Votre familier a obtenu un niveau !
+TEXTCLIENT_PET_REROLL_LOWER,"You rolled the same or a lower level, so nothing changed.","Vous avez obtenu le même niveau ou un niveau inférieur, donc rien n'a changé."
+TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,La barre d'énergie est déjà pleine.
+TEXTCLIENT_PET_NOTEGG,Cannot use on egg.,Vous ne pouvez pas utiliser cet objet sur un œuf.
+TEXTCLIENT_PET_TRANSMUTE,Your pet has got a new appearance!,Votre familier a obtenu une nouvelle apparence !
+TEXTCLIENT_GUILDCOMBAT_REDCHIPS,%d Red Chips have been sent to your inventory or mail box.,%d Jetons Rouges ont été déposés dans votre inventaire ou vous ont été envoyés par courrier.
+TEXTCLIENT_PET_TRANSMUTE_CONF,Your pet will get a new appearance. Do you want to continue?,Votre familier changera d'apparence. Voulez-vous continuer ?
+TEXTCLIENT_ITEM_TRANSMUTE_SUCCESS,You have transmuted your item!,Vous avez transmuté votre objet !
+TEXTCLIENT_ITEM_TRANSMUTE_INCOMPATIBLE,These items are not compatible for transmutation.,Ces objets ne sont pas compatibles pour la transmutation.
+TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,La transmutation a été supprimée.
+TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,Cet objet a été ajouté à votre penderie.
+TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,Impossible de déclarer de guerre sur ce canal.
+TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Battle Pass
+TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,Mission de %s %s terminée.
+TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,Vous avez reçu %d points de %s.
+TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,La saison de %s a été remise à zéro !
+TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,Vous avez atteint le niveau de %s %d !
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,You reached the %s bonus grade %d+%d!
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,La saison de Battle Pass est terminée.
+TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Merci d'avoir acheté le %s étendu !
+TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Achetez le %s étendu pour recevoir plus de récompenses !
+TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Seuls les personnages de niveau 80 ou moins peuvent s'inscrire à la Guerre de Guildes niv. 80.
+TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Seuls les personnages n'ayant pas terminé leur deuxième avancement de classe peuvent participer à la Guerre de Guildes niv. 60.
+TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,La Guerre de Guildes niv. 80 aura lieu cette semaine.
+TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,La Guerre de Guildes niv. 60 aura lieu cette semaine.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,La Guerre de Guildes niv. 80 est terminée.
+TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,La Guerre de Guildes niv. 60 est terminée.
+TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s ont été envoyés dans votre inventaire ou boîte aux lettres.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",La Guerre de Guildes niv. 80 est désormais ouverte. Parlez à Atlas à Flarine.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",La Guerre de Guildes niv. 60 est désormais ouverte. Parlez à Olivia à Flarine.
+TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,Une autre Guerre de Guildes est en cours.
+TEXTCLIENT_SKILL_ROOT,You cannot move right now.,Vous ne pouvez pas bouger pour l'instant.
+TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s est tombé !
+TEXTCLIENT_EVENT_REQGUILD,You should join a Guild to participate to the event!,Vous devriez rejoindre une guilde pour participer à cet évènement !
+TEXTCLIENT_GUILD_WORLDCUP_POINTS,%s brought %d GET'EM B'ALL points to the Guild (Total: %d)!,%s a apporté %d points FOU DU BALLON à la Guilde (total : %d) !
+TEXTCLIENT_WORLDCUP_RANKING_MAIL,Congratulations for your rank %d in the GET'EM B'ALL ranking!,"Félicitations, vous avez atteint le rang %d dans le classement FOU DU BALLON !"
+TEXTCLIENT_REMOVEPIERCING_NOSELECTION,You need to select a card to remove !,Vous devez sélectionner une carte à retirer !
+TEXTCLIENT_REMOVEPIERCING_NOCARD,The slot you selected has no card in it !,L'emplacement sélectionné n'a pas de carte !
+TEXTCLIENT_DUNGEON_FAIL_ENTER,Unable to enter the dungeon.,Impossible d'entrer dans le donjon.
+TEXTCLIENT_DUNGEON_FAIL_LEADER,Your leader must enter the dungeon first.,Le chef doit entrer dans le donjon en premier.
+TEXTCLIENT_DUNGEON_START,%s started the dungeon %s!,%s a commencé le donjon %s !
+TEXTCLIENT_DUNGEON_START_DIFFICULTY,%s started the dungeon %s (%s)!,%s a commencé le donjon %s (%s) !
+TEXTCLIENT_DUNGEON_FULL,Too many players are in this dungeon. Please wait a moment.,Trop de joueurs sont dans ce donjon. Veuillez patienter.
+TEXTCLIENT_DUNGEON_NOTRANS,You cannot enter an instanced dungeon while you are using a Trans.,Vous ne pouvez pas entrer dans les donjons instanciés lorsqu'un Morph est actif.
+TEXTCLIENT_DUNGEON_NOTRANSUSE,You cannot use a Trans inside of an instanced dungeon.,Vous ne pouvez pas utiliser de Morph dans un donjon instancié.
+TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a moment.,L'instance précédente est en train d'être fermée. Veuillez patienter.
+TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,Ce donjon n'autorise pas plus de %d membres de groupe.
+TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,Impossible d'entrer actuellement.
+TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,%d minute(s) restantes pour vaincre %d monstres
+TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...","Le temps est écoulé, vous avez échoué..."
+TEXTCLIENT_LACKITEM,You do not have the required items.,Vous n'avez pas les objets requis.
+TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,Préparez-vous !
+TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,Votre donjon est en cours sur un canal différent.
+TEXTCLIENT_DUNGEON_COOLDOWN,Please wait before challenging this dungeon again.,Veuillez attendre avant de ré-essayer ce donjon.
+TEXTCLIENT_DUNGEON_PARTY_REQ,You must be in a Party to enter this dungeon.,Vous devez être dans un Groupe pour entrer dans ce donjon.
+TEXTCLIENT_DUNGEON_GUILD_REQ,You must be in a Guild to enter this dungeon.,Vous devez être dans une Guilde pour entrer dans ce donjon.
+TEXTCLIENT_GUILDCOMBAT_NOMASTERS,You cannot join a Lv80 Guild Siege or Lv60 Guild Siege when doing a master quest!,Impossible de rejoindre une Guerre des Guildes niveau 60 ou 80 pendant une quête master !
+TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,Vous avez débloquez la compétence [%s] niv. %d !
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL,Congratulations for your rank %d in the Thief Santa Hunt ranking!,Félicitations pour avoir atteint le rang %d dans le classement Chasse au Père Noël Voleur !
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Thief Santa Hunt ranking!,Félicitations pour avoir atteint %d points dans le classement Chasse au Père Noël Voleur !
+TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,Vous avez gagné %d points Chasse au Père Noël Voleur (total : %d) !
+TEXTCLIENT_APP_LOTTERY,Lottery,Loterie
+TEXTCLIENT_LOTTERY_LOWLEVEL,"Your level is too low, you must be level %d minimum to start this lottery!","Votre niveau est trop bas, vous devez être niveau %d ou plus pour lancer cette loterie !"
+TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!","Votre niveau est trop élevé, vous devez être niveau %d ou moins pour lancer cette loterie !"
+TEXTCLIENT_LOTTERY_ITEMSMISSING,You must have %d %s to start this lottery!,Vous devez avoir %d %s pour lancer cette loterie !
+TEXTCLIENT_LOTTERY_ERRORSTARTED,You already started a lottery! Wait for it to finish!,Vous avez déjà lancé une loterie ! Attendez qu'elle se termine !
+TEXTCLIENT_LOTTERY_NOREWARD,Unlucky.. You got no reward this time!,Pas de chance... Vous n'avez rien gagné cette fois !
+TEXTCLIENT_LOTTERY_NOFREESPINS,You don't have any free spins left!,Vous n'avez plus de tours de roue gratuits !
+TEXTCLIENT_LOTTERY_FREESPIN,You can now claim your free Lottery Wheel spin!,Vous pouvez désormais récupérer votre lancer de Roue de Loterie gratuit !
+TEXTCLIENT_APP_EVENTPASS,Lunar Pass,Pass Lunaire
+TEXTCLIENT_BATTLEPASS_REWARD,You need to be at least level %d to claim %s rewards!,Vous devez être niveau %d ou plus pour obtenir les récompenses de %s !
+TEXTCLIENT_EXCHANGECONSUME_ERROR,You already have one buff of that type active.,Vous avez déjà activé un bonus de ce type.
+TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,La guilde %s n'a pas été trouvée.
+TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,Vous devez fournir une raison.
+TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,Vous avez reçu un avertissement de %s : %s
+TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s a reçu un avertissement.
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.","%s n'est pas connecté, mais l'avertissement a été enregistré."
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,%d minute(s) restantes pour vaincre %s
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,%d minute(s) restantes pour vaincre %dx %s
+TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,Votre ticket a expiré ! Vous avez été ramené à Madrigal !
+TEXTCLIENT_PETCAGE_FAIL01,The pet inside did not survive.,Le familier à l'intérieur n'a pas survécu.
+TEXTCLIENT_MINTARGETLEVEL,This item can only be used on items level %d and above.,Cet objet peut seulement être utilisé sur des objets de niveau %d et plus.
+TEXTCLIENT_DUNGEON_MAXENTRY,Your reached the maximum entrance amount for today.,Vous avez atteint le maximum d'entrées possibles aujourd'hui.
+TEXTCLIENT_DUNGEON_MAXINSTANCE,You already have %d dungeon running. Please wait.,Vous avez déjà %d donjon(s) en cours. Veuillez patienter.
+TEXTCLIENT_DUNGEON_RATELIMIT,Too many players are starting dungeons. Please try again soon.,Trop de joueurs sont en train de commencer des donjons. Veuillez ré-essayer dans un instant.
+TEXTCLIENT_DUNGEON_FAILMASTER,You cannot enter dungeons while on a Master quest.,Vous ne pouvez pas entrer dans un donjon durant une quête de Master.
+TEXTCLIENT_ITEM_PK,This item is only usable on a PK Channel.,Cet objet n'est utilisable que dans les canaux PK.
+TEXTCLIENT_DUNGEON_RANKING_MAIL,Congratulations for your rank %d in the %s!,Félicitations pour avoir obtenu le rang %d dans le/la %s !
+TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,"Cette semaine, le/la %s a été remporté(e) par la Guilde %s"
+TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,Aucune Guilde n'a vaincu le/la %s
+TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,Impossible de se téléporter sur un canal non-PK en utilisant un ticket PK.
+TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,Donjon terminé en %s !
+TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,Félicitations ! Vous avez vaincu tous les %s (s) ! Le boss apparaîtra avec un bonus !
+TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,Un autre joueur l'utilise déjà. Veuillez patienter.
+TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,L'objet %s est seulement cumulable si le bienfait vient du même objet. Objet du bienfait actuel : %s.
+TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,Le costume est déjà utilisé.
+TEXTCLIENT_COSTUMECOLLECTION_NOTHING,You have nothing to submit.,Vous n'avez rien à soumettre.
+TEXTCLIENT_APP_EVENTS,Events,Evénements
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_1,You have nothing to submit.,Vous n'avez rien à soumettre.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_2,Achievement collection error 02.,Succès de Collection Erreur 02.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_3,Achievement collection error 03.,Succès de Collection Erreur 03.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_4,Achievement collection error 04.,Succès de Collection Erreur 04.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_5,Costume is already used.,Le costume est déjà utilisé.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_6,Achievement collection error 06.,Succès de Collection Erreur 06.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_7,Achievement collection error 07.,Succès de Collection Erreur 07.
+TEXTCLIENT_ACHIEVEMENT_COLLECTIONSUCCESS,Costumes successfully submitted.,Costumes soumis avec succés.
+TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""","Vous avez atteint %d de ""%s"""
+TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Votre message dépasse la taille maximum autorisée.
+TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,Vous ne pouvez pas vous téléporter si vous êtes gelé.
+TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,Vous devez atteindre le niveau %d pour échanger des objets premiums.
+TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,Vous devez atteindre le niveau %d pour utiliser ce mouvement.
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Switch Equip
+TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,Vous ne pouvez qu'équiper des objets du menu/raccourci de changement d'équipement.
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,Vous avez mis à jour l'ensemble d'équipement %s avec succès !
+TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,Vous avez trop d'ensembles d'équipement !
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,Ensemble d'équipement %s créé avec succès !
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,Ensemble d'équipement %s supprimé avec succès !
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,You don't have access to this preset anymore.. You need battlepass for it.,Vous n'avez plus accès à cet ensemble d'équipement. Vous devez avoir le battle pass pour ça.
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,Vous ne pouvez ajouter %s à l'ensemble d'équipement. Conditions non remplies.
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,Vous devez équiper l'objet une première fois avant de l'ajouter à un ensemble.
+TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,Veuillez patienter un peu avant de changer d'ensemble.
+TEXTCLIENT_PVPCONTEST_NOGUILD,You need a guild and be the leader to register.,Vous devez être dans une guilde et en être le Maître pour pour l'inscription.
+TEXTCLIENT_PVPCONTEST_ALREADYREGISTERED,Your guild is already registered for the FWC PVP Contest!,Votre guilde est déjà inscrite pour le concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_NOTCLOSED,You can't register now. FWC PVP Contest has already started or will start tomorrow!,"Vous ne pouvez pas vous inscrire maintenant, le concours JcJ FWC a déjà commencé ou commencera demain !"
+TEXTCLIENT_PVPCONTEST_COMPOSITIONNOTCLOSED,You can't change your participating players now. FWC PVP Contest has already started or will start tomorrow!,Vous ne pouvez plus changer la liste des participants. Le concours JcJ FWC a déjà commencé ou commencera demain !
+TEXTCLIENT_PVPCONTEST_NOTREGISTERED,Your guild is not registered for the FWC PVP Contest.,Votre guilde n'est pas inscrite au concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_COMPOSITIONSUCCESS,You successfully set your player composition!,Votre liste de joueurs est enregistrée avec succés !
+TEXTCLIENT_PVPCONTEST_REGISTRATIONSUCCESS,You successfully registered your guild for the FWC PVP Contest!,Votre participation au concours JcJ FWC a été enregistrée avec succés.
+TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s penyas to register to the FWC PVP Contest!,Vous avez besoin d'un minimum de %s penyas pour vous inscrire au concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_STATE_REGISTRATIONS,Registrations for FWC PVP Contest are now open! ,Les inscriptions au concours JcJ FWC sont maintenant ouvertes !
+TEXTCLIENT_PVPCONTEST_STATE_PRELIMINARY,Preliminaries will start from now on!,Les tours préliminaires commencent dès maintenant !
+TEXTCLIENT_PVPCONTEST_STATE_BACKUP,Backup Match will start from now on!,Les matchs de remplacement commencent dès maintenant !
+TEXTCLIENT_PVPCONTEST_STATE_FINALS,Final Matchs will start from now on!,Les matchs du tour final commencent dès maintenant !
+TEXTCLIENT_PVPCONTEST_HAVENOT_PLAYER,You need to select players to participate the FWC PVP Contest!,Vous devez sélectionner des joueurs pour participer au concours JcJ FWC !
+TEXTCLIENT_PVPCONTEST_SELECTION_MAX,You can only select %d players maximum!,Vous ne pouvez sélectionner qu'un maximum de %d joueurs !
+TEXTCLIENT_PVPCONTEST_LIMIT_LEVEL_NOTICE,Selected player must be at least level %d!,Les joueurs sélectionnés doivent être de niveau %d minimum !
+TEXTCLIENT_PVPCONTEST_ALREADY_ENTRY,That player is already selected! Please pick another.,Ce joueur a déjà été sélectionné ! Choisissez un autre joueur.
+TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC PVP Contest!,Le Maître de Guilde doit participer au concours JcJ FWC !
+TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,Les inscriptions pour le concours JcJ FWC fermeront dans une heure. Assurez-vous d'enregistrer votre guilde pour participer !
+TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,Une erreur s'est produite lors de l'extraction de la liste des joueurs sélectionnés. Veuillez réessayer.
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,Vous devez sélectionner un match.
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %02d:%02d today.","Merci pour la confirmation, votre prochain match commence à %02d:%02d aujourd'hui."
+TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.",Impossible d'utiliser la gestion de membre pendant le concours JcJ FQW ou vous essayez d'éditer un membre qui a été enregistré.
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,Vous ne pouvez pas changer le nom de votre guikde pendant le concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,Vous ne pouvez pas changer le logo de votre guilde pendant le concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_NOT_WAR,Unable to declare war during FWC PVP Contest.,Impossible de déclarer la guerre pendant le concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_CANNOT_FRIENDADD,You cannot add friends in the FWC PVP Contest.,Vous ne pouvez pas ajouter d'ami dans le concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_CANNOT_PARTY,You cannot make a party in the FWC PVP Contest.,Vous ne pouvez pas créer un groupe dans le concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_NO_OUTWAR,You cannot use Blinkwings to escape the FWC PVP Contest.,Vous ne pouvez pas utiliser d'Élytre pour vous échaper du concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_MATCHEND_WINNER,Match has ended! Winner is %s!,Match terminé ! Le vainqueur est %s !
+TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Match terminé ! Il n'y a pas de vainqueur.
+TEXTCLIENT_PVPCONTEST_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,En attente de l'advesaire.
+TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,Preparation phase. Match will start in: 
+TEXTCLIENT_PVPCONTEST_CAPTION_FIGHT,End combat  ,Terminer le combat 
+TEXTCLIENT_PVPCONTEST_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in ,Match terminé ! Vous serez téléporté sur Madrigal dans 
+TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedules!,Seul le Maître de Guilde peut sélectionner les horaires des matchs !
+TEXTCLIENT_PVPCONTEST_ALREADYPLAYEDTODAY,You already played a match today! You can't select another schedule.,Vous avez déjà joué un match aujourd'hui ! Vous ne pouvez pas sélectionner un autre horaire.
+TEXTCLIENT_PVPCONTEST_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Vous ne pouvez plus vous téléporter dans le match. Le match a commencé.
+TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there is no match waiting for you.,La téléportation n'est pas possible puisqu'aucun match n'est prévu maintenant.
+TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",Aucun adversaire n'a rejoint le combat ! Le match se terminera et la victoire vous sera donnée !
+TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Aucun adversaire n'a été trouvé pour votre match ! Votre match est donc considéré comme gagné !
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s a tué [%s] %s !
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s killed [%s] %s and stopped their killing spree!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s is on a killing spree!
+TEXTCLIENT_PVPCONTEST_MATCHSOON,You can't change your participation now. Matches are starting soon!,Vous ne pouvez plus changer les participants. Les matchs commencent bientôt !
+TEXTCLIENT_PVPCONTEST_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Un joueur n'a pas rejoint ou quitté le match. Le nombre total de vie restantes de la guilde a été réduit de %d !
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT,The FWC PVP Contest Preliminary %d:%d UTC matches have ended! The next matches will start at %d:%d UTC!,Les matchs préliminaires du concours JcJ FWC de %d:%d UTC sont terminés ! Les prochains matchs commencent à %d:%d UTC !
+TEXTCLIENT_TRANSITEM_TRANSY,Your transmuted item does not have an equivalent item for the other gender. Please consider removing the transmutation or trying a different item.,Votre objet transmuté n'a pas d'équilavent pour l'autre genre. Enlevez la transmutation ou essayez un objet différent.
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD,The FWC PVP Contest has ended! The winner is: %s! Congratulations!,Le concours JcJ FWC est terminé ! Le vainqueur est : %s ! Félicitations !
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD,The FWC PVP Contest has ended on a draw! Congratulations!,Le concours JcJ FWC s'est terminé sur un match nul ! Félicitations !
+TEXTCLIENT_PVPCONTEST_NOMATCHS,There is no match to spectate.,Il n'y a pas de match à regarder.
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_1,You can't spectate if you're already participating in a match.,Vous ne pouvez regarder un match si vous participez déjà à un match.
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,Le match que vous souhaitez regarder est sur le point de se terminer. Sélectionnez un autre match.
+TEXTCLIENT_PVPCONTEST_RANK34,"You lost that match, but you will have the opportunity to compete in a final match for the 3rd rank against the other losing guild when the final match takes place. Best of luck!",Vous avez perdu ce match mais aurez l'opportunité de vous battre pour la troisième place pendant la finale. Bonne chance !
+TEXTCLIENT_SERVERTRANSFER,You have requested a server transfer to %s.,Vous avez demandé un transfert de serveur vers %s.
+TEXTCLIENT_RPS_DAILYLIMITOVER,You've used all the chances for today.,Vous avez utilisé toutes vos chances aujourd'hui.
+TEXTCLIENT_RPS_SOLDOUT,All the rewards for today are gone. See you tomorrow.,Il n'y a plus de récompense pour aujourd'hui. Rendez-vous demain !
+TEXTCLIENT_RPS_ISOPENED,You are already speaking with this NPC.,Vous parlez déjà à ce PnJ.
+TEXTCLIENT_RPS_MINTARGETLEVEL,Only available to level %d or above.,Seulement disponible au niveau %d ou supérieur.
+TEXTCLIENT_RPS_PLAYABLE,You can't play Lucky RPS. Check your state.,Vous ne pouvez jouer au Flyffoumi. Vérifiez votre état.
+TEXTCLIENT_RPS_DAYCHANGE,You do not have the right to acquire the item.,Vous n'avez pas les droits pour recevoir cet objet.
+TEXTCLIENT_PVPCONTEST_SPECTATE_AUTH,You don't have the required auth to spectate.,Vous n'avez pas l'autorisation requise pour être spectateur.
+TEXTCLIENT_GUILDBUFF_NEW,Your Guild just unlocked Guild Buff Level %d!,Votre Guilde vient de débloquer Bienfait de Guilde Niveau %d !
+TEXTCLIENT_GUILDBUFF_DONATE,%s donated %s #bx%d#nb to the Guild (Total: %d)!,%s a donné %s x#bx%d#nb à la Guilde (Total : %d) !
+TEXTCLIENT_GUILDBUFF_RANKING_MAIL,Congratulations for your rank %d in the First Come First Served ranking!,Félicitations pour votre rang %d sur le classement Premier Arrivé Premier Servi !
+TEXTCLIENT_PURCHASE_ERROR_LEVEL,You cannot purchase this item because your level is too low. (Req Lev: %d),Vous n'avez pas le niveau requis pour acheter cet objet. (Niveau requis : %d)
+TEXTCLIENT_PURCHASE_ERROR_COUNT,You can purchase this item up to %d times.,Vous pouvez acheter cet objet %d fois.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_LEVEL,This monster can only be attacked by level %d or higher,Ce monstre ne qu'être attaqué par des niveaus %d ou supérieurs.
+TEXTCLIENT_REAPITEMCOUNT,You received %d %s.,Vous avez reçu %d %s.
+TEXTCLIENT_GUILDBANKSCROLL_NOGUILD,You can’t use this item because you are not part of a guild,Vous ne pouvez pas utilisé cet objet tant que vous n'êtes pas dans une guilde.
+TEXTCLIENT_CANNOT_USE_OTHER_ACTIONS,You cannot use the item during other actions.,Vous ne pouvez pas utiliser cet objet pendant d'autres actions.
+TEXTCLIENT_CANNOT_USE_CURRENT_STATE,You cannot use the item in the current state.,Vous ne pouvez pas utiliser cet objet dans l'état actuel.
+TEXTCLIENT_ACCEL_FUEL_PRIORITY01,"You are currently using Acceleration Fuel. When you use this item, the existing effect will not be applied any more. Are you sure you want to use this?","Vous êtes sous l'effet du Carburant Nitro. Si vous utilisez cet objet, l'effet actuel sera supprimé. Êtes-vous sûr de vouloir l'utiliser ?"
+TEXTCLIENT_ACCEL_FUEL_PRIORITY02,"You are currently using Nitro Booster. When you use this item, the existing effect will still take priority. Are you sure you want to use this?","Vous êtes sous l'effet du Carburant Nitro. Si vous utilisez cet objet, l'effet actuel aura toujours la priorité. Êtes-vous sûr de vouloir l'utiliser ?"
+TEXTCLIENT_DAILY_LOTTERY_COUNT,You've used all the roulette chances today.,Vous avez utilisé toutes vos tentatives de Roue de la Chance pour aujourd'hui.
+TEXTCLIENT_TRANS_LOTTERY_TRANS,You can't use the roulette while being transformed.,Vous ne pouvez pas utiliser la Roue de la Chance en étant transformé.
+TEXTCLIENT_TRANS_LOTTERY_WING,You can't use the roulette while using the wing effect.,Vous ne pouvez pas utiliser la Roue de la Chance pendant l'effet des Ailes.
+TEXTCLIENT_TRANS_LOTTERY_FLY,You can't use the roulette while flying.,Vous ne pouvez pas utiliser la Roue de la Chance en vol.
+TEXTCLIENT_TRANS_LOTTERY_DUNGEON,You can't use the roulette in this dungeon.,Vous ne pouvez pas utiliser la Roue de la Chance dans ce donjon.
+TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,Vous utilisez déjà un Sac d'inventaire de banque.
+TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,Votre banque est désormais agrandie.
+TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,Vous ne pouvez pas utiliser cet objet en combat.
+TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s a utilisé %s sur vous !
+TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,You used %s on %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,You used %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,Pas de cible trouvée.
+TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,La cible a bloqué avec une Barrière Arc-En-Ciel !
+TEXTCLIENT_RAINBOWRACE_USEITEM_USERBARRIER,You've blocked an item with your Rainbow Barrier!,Vous avez bloqué un objet avec votre Barrière Arc-En-Ciel !
+TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory period.,Vous ne pouvez vous mettre à voler pendant la phase préparatoire.
+TEXTCLIENT_RAINBOWRACE_NOSTAND,You cannot stop flying during the racing period.,Vous ne pouvez pas vous arrêter de voler pendant la phase de course.
+TEXTCLIENT_RAINBOWRACE_NOSTACK,Your target is already suffering from this item!,Votre cible souffre déjà de cet objet !
+TEXTCLIENT_RAINBOWRACE_PREP,The Rainbow Race begins in %d seconds...,La Course Arc-En-Ciel commence dans %d secondes...
+TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,La Course Arc-En-Ciel commence maintenant !
+TEXTCLIENT_RAINBOWRACE_FINISH,You've finished the race!,Vous avez terminé la course !
+TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,La Course Arc-En-Ciel est terminée ! Le vainqueur est %s !
+TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,Vous n'avez pas assez de Penyas pour vous inscrire à la Course Arc-En-Ciel.
+TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,Vous êtes déjà inscrit pour la prochaine course.
+TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,"La Course Arc-En-Ciel n'aura pas lieu, faute de participants."
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,Conversion réussie !
+TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Pas assez de matériaux.
+TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,L'objet a été son niveau d'amélioration maximum.
+TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,L'amélioration a été un échec critique.
+TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,Grand succés d'amélioration !
+TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,Cet objet ne peut être utilisé sur cette cible.
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,Vous pouvez utiliser cet objet dans le menu Forge d'Arme Ultime dans une boutique d'Armes.
+TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,Vous devez définir l'objet cible d'abord.
+TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,Vous devez faire partie d'une guilde pour enchérir sur un navire de guilde.
+TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,Seul le chef de guilde peut acheter un navire de guilde.
+TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,Votre guilde possède déjà un navire.
+TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,Vous avez placé avec succès une enchère sur ce navire de guilde !
+TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,Ce navire de guilde appartient déjà à une autre guilde. Vous ne pouvez pas faire d'offre sur ce navire.
+TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,Ce navire n'appartient pas à votre guilde.
+TEXTCLIENT_HOUSEOBJECTS_TOOFAR,The position you're trying to put your furniture at is too far from you.,La position dans laquelle vous essayez de placer votre meuble est trop éloignée de vous.
+TEXTCLIENT_HOUSEOBJECTS_ALREADYPLACED,You already placed that furniture. Please disable it before.,Vous avez déjà placé ce meuble. Veuillez le désactiver avant.
+TEXTCLIENT_HOUSEOBJECTS_NOTPLACED,You first need to place that furniture before disabling it.,Vous devez d'abord placer ce meuble avant de le désactiver.
+TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,Vous ne pouvez pas placer de meuble à cet endroit.
+TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,Touchez le sol à l'endroit où vous souhaitez placer l'objet. Faites-le pivoter à l'aide de la molette de la souris. Appuyez sur la molette de la souris et déplacez la souris vers la gauche/droite pour le redimensionner.
+TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,Le placement de l'objet de décoration a été annulé.
+TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,Vous n'avez pas le droit de placer un meuble dans cette maison.
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,Vous devez être dans votre maison ou dans la maison de la guilde pour placer ce meuble.
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,"Vous n'avez ni maison, ni maison de guilde."
+TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,Vous avez ajouté avec succès %s comme visiteur !
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,Le joueur que vous avez sélectionné n'est pas en ligne.
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,Vous avez réussi à supprimer ce joueur de votre liste de visiteurs.
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,Ce joueur ne figure pas dans votre liste de visiteurs.
+TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,Vous n'êtes pas propriétaire d'une maison.
+TEXTCLIENT_PLAYERHOUSING_BUYSUCCESS,You successfully setup your house.,Vous avez installé votre maison avec succès.
+TEXTCLIENT_HOUSING_PACKOWNED,You already unlocked that housing pack!,Vous avez déjà débloqué ce Pack d'Aménagement !
+TEXTCLIENT_HOUSING_PACKSUCCESS,You successfully unlocked %s!,Vous avez réussi à débloquer %s !
+TEXTCLIENT_PLAYERHOUSING_VISIT_EMPTY,There are currently no available houses to visit from your friends list.,Il n'y a actuellement aucune maison disponible à visiter dans votre liste d'amis.
+TEXTCLIENT_PLAYERHOUSING_VISIT_OFFLINE,The owner of that house is currently offline.,Le propriétaire de cette maison est actuellement hors ligne.
+TEXTCLIENT_PLAYERHOUSING_VISIT_NOHOUSE,That player has no house to visit.,Ce joueur n'a pas de maison à visiter.
+TEXTCLIENT_HOUSEOBJECTS_RESET_NOTOWNER,Only the owner can reset the house decorations!,Seul le propriétaire peut réinitialiser les décorations de la maison !
+TEXTCLIENT_HOUSEOBJECTS_RESET_SUCCESS,You successfully reset the house decorations.,Vous avez réinitialisé les décorations de la maison.
+TEXTCLIENT_HOUSEOBJECTS_NOPACKS,You do not have any unlocked decoration packs.,Vous n'avez pas de packs de décoration débloqués.
+TEXTCLIENT_HOUSEOBJECTS_NOTUNLOCKED,You do not have that decoration unlocked.,Vous n'avez pas débloqué cette décoration.
+TEXTCLIENT_HOUSEOBJECTS_NPCEXIST,This NPC already exists in the house.,Ce PNJ existe déjà dans la maison.
+TEXTCLIENT_PLAYERHOUSINGWND_BUYNOTEMPLATES,There are currently no house templates available. ,Il n'y a actuellement aucun modèle de maison disponible.
+TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase the template again or set a different one to access your house.,Le modèle de maison %s a expiré ! Achetez à nouveau le modèle ou définissez-en un autre pour accéder à votre maison.
+TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,Vous possédez déjà ce modèle de maison.
+TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","Vous avez débloqué avec succès le modèle de maison ""%s"" !"
+TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,Vous devez d'abord débloquer ce modèle de logement.
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild house does not belong to anyone. Place a bid if you want it!,Cette maison de guilde n'appartient à personne. Faites une offre si vous la voulez !
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild house does not belong to your guild. You can't enter.,Cette maison de guilde n'appartient pas à votre guilde. Vous ne pouvez pas y entrer.
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. You can't place a bid on it.,Cette maison de guilde appartient déjà à une guilde. Vous ne pouvez pas faire d'offre.
+TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,Votre guilde a remporté l'enchère pour le navire de guilde ! Vous pouvez maintenant vous y téléporter en utilisant la carte et en faisant un clic droit sur votre vaisseau. Félicitations !
+TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,Vous n'avez pas le droit de faire une offre.
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!,Votre nouvelle offre pour cette maison de guilde est maintenant de %s !
+TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough penya in your guild bank.,Vous n'avez pas assez de Penya dans votre coffre de guilde.
+TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,Vous avez déjà placé une enchère sur un autre navire de la guilde.
+TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s penya.,Vous devez fixer une enchère initiale minimale de %s Penyas.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,Veuillez patienter...
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,Vous avez réussi à définir la position de l'artefact ! Une taxe de %s a été prélevée de votre coffre de guilde !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,Vous n'avez pas le pouvoir de définir la position de l'artefact.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough penya in your guild bank to set the artifact spawn position.,Vous n'avez pas assez de Penyas dans votre coffre de guilde pour définir la position de l'artefact.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.","Votre guilde peut maintenant placer l'artefact de navire ! Consultez l'onglet ""Logement"" de la fenêtre de guilde pour plus d'informations."
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,Ce n'est pas encore le moment de définir la position de l'artefact.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,Votre guilde a perdu la propriété du navire de guilde car aucun artefact n'a été placé cette semaine.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,Les artefacts de guilde sont apparus ! Chassez-les pour obtenir la propriété du navire sur le canal PK !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,Votre équipe a détruit un artefact de navire de guilde ! Ce navire de guilde appartient désormais à votre guilde !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,Votre équipe a détruit un artefact de navire de guilde !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s penya has been deposited into your guild bank. Congratulations!,%s Penyas ont été déposés dans votre coffre de guilde. Félicitations à tous !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,L'artefact de votre guilde a été détruit ! Vous avez perdu la propriété du navire.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,Votre guilde a réussi à défendre son artefact de navire !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s penya has been deposited into the guild bank. Congratulations!,Vous conservez votre navire et %s Penyas ont été déposés dans votre coffre de guilde. Toutes nos félicitations !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,The guild %s managed to protect the artifact! You'll have better luck next time.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,Vous devez faire partie d'une guilde pour attaquer un artefact.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,Vous ne pouvez pas attaquer votre propre artefact !
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on the channel 1 to teleport to the guild house ship!,Vous devez être sur le canal 1 pour vous téléporter au navire de guilde !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,Vous avez réussi à mettre à jour la position de l'artefact.
+TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,Vous devez sélectionner une préréglage à supprimer.
+TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,Vous avez trop de préréglages pour cette carte.
+TEXTCLIENT_HOUSINGPRESETS_NORIGHTS,You don't have rights to make a preset of that house.,Vous n'avez pas le droit de créer un préréglage de cette maison.
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS,"You successfully created housing preset ""%s""","Vous avez créé avec succès le préréglage du logement ""%s""."
+TEXTCLIENT_HOUSINGPRESETS_EXIST,You already have a preset with that name. Please use another name.,Vous avez déjà un préréglage avec ce nom. Veuillez utiliser un autre nom.
+TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?,Votre objet sera détruit si le processus échoue. Il est recommandé d'utiliser le menu d'amélioration de la Boutique d'Armure. Êtes-vous sûr de vouloir continuer ?
+TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,Vous ne pouvez pas avoir plus de %d objets de ce type.
+TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,La roue est bloquée... Le navire semble incontrôlable pour l'instant.
+TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,Certains objets n'ont pas pu être placés parce qu'ils sont périmés.
+TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,Vous avez reçu %s Penyas en remboursement de la Course Arc-En-Ciel.
+TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,Vous avez déjà atteint le nombre maximum d'emplacements déverrouillables pour les préréglages de logement !
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,Vous pouvez désormais avoir un maximum de %d préréglages de logement !
+TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,Vous ne pouvez pas ouvrir un magasin privé dans les maisons !
+TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,Il n'est pas possible d'utiliser un Parchemin de Retour dans les maisons !
+TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,Cet objet possède déjà la meilleure statistique aléatoire possible.
+TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,Il reste %d minute(s) jusqu'à %s
+TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,Vous ne pouvez pas vous téléporter pendant la Course Arc-En-Ciel.
+TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,Vous avez été disqualifié de la course.
+TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,La Course Arc-En-Ciel commence dans 10 minutes. Inscrivez-vous à Darken.
+TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,Votre banque est désormais agrandie.
+TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,Direct sign in is not available. Please sign in from the website.
+TEXTCLIENT_EVENTBUFF,%s is active!,%s is active!
+TEXTCLIENT_STORAGEFULL,The bag is full.,Le sac est plein.
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Armor Pack (%d/%d)
+TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,Vous ne pouvez utiliser qu'un seul sac à la fois.
+TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,You cannot play this motion in a PvP area.
+TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,L'amélioration a réussi.
+TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,You need more of that prop in order to place it.
+TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,You need more of that npc in order to place it.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.,Vous ne vous êtes pas inscrit à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!,Vous avez besoin de faire partie d'une guilde afin de participer à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing permission to register to the artifact battle.,Vous avez besoin des permissions de gestion de la maison de guilde afin de vous inscrire à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d penyas to register to the artifact battle.,Vous avez besoin d'au moins %d Penyas afin de s'inscrire à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the artifact battle!,Votre guilde est déjà inscrite à la Guerre des Artefacts !
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d penyas fee has been taken off your guild bank.,Vous vous êtes inscrits à la prochaine Guerre des Artefacts. Une taxe de %d Penyas a été prélevée de votre coffre de guilde.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d penyas fee has been deposited back into your guild bank.,Vous vous êtes désinscrits de la prochaine Guerre des Artefacts. La taxe de %d Penyas vous a été remboursée dans le votre coffre de guilde.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!","La Guerre des Artefacts a déjà commencée, vous ne pouvez plus vous désinscrire !"
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,Il n'y a pas de Guerre des Artefacts cette semaine. Recommencez la semaine prochaine !
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,Vous ne pouvez placer ici que des PNJ de Maison de Guilde.
+TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,Cet objet ne peut pas être utilisé.
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Successfully submitted.
+TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,Vous ne pouvez placer ici que des PNJ Personnels.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,This artifact spawn position is already taken by another guild.
+TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,You can't have more than %d props placed at the same time!
+TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,The %s can only be obtained while the %s is in progress.
+TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.","You can move props / npcs using edition menu. To quit that mode, press ESC."
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,Guild %s has destroyed Guild %s's artifact!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled the guild!,Le propriétaire de cette maison a dissout sa guilde !
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant.","L'artefact de cette guilde est en ruines, et leur maison de guilde est désormais vacante."
+TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
+TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,You cannot trade in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,You cannot use items in the Kalgas Assault.
+TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,You can't use the roulette in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,You cannot use Blinkwings to escape the Kalgas Assault.
+TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
+TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
+TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
+TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
+TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
+TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,You cannot enter an Kalgas Assault while you are using a Trans item.
+TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,You cannot use party skills in this area.
+TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,Please wait a little before posting another guest book message.
+TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,There are still some players in your house. You can't change the template until there's nobody left inside.
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s does not have enough Penya to apply for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s is during other actions.
+TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Teams will be randomly matched after %d seconds
+TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Teleportation is no longer available.
+TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Team member invitations are in progress.
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
+TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
+TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
+TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
+TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
+TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,You received %dx %s.
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
+TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
+TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Re-entry cooldown for %s has been reduced by %d minutes.
+TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,There is no dungeon where cooldown reduction is possible.
+TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,You've already used maximum count of Magic Clock
+TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?
+TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You must reach level %d to access this area.
+TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
+TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
+TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
+TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
+TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
+TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,The coupon has been submitted successfully. Please check in the Flyff Shop.
+TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Coupon has already been used.
+TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,The coupon usage limit has been reached.
+TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,No coupon found with this code. Please try again.
+TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Invalid coupon code. Please try again.
+TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
+TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
+TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
+TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
+TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
+TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
+TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,It can only be used when the target is within 15 meters.
+TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,There is no target to use it on.
+TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,You cannot use it there.
+TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,You cannot teleport to yourself.
+TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,The shop has been closed.
+TEXTCLIENT_PVPMATCH_TEAM,Team ,Team 
+TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,Match terminé ! Le vainqueur est %s !
+TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Match terminé ! Il n'y a pas de vainqueur.
+TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
+TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",Aucun adversaire n'a rejoint le combat ! Le match se terminera et la victoire vous sera donnée !
+TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Aucun adversaire n'a été trouvé pour votre match ! Votre match est donc considéré comme gagné !
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s a tué [%s] %s !
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_PVPMATCH_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Un joueur n'a pas rejoint ou quitté le match. Le nombre total de vie restantes de la guilde a été réduit de %d !
+TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,Le match que vous souhaitez regarder est sur le point de se terminer. Sélectionnez un autre match.
+TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,You cannot add friends in a PVP Match.
+TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You cannot make a party in a PVP Match.
+TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
+TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
+TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
+TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
+TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
+TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,You can't use the roulette in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,You cannot trade in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_PARTY,You cannot make a party in the Madrigal Tournament.,You cannot make a party in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_FRIENDADD,You cannot add friends in the Madrigal Tournament.,You cannot add friends in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_HAVENOT_MASTER,party leader has to participate to the Madrigal Tournament!,party leader has to participate to the Madrigal Tournament!
+TEXTCLIENT_MATOURNAMENT_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,En attente de l'advesaire.
+TEXTCLIENT_MATOURNAMENT_CAPTION_PREPARE,Preparation phase. Match will start in ,Preparation phase. Match will start in 
+TEXTCLIENT_MATOURNAMENT_CAPTION_FIGHT,End combat  ,Terminer le combat 
+TEXTCLIENT_MATOURNAMENT_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in,Match has ended! You will be teleported on Madrigal in
+TEXTCLIENT_MATOURNAMENT_NOT_REGISTRABLE_TIME,Registration is not available at this time.,Registration is not available at this time.
+TEXTCLIENT_MATOURNAMENT_NOPARTY,You are not in a party.,You are not in a party.
+TEXTCLIENT_MATOURNAMENT_NOTPARTYLEADER,You are not the party leader.,You are not the party leader.
+TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,Invalid number of party members.
+TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
+TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
+TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
+TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
+TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
+TEXTCLIENT_MATOURNAMENT_TELEPORTNOMATCH,You can't enter because there is no match available.,You can't enter because there is no match available.
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",Aucun adversaire n'a rejoint le combat ! Le match se terminera et la victoire vous sera donnée !
+TEXTCLIENT_MATOURNAMENT_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT_WIN,No opponent was found for your match! We then considered your match as won!,Aucun adversaire n'a été trouvé pour votre match ! Votre match est donc considéré comme gagné !
+TEXTCLIENT_MATOURNAMENT_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Match terminé ! Il n'y a pas de vainqueur.
+TEXTCLIENT_MATOURNAMENT_MATCHEND_WINNER,Match has ended! Winner is %s!,Match terminé ! Le vainqueur est %s !
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s a tué [%s] %s !
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Vous ne pouvez plus vous téléporter dans le match. Le match a commencé.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,You have received the betting dividends.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,Failed to send the dividends. Check your state.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.,You bet %s penya to %s.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,You already bet other team.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,You can't bid at this time.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.,You have no penya to collect.
+TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,You have no participation or rewards to receive.
+TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,You have received a reward.
+TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,You can't receive the reward. Check your mail.
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT_MAIL,Madrigal Tournament Betting Payout,Madrigal Tournament Betting Payout
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT,You receive betting's payout.,You receive betting's payout.
+TEXTCLIENT_MATOURNAMENT_BETTING_FAIL,Betting failed. Please try again.,Betting failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.,Registration failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_FAIL_ENTER,Unable to enter the Madrigal Tournament.,Unable to enter the Madrigal Tournament.
+TEXTCLIENT_ULTIMATE_JEWEL_POSSIBLE_ITEM,The item is not allowed to add jewel.,The item is not allowed to add jewel.
+TEXTCLIENT_ERROR_NOULTIMATEJEWEL,There is no space to put a ultimate jewel.,There is no space to put a ultimate jewel.
+TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel is available.,Only ultimate weapon equipped with jewel is available.
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOSELECTION,You need to select a jewel to remove!,You need to select a jewel to remove!
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOJEWEL,The slot you selected has no jewel in it !,The slot you selected has no jewel in it !
+TEXTCLIENT_ULTIMATE_JEWEL_REMOVE_SUCCESS,Your ultimate jewel has been removed succesfully.,Your ultimate jewel has been removed succesfully.
+TEXTCLIENT_COMPOSEJEWEL_SUCCESS,You received %s.,%s
+TEXTCLIENT_ERROR_SAMEKIND_JEWEL,You can only attach one of each kind of jewel or rune.,You can only attach one of each kind of jewel or rune.
+TEXTCLIENT_COMPOSEJEWEL_FAIL,Fusion failed. Returned %d %s.,Fusion failed. Returned %d %s.
+TEXTCLIENT_COMPOSEJEWEL_REGISTER_SAMEKIND,Only the same jewel can be registered.,Only the same jewel can be registered.
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_SUCCESS,Ultimate jewel creation successful!,Ultimate jewel creation successful!
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,Ultimate jewel creation failed.
+TEXTCLIENT_COUPLENOTARGET,You must select a player first.,You must select a player first.
+TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,Your proposal was refused.
+TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,Your request for break up was refused.
+TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!","You are now a couple, congratulations!"
+TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,Your target is already in a couple.
+TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s and %s have become a couple!
+TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,The couple skill %s has been used.
+TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,You already have the %s skill active.
+TEXTCLIENT_COUPLE_SKILL_NOPOINTS,You do not have enough points.,You do not have enough points.
+TEXTCLIENT_COUPLE_SKILL_NOPARTY,You must be in the same party to use this skill.,You must be in the same party to use this skill.
+TEXTCLIENT_COUPLE_REPLACE_RING,This will replace your current couple ring. Are you sure you would like to send this request to your partner?,This will replace your current couple ring. Are you sure you would like to send this request to your partner?
+TEXTCLIENT_COUPLE_NEW_RING,Your ring has been replaced!,Your ring has been replaced!
+TEXTCLIENT_COUPLE_SAME_RING,You are already using this ring.,You are already using this ring.
+TEXTCLIENT_COUPLE_MISSING,You must be in a couple to use this item.,You must be in a couple to use this item.
+TEXTCLIENT_COUPLE_QUESTEXP,Your couple has gained experience!,Your couple has gained experience!
+TEXTCLIENT_COUPLE_NOTITLE,You must be in a couple to use this title.,You must be in a couple to use this title.
+TEXTCLIENT_COUPLE_BREAKUP_DEADLINE,The break up request was not answered. Forceful break up notification timer has begun.,The break up request was not answered. Forceful break up notification timer has begun.
+TEXTCLIENT_COUPLE_MAX_POINTS,Your couple cannot exceed the maximum skill points.,Your couple cannot exceed the maximum skill points.
+TEXTCLIENT_COUPLE_CHEER_SEND,You have cheered your partner.,You have cheered your partner.
+TEXTCLIENT_COUPLE_CHEER_REC,You have been cheered by your partner.,You have been cheered by your partner.
+TEXTCLIENT_COUPLE_MINLEVEL,You and your target must both be at least level %d.,You and your target must both be at least level %d.
+TEXTCLIENT_COUPLE_COOLDOWN,You need to wait %s to form a couple with this player.,You need to wait %s to form a couple with this player.
+TEXTCLIENT_COUPLE_PROPOSAL_SENT,You have sent a proposal!,You have sent a proposal!
+TEXTCLIENT_COMPOSE_RAINBOWJEWEL_FAIL,Composing rainbow jewel failed.,Composing rainbow jewel failed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_SUCCESS,Dismantle rainbow jewel succeed.,Dismantle rainbow jewel succeed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_FAIL,Dismantle rainbow jewel failed.,Dismantle rainbow jewel failed.
+TEXTCLIENT_HOUSINGWARDROBE_NPCNOTFOUND,The NPC you intended to edit does not exist in your house!,The NPC you intended to edit does not exist in your house!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMNOTFOUND,The item you intented to equip is not in your wardrobe!,The item you intented to equip is not in your wardrobe!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMALREADYUSED,There is already an NPC using that item!,There is already an NPC using that item!
+TEXTCLIENT_HOUSINGEQUIP_NORIGHTS,You don't have permission to edit the equipment of that NPC.,You don't have permission to edit the equipment of that NPC.
+TEXTCLIENT_HOUSINGINVENTORY_NORIGHTS,You don't have permission to edit the inventory of this house.,You don't have permission to edit the inventory of this house.
+TEXTCLIENT_HOUSINGINVENTORY_WRONGITEM,You can only put pets or eggs in the house pet inventory.,You can only put pets or eggs in the house pet inventory.
+TEXTCLIENT_HOUSEOBJECTS_PETEXIST,This pet already exists in the house.,This pet already exists in the house.
+TEXTCLIENT_HOUSINGPET_SPAWNED,You need to remove that pet before taking it out of the pet inventory!,You need to remove that pet before taking it out of the pet inventory!
+TEXTCLIENT_PETTRAINING_MAXLEVEL,This pet has already reached its maximum experience!,This pet has already reached its maximum experience!
+TEXTCLIENT_PETTRAINING_WRONGPET,This trainer can't accept that pet.,This trainer can't accept that pet.
+TEXTCLIENT_HOUSINGINVENTORY_FULL,Pet inventory is full!,Pet inventory is full!
+TEXTCLIENT_PETTRAINING_PETINUSE,You need to remove that pet from the field before training it!,You need to remove that pet from the field before training it!
+TEXTCLIENT_PETTRAINING_NAME,[Training],[Training]
+TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,Trainer %s has completed your pet training!
+TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,You have already unlocked the maximum pet inventory slots!
+TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,You have successfully unlocked a new pet inventory slot for your house!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,You need a guild to use this scroll!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses.","You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses."
+TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,You must be in a level %d couple to use this motion.
+TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,You must select your partner in order to request this motion.
+TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Your partner refused to perform the motion.
+TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,You are too far away from each other to perform this motion.
+TEXTCLIENT_APP_LIFE,Life,Life
+TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,You need to equip a(n) %s.
+TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Please check the correct tool.
+TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
+TEXTCLIENT_GATHERING_HOE,hoe,hoe
+TEXTCLIENT_GATHERING_AXE,axe,axe
+TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pickaxe
+TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Fishing failed.
+TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Too many players are using this prop. Please try again later.
+TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,Repaired %s for %s points.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,You cannot change your expertise yet.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Successfully changed your expertise.
+TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,Failed to use the production reduction item. Please check your production status.
+TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,You do not have enough ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Unable to check your ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,You are already producing this item.
+TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,The production time has been reduced by %d minutes.
+TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,Wondering shop inventory renewed successfully.
+TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No space in inventory, %d empty slots needed."
+TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,You can only fish near a body of water.
+TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,You need to equip a fishing rod.
+TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Your fishing rod must be repaired.
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Not enough bait.
+TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
+TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,You cannot produce this item without the required title.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,You need to add the correct ingredients.
+TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,This item does not require repairing.
+TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Product upgrade failed.
+TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,Product upgrade successful!
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,%s's recipe has been unlocked.
+TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,You cannot stack this item anymore. This item can only be stacked %d times.
+TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
+TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
+TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
+TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
+TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
+TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,You are too far.
+TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,You need to use that pet at least once before putting it in the pet inventory.
+TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,You cannot put eggs in the pet inventory.
+TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,You have exceeded the maximum number of invitees.
+TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,The entrance time for the tournament match is now.
+TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,You can't use an equipment preset while attacking.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,There are currently no races available to enter.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,You are not a registered player.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,You cannot enter on the current channel.
+TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
+TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,You can't harvest this now.
+TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,You can't harvest this here.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this motion.,You must complete the quest %s to use this motion.
+TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,You cannot use this item in a PvP setting.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!,You can now use the motion %s!
+TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.,The motion %s has expired.
+TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,You can't remove a Blessing of the Demon!
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,This feature is only available with the Extended Battle Pass.
+TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,You already used all your daily teleports.
+TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,You cannot teleport to this shop because it is on a different channel.
+TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Harvests %d/%d
+TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,Infinite harvests
+TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,The same level was rolled. No scrolls were consumed.
+TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,The selected tier has been rerolled to a %d.
+TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Legendary fighters, imbued with the spirit of war."
+TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.","Mystical leaders, channeling Rhisis' powers to command and protect their allies."
+TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.","Cunning tricksters, weaving illusions and chaos."
+TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.","Elusive hunters, guided by the spirits of nature."
+TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolve.","Noble defenders, bound by honor and unbreakable resolve."
+TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
+TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
+TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
+TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,The start of all. You are Vagrant.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Failed to reveal a recipe.
+TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
+TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
+TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,You can't fly when fishing.
+TEXTCLIENT_COUPLEHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your current or further couple house!,You have successfully unlocked a new pet inventory slot for your current or further couple house!
+TEXTCLIENT_WANDERING_SHOP_TICKET_FAIL,You can only use this item when the Wandering Shop is open.,You can only use this item when the Wandering Shop is open.
+TEXTCLIENT_VENDOR_RADIUS,"There is already a Private Shop at this position, please move a little bit.","There is already a Private Shop at this position, please move a little bit."
+TEXTCLIENT_NO_SPECTATE_WORLD,You cannot spectate in this world.,You cannot spectate in this world.
+TEXTCLIENT_NO_SPECTATE_PLAYER,You cannot spectate this player.,You cannot spectate this player.
+TEXTCLIENT_NO_SPECTATE_WAR,You cannot spectate right now.,You cannot spectate right now.
+TEXTCLIENT_NO_SPECTATE_SELF,You cannot spectate yourself.,You cannot spectate yourself.
+TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not have permission to spectate.
+TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
+UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
+TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
+TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
+TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
+TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
+TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,Objet détruit suite à l'échec.
+TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
+TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
+TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
+TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
+TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d hours have passed] Excessive gaming can interfere with normal daily life.
+TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Your account is not allowed to access this server.
+TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,A statue in the name of the first person to reach maximum level.
+TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maximum upgrade.,A statue in the name of the first person to reach maximum upgrade.
+TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid material item for upgrade.
+TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
+TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
+TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
+TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
+TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
+TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
+TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
+TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,Vous avez obtenu : %s x%d
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.
+TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
+TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
+TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.
+TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,You do not have enough Trap Tool.
+TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping the same jewel failed.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,You do not have enough jewel or penya for synthesis.
+TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
+TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
+TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
+TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
+TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
+TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.

@@ -1,0 +1,51 @@
+﻿Key,English,Japanese
+CLIENT_FAQ_INC_000000,How can I be resurrected?,死んでしまった場合の復活方法は？
+CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.",復活ウィンドウからロードスターを選択してください。アシスト系列の職業のﾘｻﾞﾚｸｼｮﾝスキルをもらったりプレミアムアイテムの｢復活の巻物｣がインベントリにあると[Original Place]メニューが表示され、その場で復活が可能です。復活ウィンドウが開かない場合にはキーボードの[ESC]キーを押してください。
+CLIENT_FAQ_INC_000002,Where are the monsters?,モンスター(敵)はどこにいますか?
+CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,現在街の外の戦闘フィールドにいます。強力なモンスターが出ることがありますので注意してください。
+CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,ターゲットの設定・解除方法は?
+CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.",相手を左クリックするとターゲットに設定されます。ターゲットに設定された相手が攻撃可能な場合、再度左クリックで攻撃を開始します。キーボードの[ESC]キーでターゲットの解除ができます。
+CLIENT_FAQ_INC_000006,How can I attack continuously?,連続で攻撃するには？
+CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,敵をダブルクリックすると攻撃できます。連続攻撃の際の攻撃モーションは、レベルアップすることで増えていきます。
+CLIENT_FAQ_INC_000008,How do you use the skills?,スキルの使い方は?
+CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,スキルウィンドウ(短縮キー[K]キー)を開き、登録したいスキルを画面右下のアクションスロットに登録するか、[C]キーを押します。スキルを画面中央下にあるクイックスロットに登録してもスキルの使用が可能です。
+CLIENT_FAQ_INC_000010,How do you use the skills continuously?,スキルを組み合わせる方法は?
+CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting something to use those skills. Moves that are shaped like puzzle pieces need to be placed together.,画面の右下にあるアクションスロットに複数のスキルを登録すると左から順に発動されます。スキルによっては連続で使用できないものもあるので各スキルのアイコンの形をよく見て登録してください。
+CLIENT_FAQ_INC_000012,How do I gain my health back?,フードの回復量が減少しました
+CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,フード(食べ物)ごとに回復制限量があります。フードの回復量を確認して自分のHPに合ったフード(食べ物)を食べて回復してください。
+CLIENT_FAQ_INC_000014,How do I get a Job?,転職するには？
+CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",レベル15になったら、各街の[訓練所_教官]に会って転職クエストを受けられます。マージナリー・アシストはフラリス、マジシャンはセイントモーニング、アクロバットはダーコンにいるそれぞれの[訓練所_教官]から受けることができます。フラリスからセイントモーニングやダーコンへの移動には、それぞれ、ブリンクウイング（セイントモーニング)、ブリンクウイング（ダーコン）が必要です。各種ブリンクウイングは、魔法アイテムを取り扱っているＮＰＣ（マルシェ等）で購入する事ができます。
+CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,レベル15から経験値が増えません
+CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.",レベル15に達すると、１次転職をしなければモンスターを倒しても経験値を得ることができません。放浪者から転職するには希望する職業の[訓練所_教官]に会いに行ってクエストを受けて転職してください。
+CLIENT_FAQ_INC_000018,,
+CLIENT_FAQ_INC_000019,"In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill.",スキルには習得できるｷｬﾗｸﾀｰレベルまたは先行スキルが必要です。スキル習得が出来ない場合は該当の条件を満たしているか確認してください。
+CLIENT_FAQ_INC_000020,How do I fly?,飛行アイテム
+CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,レベル20になると飛行レベル1になり、飛行が可能になります。飛行をするためには魔法のホウキ（またはボード）が必要になります。ステーション近くのＮＰＣに声をかけ購入してください。フラリスではディオールというＮＰＣから魔法のホウキを購入することができます。
+CLIENT_FAQ_INC_000022,How do I move the camera.,視点の変更方法は?
+CLIENT_FAQ_INC_000023,There are two main ways to move the camera. Old Version: Press and hold the mouse wheel. Then move the mouse around. New Version: Press and hold the right mouse button. Then move the mouse around. Use the mouse wheel to zoom in or out and to rotate your camera.,右クリックしたままマウスを動かすことでカメラ（視点）の変更が可能です。キーボードの方向キーでも操作可能です。画面の拡大・縮小はマウスのホイールボタンを回転させてください。
+CLIENT_FAQ_INC_000024,How do I return to my default camera position?,視点を元に戻すには?
+CLIENT_FAQ_INC_000025,Old Version: Double click the mouse wheel. New Version: Double click the right mouse button.,最初の視点に戻すには、マウス右ボタンをダブルクリックしてください。（旧バージョンの設定：マウスのホイールボタンをダブルクリック）
+CLIENT_FAQ_INC_000026,"While flying, the camera is hard to move.",飛行時のカメラ操作方法は？
+CLIENT_FAQ_INC_000027,"While flying, double click on the right mouse button or use the arrow keys",飛行時にマウス右ボタンをダブルクリックすると、マウスを動かすだけで視点の変更ができます。
+CLIENT_FAQ_INC_000028,How can I use Emoticons?,休憩するには?
+CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emotion and drag it to the bar.,「F9」をクリックして休憩し、もう一度「F9」をクリックして立ち上がる。「O」を押して座る感情を選択し、クイックスロットにドラッグすることもできます。
+CLIENT_FAQ_INC_000030,How do you trade with other characters?,キャラクターと取引をするには?
+CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.",取引するキャラクターに、キーボードの[Alt]キーを押しながら左クリックするとメニューが表示されるので「取引」を選択してください。取引中はアイテムの使用、ＮＰＣ取引、アイテムを落とす等の動作はできません。
+CLIENT_FAQ_INC_000032,Where can I get a quest?,クエストはどこで受けられますか?
+CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,クエストには発生条件が設定されているものがあり、クエストに適したレベルや職業になった際に、ＮＰＣと会話することで発生します。また、パーティーやギルドに所属しないと発生しないものもあります。まずはＮＰＣと色々な会話をしてみましょう。
+CLIENT_FAQ_INC_000034,What is a duel?,デュエルとは？
+CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.",デュエルはキャラクター同士の対決を意味しており、デュエルゾーンで相手と合意した上で戦う PvP(Player Vs Player)です。PKとは違い、ペナルティーはありません。
+CLIENT_FAQ_INC_000036,How can I become famous?,名声を上げるには?
+CLIENT_FAQ_INC_000037,The more you win tournament the more famous you become. If you become a high level player people will recognize you no matter where you are.,※デュエルに勝利することで名声ポイントを得て、名声ポイントが 一定値に達するとキャラクターの職業に応じた称号が与えられます。
+CLIENT_FAQ_INC_000038,Why are some player names red? Can I attack everyone?,PKPとは?
+CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.",PKを続けると、PK値、PKPが増えます。このポイントが増えると、値によってゲーム内でいくつかの制限を受けてしまいます。また、PKをしたｷｬﾗｸﾀｰはｷｬﾗｸﾀｰ名が赤くなります。PK値は懺悔クエストを達成することで減少できます。また、PKPはモンスターを倒したりキャラクタが死亡した時に減少します。
+CLIENT_FAQ_INC_000040,"If I encounter a bug, what can I do?",バグの報告方法は?
+CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting the bug on our forums at $WEBSITE$,不具合を見つけた際は、公式サイトのお問い合わせメニューよりご報告ください。
+CLIENT_FAQ_INC_000042,What is a guild?,ギルドとは?
+CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.",ギルドはパーティーと違い、ログアウトをしても消えることのない、多数の人が集まるコミュニティー集団です。ギルドの成長によってギルド倉庫の利用、ギルドマント、1対1のギルド対戦などの機能が利用できます。
+CLIENT_FAQ_INC_000044,Where can we form a guild?,ギルドを作るには?
+CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",レベル40になると、セイントモーニングのNPC[ヘレナ]からギルドを作るためのクエストを受けることができます。このクエストを通して初めてギルドを作ることができます。
+CLIENT_FAQ_INC_000046,How about a Party?,パーティを作るには？
+CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,パーティレベルを10までアップさせ、パーティーウィンドウで 「変更」ボタンを押すとアドバンスパーティーになります。
+CLIENT_FAQ_INC_000048,How to invite other players?,他のプレイヤーを招待するには？
+CLIENT_FAQ_INC_000049,Click on another player and select Invite to join party.,「パーティヘ招待」他のプレイヤーを招待するには、レベルをレベル12にする必要があります。

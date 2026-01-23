@@ -1,0 +1,334 @@
+﻿Key,English,Spanish
+PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,Hemos recibido un pedido de $QUEST_END_ITEM_NAME$s para hacer vendajes de tratamiento medico para los pacientes. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,Hemos recibido un pedido de Vendajes de Grrr para hacer vendajes de tratamiento médico para los pacientes.
+PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,Hemos recibido un pedido de Amperes. Es el material radioactivo que los Enanos necesitan para trabajar por las noches.
+PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,Hemos recibido un pedido de Veneno de Boo para crear un antídoto. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000458,A request has gone out for $QUEST_END_ITEM_NAME$.,Hemos recibido un pedido de $QUEST_END_ITEM_NAME$s para crear un antídoto.
+PROPQUEST_REQUESTBOX_INC_000519,A request has gone out for Rootioe to be used as woodworking material. Will you help?,"Hemos recibido un pedido de Rootioe, que se utiliza como material substituto a los materiales de la carpintería, porque se están acabando. ¿Aceptas esta misión?"
+PROPQUEST_REQUESTBOX_INC_000366,You can get $QUEST_END_ITEM_NAME$ from any type of $QUEST_END_ITEM_MON$.,Puedes conseguir $QUEST_END_ITEM_NAME$ de cualquier tipo de $QUEST_END_ITEM_MON$.
+PROPQUEST_REQUESTBOX_INC_000322,You can collect $QUEST_END_ITEM_NAME$ from all types of $QUEST_END_ITEM_MON$.,Puedes conseguir $QUEST_END_ITEM_NAME$ de todos los tipos de $QUEST_END_ITEM_MON$.
+PROPQUEST_REQUESTBOX_INC_000014,You can collect $QUEST_END_ITEM_NAME$ near a bridge in north.,Puedes recolectar $QUEST_END_ITEM_NAME$ cerca del puente que hay al norte.
+PROPQUEST_REQUESTBOX_INC_000025,You can collect Unknown Certificates near the Bangs.,Puedes recolectar Certificados Desconocidos cerca de los Bangs.
+PROPQUEST_REQUESTBOX_INC_000091,You can collect nyanyang near the Giant Nyangnyang.,Puedes recolectar Nyanyang cerca de la Nyangnyang Gigante.
+PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,Puedes recolectar los Documentos de Oficina cerca de las Mias.
+PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,¿No quieres recolectarlos? Vale.
+PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,Necesitas más $QUEST_END_ITEM_NAME$s.
+PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,No tienes suficientes $QUEST_END_ITEM_NAME$s.
+PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,Bien hecho. Has completado la misión con éxito.
+PROPQUEST_REQUESTBOX_INC_000357,Good Job! You successfully completed the quest. Take this for your trouble.,¡Buen trabajo! ¡Has completado la misión con éxito! Toma esto por los problemas ocasionados.
+PROPQUEST_REQUESTBOX_INC_000362,$QUEST_END_NPC_NAME$ was happy that the quest was completed.,$QUEST_END_NPC_NAME$ esta feliz de que se haya completado la misión.
+PROPQUEST_REQUESTBOX_INC_000307,$QUEST_END_NPC_NAME$ was happy to see the quest completed.,$QUEST_END_NPC_NAME$ se alegra de ver la que la misión está completada.
+PROPQUEST_REQUESTBOX_INC_000582,$QUEST_END_NPC_NAME$ is very grateful to you for completing this quest.,$QUEST_END_NPC_NAME$ está muy agradecida contigo por haber completado esta misión.
+PROPQUEST_REQUESTBOX_INC_000001,Party of Is,La Fiesta de Is
+PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,Is necesita que consigas Chupims para su fiesta. ¿Ayudarás?
+PROPQUEST_REQUESTBOX_INC_000007,Is asking you to collect Chupim for her party.,Is quiere que consigas Chupims para su fiesta.
+PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),Situación Desconocida (1)
+PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,El Pang de Flaris necesita Cartas Desconocidas. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,El Pang de Flaris quiere $QUEST_END_ITEM_NAME$s.
+PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,El Pang de Flaris necesita Certificados Desconocidos. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000034,Flying Board,Tabla Voladora
+PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,Dior necesita que consigas Peakyrinds para la producción en masa de Tablas Voladoras. ¿Ayudarás?
+PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,Dior quiere que consigas Peakyrinds para la producción en masa de Tablas Voladoras.
+PROPQUEST_REQUESTBOX_INC_000045,Fresh Start for Mop,Nuevo Comienzo para Mop
+PROPQUEST_REQUESTBOX_INC_000046,House of Children needs you to collect Mop for their children. Will you help?,La Casa de Niños necesita Mops. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000051,House of Children wants you to collect 3 Mop.,La Casa de Niños quiere que consigas 3 Mops.
+PROPQUEST_REQUESTBOX_INC_000056,Gems for Wands,Gemas para Varitas
+PROPQUEST_REQUESTBOX_INC_000057,Madrigal Magician Union wants you to collect Poporam for their wands. Will you help?,La Unión de Magicians de Madrigal necesita Poporams para fabricar sus Varitas. ¿Les ayudarás?
+PROPQUEST_REQUESTBOX_INC_000062,Madrigal Magician Union wants you to collect 4 Poporam.,La Unión de Magicians de Madrigal quiere que consigas 4 Poporams para fabricar Varitas.
+PROPQUEST_REQUESTBOX_INC_000067,"Cookie Machine, Valin Baget",La Máquina de Galletas de Valin Baget
+PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,Valin necesita Slains para fabricar combustible para su Máquina de Galletas. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000073,Valin needs you to collect Slain for his cookie machine.,Valin necesita Slains para fabricar combustible para su Máquina de Galletas.
+PROPQUEST_REQUESTBOX_INC_000078,Magic Quill,Pluma Mágica
+PROPQUEST_REQUESTBOX_INC_000079,Mule wants you to collect Tarin roots so he can make a new magic quill. Will you help?,Mule quiere que consigas Raíces Tarin para poder hacer una nueva pluma mágica. ¿Le ayudarás?
+PROPQUEST_REQUESTBOX_INC_000084,Mule needs you to collect Tarin roots.,Mule necesita Raíces Tarin para crear una nueva Pluma Mágica.
+PROPQUEST_REQUESTBOX_INC_000089,Lyangglatang,Lyangglatang
+PROPQUEST_REQUESTBOX_INC_000090,Rooney wants you to collect Nyanyangs for her party. Will you help?,Rooney quiere que consigas Nyanyangs para su fiesta. ¿Ayudarás?
+PROPQUEST_REQUESTBOX_INC_000095,Rooney needs you to collect Nyanyangs.,Rooney necesita que consigas Nyanyangs para su fiesta.
+PROPQUEST_REQUESTBOX_INC_000100,10 Year anniversary gift,El regalo del décimo aniversario
+PROPQUEST_REQUESTBOX_INC_000101,Marche wants you to collect Starstones to make a 10 year anniversary gift. Will you help?,Marche quiere que consigas Piedras Estelares para hacer un regalo de décimo aniversario. ¿La ayudarás?
+PROPQUEST_REQUESTBOX_INC_000106,Marche needs Starstones,Marche necesita Piedras Estelares para hacer un regalo de décimo aniversario.
+PROPQUEST_REQUESTBOX_INC_000111,Liquor for Dunkan,El Licor de Dunkan
+PROPQUEST_REQUESTBOX_INC_000112,Dunkan needs you to collect Golden Wings to make a new liquor. Will you help?,Dunkan necesita Alas Doradas para hacer un nuevo licor. ¿Le ayudarás?
+PROPQUEST_REQUESTBOX_INC_000117,Dunkan wants Golden Wings.,Dunkan quiere Alas Doradas para hacer un nuevo licor.
+PROPQUEST_REQUESTBOX_INC_000122,Sweet Dessert,Un Postre muy Dulce
+PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,Damian necesita Miel Azul para hacer un postre nuevo. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,Damian necesita Miel Azul para hacer un postre nuevo.
+PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,Muñeca Bendecida
+PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,La Casa de Niños necesita Muñecas Mia para hacer regalos a sus niños. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,La Casa de Niños quiere Muñecas Mia para hacer regalos a sus niños.
+PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,Documentos Perdidos
+PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,Julia necesita recuperar unos Documentos de Oficina que han robado las Mias. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,Julia necesita recuperar los Documentos de Oficina que han robado las Mias.
+PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,El Fuego Quema
+PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,Bozman necesita Cerillas Furiosas para usarlas en su horno. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,Bozman quiere Cerillas Furiosas para usarlas en su horno.
+PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),Situacion Desconocida (2)
+PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,El Pang de Flaris necesita Cartas Desconocidas. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,El Flaris Pang necesita Cartas Desconocidas otra vez.
+PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,Una Salsa Deliciosa
+PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,Kalin necesita Cardrins para hacer una deliciosa salsa.
+PROPQUEST_REQUESTBOX_INC_000183,Kalin wants Cardrin.,Kalin quiere Cardrins para hacer una deliciosa salsa.
+PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,Orbe Magico
+PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,Martin necesita Hammarbles para fabricar un Orbe Mágico. ¿Le ayudarás?
+PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,Martin quiere Hammarbles para fabricar un Orbe Mágico.
+PROPQUEST_REQUESTBOX_INC_000199,Mark of Bill,La Marca de Bill
+PROPQUEST_REQUESTBOX_INC_000200,Bill needs you to collect Gigglande so that he can make his mark. Will you help?,Bill necesita Gigglandes para crear su marca. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000205,Bill wants Gigglande.,Bill quiere Gigglandes para crear su marca.
+PROPQUEST_REQUESTBOX_INC_000210,Repair Work on Saint Hall,Trabajo de Reparación en el Ayuntamiento de Saint
+PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,Helena necesita Piedras Crecientes para reparar el Ayuntamiento de Saint. ¿Ayudarás?
+PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,Helena quiere $QUEST_END_ITEM_NAME$s para reparar el Ayuntamiento de Saint.
+PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,Ayuda a los animales heridos
+PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,La Asociación de Animales de Madrigal necesita Bobands para ayudar a los animales heridos. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,La Asociación de Animales de Madrigal quiere Bobands para ayudar a los animales heridos.
+PROPQUEST_REQUESTBOX_INC_000232,Strange Collector,Un Coleccionista Extraño
+PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,El Coleccionista Extraño necesita Dumblings para su colección. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000243,For the Wife,Para la Esposa
+PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,Mayer necesita Kalins para hacerle un regalo a su esposa. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,Mayer quiere Kalins para hacerle un regalo a su esposa.
+PROPQUEST_REQUESTBOX_INC_000254,Weak Heart,Corazón Débil
+PROPQUEST_REQUESTBOX_INC_000255,Helena needs clock hearts to make a new heart for her sick brother. Will you help?,Helena necesita Corazones del Tiempo para hacerle un corazón nuevo a su hermano enfermo. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000265,Devil Marble,Mármol del Demonio
+PROPQUEST_REQUESTBOX_INC_000266,Bill needs Tomb Marbles to make the Devil Marble. Will you help?,Bill necesita Tumbas de Mármol para fabricar mármol del demonio. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000271,Bill wants Tomb Marbles.,Bill quiere Tumbas de Mármol para fabricar el mármol del demonio.
+PROPQUEST_REQUESTBOX_INC_000276,Dream of the Fighter,El Sueño de todo Guerrero
+PROPQUEST_REQUESTBOX_INC_000277,Fighter needs you to collect Golden Fists to make a golden glove. Will you help?,Los Guerreros necesitan Puños Dorados para hacer un guante de oro. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000282,Fighter wants Golden Fists.,Los Guerreros quieren Puños Dorados para hacer un guante de oro.
+PROPQUEST_REQUESTBOX_INC_000287,Marbles for the Son,Canicas para el Hijo
+PROPQUEST_REQUESTBOX_INC_000288,Mayer needs orbin to make marbles for his son. Will you help?,Mayer necesita Orbrins para hacer canicas para su hijo. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000293,Mayer wants orbin.,Mayer quiere Orbrins para hacer canicas para su hijo.
+PROPQUEST_REQUESTBOX_INC_000298,Strange Collector (2),Un Coleccionista Extraño (2)
+PROPQUEST_REQUESTBOX_INC_000299,Strange Collector needs you to collect $QUEST_END_ITEM_NAME$ for his collection. Will you help?,El Coleccionista Extraño necesita $QUEST_END_ITEM_NAME$ para su colección. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000304,Strange Collector wants $QUEST_END_ITEM_NAME$.,El Coleccionista Extraño quiere $QUEST_END_ITEM_NAME$s para su colección.
+PROPQUEST_REQUESTBOX_INC_000309,Lens of Olien,Lentes para Olien
+PROPQUEST_REQUESTBOX_INC_000310,Olien needs you to collect steam tears to make a new lens. Will you help?,Olien necesita Lágrimas de Vapor para crear sus nuevas lentes. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000315,Olien wants steam tears.,Olien quiere Lágrimas de Vapor para crear sus nuevas lentes.
+PROPQUEST_REQUESTBOX_INC_000320,Red Muffler,Bufandas Rojas
+PROPQUEST_REQUESTBOX_INC_000321,Soldier needs you to collect knightlers to make a new scarf. Will you help?,Los soldados necesitan Knightlers para hacer unas nuevas bufandas. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000326,Soldier wants knightler.,Los soldados quieren Knightlers para hacer unas bufandas nuevas.
+PROPQUEST_REQUESTBOX_INC_000331,Dwarpet Festival,El Festival de los Enanos
+PROPQUEST_REQUESTBOX_INC_000332,The Dwarpet needs you to collect wheeshoes for their festival. Will you help?,Los Enanos necesitan Wheeshoes para su festival. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000337,The Dwarpet wants wheesoes.,Los Enanos quieren Wheeshoes para usarlos en su festival.
+PROPQUEST_REQUESTBOX_INC_000342,Crane Repair,Reparación de la Grúa
+PROPQUEST_REQUESTBOX_INC_000343,The Erons Industrial Manager needs Droil to repair their crane. Will you help?,El Gerente Industrial de Erons necesita Droils para reparar su grúa. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000348,Erons want Droils.,El Gerente Industrial de Erons quiere Droils para reparar su grúa.
+PROPQUEST_REQUESTBOX_INC_000353,Urgently looking for a Bandage,Buscando un Vendaje con urgencia
+PROPQUEST_REQUESTBOX_INC_000364,Portable Power,Poder Portátil
+PROPQUEST_REQUESTBOX_INC_000375,Strange Collector (3),Un Coleccionista Extraño (3)
+PROPQUEST_REQUESTBOX_INC_000386,Replacement Tires,Neumáticos de repuesto
+PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,Los Enanos necesitan Neumáticos de Dump para reemplazar sus llantas. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000392,The Dwarpet wants Dumptire.,Los Enanos quieren Neumáticos de Dump para reemplazar sus llantas.
+PROPQUEST_REQUESTBOX_INC_000397,Strange Collector (4),Un Coleccionista Extraño (4)
+PROPQUEST_REQUESTBOX_INC_000398,Mysterious collector needs Garbageton for his collection. Will you help?,El Coleccionista Extraño necesita Garbagetons para su colección. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000408,Relics of a Husband,Reliquias del Marido
+PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,Una viuda ha pedido Eroniors para poder rehacer el anillo de su marido. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000414,A widow wants some Eronior.,Una viuda quiere Eroniors para rehacer el anillo de su marido.
+PROPQUEST_REQUESTBOX_INC_000419,Disguise of Remina,El Disfraz de Remina
+PROPQUEST_REQUESTBOX_INC_000420,Remina needs you to collect repygle to make a pair of disguising sunglasses. Will you help?,Remina necesita Repygles para hacer un par de gafas de sol para un disfraz. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000425,Remina wants $QUEST_END_ITEM_NAME$.,Remina quiere $QUEST_END_ITEM_NAME$s para hacer un par de gafas para un disfraz.
+PROPQUEST_REQUESTBOX_INC_000430,Beautiful Keil Wallpaper,Un papel de pared hermoso
+PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,Heaven necesita Sycales para reformar las paredes de su Tienda de Magia. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000436,Heaven wants Sycale.,Heaven quiere Sycales para reformar las paredes de su Tienda de Magia.
+PROPQUEST_REQUESTBOX_INC_000441,Strange Collector (5),Un Coleccionista Extraño (5)
+PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,El Coleccionista Extraño necesita $QUEST_END_ITEM_NAME$s para su colección. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000447,Strange collector want Mong Tear,El Coleccionista Extraño quiere Lágrimas Mong para su colección.
+PROPQUEST_REQUESTBOX_INC_000452,Anesthetic Needs,Se necesitan Anestésicos
+PROPQUEST_REQUESTBOX_INC_000463,New Kind of Firework,Un nuevo tipo de Fuegos Artificiales
+PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,Un productor de Fuegos Artificiales necesita Temporizadores de Bomba para su nuevo tipo de Fuegos Artificiales. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000465,You get bombtimers from any type of Carrierbomb.,Puedes conseguir Temporizadores de Bomba de cualquier tipo de Carrierbomb.
+PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,Un productor de Fuegos Artificiales quiere Temporizadores de Bomba para sus nuevos productos.
+PROPQUEST_REQUESTBOX_INC_000474,Snack for the Children,Picoteo para los Niños
+PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,Bolpor necesita Prewings para cocinar algo de picoteo para los niños. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,Bolpor quiere Prewings para cocinar algo de picoteo para los niños.
+PROPQUEST_REQUESTBOX_INC_000485,Mushroom Farm of Chitller,La Granja de Setas de Chitller
+PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,"Chitller necesita Poiespores para su granja de setas, ¿Aceptas esta misión?"
+PROPQUEST_REQUESTBOX_INC_000491,Chitller wants Poiespore.,Chitller quiere Poiespores para su granja de setas.
+PROPQUEST_REQUESTBOX_INC_000496,New Yo-Yo,Yo-Yo Nuevo
+PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,Un Maestro Acrobat necesita Renykens para crear un nuevo Yo-Yo. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000502,An Acrobat master wants Renyken.,Un Maestro Acrobat quiere Renykens para crear un nuevo Yo-Yo.
+PROPQUEST_REQUESTBOX_INC_000507,Disguise of a Native,Disfraces para los Nativos
+PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,Los nativos de Darkon necesitan Tangkasks para escapar de los peligrosos Watangka. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000513,Darkon natives want Tankask.,Los nativos de Darkon quieren Tangkasks para escapar de los peligrosos Watangka.
+PROPQUEST_REQUESTBOX_INC_000518,Woodworking Material,Material para la Carpinteria
+PROPQUEST_REQUESTBOX_INC_000529,The Best Shield,El Mejor Escudo
+PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,Remina nos ha pedido recolectar algunos Luchest para hacer el escudo más fuerte del mundo. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000540,Beauty Contest Award,Premio para el Concurso de Belleza
+PROPQUEST_REQUESTBOX_INC_000541,The Madrigal Beauty Contest needs Eronsimint for making an award. Will you help?,Se necesitan Eronsimints para los premios del Concurso de Belleza de Madrigal. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000546,The Madrigal Beauty Contest sponsor wants Eronsimint.,Consigue Eronsimints para los premios del Concurso de Belleza de Madrigal.
+PROPQUEST_REQUESTBOX_INC_000551,Lucky Tool,La Herramienta de Lucky
+PROPQUEST_REQUESTBOX_INC_000552,Lucky needs Hammamer to make a lucky hammer. Will you help?,Lucky necesita Hammamers para crear un martillo de la suerte. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000557,Lucky wants Hammamer.,Lucky quiere Hammamers para crear un martillo de la suerte.
+PROPQUEST_REQUESTBOX_INC_000562,Strange Collector (6),Un Coleccionista Extraño (6)
+PROPQUEST_REQUESTBOX_INC_000573,Request of Lurif,El Pedido de Lurif
+PROPQUEST_REQUESTBOX_INC_000574,Could you do me a favor? I need Phanbubble. Can you help me please?,¿Puedes hacerme un favor? Necesito Phanbubbles. ¿Puedes ayudarme por favor?
+PROPQUEST_REQUESTBOX_INC_000579,Lurif needs many Phanbubbles.,Lurif necesita muchos Phanbubbles.
+PROPQUEST_REQUESTBOX_INC_000815,Mysterious Magic Material,Material Mágico Misterioso
+PROPQUEST_REQUESTBOX_INC_000816,Magician Master requested you to collect Merahook which is a magic material. Will you accept this request?,"La Maestra Magician quiere Merahooks, que es un material mágico. ¿Aceptas esta misión?"
+PROPQUEST_REQUESTBOX_INC_000817,You can collect them from the group of Chimeradon in the Deadwallderness.,Puedes conseguirlos del grupo de Chimeradons que hay en el Desierto Muerto.
+PROPQUEST_REQUESTBOX_INC_000826,Avenge Nerky,Venganza Nerky
+PROPQUEST_REQUESTBOX_INC_000827,Krinton's pet Bearnerky got killed by the other Bearnerky. Krinton requested you to collect NerkyMane for revenge. Will you accept this request?,La mascota Bearnerky de Krinton ha sido asesinado por otro Bearnerky. Krinton quiere Nerkymanes para vengarse. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000828,You can collect them from the group of Bearnerky in the Deadwallderness.,Puedes conseguirlos del grupo de Bearnerky que hay en el Desierto Muerto.
+PROPQUEST_REQUESTBOX_INC_000837,Bolpor's favor,Un favor para Bolpor
+PROPQUEST_REQUESTBOX_INC_000838,Bolpor requested you to collect Rincruet for making some special food. Will you accept this request?,Bolpor necesita Rincruets para hacer una comida especial. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000839,You can collect them from the group of Muffrin in the Deadwallderness.,Puedes conseguirlos del grupo de Muffrin que hay en el Desierto Muerto.
+PROPQUEST_REQUESTBOX_INC_000848,Toy Materials,Materiales para los Juguetes
+PROPQUEST_REQUESTBOX_INC_000849,A toy merchant requested you to collect Popshift for making fancy toys. Will you accept this request?,Un mercader de juguetes necesita Popshifts para hacer unos juguetes de lujo. ¿Aceptas esta misión?
+PROPQUEST_REQUESTBOX_INC_000850,You can collect them from the group of Popcrank in the Deadwallderness.,Puedes conseguirlos del grupo de Popcrank que hay en el Desierto Muerto.
+PROPQUEST_REQUESTBOX_INC_000859,Evil Eyed Red Dragon,Dragón Rojo de Ojos Malvados
+PROPQUEST_REQUESTBOX_INC_000860,Can you please go find Dragon Tooth of the Meteonyker Dragon for me? The Arena Manager Lay requested 5 of them.,¿Puedes ir a buscar los Colmillos de Dragón del Meteonyker para mí? El Mánager de la Arena Lay ha solicitado 5 de ellos.
+PROPQUEST_REQUESTBOX_INC_000861,"You can collect them from Meteonyker. I heard it's in Dekane Dungeon. Be careful, the Meteonyker is very strong! It's  best if you go with a party!",Los puedes conseguir derrotando al Meteonyker. Escuché que está en la Mina Dekane. ¡Ten cuidado! ¡El Meteonyker es muy fuerte! ¡Mejor que vayas con más gente!
+PROPQUEST_REQUESTBOX_INC_010000,Moth Infestation,Plaga de Polillas
+PROPQUEST_REQUESTBOX_INC_010001,Tina asked for help with reducing the Mothbee population as they're causing problems with transport. Could you kill 15 of them?,"Tina ha pedido ayuda para reducir la población de Mothbees, ya que están causando problemas con el transporte. ¿Podrías eliminar a 15?"
+PROPQUEST_REQUESTBOX_INC_010002,You can find Mothbee flying inbetween Northern Saint City & Flaris.,Puedes encontrar a las Mothbees volando entre el Norte de Saint City y Flaris.
+PROPQUEST_REQUESTBOX_INC_010003,You don't want to help? That's okay. We'll find somebody else.,¿No quieres ayudar? De acuerdo. Encontraremos a otra persona.
+PROPQUEST_REQUESTBOX_INC_010004,You haven't finished the task yet.,Aún no has terminado la tarea.
+PROPQUEST_REQUESTBOX_INC_010005,Mutated Aibatts,Aibatts Mutados
+PROPQUEST_REQUESTBOX_INC_010006,Tina has reported a new kind of Masquerpet called Zendros. Please could you kill 15 of them?,"Tina ha informado sobre un nuevo tipo de Masquerpet llamado Zendros. Por favor, ¿podrías matar a 15 de ellos?"
+PROPQUEST_REQUESTBOX_INC_010007,You can find Zendros flying between Flaris and Saint morning continents.,Puedes encontrar a los Zendros volando entre los continentes de Flaris y Saint Morning.
+PROPQUEST_REQUESTBOX_INC_010008,Dragonflies,Libélulas
+PROPQUEST_REQUESTBOX_INC_010009,Tina asked for help with reducing the Neparuba population as they're causing problems with transport. Could you kill 15 of them?,Tina ha pedido ayuda para reducir la población de Neparubas ya que están causando problemas con el transporte. ¿Podrías derrotar a 15?
+PROPQUEST_REQUESTBOX_INC_010010,You can find Neparuba flying between Flaris and Saint morning continents.,Puedes encontrar a las Neparubas volando entre los continentes de Flaris y Saint Morning.
+PROPQUEST_REQUESTBOX_INC_010011,Flybrigen Brigade,Brigada Flybrigen
+PROPQUEST_REQUESTBOX_INC_010012,Tina asked for help with reducing the Flybrigen population as they're causing problems with transport. Could you kill 15 of them?,"Tina ha pedido ayuda para reducir la población de Flybrigens, ya que están causando problemas con el transporte. ¿Podrías derrotar a 15?"
+PROPQUEST_REQUESTBOX_INC_010013,You can find Flybrigen flying between Saint Morning and Garden of Rhisis continents.,Puedes encontrar a los Flybrigens volando entre el continente de Saint Morning y el Jardín de Rhisis.
+PROPQUEST_REQUESTBOX_INC_010014,Moth Infestation (2),Plaga de Polillas (2)
+PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?
+PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.
+PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),Aibatts Mutados (2)
+PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?
+PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,You can find the Lord Zendros flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010020,Dragonflies (2),Libélulas (2)
+PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?
+PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,You can find the Lord Neparuba flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),Brigada Flybrigen (2)
+PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?
+PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.
+PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,Circo Volador
+PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,"Dior ha pedido ayuda para reducir la población de Rockepellers, ya que están causando problemas con el transporte entre Darkon y Flaris. ¿Podrías derrotar a 15 de ellos?"
+PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,Puedes encontrar a los Rockepellers volando entre los continentes de Flaris y Darkon.
+PROPQUEST_REQUESTBOX_INC_010029,Zenma Hunting,Caza de Zenmas
+PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,"Almani ha pedido ayuda para reducir la población de Zenmas, ya que están causando problemas con la forestación en las Montañas Gouthan. ¿Podrías eliminar a 15 de ellos?"
+PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,Puedes encontrar a los Zenmas volando sobre las Montañas Gouthan.
+PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!","¡Oye, mira, una rata voladora!"
+PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?","Almani ha pedido que se extermine a los Longwings, ya que han estado atacando a civiles. ¿Podrías deshacerte de 15 de ellos?"
+PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,Puedes encontrar a los Longwings volando al Sureste de la Jaula de Clockworks en las montañas.
+PROPQUEST_REQUESTBOX_INC_010035,Baby Meteonyker,Meteonyker Bebé
+PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?","¡Almani ha pedido que se extermine a los Fafnirs, antes de que se conviertan en Dragones! Por favor, ¿podrías deshacerte de 15 de ellos?"
+PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.","Puedes encontrar a los Fafnirs volando cerca del Volcán en Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,Pájaros Prehistóricos
+PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,"Almani ha pedido que se extermine a los Gorrudas. ¡Son una amenaza inminente! Por favor, ¿podrías deshacerte de 15 de ellos?"
+PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.","Puedes encontrar a los Gorrudas volando al Oeste del Desierto Muerto, sobre las montañas."
+PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),Circo Volador (2)
+PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?
+PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,You can find the Lord Rockepeller flying between Flaris and Darkon continents.
+PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)","¡Oye, mira, una rata voladora! (2)"
+PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?
+PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.
+PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),Meteonyker Bebé (2)
+PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),Pájaros Prehistóricos (2)
+PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?
+PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.","Puedes encontrar al $QUEST_END_KILL_NAME$ volando al oeste de Deadwallderness, sobre las montañas."
+PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),Caza de Zenmas (2)
+PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,You can find the Lord Zenma flying above Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,Puedes conseguir $QUEST_END_ITEM_NAME$s de cualquier tipo de Chimeradon.
+PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,Puedes obtener $QUEST_END_ITEM_NAME$s de cualquier tipo de Bearnerky.
+PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,Puedes obtener $QUEST_END_ITEM_NAME$ de cualquier tipo de Muffrin.
+PROPQUEST_REQUESTBOX_INC_020003,You can get $QUEST_END_ITEM_NAME$ from any type of Popcrank.,Puedes obtener $QUEST_END_ITEM_NAME$s de cualquier tipo de Popcrank.
+PROPQUEST_REQUESTBOX_INC_020004,You can collect $QUEST_END_ITEM_NAME$ from all types of Red Mantis.,Puedes conseguir $QUEST_END_ITEM_NAME$s de todos los tipos de Red Mantis.
+PROPQUEST_REQUESTBOX_INC_020005,Obsessed with Crystals! (1),¡Obsesionado con los Cristales! (1)
+PROPQUEST_REQUESTBOX_INC_020006,Obsessed with Crystals! (2),¡Obsesionado con los Cristales! (2)
+PROPQUEST_REQUESTBOX_INC_020007,Obsessed with Crystals! (3),¡Obsesionado con los Cristales! (3)
+PROPQUEST_REQUESTBOX_INC_020008,Obsessed with Crystals! (4),¡Obsesionado con los Cristales! (4)
+PROPQUEST_REQUESTBOX_INC_020009,Obsessed with Crystals! (5),¡Obsesionado con los Cristales! (5)
+PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,¡¡Cristales!! Mmmm... ¡$QUEST_END_ITEM_NAME$s! ¿Podrías traerme algo de $QUEST_END_ITEM_NAME$?
+PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,Puedes obtener $QUEST_END_ITEM_NAME$ de cualquier tipo de Medumet.
+PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,Puedes obtener $QUEST_END_ITEM_NAME$ de cualquier tipo de Yetti.
+PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,Puedes obtener $QUEST_END_ITEM_NAME$ de cualquier tipo de Augu.
+PROPQUEST_REQUESTBOX_INC_020014,You can get $QUEST_END_ITEM_NAME$ from any type of Ghost of the Forgotten.,Puedes obtener $QUEST_END_ITEM_NAME$ de cualquier tipo de Fantasma de los Olvidados.
+PROPQUEST_REQUESTBOX_INC_020015,You can get $QUEST_END_ITEM_NAME$ from any type of Mammoth.,Puedes obtener $QUEST_END_ITEM_NAME$ de cualquier tipo de Mammoth.
+PROPQUEST_REQUESTBOX_INC_020016,You did it! Hooray! Here's your reward. Come back soon!,¡Lo hiciste! ¡Hurra! Aquí está tu recompensa. ¡Vuelve pronto!
+PROPQUEST_REQUESTBOX_INC_020017,More! More!,¡Más! ¡Más!
+PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,Trae Alas Rotas
+PROPQUEST_REQUESTBOX_INC_020019,Tigar Bites,Mordeduras Tigar
+PROPQUEST_REQUESTBOX_INC_020020,Googly-Eyed Gogloo,Gogloo Ojos Saltones
+PROPQUEST_REQUESTBOX_INC_020021,Nippy Waters,Agua Refrescante
+PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,Choncha Dura Creper
+PROPQUEST_REQUESTBOX_INC_020023,Crumbly Purple Essence,Esencia Púrpura Desmenuzable
+PROPQUEST_REQUESTBOX_INC_020024,A Gray Picture of Dorian,Una imagen gris de Dorian
+PROPQUEST_REQUESTBOX_INC_020025,King of Coral Island,Rey de Isla Coral
+PROPQUEST_REQUESTBOX_INC_020026,Letter in a Bottle,Carta en una botella
+PROPQUEST_REQUESTBOX_INC_020027,Hello adventurer... would you bring me $QUEST_END_ITEM_NAME$ from the Atrox? I want to build giant wings I can soar the skies with! Bring me all you can find...,Hola aventurero... ¿Me traerías $QUEST_END_ITEM_NAME$ del Atrox? ¡Quiero construir alas gigantes con las que pueda volar por los cielos! Tráeme todo lo que puedas encontrar..
+PROPQUEST_REQUESTBOX_INC_020028,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!,"Se sabe que los Tigars tienen los dientes más fuertes de todo Madrigal. Si encuentras $QUEST_END ITEM_NAME$, ¿podrías traerme algunos? Estoy creando una daga gigante... ¡¡será ENORME!!"
+PROPQUEST_REQUESTBOX_INC_020029,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!,El cristal dentro del $QUEST_END_ITEM_NAME$ de un Meral puede mejorar la visión hasta tres veces su distancia normal. ¡¡Reúnanme lo suficiente y podría construir un telescopio para mirar al otro lado del mundo!!
+PROPQUEST_REQUESTBOX_INC_020030,"All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share...","¡¡Todo este inventar me tiene hambrienta!! ¿Podrías traerme un poco de $QUEST_END_ITEM_NAME$ de Kingster? ¡Comeremos como reyes! No te preocupes, lo compartiré."
+PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!","¡Después de todo ese marisco no pude comer más! Para este próximo invento, necesito $QUEST_END_ITEM_NAME$ de los cangrejos grandes llamados Creper. Con su duro caparazón crearé las armaduras más fuertes. ¡Preveo que usar esta armadura salvará Isla Coral!"
+PROPQUEST_REQUESTBOX_INC_020032,"The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger.","Los Naga son poderosos guerreros del mar. Se dice que sus $QUEST_END_ITEM_NAME$ tienen poderes mágicos que aprovechan la energía púrpura. Tengo miedo a la Magia Púrpura, pero lo que no te mata te hace más fuerte."
+PROPQUEST_REQUESTBOX_INC_020033,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...,"¡Los Dorian han surgido de los mares que rodean nuestra isla! Por favor, derrótalos y recoge su $QUEST_END_ITEM_NAME$. Mis inventos sólo pueden detenerlos por un tiempo."
+PROPQUEST_REQUESTBOX_INC_020034,"The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!","¡El $QUEST_END_ITEM_NAME$ del Okean debe ser mío! Sé que tener su corona no me convertirá en rey, pero me pondrá en el camino de mi sueño. ¡Ser Rey de Isla Coral!"
+PROPQUEST_REQUESTBOX_INC_020035,"With the $QUEST_END_ITEM_NAME$ from the Kraken, I could finally write to all my friends across the oceans. There's never enough time to keep up with everyone...","Con el $QUEST_END_ITEM_NAME$ del Kraken, finalmente pude escribirle a todos mis amigos al otro lado del océano. Nunca hay tiempo suficiente para seguir a todos."
+PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of the Atrox crawling around the island.,Puedes encontrar $QUEST_END_ITEM_NAME$ de cualquiera de los Atrox que se arrastran por la isla.
+PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,Puedes encontrar $QUEST_END_ITEM_NAME$ de Tigars en toda la isla.
+PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,Puedes encontrar $QUEST_END_ITEM_NAME$ del Meral patrullando las playas.
+PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,Puedes encontrar deliciosos $QUEST_END_ITEM_NAME$ de Kingsters en aguas someras alrededor de la isla.
+PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,Posiblemente encuentres $QUEST_END_ITEM_NAME$ difíciles de Creper en el área de la playa.
+PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,Puedes encontrar $QUEST_END_ITEM_NAME$ de Naga alrededor de Isla Coral.
+PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,Posiblemente encuentres $QUEST_END_ITEM_NAME$ de Dorian alrededor de Isla Coral.
+PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.","Puedes encontrar $QUEST_END_ITEM_NAME$ magníficos de Okean, en lo profundo del mar de Isla Coral."
+PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,Es posible que encuentres $QUEST_END_ITEM_NAME$ en el vientre del Kraken de aguas profundas.
+PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!","Por favor, no me obligues a recolectar $QUEST_END_ITEM_NAME$ solo. ¡Estoy demasiado ocupado con nuevos inventos!"
+PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! Pronto estaré surcando los cielos. ¡Nos vemos en la Carrera Arcoíris!"
+PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! Pronto tendré el puñal más grande de Madrigal. Jejeje, ¡Presumiré ante todos!"
+PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! ¡Pronto podré ver los lugares de interés sin tener que salir de casa!"
+PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! ¡Vamos a estar muy llenos! ¡Come, es hora de un festín!"
+PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! ¡Pronto tendré suficiente armadura para defender Isla Coral contra todo mal!"
+PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! Pronto sabré más sobre esta Magia Púrpura. Quizás algún día sea suficiente para evitar que su maldad se apodere de Isla Coral."
+PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! Esas criaturas parecidas a peces tienen un extraño poder que les hace envejecer más lentamente. Quizás estudiar sus dientes pueda darnos una idea de los poderes especiales de Dorian."
+PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! Es solo un sueño... pero espero saludarte algún día como Rey de Isla Coral."
+PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!","¡Gracias por reunir todos esos $QUEST_END_ITEM_NAME$, aventurero! He decidido escribir estas cartas y entregarlas yo mismo. Gracias por todo. ¡Espero volver a verte algún día!"
+PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,No es suficiente $QUEST_END_ITEM_NAME$ para construir mi gran invento... ¡Tráeme más!
+PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,¡$QUEST_END_NPC_NAME$ se ríe de alegría! Pronto sus inventos se harán realidad.
+PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,The Skulls of the Hundur Sharpfoot
+PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.","The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals."
+PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,I see… but these creatures are growing more aggressive. Come back if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.","You haven't gathered enough skulls yet… Keep going, each specimen is important to us."
+PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.
+PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,The Skulls of the Samoset
+PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.
+PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.
+PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,Very well… but their unrest intensifies each day. Return if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.","You still don't have enough… Keep going, we must understand what's disturbing them."
+PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,Perfect! These skulls will help us uncover the truth. Thank you for your help.
+PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,The Claws of the Kyouchish
+PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.
+PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.
+PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,I understand… but we're running out of remedies. Return if you wish to help.
+PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.","You're still missing some. The Kyouchish are dangerous, stay careful."
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.","Excellent! With these claws, our healers can prepare a proper antidote."
+PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
+PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
+PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.
+PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,A shame… several warriors are still waiting to be treated.
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","You don’t have enough yet. Hurry, every drop counts."
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.","Perfect! Thanks to you, we can finally treat our wounded."
+PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,The Magic Skulls of the Redcloud
+PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.
+PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.
+PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,Alright… but this magic could strengthen our defenses.
+PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,You don’t have enough energy-charged skulls yet. Keep going!
+PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,Excellent work! These skulls are a true source of power.
+PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,The Devil’s Teeth
+PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.
+PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.
+PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,I understand… but their influence spreads further each night. Return carefully.
+PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,Not enough teeth to contain the demonic energy yet. Keep gathering.
+PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,Very good! These teeth will be purified and neutralized. You’ve done us a great service.
+PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,The Bloodstained Fangs of the Hellhound
+PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.","Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back."
+PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.
+PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,Very well… but the Hellhounds still lurk around Kaillun.
+PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,You don’t have enough. Their fangs are essential to forge weapons that can repel them.
+PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.","Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors."
+PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!

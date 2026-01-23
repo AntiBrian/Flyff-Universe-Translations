@@ -1,0 +1,10 @@
+﻿#b#cff0000ff* Basic Rules#nb#nc
+- Every party and buff are canceled after the entry.
+- Item trading is banned from 5 minutes before the combat.
+- Combat progresses for 10 minutes.
+- 5 members of advance party join first.
+- The next character joins after a character died.
+- The dead character becomes the last in the list.
+- A character has 3 chances of revival.
+* Guild Master: Gets bonus point when defeating the enemy.
+* Defender(except for Guild Master): Gives bonus point to the enemy when dying.

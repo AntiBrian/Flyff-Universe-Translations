@@ -1,0 +1,334 @@
+﻿Key,English,Indonesian
+PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,Permohonan untuk $QUEST_END_ITEM_NAME$s telah keluar. Apakah kamu akan menerima quest ini?
+PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,Permohonan untuk Grrr Bandages telah keluar.
+PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,Permohonan untuk Amperes telah keluar.
+PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,Permohonan telah keluar untuk membuat penawar Boopoison. Maukah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000458,A request has gone out for $QUEST_END_ITEM_NAME$.,Permohonan telah keluar untuk $QUEST_END_ITEM_NAME$.
+PROPQUEST_REQUESTBOX_INC_000519,A request has gone out for Rootioe to be used as woodworking material. Will you help?,Permohonan telah keluar untuk menggunakan Rootioe sebagai bahan bahan kerajinan kayu. Maukah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000366,You can get $QUEST_END_ITEM_NAME$ from any type of $QUEST_END_ITEM_MON$.,Kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari berbagai tipe $QUEST_END_ITEM_MON$.
+PROPQUEST_REQUESTBOX_INC_000322,You can collect $QUEST_END_ITEM_NAME$ from all types of $QUEST_END_ITEM_MON$.,Kamu bisa mengumpulkan $QUEST_END_ITEM_NAME$ dari semua tipe $QUEST_END_ITEM_MON$.
+PROPQUEST_REQUESTBOX_INC_000014,You can collect $QUEST_END_ITEM_NAME$ near a bridge in north.,Kamu bisa mengumpulkan $QUEST_END_ITEM_NAME$ dekat jembatan di utara.
+PROPQUEST_REQUESTBOX_INC_000025,You can collect Unknown Certificates near the Bangs.,Anda dapat mengumpulkan Unknowns Certificates di dekat Bangs.
+PROPQUEST_REQUESTBOX_INC_000091,You can collect nyanyang near the Giant Nyangnyang.,Kamu bisa mengumpulkan Nyannyang didekat Giant Nyangnyang
+PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,Kamu bisa mengumpulkan The Office Documents di dekat Mias
+PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,Kamu tidak ingin mengumpulkannya? Oke
+PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,Kamu butuh lebih banyak $QUEST_END_ITEM_NAME$.
+PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,Kamu tidak memiliki cukup $QUEST_END_ITEM_NAME$.
+PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,Bagus sekali. Kamu telah berhasil menyelesaikan quest.
+PROPQUEST_REQUESTBOX_INC_000357,Good Job! You successfully completed the quest. Take this for your trouble.,Kerja baik! Kamu berhasil menyelesaikan quest. Ambil ini untuk ini untuk bayaran jerih payahmu.
+PROPQUEST_REQUESTBOX_INC_000362,$QUEST_END_NPC_NAME$ was happy that the quest was completed.,$QUEST_END_NPC_NAME$ senang sekali karena Quest telah selesai.
+PROPQUEST_REQUESTBOX_INC_000307,$QUEST_END_NPC_NAME$ was happy to see the quest completed.,$QUEST_END_NPC_NAME$ senang sekali melihat quest telah selesai.
+PROPQUEST_REQUESTBOX_INC_000582,$QUEST_END_NPC_NAME$ is very grateful to you for completing this quest.,$QUEST_END_NPC_NAME$ sangat berterima kasih padamu karena telah menyelesaikan Quest ini.
+PROPQUEST_REQUESTBOX_INC_000001,Party of Is,Party of Is
+PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,Is memintamu untuk mengumpulkan Chupim untuk Partynya. Maukah Kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000007,Is asking you to collect Chupim for her party.,Is memintamu untuk mengumpulkan Chupim untuk partynya.
+PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),Unknown Situation (1)
+PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,Flaris Pang membutuhkan bantuanmu untuk mengumpulkan Unknown Letters. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,Flaris Pang ingin kamu mengumpulkan $QUEST_END_ITEM_NAME$.
+PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,Flaris Pang membutuhkan bantuanmu untuk mengumpulkan Unknown Certificates. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000034,Flying Board,Flying Board
+PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,Dior membutuhkan bantuanmu untuk mengumpulkan Peakyrinds. bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,Dior ingin kamu mengumpulkan Peakyrinds
+PROPQUEST_REQUESTBOX_INC_000045,Fresh Start for Mop,Fresh Start for Mop
+PROPQUEST_REQUESTBOX_INC_000046,House of Children needs you to collect Mop for their children. Will you help?,House of Children membutuhkan bantuanmu untuk mengumpulkan Mop untuk anak-anak. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000051,House of Children wants you to collect 3 Mop.,House of Children ingin kamu mengumpulkan 3 Mop.
+PROPQUEST_REQUESTBOX_INC_000056,Gems for Wands,Gems for Wands
+PROPQUEST_REQUESTBOX_INC_000057,Madrigal Magician Union wants you to collect Poporam for their wands. Will you help?,Madrigal Magician Union ingin kamu mengumpulkan Poporam untuk Wands mereka. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000062,Madrigal Magician Union wants you to collect 4 Poporam.,Madrigal Magician Union ingin kamu mengumpulkan 4 Poporam.
+PROPQUEST_REQUESTBOX_INC_000067,"Cookie Machine, Valin Baget","Cookie Machine, Valin Baget"
+PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,Valin membutuhkan bantuanmu untuk mengumpulkan Slain untuk dijadikan bahan bakar Cookie Machinenya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000073,Valin needs you to collect Slain for his cookie machine.,Valin ingin kamu mengumpulkan Slain untuk Cookie Machinenya
+PROPQUEST_REQUESTBOX_INC_000078,Magic Quill,Magic Quill
+PROPQUEST_REQUESTBOX_INC_000079,Mule wants you to collect Tarin roots so he can make a new magic quill. Will you help?,Mule ingin kamu mengumpulkan Tarin Roots agar dia dapat membuat Magic Quill yang baru. Bisakah kamu membantunya?
+PROPQUEST_REQUESTBOX_INC_000084,Mule needs you to collect Tarin roots.,Mule ingin kamu mengumpulkan Tarin roots
+PROPQUEST_REQUESTBOX_INC_000089,Lyangglatang,Lyangglatang
+PROPQUEST_REQUESTBOX_INC_000090,Rooney wants you to collect Nyanyangs for her party. Will you help?,Rooney ingin kamu mengumpulkan Nyanyangs untuk partynya. Bsiakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000095,Rooney needs you to collect Nyanyangs.,Rooney membutuhkanmu untuk mengumpulkan Nyanyangs.
+PROPQUEST_REQUESTBOX_INC_000100,10 Year anniversary gift,10 Year anniversary gift
+PROPQUEST_REQUESTBOX_INC_000101,Marche wants you to collect Starstones to make a 10 year anniversary gift. Will you help?,Marche ingin kamu mengumpulkan Starstone untuk membuatn 10 Year Anniversary Gift. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000106,Marche needs Starstones,Marche butuh Starstones
+PROPQUEST_REQUESTBOX_INC_000111,Liquor for Dunkan,Liquor for Dunkan
+PROPQUEST_REQUESTBOX_INC_000112,Dunkan needs you to collect Golden Wings to make a new liquor. Will you help?,dunkan membutuhkanmu untuk mengumpulkan Golden Wing untuk membuat Liquor baru. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000117,Dunkan wants Golden Wings.,Dunkan ingin Golden Wing
+PROPQUEST_REQUESTBOX_INC_000122,Sweet Dessert,Sweet Dessert
+PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,Damian membutuhkanmu untuk mengumpulkan Blue Honey untuk membuat Dessert baru. Bisakah ukah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,Damian butuh Blue Honey
+PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,Blessed Doll
+PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,House of Children membutuhkanmu untuk mengumpulkan Mia Doll sebagai hadiah bagi anak-anak. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,House of Children ingin Mia Doll
+PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,Lost Documents
+PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,Julia membutuhkanmu untuk mengembalikan Office Documents yang dicuri para Mia. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,Julia ingin Office Document yang dicuri oleh para Mia
+PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,Brightly Burning Flame
+PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,Bozman membutuhkanmu untuk mengumpulkan Furious Matches untuk digunakan pada tanur tempanya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,Bozman ingin Furious Matches
+PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),Unknown Situation (2)
+PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,Flaris Pang membutuhkanmu untuk mengumpulkan Unknown Letter.
+PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,Flaris Pang membutuhkan Unknown Letter lagi.
+PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,Delicious Sauce
+PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,Kalin membutuhkanmu untuk mengumpulkan Cardrin untuk membuat Delicious Sauce.
+PROPQUEST_REQUESTBOX_INC_000183,Kalin wants Cardrin.,Kalin menginginkan Cardrin.
+PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,Magic Orb
+PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,Martin membutuhkan Hammarble untuk membuat Magic Orb. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,Martin ingin Hammarble.
+PROPQUEST_REQUESTBOX_INC_000199,Mark of Bill,Mark of Bill
+PROPQUEST_REQUESTBOX_INC_000200,Bill needs you to collect Gigglande so that he can make his mark. Will you help?,Bill membutuhkanmu untuk mengumpulkan Gigglande agar dia dapat membuat Marknya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000205,Bill wants Gigglande.,Bill ingin Gigglande.
+PROPQUEST_REQUESTBOX_INC_000210,Repair Work on Saint Hall,Repair Work on Saint Hall
+PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,Helena membutuhkanmu untuk mengumpulkan beberapa Crescent Stone untuk memperbaiki Saint Hall. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,Helena menginginkan $QUEST_END_ITEM_NAME$.
+PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,Membantu hewan yang terluka.
+PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,Madrigal Animal Association membutuhkanmu untuk mengumpulkan beberapa Bobands untuk mengobati hewan-hewan yang terluka. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,Madrigal Animal Association menginginkan Bobands.
+PROPQUEST_REQUESTBOX_INC_000232,Strange Collector,Strange Collector
+PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,Strange Collector membutuhkanmu untuk mengumpulkan Dumbling untuk dijadikan koleksinya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000243,For the Wife,For the Wife
+PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,Mayer membutuhkan Kalin untuk membuat hadiah bagi Istrinya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,Mayer menginginkan Kalin.
+PROPQUEST_REQUESTBOX_INC_000254,Weak Heart,Weak Heart
+PROPQUEST_REQUESTBOX_INC_000255,Helena needs clock hearts to make a new heart for her sick brother. Will you help?,Helena membutuhkan beberapa Clock Heart untuk membuat New Heart bagi adiknya yang sakit. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000265,Devil Marble,Devil Marble
+PROPQUEST_REQUESTBOX_INC_000266,Bill needs Tomb Marbles to make the Devil Marble. Will you help?,Bil membutuhkan beberapa Tomb Marble untuk membuat Devil Marble. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000271,Bill wants Tomb Marbles.,Bil menginginkan Tomb Marble.
+PROPQUEST_REQUESTBOX_INC_000276,Dream of the Fighter,Dream of the Fighter
+PROPQUEST_REQUESTBOX_INC_000277,Fighter needs you to collect Golden Fists to make a golden glove. Will you help?,Fighter membutuhkanmu untuk mengumpulkan beberapa Golden Fist untuk membuat Golden Glove. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000282,Fighter wants Golden Fists.,Fightter menginginkan Golden Fist.
+PROPQUEST_REQUESTBOX_INC_000287,Marbles for the Son,Marbles for the Son
+PROPQUEST_REQUESTBOX_INC_000288,Mayer needs orbin to make marbles for his son. Will you help?,Mayer membutuhkan Orbin untuk membuat beberapa Marble untuk anaknya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000293,Mayer wants orbin.,Mayer menginginkan Orbin
+PROPQUEST_REQUESTBOX_INC_000298,Strange Collector (2),Strange Collector (2)
+PROPQUEST_REQUESTBOX_INC_000299,Strange Collector needs you to collect $QUEST_END_ITEM_NAME$ for his collection. Will you help?,Strange Collector membutuhkanmu untuk mengumpulkan $QUEST_END_ITEM_NAME$ sebagai koleksinya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000304,Strange Collector wants $QUEST_END_ITEM_NAME$.,Strange Collector menginginkan $QUEST_END_ITEM_NAME$.
+PROPQUEST_REQUESTBOX_INC_000309,Lens of Olien,Lens of Olien
+PROPQUEST_REQUESTBOX_INC_000310,Olien needs you to collect steam tears to make a new lens. Will you help?,Olien membutuhkanmu untuk mengumpulkan Steam Tear untuk membuat New Lens. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000315,Olien wants steam tears.,Olien Menginginkan Steam Tear.
+PROPQUEST_REQUESTBOX_INC_000320,Red Muffler,Red Muffler
+PROPQUEST_REQUESTBOX_INC_000321,Soldier needs you to collect knightlers to make a new scarf. Will you help?,Soldier membutuhkanmu untuk mengumpulkan beberapa Knightler untuk membuat New Scarf. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000326,Soldier wants knightler.,Soldier menginginkan knightler.
+PROPQUEST_REQUESTBOX_INC_000331,Dwarpet Festival,Dwarpet Festival
+PROPQUEST_REQUESTBOX_INC_000332,The Dwarpet needs you to collect wheeshoes for their festival. Will you help?,Para Dwarpet membutuhkanmu untuk mengumpulkan Wheeshoes untuk festival mereka. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000337,The Dwarpet wants wheesoes.,Para Dwarpet menginginkan Wheeshoes.
+PROPQUEST_REQUESTBOX_INC_000342,Crane Repair,Crane Repair
+PROPQUEST_REQUESTBOX_INC_000343,The Erons Industrial Manager needs Droil to repair their crane. Will you help?,The Erons Industrial Manager membutuhkan Droil untuk memperbaiki Crane mereka. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000348,Erons want Droils.,Erons ingin Droil.
+PROPQUEST_REQUESTBOX_INC_000353,Urgently looking for a Bandage,Sangat membutuhkan Bandage.
+PROPQUEST_REQUESTBOX_INC_000364,Portable Power,Portable Power
+PROPQUEST_REQUESTBOX_INC_000375,Strange Collector (3),Strange Collector (3)
+PROPQUEST_REQUESTBOX_INC_000386,Replacement Tires,Replacement Tires
+PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,The Dwarpet membutuhkanmu untuk mengumpulkan beberapa Dumptire untuk menggantikan Flat tires nya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000392,The Dwarpet wants Dumptire.,The Dwarpet menginginkan Dumptire.
+PROPQUEST_REQUESTBOX_INC_000397,Strange Collector (4),Strange Collector (4)
+PROPQUEST_REQUESTBOX_INC_000398,Mysterious collector needs Garbageton for his collection. Will you help?,Mysterious Collector membutuhkan Garbageton untuk dijadikan koleksinya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000408,Relics of a Husband,Relics of a Husband
+PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,Seorang Widow memintamu untuk mengumpulkan Eronior agar dia bisa membuat kembali cincin peninggalan suaminya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000414,A widow wants some Eronior.,Seorang Widow menginginkan beberapa Eronior.
+PROPQUEST_REQUESTBOX_INC_000419,Disguise of Remina,Disguise of Remina
+PROPQUEST_REQUESTBOX_INC_000420,Remina needs you to collect repygle to make a pair of disguising sunglasses. Will you help?,Remina membutuhkanmu untuk mengumpulkan Repygle untuk membuat sepasang Disguising Sunglasses. Bisakah mau membantu?
+PROPQUEST_REQUESTBOX_INC_000425,Remina wants $QUEST_END_ITEM_NAME$.,Remina menginginkan $QUEST_END_ITEM_NAME$.
+PROPQUEST_REQUESTBOX_INC_000430,Beautiful Keil Wallpaper,Beautiful Keil Wallpaper
+PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,Haven membutuhkanmu untuk mengumpulkan Sycale untuk mengubah kembali penampilan Magic Shop. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000436,Heaven wants Sycale.,Heaven menginginkan Sycale.
+PROPQUEST_REQUESTBOX_INC_000441,Strange Collector (5),Strange Collector (5)
+PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,Strange Collector membutuhkan $QUEST_END_ITEM_NAME$ untuk koleksinya. bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000447,Strange collector want Mong Tear,Strange collector ingin Mong Tear
+PROPQUEST_REQUESTBOX_INC_000452,Anesthetic Needs,Anesthetic Needs
+PROPQUEST_REQUESTBOX_INC_000463,New Kind of Firework,New Kind of Firework
+PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,The Fireworks Producer membutuhkan Bomb Timer untuk membuat Firework model barus. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000465,You get bombtimers from any type of Carrierbomb.,Kamu bisa mendapatkan Bombtimer dari semua tipe Carrierbomb.
+PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,The Firework Producer menginginkan Bomb Timer.
+PROPQUEST_REQUESTBOX_INC_000474,Snack for the Children,Snack for the Children
+PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,Bolpor butuh Prewing untuk membuat beberapa snack bagi anak-anak. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,Bolpor menginginkan Prewing.
+PROPQUEST_REQUESTBOX_INC_000485,Mushroom Farm of Chitller,Mushroom Farm of Chitller
+PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,Chitller membutuhkanmu untuk mengumpulkan Poiespore untuk kebun jamurnya. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000491,Chitller wants Poiespore.,Chitller menginginkan Poiespore.
+PROPQUEST_REQUESTBOX_INC_000496,New Yo-Yo,New Yo-Yo
+PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,Seorang Acrobat Master membutuhkanmu untuk mengumpulkan Renyken untuk membuat Yo-Yo baru. Bisakah kamu bantu?
+PROPQUEST_REQUESTBOX_INC_000502,An Acrobat master wants Renyken.,Seorang Acrobat Master menginginkan Renyken.
+PROPQUEST_REQUESTBOX_INC_000507,Disguise of a Native,Disguise of a Native
+PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,Darkon Natives membutuhkanmu untuk mengumpulkan Tangkask. Bisakah kamu bantu?
+PROPQUEST_REQUESTBOX_INC_000513,Darkon natives want Tankask.,Darkon Natives menginginkan Tankask.
+PROPQUEST_REQUESTBOX_INC_000518,Woodworking Material,Woodworking Material
+PROPQUEST_REQUESTBOX_INC_000529,The Best Shield,The Best Shield
+PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,Remina membutuhkan Luchest untuk membuat perisai terkuat di dunia. Bisakah kamu membantu?
+PROPQUEST_REQUESTBOX_INC_000540,Beauty Contest Award,Beauty Contest Award
+PROPQUEST_REQUESTBOX_INC_000541,The Madrigal Beauty Contest needs Eronsimint for making an award. Will you help?,The Madrigal Beauty Contest membutuhkan Eronsimint untuk membuat Penghargaan. Bisakah Kamu bantu?
+PROPQUEST_REQUESTBOX_INC_000546,The Madrigal Beauty Contest sponsor wants Eronsimint.,The MAdrigal Beauty Contest sponsor menginginkan Eronsimint.
+PROPQUEST_REQUESTBOX_INC_000551,Lucky Tool,Lucky Tool
+PROPQUEST_REQUESTBOX_INC_000552,Lucky needs Hammamer to make a lucky hammer. Will you help?,Lucky membutuhkan Hammamer untuk membuat Lucky Hammer. Bisakah kamu bantu?
+PROPQUEST_REQUESTBOX_INC_000557,Lucky wants Hammamer.,Lucky menginginkan Hammamer.
+PROPQUEST_REQUESTBOX_INC_000562,Strange Collector (6),Strange Collector (6)
+PROPQUEST_REQUESTBOX_INC_000573,Request of Lurif,Request of Lurif
+PROPQUEST_REQUESTBOX_INC_000574,Could you do me a favor? I need Phanbubble. Can you help me please?,Bisakah Kamu membantuku? Aku butuh Phanbubble. Kumohon tolong bantu aku?
+PROPQUEST_REQUESTBOX_INC_000579,Lurif needs many Phanbubbles.,Lurif membutuhkan banyak Phanbubbles.
+PROPQUEST_REQUESTBOX_INC_000815,Mysterious Magic Material,Mysterious Magic Material
+PROPQUEST_REQUESTBOX_INC_000816,Magician Master requested you to collect Merahook which is a magic material. Will you accept this request?,Magician Master memintamu untuk mengumpulkan Merahook yang mana merupakan material magic. Maukah kamu menerima quest ini?
+PROPQUEST_REQUESTBOX_INC_000817,You can collect them from the group of Chimeradon in the Deadwallderness.,Kamu bisa mengumpulkannya dari gerombolan Chimeradon yang berada di Deadwallderness.
+PROPQUEST_REQUESTBOX_INC_000826,Avenge Nerky,Avenge Nerky
+PROPQUEST_REQUESTBOX_INC_000827,Krinton's pet Bearnerky got killed by the other Bearnerky. Krinton requested you to collect NerkyMane for revenge. Will you accept this request?,"Peliharaan Krinton, Bearnerky terbunuh oleh Bearnerky liar. Krinton memintamu untuk mengumpulkan NerkyMane untuk balas dendam. Maukah kamu menerima quest ini?"
+PROPQUEST_REQUESTBOX_INC_000828,You can collect them from the group of Bearnerky in the Deadwallderness.,Kamu dapat mengumpulkannya dari gerombolan Bearnerky yang berada di Deadwallderness.
+PROPQUEST_REQUESTBOX_INC_000837,Bolpor's favor,Bolpor's favor
+PROPQUEST_REQUESTBOX_INC_000838,Bolpor requested you to collect Rincruet for making some special food. Will you accept this request?,Bolpor memintamu mengumpulkan Rincruet untuk membuat beberapa makanan spesial. Maukah kamu menerima quest ini?
+PROPQUEST_REQUESTBOX_INC_000839,You can collect them from the group of Muffrin in the Deadwallderness.,You dapat mengumpulkannya dari gerombolan Muffrin yang berada di Deadwallderness.
+PROPQUEST_REQUESTBOX_INC_000848,Toy Materials,Toy Materials
+PROPQUEST_REQUESTBOX_INC_000849,A toy merchant requested you to collect Popshift for making fancy toys. Will you accept this request?,Seorang Toy Merchant memintamu mengumpulkan Popshift untuk membuat beberapa Fancy Toy. Maukah kamu menerima Quest ini?
+PROPQUEST_REQUESTBOX_INC_000850,You can collect them from the group of Popcrank in the Deadwallderness.,Kamu bisa mengumpulkannya dari gerombolan Popcrank yang berada di Deadwallderness.
+PROPQUEST_REQUESTBOX_INC_000859,Evil Eyed Red Dragon,Evil Eyed Red Dragon
+PROPQUEST_REQUESTBOX_INC_000860,Can you please go find Dragon Tooth of the Meteonyker Dragon for me? The Arena Manager Lay requested 5 of them.,Bisakah kamu mancari Dragon Tooth of the Meteonyker Dragon untukku? The Arena Manager Lay meminta 5 buah.
+PROPQUEST_REQUESTBOX_INC_000861,"You can collect them from Meteonyker. I heard it's in Dekane Dungeon. Be careful, the Meteonyker is very strong! It's  best if you go with a party!","Kamu dapat mengumpulkannya dari Meteonyker. Aku dengar, mereka berada di Dekane Dungeon. Berhati-hatilah, Meteonyker sangatlah kuat! Aku sangat menyarankan agar kamu membentuk Party sebelum kesana!"
+PROPQUEST_REQUESTBOX_INC_010000,Moth Infestation,Moth Infestation
+PROPQUEST_REQUESTBOX_INC_010001,Tina asked for help with reducing the Mothbee population as they're causing problems with transport. Could you kill 15 of them?,Tina meminta tolong untuk mengurangi populasi Mothbee dikarenakan mereka memulai mengganggu transportasi. Bisakah kamu memusnahkan 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010002,You can find Mothbee flying inbetween Northern Saint City & Flaris.,Kamu bisa menemukan Mothbee yang beterbangan diantara Northern Saint City & Flaris.
+PROPQUEST_REQUESTBOX_INC_010003,You don't want to help? That's okay. We'll find somebody else.,Kamu tidak ingin membantu? Tidak apa. Kita akan orang lain yang mau.
+PROPQUEST_REQUESTBOX_INC_010004,You haven't finished the task yet.,Kamu masih belum menyelesaikan tugasnya.
+PROPQUEST_REQUESTBOX_INC_010005,Mutated Aibatts,Mutated Aibatts
+PROPQUEST_REQUESTBOX_INC_010006,Tina has reported a new kind of Masquerpet called Zendros. Please could you kill 15 of them?,Tina melaporkan tentang jenis baru Masquerpet yang dipanggil Zendros. Bisakah kamu memusnahkan 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010007,You can find Zendros flying between Flaris and Saint morning continents.,Kamu bisa menemukan Zendros beterbangan diantara Flaris & Saint Morning Continents. 
+PROPQUEST_REQUESTBOX_INC_010008,Dragonflies,Dragonflies
+PROPQUEST_REQUESTBOX_INC_010009,Tina asked for help with reducing the Neparuba population as they're causing problems with transport. Could you kill 15 of them?,Tina meminta bantuan untuk mengurangi populasi Neparuba karena mereka mulai mengganggu transportasi. Bisakah kamu memusnahkan 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010010,You can find Neparuba flying between Flaris and Saint morning continents.,Kamu bisa menemukan Neparuba beterbangan antara Flaris & Saint Morning Continents
+PROPQUEST_REQUESTBOX_INC_010011,Flybrigen Brigade,Flybrigen Brigade
+PROPQUEST_REQUESTBOX_INC_010012,Tina asked for help with reducing the Flybrigen population as they're causing problems with transport. Could you kill 15 of them?,Tina meminta bantuan untuk mengurangi populasi Flybrigen karena mereka mulai mengganggu transportasi. Bisakah kamu memusnahkan 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010013,You can find Flybrigen flying between Saint Morning and Garden of Rhisis continents.,Kamu bisa menemukan Flybrigen beterbangan diantara Saint Morning & Garden of Rhisis Continents.
+PROPQUEST_REQUESTBOX_INC_010014,Moth Infestation (2),Moth Infestation (2)
+PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?
+PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.
+PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),Mutated Aibatts (2)
+PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?
+PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,You can find the Lord Zendros flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010020,Dragonflies (2),Dragonflies (2)
+PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?
+PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,You can find the Lord Neparuba flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),Flybrigen Brigade (2)
+PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?
+PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.
+PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,Flying Circus
+PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,Dior meminta bantuan untuk mengurangi populasi Rockpeller karena mereka mulai mengganggu transportasi antara Darkon & Flaris. Bisakah kamu habisi 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,Kamu bisa menemukan Rockepeller beterbangan di antara Flaris & Darkon Continents.
+PROPQUEST_REQUESTBOX_INC_010029,Zenma Hunting,Zenma Hunting
+PROPQUEST_REQUESTBOX_INC_010030,Almani asked for help with reducing the Zenma population as they're causing problems with forestation in Gouthan Mountains. Could you kill 15 of them?,Almani meminta bantuan untuk mengurangi populasi Zenma karena mereka menyebabkan masalah pada Forestation di Gouthan Mountain. Bisakah kamu habisi 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010031,You can find Zenma flying above Gouthan Mountains.,Kamu dapat menemukan Zenma beterbangan di atas Gouthan Mountain.
+PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!","Hei lihat, tikus terbang!"
+PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?",Almain meminta agar Longwings dimusnahkan karena mereka mulai menyerang penduduk sipil. Bisakah kamu habisi 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,Kamu bisa menemukan Longwings beterbangan ditenggara dari Clockworks Cage di gunung.
+PROPQUEST_REQUESTBOX_INC_010035,Baby Meteonyker,Baby Meteonyker
+PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?",Almani meminta agar Fafnir dimusnahkan sebelum mereka tumbuh besar menjadi Dragon. Bisakah kamu habisi 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.","Kamu bisa menemukan Fafnir beterbangan didekat Volcano di Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,Prehistoric Birds
+PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,Almani meminta agar Gorrudas dimusnahkan. Mereka adalah ancaman! Bisakah kamu menghabisi 15 dari mereka?
+PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.","Kamu bisa menemukan Gorrudas terbang di bagian barat dari Deadwallderness, melewati pegunungan."
+PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),Flying Circus (2)
+PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?
+PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,You can find the Lord Rockepeller flying between Flaris and Darkon continents.
+PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)","Hey look, a flying rat! (2)"
+PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?
+PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.
+PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),Baby Meteonyker (2)
+PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),Prehistoric Birds (2)
+PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?
+PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.","Kamu bisa menemukan $QUEST_END_KILL_NAME$ beterbangan di bagian barat dari Deadwallderness, diatas pegunungan."
+PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),Zenma Hunting (2)
+PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,You can find the Lord Zenma flying above Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Chimeradon.
+PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Bearnerky.
+PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Muffrin.
+PROPQUEST_REQUESTBOX_INC_020003,You can get $QUEST_END_ITEM_NAME$ from any type of Popcrank.,kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Popcrank.
+PROPQUEST_REQUESTBOX_INC_020004,You can collect $QUEST_END_ITEM_NAME$ from all types of Red Mantis.,kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Red Mantis.
+PROPQUEST_REQUESTBOX_INC_020005,Obsessed with Crystals! (1),Obsessed with Crystals! (1)
+PROPQUEST_REQUESTBOX_INC_020006,Obsessed with Crystals! (2),Obsessed with Crystals! (2)
+PROPQUEST_REQUESTBOX_INC_020007,Obsessed with Crystals! (3),Obsessed with Crystals! (3)
+PROPQUEST_REQUESTBOX_INC_020008,Obsessed with Crystals! (4),Obsessed with Crystals! (4)
+PROPQUEST_REQUESTBOX_INC_020009,Obsessed with Crystals! (5),Obsessed with Crystals! (5)
+PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,Crystals!! Hmmm... $QUEST_END_ITEM_NAME$s! Dapatkah kau membawakan aku beberapa $QUEST_END_ITEM_NAME$!?
+PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,Kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Medumet.
+PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,Kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Yetti.
+PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,Kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Augu.
+PROPQUEST_REQUESTBOX_INC_020014,You can get $QUEST_END_ITEM_NAME$ from any type of Ghost of the Forgotten.,Kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Ghost of the Forgotten.
+PROPQUEST_REQUESTBOX_INC_020015,You can get $QUEST_END_ITEM_NAME$ from any type of Mammoth.,Kamu bisa mendapatkan $QUEST_END_ITEM_NAME$ dari semua tipe Mammoth.
+PROPQUEST_REQUESTBOX_INC_020016,You did it! Hooray! Here's your reward. Come back soon!,Kamu melakukannya! Hore! Ini hadiahmu. Kembalilah segera!
+PROPQUEST_REQUESTBOX_INC_020017,More! More!,Lagi! Lagi!
+PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,Bring Broken Wings
+PROPQUEST_REQUESTBOX_INC_020019,Tigar Bites,Tigar Bites
+PROPQUEST_REQUESTBOX_INC_020020,Googly-Eyed Gogloo,Googly-Eyed Gogloo
+PROPQUEST_REQUESTBOX_INC_020021,Nippy Waters,Nippy Waters
+PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,Hard Shell of the Creper
+PROPQUEST_REQUESTBOX_INC_020023,Crumbly Purple Essence,Crumbly Purple Essence
+PROPQUEST_REQUESTBOX_INC_020024,A Gray Picture of Dorian,A Gray Picture of Dorian
+PROPQUEST_REQUESTBOX_INC_020025,King of Coral Island,King of Coral Island
+PROPQUEST_REQUESTBOX_INC_020026,Letter in a Bottle,Letter in a Bottle
+PROPQUEST_REQUESTBOX_INC_020027,Hello adventurer... would you bring me $QUEST_END_ITEM_NAME$ from the Atrox? I want to build giant wings I can soar the skies with! Bring me all you can find...,Halo petualang... maukah kamu membawakanku $QUEST_END_ITEM_NAME$ dari Atrox? Aku ingin membangun sayap raksasa yang bisa digunakan untuk terbang! Bawakan aku semua yang bisa kamu temukan...
+PROPQUEST_REQUESTBOX_INC_020028,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!,Tigars diketahui memiliki gigi terkuat di seluruh Madrigal. Jika kamu menemukan $QUEST_END ITEM_NAME$ bisakah kamu membawakan beberapa? Aku sedang membuat belati raksasa... itu akan menjadi BESAR!
+PROPQUEST_REQUESTBOX_INC_020029,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!,Kaca di dalam Meral $QUEST_END_ITEM_NAME$ dapat meningkatkan penglihatan seseorang tiga kali lipat jarak penglihatan normalnya. Kumpulkan secukupnya dan aku bisa membuat teleskop untuk mengintip belahan dunia!
+PROPQUEST_REQUESTBOX_INC_020030,"All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share...","Semua penemuan ini membuatku kelaparan! Bisakah kamu membelikanku beberapa Kingster $QUEST_END_ITEM_NAME$? Kami akan makan seperti raja! Jangan khawatir, aku akan berbagi..."
+PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!","Setelah semua makanan laut itu, aku tidak bisa makan lagi! Untuk penemuan berikutnya, aku memerlukan $QUEST_END_ITEM_NAME$ dari kepiting besar bernama Creper. Dari karapasnya yang keras aku akan membuat baju zirah yang paling kuat. Aku meramalkan nasib di mana mengenakan baju besi ini akan menyelamatkan Coral Island!"
+PROPQUEST_REQUESTBOX_INC_020032,"The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger.","Naga adalah pejuang laut yang kuat... mereka $QUEST_END_ITEM_NAME$ dikatakan memiliki kekuatan magis yang dapat digunakan untuk memanfaatkan energi ungu. Aku punya ketakutan yang sehat terhadap Purple Magic, tapi apa yang tidak membunuhmu hanya akan membuatmu lebih kuat."
+PROPQUEST_REQUESTBOX_INC_020033,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...,Dorian telah muncul dari lautan di sekitar pulau kami! Silakan kalahkan mereka dan kumpulkan $QUEST_END_ITEM_NAME$ mereka sebagai bukti. Penemuanku hanya bisa menahannya begitu lama...
+PROPQUEST_REQUESTBOX_INC_020034,"The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!","$QUEST_END_ITEM_NAME$ dari Okean harus menjadi milikku! Aku tahu memiliki mahkota mereka tidak akan menjadikanku seorang raja, tapi itu akan menempatkanku pada jalur impianku. Menjadi King of Coral Island!"
+PROPQUEST_REQUESTBOX_INC_020035,"With the $QUEST_END_ITEM_NAME$ from the Kraken, I could finally write to all my friends across the oceans. There's never enough time to keep up with everyone...","Dengan $QUEST_END_ITEM_NAME$ dari Kraken, aku akhirnya bisa menulis surat kepada semua teman di seberang lautan. Tidak pernah ada cukup waktu untuk mengikuti semua orang..."
+PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of the Atrox crawling around the island.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ dari Atrox mana pun yang merayapi pulau.
+PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ dari Tigars di sekitar pulau.
+PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ dari Meral yang berpatroli di pantai.
+PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ lezat dari Kingsters di perairan dangkal sekitar pulau.
+PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ yang sulit dari Creper di sekitar area pantai.
+PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ dari Naga di sekitar Coral Island.
+PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ yang ditinggalkan oleh Dorian di sekitar Coral Island.
+PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.","Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ yang menakjubkan dari Okean, jauh di perairan Coral Island."
+PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,Kamu mungkin menemukan $QUEST_END_ITEM_NAME$ di perut laut dalam Kraken.
+PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!","Tolong, jangan paksa aku mengumpulkan $QUEST_END_ITEM_NAME$ sendirian... Aku terlalu sibuk memimpikan penemuan baru!"
+PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Sebentar lagi aku akan terbang ke angkasa dengan mudah. Sampai jumpa di Rainbow Race!"
+PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Sebentar lagi aku akan mendapatkan belati terbesar di Madrigal. Hehehe, tangkap aku pamer ke Demian!"
+PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Sebentar lagi aku akan bisa melihat pemandangan tanpa harus meninggalkan rumah!"
+PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Kami akan sangat kenyang! Makanlah, saatnya berpesta!"
+PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Sebentar lagi aku akan punya baju besi yang cukup untuk mempertahankan Coral Island dari segala kejahatan!"
+PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Saya akan segera mengetahui lebih banyak tentang Purple Magic ini... Mungkin suatu hari cukup untuk menghentikan kejahatannya mengambil alih Coral Island."
+PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Makhluk mencurigakan tersebut memiliki kekuatan aneh yang membuat mereka menua lebih lambat dibandingkan makhluk lain. Mungkin mempelajari gigi mereka dapat memberi kita wawasan tentang kekuatan khusus Dorian."
+PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Itu hanya mimpi... tapi aku berharap suatu hari nanti bisa menyambutmu lagi sebagai King of Coral Island."
+PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!","Terima kasih telah mengumpulkan semua $QUEST_END_ITEM_NAME$ itu, petualang! Aku telah memutuskan untuk menulis surat-surat ini dan mengirimkannya sendiri. Terima kasih atas segalanya... Aku berharap dapat bertemu kamu lagi suatu hari nanti!"
+PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,$QUEST_END_ITEM_NAME$ itu tidak cukup bagiku untuk membuat salah satu penemuan hebat... kembalilah dengan lebih banyak lagi!
+PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$ tertawa gembira! Penemuan mereka akan segera menjadi kenyataan.
+PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,The Skulls of the Hundur Sharpfoot
+PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.","The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals."
+PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,I see… but these creatures are growing more aggressive. Come back if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.","You haven't gathered enough skulls yet… Keep going, each specimen is important to us."
+PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.
+PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,The Skulls of the Samoset
+PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.
+PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.
+PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,Very well… but their unrest intensifies each day. Return if you change your mind.
+PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.","You still don't have enough… Keep going, we must understand what's disturbing them."
+PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,Perfect! These skulls will help us uncover the truth. Thank you for your help.
+PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,The Claws of the Kyouchish
+PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.
+PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.
+PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,I understand… but we're running out of remedies. Return if you wish to help.
+PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.","You're still missing some. The Kyouchish are dangerous, stay careful."
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.","Excellent! With these claws, our healers can prepare a proper antidote."
+PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
+PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
+PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.
+PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,A shame… several warriors are still waiting to be treated.
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","You don’t have enough yet. Hurry, every drop counts."
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.","Perfect! Thanks to you, we can finally treat our wounded."
+PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,The Magic Skulls of the Redcloud
+PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.
+PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.
+PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,Alright… but this magic could strengthen our defenses.
+PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,You don’t have enough energy-charged skulls yet. Keep going!
+PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,Excellent work! These skulls are a true source of power.
+PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,The Devil’s Teeth
+PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.
+PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.
+PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,I understand… but their influence spreads further each night. Return carefully.
+PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,Not enough teeth to contain the demonic energy yet. Keep gathering.
+PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,Very good! These teeth will be purified and neutralized. You’ve done us a great service.
+PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,The Bloodstained Fangs of the Hellhound
+PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.","Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back."
+PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.
+PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,Very well… but the Hellhounds still lurk around Kaillun.
+PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,You don’t have enough. Their fangs are essential to forge weapons that can repel them.
+PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.","Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors."
+PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!

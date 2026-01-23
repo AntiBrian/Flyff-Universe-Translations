@@ -1,0 +1,51 @@
+﻿Key,English,Vietnamese
+CLIENT_FAQ_INC_000000,How can I be resurrected?,Làm thế nào để được hồi sinh?
+CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.","Bạn có thể hồi sinh ở thị trấn gần nhất bằng cách chọn 'Lodestar' trong cửa sổ hồi sinh. Nếu bạn có 'Scroll of Resurrection' hoặc kỹ năng hồi sinh được sử dụng trên người, bạn có thể hồi sinh ngay lập tức tại nơi bạn đã chết."
+CLIENT_FAQ_INC_000002,Where are the monsters?,Những quái vật ở đâu?
+CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,Những con quái vật đang ở các trận địa. Hãy chắc chắn rằng chỉ chiến đấu với những quái vật mà bạn có thể xử lý.
+CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,Làm cách nào để chỉ định một mục tiêu và bỏ chọn nó?
+CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.","Nhấp đúp vào mục tiêu bằng chuột để tấn công mục tiêu, nhấp một lần chỉ để nhắm mục tiêu và nhấp vào ESC để bỏ chọn mục tiêu đó"
+CLIENT_FAQ_INC_000006,How can I attack continuously?,Làm thế nào tôi có thể tấn công liên tục?
+CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,Đảm bảo rằng cài đặt Tự động tấn công được chọn trong Cửa sổ tùy chọn.
+CLIENT_FAQ_INC_000008,How do you use the skills?,Làm thể nào để sử dụng các kỹ năng?
+CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,Nhấn K cho menu Kỹ năng và kéo các biểu tượng kỹ năng bạn muốn sử dụng vào vị trí hành động ở phía dưới bên phải của màn hình.
+CLIENT_FAQ_INC_000010,How do you use the skills continuously?,Làm thế nào để bạn sử dụng các kỹ năng liên tục?
+CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting something to use those skills. Moves that are shaped like puzzle pieces need to be placed together.,Đặt các kỹ năng vào vị trí hành động và nhấn C khi nhắm mục tiêu vào thứ gì đó để sử dụng các kỹ năng đó. Các chuyển động có hình dạng giống như các mảnh ghép cần được đặt lại với nhau.
+CLIENT_FAQ_INC_000012,How do I gain my health back?,Làm cách nào để hồi máu?
+CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,Thức ăn và một số vật phẩm khác sẽ phục hồi máu của bạn khi bạn nhấp đúp vào chúng. Lượng HP mỗi vật phẩm phục hồi được ghi chú trong phần mô tả vật phẩm.
+CLIENT_FAQ_INC_000014,How do I get a Job?,Làm thế nào để có 1 chức nghiệp?
+CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.","Khi bạn đạt đến cấp độ 15, hãy nói chuyện với Julia ở Flarine để nhận các nhiệm vụ chuyển chức nghiệp của bạn. Nhiệm vụ Mercenary và Assist bắt đầu từ Flaris, nhiệm vụ Magician bắt đầu ở Saint Morning, và nhiệm vụ Acrobat bắt đầu tại Darken."
+CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,Tại sao tôi không nhận được kinh nghiệm nữa ở cấp 15
+CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.","Khi bạn đạt đến cấp độ 15 và bạn không thể tăng Exp nữa, bạn phải hoàn thành nhiệm vụ chuyển chức nghiệp đầu tiên của mình để nhận lại Exp. Hãy đến gặp người huấn luyện chức nghiệp và hoàn thành nhiệm vụ cho chức nghiệp bạn muốn khi bạn đạt đến cấp độ 15."
+CLIENT_FAQ_INC_000018,,
+CLIENT_FAQ_INC_000019,"In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill.","Trong trường hợp bạn không thể có được một kỹ năng, hãy kiểm tra cấp độ nhân vật của bạn và kỹ năng trước đó để đảm bảo bạn đáp ứng các yêu cầu cho kỹ năng đó."
+CLIENT_FAQ_INC_000020,How do I fly?,Làm thế nào để bay?
+CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,"Khi đạt đến cấp 20, bạn có thể mua ván hoặc chổi từ người chơi hoặc NPC. Sau đó, trang bị bằng cách nhấp đúp vào nó và bạn có thể bay."
+CLIENT_FAQ_INC_000022,How do I move the camera.,Làm cách nào để di chuyển máy ảnh.
+CLIENT_FAQ_INC_000023,There are two main ways to move the camera. Old Version: Press and hold the mouse wheel. Then move the mouse around. New Version: Press and hold the right mouse button. Then move the mouse around. Use the mouse wheel to zoom in or out and to rotate your camera.,Có hai cách chính để di chuyển máy ảnh. Phiên bản cũ: Nhấn và giữ con lăn chuột. Sau đó di chuyển chuột xung quanh. Phiên bản mới: Nhấn và giữ nút chuột phải. Sau đó di chuyển chuột xung quanh. Sử dụng con lăn chuột để phóng to hoặc thu nhỏ và xoay máy ảnh của bạn.
+CLIENT_FAQ_INC_000024,How do I return to my default camera position?,Làm cách nào để quay lại vị trí máy ảnh mặc định của tôi?
+CLIENT_FAQ_INC_000025,Old Version: Double click the mouse wheel. New Version: Double click the right mouse button.,Phiên bản cũ: Nhấp đúp vào con lăn chuột. Phiên bản mới: Nhấp đúp vào nút chuột phải
+CLIENT_FAQ_INC_000026,"While flying, the camera is hard to move.","Trong khi bay, camera khó di chuyển."
+CLIENT_FAQ_INC_000027,"While flying, double click on the right mouse button or use the arrow keys","Trong khi bay, nhấp đúp vào nút chuột phải hoặc sử dụng các phím mũi tên"
+CLIENT_FAQ_INC_000028,How can I use Emoticons?,Làm cách nào để sử dụng Biểu tượng cảm xúc?
+CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emotion and drag it to the bar.,Nhấp vào 'F9' để nghỉ ngơi và nhấp lại vào 'F9' để đứng lên. Bạn cũng có thể nhấn 'O' và chọn sit emotion và kéo nó vào thanh của bạn.
+CLIENT_FAQ_INC_000030,How do you trade with other characters?,Làm thế nào để bạn giao dịch với các nhân vật khác?
+CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.","Nhấp chuột trái vào một ký tự trong khi giữ phím Alt và chọn menu Giao dịch. Sử dụng vật phẩm cũng như rơi vật phẩm, cùng với cửa hàng NPC, không có sẵn trong khi giao dịch."
+CLIENT_FAQ_INC_000032,Where can I get a quest?,Tôi có thể nhận nhiệm vụ ở đâu?
+CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,"Nếu bạn muốn tìm hiểu về việc thực hiện một nhiệm vụ, bạn có thể nói chuyện với các NPC."
+CLIENT_FAQ_INC_000034,What is a duel?,Đấu tay đôi là gì?
+CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.","Nó có nghĩa là một cuộc đấu tay đôi giữa những người chơi, hoặc PvP (Người chơi Vs Người chơi) bằng sự đồng ý của cả hai. Không có hình phạt cho đánh tay đôi."
+CLIENT_FAQ_INC_000036,How can I become famous?,Làm thế nào tôi có thể trở nên nổi tiếng?
+CLIENT_FAQ_INC_000037,The more you win tournament the more famous you become. If you become a high level player people will recognize you no matter where you are.,"Bạn càng giành chiến thắng trong giải đấu, bạn càng trở nên nổi tiếng. Nếu bạn trở thành một người chơi cấp cao, mọi người sẽ nhận ra bạn bất kể bạn ở đâu."
+CLIENT_FAQ_INC_000038,Why are some player names red? Can I attack everyone?,Tại sao một số tên người chơi lại có màu đỏ? Tôi có thể tấn công tất cả mọi người không?
+CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.",PK và Karma tăng lên khi bạn giết người chơi khác. Nhân vật của bạn sẽ bị phạt khi PK và Karma của bạn tăng lên. Tên nhân vật PK được hiển thị màu đỏ. Tỷ lệ PK của bạn có thể được đổi bằng cách hoàn thành nhiệm vụ Thú nhận và Karma của bạn giảm xuống khi bạn giết quái vật và / hoặc bị giết.
+CLIENT_FAQ_INC_000040,"If I encounter a bug, what can I do?","Nếu tôi bắt gặp 1 lỗi của trò chơi, tôi có thể làm gì?"
+CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting the bug on our forums at $WEBSITE$,"Khi bạn bắt gặp bất kỳ lỗi nào của trò chơi, vui lòng thông báo cho chúng tôi bằng cách đăng 1 bài viết trên diễn đàn của chúng tôi tại $ WEBSITE $"
+CLIENT_FAQ_INC_000042,What is a guild?,Bang hội là gì?
+CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.","Bang hội là một cộng đồng lớn hơn nhiều so với một nhóm. Nhiều chức năng có sẵn khi cấp độ bang hội của bạn tăng lên như Ngân hàng Bang hội, Áo choàng Bang hội và Trận chiến Bang hội 1 chọi 1."
+CLIENT_FAQ_INC_000044,Where can we form a guild?,Tôi có thể tự tạo 1 Bang hội không?
+CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.","Để tạo 1 Bang hội, cấp độ nhân vật của bạn phải từ 40 trở lên. Khi bạn đạt cấp độ 40, hãy nói chuyện với NPC Helena ở Saint Morning và hoàn thành nhiệm vụ Bang hội mà cô ấy giao cho bạn."
+CLIENT_FAQ_INC_000046,How about a Party?,Cách tạo 1 nhóm?
+CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,Bạn có thể thành lập một nhóm để ngẫu nhiên tham gia cùng với những người chơi khác.
+CLIENT_FAQ_INC_000048,How to invite other players?,Làm thế nào để mời những người chơi khác?
+CLIENT_FAQ_INC_000049,Click on another player and select Invite to join party.,Nhấp vào một người chơi khác và chọn Mời tham gia nhóm.

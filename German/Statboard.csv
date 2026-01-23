@@ -1,0 +1,27 @@
+﻿Key,English,German
+STATBOARD_TXT_000000,1. General,1. Allgemein
+STATBOARD_TXT_000001,2. Time,2. Zeit
+STATBOARD_TXT_000002,3. Class,3. Klasse
+STATBOARD_TXT_000003,Total Damage,Gesamtschaden
+STATBOARD_TXT_000004,Skill Damage,Fertigkeitsschaden
+STATBOARD_TXT_000005,Damage Taken,Erhaltener Schaden
+STATBOARD_TXT_000006,Healing Done,Erledigte Heilung
+STATBOARD_TXT_000007,Total Kills,Gesamtsiege
+STATBOARD_TXT_000008,Total Deaths,Gesamttode
+STATBOARD_TXT_000009,Damage Per Death,Schaden pro Tod
+STATBOARD_TXT_000010,Tanking Per Death,Tanken pro Tod
+STATBOARD_TXT_000011,Healing Per Death,Heilung pro Tod
+STATBOARD_TXT_000012,Kills Per Death,Siege pro Tod
+STATBOARD_TXT_000013,Damage Per Min,Schaden pro Minute
+STATBOARD_TXT_000014,Tanking Per Min,Tanking pro Minute
+STATBOARD_TXT_000015,Healing Per Min,Heilung pro Minute
+STATBOARD_TXT_000016,Deaths Per Min,Tode pro Minute
+STATBOARD_TXT_000017,Time Spent CC'd,Verbrachte Zeit in CC
+STATBOARD_TXT_000018,CC's applied,CCs angewandt
+STATBOARD_TXT_000019,Damage Amped,Schaden verstärkt
+STATBOARD_TXT_000020,Damage Mitigated,Schaden gemildert
+STATBOARD_TXT_000021,Damage Reflected,Schaden reflektiert
+STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,"Gesamtzahl der Sekunden, in denen ein Spieler ""crowd-controlled"" war."
+STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,"Gesamtzahl der Sekunden, in denen ein Spieler CCd Anzahl der Sekunden, in denen ein Spieler einen Crowd-Control-Effekt auf andere Spieler angewandt hat.wurde."
+STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Gesamtschaden, den ein Spieler durch Effekte wie Holycross, Swordcross usw. verstärkt."
+STATBOARD_TOOLTIP_000003,"Total damage a player mitigated through effects like Damage Redirection, etc.","Gesamtschaden, den ein Spieler durch Effekte wie Schadensumleitung usw. gemildert hat."

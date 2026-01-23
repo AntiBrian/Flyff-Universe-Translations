@@ -1,0 +1,182 @@
+﻿Key,English,Traditional_Chinese
+PROPQUEST_DUNGEONANDPK_INC_000001,P.K,P.K
+PROPQUEST_DUNGEONANDPK_INC_000002,Hunting Monsters to recover Karma,狩獵怪物以讓紅人狀態消失
+PROPQUEST_DUNGEONANDPK_INC_000003,Your Karma can be redeemed. Are you ready to pay for your sins?,你的紅人狀態可以被贖回，你準備好為你的罪付出代價了嗎？
+PROPQUEST_DUNGEONANDPK_INC_000004,Hunt $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.,獵殺$QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.
+PROPQUEST_DUNGEONANDPK_INC_000005,You have yet to pay for your sins…,你還沒有為你的罪付出代價...
+PROPQUEST_DUNGEONANDPK_INC_000006,Your quest has been accomplished. Your sins have been forgiven.,你的任務已經完成，你的罪已被赦免。
+PROPQUEST_DUNGEONANDPK_INC_000007,"If you are truly unwilling to fight for forgiveness, then there is no hope for you.",如果你真的不願意為寬恕而戰，那麼你就沒有希望了。
+PROPQUEST_DUNGEONANDPK_INC_000019,Hunting $QUEST_END_KILL_NAME$ will recover your Karma points.,狩獵 $QUEST_END_KILL_NAME$ 將會恢復你的白目點數。
+PROPQUEST_DUNGEONANDPK_INC_000376,Get the Key to escape Kebaras Island,獲得逃離卡巴拉斯島入出境鑰匙 
+PROPQUEST_DUNGEONANDPK_INC_000377,You can warp away from here at the Warp Zone but you need the Key. Are you ready to earn it?,你可以在扭曲區從這裡出去，但你需要鑰匙。你準備好要贏得它了嗎？
+PROPQUEST_DUNGEONANDPK_INC_000378,I will give you the Key if you can bring me $QUEST_END_ITEM_COUNT$ Beads of Sin. You can get the beads in the empty lot beside the campsite.,如果你能給我帶來 $QUEST_END_ITEM_COUNT$ 解脫罪過的晶球，我將會給你鑰匙。你可在露營地旁邊的空地上獲得晶球。
+PROPQUEST_DUNGEONANDPK_INC_000379,How long until you are ready to leave this place?,不知道你何時可以逃脫這個陰暗的罪過...
+PROPQUEST_DUNGEONANDPK_INC_000380,Here is the Key. Now go and never return.,鑰匙在這裡。現在去，永遠不要回來。
+PROPQUEST_DUNGEONANDPK_INC_000381,I will give you your freedom for only $QUEST_END_ITEM_COUNT$ beads. How could you pass on an offer like that?,只需 $QUEST_END_ITEM_COUNT$ 顆晶球，我就可以給你自由。你要怎麼能通過這樣的要求？
+PROPQUEST_DUNGEONANDPK_INC_000382,Keep gathering your beads.,繼續收集你的晶球。
+PROPQUEST_DUNGEONANDPK_INC_000390,You are welcome to stay for as long as you would like.,難道你這麼喜歡這個島嶼嗎?那~你就繼續留下來吧!
+PROPQUEST_DUNGEONANDPK_INC_000420,Entering the Dekane Mine,尋找塔凱黎斯礦山
+PROPQUEST_DUNGEONANDPK_INC_000421,You are really willing to enter the Dekane Mine?,難道你想進入塔凱黎斯嗎?
+PROPQUEST_DUNGEONANDPK_INC_000422,"Then visit the Dwarpet, Rankashu, in front of the Dekane Mine.",幫我去找『小草兒』詢問一下關於礦山的事情好嗎？你去塔凱黎斯礦山前面就會找到他了。
+PROPQUEST_DUNGEONANDPK_INC_000423,Ha ha ha. Of course not. It is far too frightening.,噗！我就知道你會這樣。你覺得很恐怖吧！
+PROPQUEST_DUNGEONANDPK_INC_000424,Here is the Mine Entrance Card. It is up to you to enter but I advise against it. You may die.,謝謝你啦～這是可以進入礦山的通行卡到時候.變成靈魂出來也不要埋怨我喔～
+PROPQUEST_DUNGEONANDPK_INC_000425,Is it so hard to tell me what I want to know? Leave quickly.,幫我問個事情有那麼難嗎？真是一個無能的傢伙啊！快去問一問回來好不好啊？
+PROPQUEST_DUNGEONANDPK_INC_000426,Visit the Dwarpet Rankashu and get the information Cell wanted.,去找小草兒之後，幫飛兒詢問消息。
+PROPQUEST_DUNGEONANDPK_INC_000429,You have the Mine Entrance Card. Now to find out what everyone is so afraid of.,終於拿到可以進入塔凱黎斯礦山的道具了.為什麼大家都很討厭進入這裡呢？難道有什麼秘密嗎？
+PROPQUEST_DUNGEONANDPK_INC_000431,Keakoon in Mine (1),礦山裡的奇昆族（1）
+PROPQUEST_DUNGEONANDPK_INC_000432,"I am Drian son of Nevil, great chief of the original Keakoon. We were once friendly with the humans.",我是奇昆王族的族長藍彼的兒子.呵呵～我們奇昆族在很久以前與人類相處的很好呢～
+PROPQUEST_DUNGEONANDPK_INC_000433,We helped humans develop the mine long ago but when they left some of us were locked up by a new breed of Keakoons.,當時、礦山正在開發，與人類相處的很好。可是我們現在離開了人類，過著很悲慘的生活。
+PROPQUEST_DUNGEONANDPK_INC_000434,My father is old and cannot last much longer in his prison. Please help me rescue him.,而且我老爸現在年紀也不少了，可是在牢裡受困，你可以救出我的爸爸嗎？
+PROPQUEST_DUNGEONANDPK_INC_000435,"The key to the cell where my father is being kept has three pieces. These false Keakoons are inside, keeping them hidden. Go and bring them to me.",為了打開大牢的門，需要一把鑰匙，可是住在裡面的那些奇昆把鑰匙分成3塊保管著。你可以幫我拿到那3塊分開的鑰匙嗎？ 
+PROPQUEST_DUNGEONANDPK_INC_000436,How could you? To think I thought to count you as a friend.,How could you? To think I thought to count you as a friend.
+PROPQUEST_DUNGEONANDPK_INC_000437,Oh… Thank you… so much. I could never repay you fully. Thank you so much.,Oh… Thank you… so much. I could never repay you fully. Thank you so much.
+PROPQUEST_DUNGEONANDPK_INC_000438,You have to gather all three pieces of the Key.,3塊鑰匙片長的不同，所以你要得到3塊不同的鑰匙塊才可以，謝謝你啦～
+PROPQUEST_DUNGEONANDPK_INC_000439,Hunt Keakoon and get all 3 pieces of the prison key.,獵殺奇昆後，蒐集3塊不同的鑰匙片回來。
+PROPQUEST_DUNGEONANDPK_INC_000442,You have delivered all the pieces of the key but it looks like he still has something to say.,蒐集到3塊鑰匙了，他好像還有些話想對我說的感覺呢...
+PROPQUEST_DUNGEONANDPK_INC_000444,Keakoon in Mine (2),礦山裡的奇昆（2）
+PROPQUEST_DUNGEONANDPK_INC_000445,I still have a need for you. Would you help me yet again?,其實......還有一件事情想拜託你，可以幫我救出大牢裡的我爸爸嗎？拜託啦～
+PROPQUEST_DUNGEONANDPK_INC_000446,You are a true friend. Take this key and free my father. I am not strong enough. Please.,你真是我的好朋友啊！這是大牢的鑰匙，幫我就回我爸爸的話，我一定會報答你的.拜託你了。
+PROPQUEST_DUNGEONANDPK_INC_000447,You show yourself to be no better than the fiends that imprisoned my father.,難道人類真的這麼不可信任嗎？
+PROPQUEST_DUNGEONANDPK_INC_000449,My father is in a prison on the outskirts of Keakoon village. Please hurry he cannot last much longer.,我爸爸他關在奇昆村最右邊的一個大牢裡，快去幫我救他～
+PROPQUEST_DUNGEONANDPK_INC_000450,"Rescue Nevil, father of Drian.",把大牢裡的藍彼救出來。
+PROPQUEST_DUNGEONANDPK_INC_000453,You have saved Nevil. Go and talk to him.,把得安的父親藍彼救出來了，向藍彼對話看看好了。
+PROPQUEST_DUNGEONANDPK_INC_000455,Keakoon in Mine (3),礦山裡的奇昆族（3）
+PROPQUEST_DUNGEONANDPK_INC_000456,"Many thanks, friend. You have done so much for us but would you do something more?",真的是很感謝你啦～看你能夠把我救出來，你一定是一個很厲害的戰士。所以啊～你可以在幫我一件事情嗎？
+PROPQUEST_DUNGEONANDPK_INC_000457,Please defeat the Elite Keakoon Guard Leader and bring me the Chief Sign that proves I am the one true Chief of the Keakoon. Would you also please bring me the cargo my son Drian is keeping safe for me?,我有2件事情想拜託你，首先、我要證明我是奇昆族的族長，需要獵殺奇昆的頭目幫我找回印章。第2件事情就是，請你去找我兒子，拿回我的行李。
+PROPQUEST_DUNGEONANDPK_INC_000458,What kind of person are you if you refuse to help those with less power than you?,你有實力，卻不幫弱者，這那能稱作是一個勇士呢?
+PROPQUEST_DUNGEONANDPK_INC_000459,Thank you. It is my great hope that Keakoon and human can thrive together once again. Take this ring as a gift.,謝謝你啦～真希望我們可以像以前一樣，可以與人類好好相處，這是我送你的禮物，收下吧！看你來到這麼危險的塔凱黎斯...你應該很喜歡挑戰冒險囉～
+PROPQUEST_DUNGEONANDPK_INC_000460,"If, by any chance, you want more adventure visit Bernard in Darken. Be careful. I would hate for something to happen to you.",一說到冒險啊～也沒有比這裡還要棒的地方了。如果你要繼續挑戰冒險的話，可以去村莊找『番若迪』喔～說不定你可以搶救這個礦山。這是到下一個地區鑰匙，收下吧！
+PROPQUEST_DUNGEONANDPK_INC_000461,Hrmm… It might not be that dangerous for someone as strong as you.,嗯...你都可以把我從大牢裡救出來了，所以對你來說應該不是一件困難的事情啦！
+PROPQUEST_DUNGEONANDPK_INC_000462,Bring the seal of the chief and the package that Drian is holding back to Nevil.,『族長的印章』與『行李箱』
+PROPQUEST_DUNGEONANDPK_INC_000465,"You rescued Nevil, chief of the Keakoon. You can feel the secrets around this place. Maybe you can get some information from Bernard.",一進礦山就見到奇昆族，幫他們解決問題了，以藍彼說的來看，這個礦山好像還有很多秘密...我應該要去找番若迪問問看才對。
+PROPQUEST_DUNGEONANDPK_INC_000467,Death Mine and Roaches (1),死亡的礦山與巨械毒花（上）
+PROPQUEST_DUNGEONANDPK_INC_000468,Hmm… Is that the ring of Nevil around your finger?,嗯...你手上帶的戒指，那個不是藍彼的戒指嗎？嗯... 你把藍彼救出來了，對吧！
+PROPQUEST_DUNGEONANDPK_INC_000469,Your strength has been proven then. Would you prove yourself further? The Roach is somehow connected to the death of people in the mine.,那你可以幫我一件事情嗎？以前有很多人死在礦山裡面，我想應該是跟巨械毒花有關係。
+PROPQUEST_DUNGEONANDPK_INC_000470,There is a mystery to be unlocked here. Would you bring me the blood of the Roach larva?,我為了研究巨械毒花所以需要他的血液，你可以幫我蒐集嗎？
+PROPQUEST_DUNGEONANDPK_INC_000471,Thank you. There are two kinds of Roach - Pink and Blue. Break open their eggs and hunt down the larva.,謝謝你喔！巨械毒花有分２種，一種是粉紅毒花、另一種是藍毒花。只要得到他們的卵，在卵裡面的乳蟲就可以得到他們的血液了。
+PROPQUEST_DUNGEONANDPK_INC_000472,There will be no revelation without danger.,一旦進入了那麼危險的地區，你應該要得到最重要的寶，這樣才有意義啦...
+PROPQUEST_DUNGEONANDPK_INC_000473,"Ahh, there is much to be learned from the blood of these Roaches.",真的很謝謝你啊～現在我把關於巨械毒花的資料全部都蒐集好了。
+PROPQUEST_DUNGEONANDPK_INC_000474,No! No! No! Bring me more information!,喔～不行啦！不行啦！請你在努力一點蒐集好嗎？
+PROPQUEST_DUNGEONANDPK_INC_000475,Bring the blood of Roaches by destroying their eggs and defeating Roach Larva.,經過奇昆地區之後，打碎粉紅毒花與藍毒花的卵，蒐集『乳蟲樹液』。
+PROPQUEST_DUNGEONANDPK_INC_000478,Looks like he still has a need of you.,蒐集『乳蟲樹液』拿給他之後，他好像要拜託我其他的事情呢...
+PROPQUEST_DUNGEONANDPK_INC_000480,Death Mine and Roaches (2),死亡的礦山與巨械毒花（下）
+PROPQUEST_DUNGEONANDPK_INC_000481,The toxicity of Roaches has poisoned many humans in the mine.,我使用你幫我蒐集的『乳蟲樹液』來研究後，找到以前那些人在礦山裡無原無辜死掉的原因了，都是因為巨械毒花的毒而引起的。
+PROPQUEST_DUNGEONANDPK_INC_000482,It seems that the Roach Queens are the source of the poison.,而且我發現『毒花女王』的毒會使人類受到致命傷。
+PROPQUEST_DUNGEONANDPK_INC_000483,Bring me the blood of Pink and Blue Roach Queens so that I can make a vaccine.,我要製造預防這些病菌的藥水，你可以幫我在巨械毒花女王身上採取他的樹液給我。
+PROPQUEST_DUNGEONANDPK_INC_000484,Sprinkle this liquid on the Roach Queen egg to wake her up. Be careful.,為了讓巨械毒花女王醒過來的話，要把這個液體噴在巨械毒花女王的卵上，你要小心一點喔！他可是很兇狠的傢伙啊！
+PROPQUEST_DUNGEONANDPK_INC_000485,You really will not see this through to the end?,反正你已經碰手了，那麻煩你幫我做到底好嗎？不然，你不覺得有一種，你去廁所之後，沒擦屁股的感覺嗎？
+PROPQUEST_DUNGEONANDPK_INC_000486,This vaccine will save many lives. Thank you.,因為你的幫忙，我可以給死去的那些人一個交代了。只要有這個藥水牠們應該不會再亂來了！
+PROPQUEST_DUNGEONANDPK_INC_000487,Take this weapon as a token of gratitude and this card to venture deeper into the mine.,這個武器是我送給妳的，還有這張通行卡，可以進入礦山的裡面。 
+PROPQUEST_DUNGEONANDPK_INC_000488,The Roaches appeared very suddenly in the mine. Maybe you can find out the reason by going deeper into the mine.,礦山裡面突然冒出一堆巨械毒花，我覺得很詭異。我猜進到裡面應該會找到原因吧！
+PROPQUEST_DUNGEONANDPK_INC_000489,I am sure that you can handle the upcoming danger.,我相信你一定可以解決得。如果、你覺得很累的話，可以多找一些伙伴一起進去也不錯啦！
+PROPQUEST_DUNGEONANDPK_INC_000490,Gather the blood of Pinky and Blue Roach Queen.,蒐集粉紅、藍色巨械毒花女王的樹液
+PROPQUEST_DUNGEONANDPK_INC_000493,Something about the way Bernard talks suggessts that the Roaches were placed in the mines intentionally. Maybe you can find out.,依照番若迪所說的，這些巨械毒花應該是因為一些原因而產生的，我再進去一點看看好了，說不定可以找到我想要的答案。
+PROPQUEST_DUNGEONANDPK_INC_000495,Dwarpet Kazen,杜爾沛『卡斬』
+PROPQUEST_DUNGEONANDPK_INC_000496,What brings you here? I am sure you know of the many deaths surrounding this place.,嗯～你來這裡幹嗎？難道你不知道以前這裡死了很多人嗎？這裡不是人類可以進入的地方啦！滾！呵呵～我懂了你是來調查以前為什麼有那麼多人在這裡死亡的，對吧！
+PROPQUEST_DUNGEONANDPK_INC_000497,You will not be able to find out what happened here without my help. I will tell you what you want to know if you do me a favor. What do you think?,這樣的話～你沒有我的幫助應該是很難知道的啦！不然你幫我一件事情好了，那我就告訴你一些情報。如何啊？要幫我嗎？
+PROPQUEST_DUNGEONANDPK_INC_000498,Bring me 30 Cillin and I will tell you everything you need to know.,呼～好！可是我要先測試一下，你是不是有能力可以幫我。這礦庫裡有一個叫做矽磷的東西，你去蒐集30個回來給我吧！
+PROPQUEST_DUNGEONANDPK_INC_000499,"Pssh, some great hero, you cannot even bring me some simple stones.",連幫我撿個石頭都那麼難喔！那你還想知道礦山的秘密？好笑勒！滾回家啦你～
+PROPQUEST_DUNGEONANDPK_INC_000500,Hmm… I did not think you would be back so soon. Take this money as a gift.,Hmm… I did not think you would be back so soon. Take this money as a gift.
+PROPQUEST_DUNGEONANDPK_INC_000501,I said 30. Not 29 or 28. Bring me 30 Cillin.,30個啦！不是29個、也不是28個，是30個。聽懂了沒有！
+PROPQUEST_DUNGEONANDPK_INC_000502,Gather 30 Cillin.,蒐集30個矽磷
+PROPQUEST_DUNGEONANDPK_INC_000507,Bring Ribenuum,蒐集沛拉磷 
+PROPQUEST_DUNGEONANDPK_INC_000508,I am here in Dekane mining for Ribenuum. In all of Madrigal Ribenuum can only be found in the Darkon area.,我來到塔凱黎斯礦山的理由是，為了採集沛拉磷啦！沛拉磷只有在這裡才可以採集到的啦！
+PROPQUEST_DUNGEONANDPK_INC_000509,Ribenuum is made when a Green Trillipy eats a stone and metabolizes it.,因為啊～沛拉磷是綠色毒甲蜈蚣吃了岩石之後，而產生的一個礦石。而且毒甲蜈蚣只會在這裡出現啦！
+PROPQUEST_DUNGEONANDPK_INC_000510,Would you bring me some Ribenuum? A Green Tillipy is dangerous but you look equally as dangerous.,可是啊～毒甲蜈蚣很惡劣列啦！可是說到惡劣又沒有比人類還要惡劣的動物了啦！所以你去幫我蒐集好嗎？
+PROPQUEST_DUNGEONANDPK_INC_000511,Green Trillipy are down the hall to the right. The room to the left is blocked.,綠色毒甲蜈蚣出沒在，你進來的反方向那邊的通路，再往右邊進去就會看到牠們了，應該是不難找啦！ 
+PROPQUEST_DUNGEONANDPK_INC_000512,"Are you kidding me? Go on and get out of here, I may not look it but I am an old Dwarpet and I do not have time for games.",你現在是跟我開玩笑嗎?你現在故意要耍我是嗎?
+PROPQUEST_DUNGEONANDPK_INC_000513,Ahhh...you brought the Ribenuum. But what is this? It is flawed!,嗯...你有拿30個沛拉磷回來喔～咦？可是這個沛拉磷好像不是好貨喔！
+PROPQUEST_DUNGEONANDPK_INC_000514,How hard is it to bring me what I asked for? 30 pieces of Ribenuum?,蒐集30個沛拉磷，對你們人類來說應該是很簡單的事情吧？
+PROPQUEST_DUNGEONANDPK_INC_000515,Gather 30 pieces of Ribenuum from Green Trillipy,蒐集30個沛拉磷回來吧！ 
+PROPQUEST_DUNGEONANDPK_INC_000520,Refine Ribenuum,精鍊沛拉磷
+PROPQUEST_DUNGEONANDPK_INC_000521,The Ribenuum you brought is impure. I could take it home and refine it myself but the other Dwarpets would laugh me back to Flarine.,你拿來的這個沛拉磷的純度不夠高啦！對我們來說精鍊是很簡單的事情。可是拿這種爛貨去村子的話，一定會被笑死才對！
+PROPQUEST_DUNGEONANDPK_INC_000522,"It will have to be refined in a human village then. There is only one human I trust to do it it right. There is man named Nein, he was one of the last humans to work in these mines. Maybe the very last human.",不管怎樣你還是要去村子精鍊啦！在人類裡可以精鍊這個東西的人只有一個，他叫做『羅殷』。
+PROPQUEST_DUNGEONANDPK_INC_000523,"Bring these Ribenuum to Nein and have him refine them. Then bring them back to me, would you?",把沛拉磷拿去給『羅殷』精鍊之後，在拿來給我，你做得到吧？ 
+PROPQUEST_DUNGEONANDPK_INC_000524,I heard that Nein lives somewhere in the Dead Walderness. He will refine the 30 pieces of impure Ribenuum into 10 pieces of high quality Ribenuum.,聽說羅殷他住在沃德尼斯沙漠附近，把高純度沛拉磷拿給他吧！精鍊完之後該會減少10個啦。
+PROPQUEST_DUNGEONANDPK_INC_000525,Are you kidding me? Get lost! I do not have patience for games!,你現在跟我開玩笑嗎？如果你是想耍我的話，你就給我滾回家啦！
+PROPQUEST_DUNGEONANDPK_INC_000526,"Oh… Thank you, thank you, thank you! Take this necklace and some money with you.","Oh… Thank you, thank you, thank you! Take this necklace and some money with you."
+PROPQUEST_DUNGEONANDPK_INC_000527,Hmmm... maybe I was asking too much of you. You can just go home.,Hmmm... maybe I was asking too much of you. You can just go home.
+PROPQUEST_DUNGEONANDPK_INC_000528,Gather 10 pieces of high quality Ribenuum,蒐集10個高純度沛拉磷
+PROPQUEST_DUNGEONANDPK_INC_000533,Bring Triduum,蒐集特立磷
+PROPQUEST_DUNGEONANDPK_INC_000534,"Ribenuum is useless to most humans. Maybe you have a Dwarpet friend you can give it to? Here, let me see it. These samples are too impure and even I cannot refine them without the right materials.",精鍊沛拉磷吧...這個東西對我們人類來說沒什麼用啦！純度真的是太低了呢～應該沒辦法這樣拿來精鍊啦～
+PROPQUEST_DUNGEONANDPK_INC_000535,I need a special metal called Triduum in order to refine this. You can get it by hunting Violet Trillipy but they live deep in the Dekane Mine.,如果你要精鍊這個東西的話，需要特立磷。這個東西在劇毒蜈蚣身上可以得到啦！牠居住在塔凱黎斯礦山裡...
+PROPQUEST_DUNGEONANDPK_INC_000536,Well… If you really need the Ribenuum refined bring me 20 Triduums. You are going to need a special ID card to go in there.,Well… If you really need the Ribenuum refined bring me 20 Triduums. You are going to need a special ID card to go in there.
+PROPQUEST_DUNGEONANDPK_INC_000537,Go and get an ID card from the guys I used to work with.,可是你還是要先去找進入那裡的通行證才可以啦！你應該要去找以前在礦山做過事情的人，他們應該會給你一些情報的！
+PROPQUEST_DUNGEONANDPK_INC_000538,Ha ha ha.You can do that if you need to. I hope you are not doing this for some Dwarpet.,哈哈哈...如果這是你要需要的東西的話，我是沒話說啦～可是如果你是為了杜爾沛做這些事情的話...我就更無言囉～
+PROPQUEST_DUNGEONANDPK_INC_000539,"Here is your refined Ribenuum. But, a word of warning, if the Dwarpet Kazen asked you for this… he is thinking more than he is saying.","Here is your refined Ribenuum. But, a word of warning, if the Dwarpet Kazen asked you for this… he is thinking more than he is saying."
+PROPQUEST_DUNGEONANDPK_INC_000540,Kazen has hated humans for as long as I have known him and him working with you means he is on to something big. You know… there is a rumor that he had a hand in all the deaths in that mine.,Kazen has hated humans for as long as I have known him and him working with you means he is on to something big. You know… there is a rumor that he had a hand in all the deaths in that mine.
+PROPQUEST_DUNGEONANDPK_INC_000541,You let me know if he is acting suspiciously. Maybe I can do something to help you.,反正啦～如果你覺得牠怪怪的話，馬上來跟我說吧！或許我可以幫得上你的忙。
+PROPQUEST_DUNGEONANDPK_INC_000542,Why not just let it go? Go home and get some rest.,我覺得你還是不要自找麻煩啦！在這裡放棄好不好？
+PROPQUEST_DUNGEONANDPK_INC_000543,Get the ID card that will allow you into the room with the Violet Trillipy. Hunt them down and bring 20 pieces of Triduum to Nein.,得到通行卡之後，獵殺劇毒蜈蚣蒐集20個特立磷回來吧！
+PROPQUEST_DUNGEONANDPK_INC_000548,ID Card (1),通行卡的下落（上）
+PROPQUEST_DUNGEONANDPK_INC_000549,"What? You want to know where the Violet Trillipy live? You seem so curious about this accursed mine. Unfortunately, there are not many people left who know much about it.",什麼？你想知道關於劇毒蜈蚣的事情喔？你的好奇心未免也太大了吧！知道劇毒蜈蚣的人其實也不多呢～
+PROPQUEST_DUNGEONANDPK_INC_000550,Only a few of the mine workers go that deep into the mine. I don't know much about them or the ID card they use to get down there. Oh! You should go speak with Bernard about this.,那裡只有少數的人才可以進去啦！對欲那個地方我是完全不懂啦。對了！你去找番若迪好了，說不定他會知道一些事情。 
+PROPQUEST_DUNGEONANDPK_INC_000551,Would you please say Hi to Bernard for me?,好吧！你見到他的話，順便幫我問他最近過得如何好嗎？
+PROPQUEST_DUNGEONANDPK_INC_000552,"No, you are right. You should not be the next one to suffer.",對啦～不要自找麻煩啦！
+PROPQUEST_DUNGEONANDPK_INC_000553,Violet Trillipy… Do you mean you are going in there with them?,Violet Trillipy… Do you mean you are going in there with them?
+PROPQUEST_DUNGEONANDPK_INC_000554,Why not just relax and give it up?,不要自找麻煩了啦～放棄好不好啊？
+PROPQUEST_DUNGEONANDPK_INC_000555,"Chat with Bernard, then meet Andre in Darkon 3.",與番若迪聊天，然後在德肯3區中與安德爾會面。
+PROPQUEST_DUNGEONANDPK_INC_000560,ID card (2),通行卡的下落（下）
+PROPQUEST_DUNGEONANDPK_INC_000561,"Look, I have no problem giving you the ID card… I just do not want to see you die… But if you really insist, then fine. Hunt some Watangka and I will give you the card.","Look, I have no problem giving you the ID card… I just do not want to see you die… But if you really insist, then fine. Hunt some Watangka and I will give you the card."
+PROPQUEST_DUNGEONANDPK_INC_000562,If you can hunt Watangka you can probably hunt Violet Trillipy.,嗯！想他這種的話，應該跟劇毒蜈蚣有得比啦！
+PROPQUEST_DUNGEONANDPK_INC_000563,Bye bye then! Take care of yourself…,加油喔！
+PROPQUEST_DUNGEONANDPK_INC_000564,Hmm… Violet Trillipy may be stronger than Watangka.,Hmm… Violet Trillipy may be stronger than Watangka.
+PROPQUEST_DUNGEONANDPK_INC_000565,"Alright, here is the ID card. Just make sure you come out of there alive. I do not need a guilty conscience.",好吧！通行卡給你...不給死著回來喔～祝你好運喔。
+PROPQUEST_DUNGEONANDPK_INC_000566,I guess we all get tired sometime?,I guess we all get tired sometime?
+PROPQUEST_DUNGEONANDPK_INC_000567,Defeat 30 Captain Watangka and the Lord Watangka.,Defeat 30 Captain Watangka and the Lord Watangka.
+PROPQUEST_DUNGEONANDPK_INC_000572,Door of Dark,黑暗之門
+PROPQUEST_DUNGEONANDPK_INC_000573,"Excuse me. If you are not busy, would you please listen to my story? Have you ever heard of the Iblis Temple?",請問一下，你有聽說過[伊普里司地牢]嗎？
+PROPQUEST_DUNGEONANDPK_INC_000574,"The Iblis Temple was built by the followers of Iblis, a leader from before the first age of Madrigal.",我也不是很清楚，據說伊普里司地牢是瑪德利賈世界的歷史開始前，就由伊普里司所創造出來的… 
+PROPQUEST_DUNGEONANDPK_INC_000575,"The temple is located in the Fantasy Desert, in the southern part of Saint Morning.",也有人說是人工所建造的地牢，地牢位於聖音特南部夢幻沙漠！
+PROPQUEST_DUNGEONANDPK_INC_000576,You see... every mayor has to explore all the Islands of Madrigal. In the course of these travels we have to visit the Iblis Temple but... I am so afraid.,You see... every mayor has to explore all the Islands of Madrigal. In the course of these travels we have to visit the Iblis Temple but... I am so afraid.
+PROPQUEST_DUNGEONANDPK_INC_000577,Would you please help me? I beg of you.,所以勒，我希望你能幫幫忙！
+PROPQUEST_DUNGEONANDPK_INC_000578,"Thank you! Please, investigate the entrance of the temple for anything dangerous. Would you?",太感謝你了！幫我打探一下地牢入口附近，看看有沒有什麼不尋常的狀況。
+PROPQUEST_DUNGEONANDPK_INC_000579,"I cannot force you to help me if you are busy. But maybe, when you have the time, you could come back and help me.",你有急事的話那就算了，不過，我還是希望你能幫這個忙。
+PROPQUEST_DUNGEONANDPK_INC_000580,"Thank you, you did a great job.",辛苦你了！看起來應該是我多心了……
+PROPQUEST_DUNGEONANDPK_INC_000581,It is very easy to find the entrance of the temple in Fantasy Desert.,地牢位於夢幻沙漠，應該很容易找到的！
+PROPQUEST_DUNGEONANDPK_INC_000582,Investigate the temple entrace.,幫我打探一下地牢入口附近，看看有沒有什麼不尋常的狀況。
+PROPQUEST_DUNGEONANDPK_INC_000584,Temple of the Clown,小丑的地牢
+PROPQUEST_DUNGEONANDPK_INC_000585,Oh... Back so soon? I am glad you are back but I am still so worried.,Oh... Back so soon? I am glad you are back but I am still so worried.
+PROPQUEST_DUNGEONANDPK_INC_000586,I guess I am still worrying about the Iblis Temple. I know you said that there is nothing to worry about but I still have a bad feeling about that place.,沒錯！就是伊普里司地牢，聽說又出些狀況！！
+PROPQUEST_DUNGEONANDPK_INC_000587,Would you please help me once more? I will not be able to rest until I know for sure…,各種謠言在市民間流傳著，你一定要再幫幫我才行！
+PROPQUEST_DUNGEONANDPK_INC_000588,"I heard that there is a copy of the Iblis Revelation in the temple. Please bring me a rubbed copy of it, I need to see what it says.",地牢裡應該留有伊普里司的遺物，聽說他有留下一本伊普里司啟示錄的拓本，能找找看嗎？
+PROPQUEST_DUNGEONANDPK_INC_000589,...but I... I... need your help…,...but I... I... need your help…
+PROPQUEST_DUNGEONANDPK_INC_000590,This… this is more shocking than I could have imagined. Bubble please protect us.,This… this is more shocking than I could have imagined. Bubble please protect us.
+PROPQUEST_DUNGEONANDPK_INC_000591,There is a copy of the Iblis Revelation in the Iblis Temple. Bring a rubbed copy of it.,地牢裡應該留有伊普里司的遺物，聽說他有留下一本伊普里司啟示錄的拓本，請找回來給我！
+PROPQUEST_DUNGEONANDPK_INC_000593,The Revival,復活
+PROPQUEST_DUNGEONANDPK_INC_000594,What should we do?! What should we do?!,(語無倫次地說)真糟糕！該怎麼辦啊？
+PROPQUEST_DUNGEONANDPK_INC_000595,I read the revelation and it speaks of the revival of Iblis as the trigger to the end of the world!,伊普里司啟示錄拓本的內容，竟然預言世界末日的到來，如果讓伊普里司復活，那這世界就沒希望了！
+PROPQUEST_DUNGEONANDPK_INC_000596,"If this is true, we have to stop it! This could be worse than the Hero Wars of long ago.",一定要竭力所能阻止他復活才行！
+PROPQUEST_DUNGEONANDPK_INC_000597,You told me that you saw new types of masquerpets while you were getting the revelation right? I think that maybe…,在地穴的出現的怪物就是他復活的前兆！請幫我搜集這些怪物的情報吧！
+PROPQUEST_DUNGEONANDPK_INC_000598,...they are the scouts of the army of Iblis. It looks like we may have to work together for a little while longer. Are you willing to help?,...they are the scouts of the army of Iblis. It looks like we may have to work together for a little while longer. Are you willing to help?
+PROPQUEST_DUNGEONANDPK_INC_000599,Excellent. Go in to the temple and gather any information you can about the strange masquerpets.,請幫我搜集地穴怪物的情報，好好注意自身安全！
+PROPQUEST_DUNGEONANDPK_INC_000600,What?! Are you really going to stand by and let the world end?,什麼？你一點都不覺得緊張嗎？天啊！世界末日就要到了……
+PROPQUEST_DUNGEONANDPK_INC_000601,"Hmm... Iblis Crasher... So, that is one of the masquerpets? Alright, give me some time to study this information. Thank you.","Hmm... Iblis Crasher... So, that is one of the masquerpets? Alright, give me some time to study this information. Thank you."
+PROPQUEST_DUNGEONANDPK_INC_000602,Any information about any Masquerpets is good.,請幫我搜集地穴怪物的情報，一切小心囉！
+PROPQUEST_DUNGEONANDPK_INC_000603,Go into the temple and gather any information you can.,請幫我搜集地穴怪物的情報，好好注意自身安全！
+PROPQUEST_DUNGEONANDPK_INC_000605,Into the Dark,黑暗中
+PROPQUEST_DUNGEONANDPK_INC_000606,Hi. I have studied the information you brought me and I have found that there is an altar in the Iblis Temple. There is also evidence that there are masquerpets guarding the altar.,以你找到的相關消息來看，這伊普里司地牢裡真的有祭團的存在……
+PROPQUEST_DUNGEONANDPK_INC_000607,Do you see? They do not want anyone to interupt the revival of Iblis. We need to do something. We need to stop them!,祭團的存在，也與拓本裡的內文相符，這絕不是巧合！
+PROPQUEST_DUNGEONANDPK_INC_000608,Are you ready for one last journey into the dark?,可得要消滅祭團才行，這只能靠你幫忙了！
+PROPQUEST_DUNGEONANDPK_INC_000609,"I knew you would be. There is a masquerpet name Iblis Guardian. If you can defeat it, you can enter the altar.",從拓本的內文來看，這地穴赤焰鳳凰，就是維護祭團的怪物！要先消滅牠才行……
+PROPQUEST_DUNGEONANDPK_INC_000610,Are you serious? What could be more important than saving the world?,事況緊急……該怎麼辦才好！？
+PROPQUEST_DUNGEONANDPK_INC_000611,"Great job, now you can enter the altar. I am counting on you to defeat the followers of Iblis... we all are. Go to the altar now.",辛苦你了！這地牢有太多詭異的地方，可要多留意才行！
+PROPQUEST_DUNGEONANDPK_INC_000612,I do not know exactly where Iblis Guardian is. But we have to find it and destroy it.,地牢裡跟迷宮一樣，我也不知道地穴赤焰鳳凰的所在確切位置！你一定要打敗牠才行！
+PROPQUEST_DUNGEONANDPK_INC_000613,Defeat Iblis Guardian and enter the altar.,從拓本的內文來看，這地穴赤焰鳳凰，就是維護祭團的怪物！
+PROPQUEST_DUNGEONANDPK_INC_000615,If you can defeat the Iblis Guardian you can enter the altar.,伊普里司啟示錄一定就掉落在地牢裡，請仔細搜索！
+PROPQUEST_DUNGEONANDPK_INC_000625,Dekane Mine,塔凱黎斯礦山
+PROPQUEST_DUNGEONANDPK_INC_000626,Iblis Temple,伊普里斯寺院
+PROPQUEST_DUNGEONANDPK_INC_000640,Bloody corridor,血腥走廊
+PROPQUEST_DUNGEONANDPK_INC_000641,Well... Not a bad deal... Can you collect 20 Blood Trillipy Shells and defeat a Mutant Keakoon Worker?,嗯……不錯的交易……你能在危險的凶惡噬血蜈蚣上獲得 20 個戰利品嗎？ 
+PROPQUEST_DUNGEONANDPK_INC_000642,"In that case...Hic, good luck.",在那種情況下......呃，祝你好運！
+PROPQUEST_DUNGEONANDPK_INC_000643,Hmm... the Hazardous Blood Trillipys are much stronger...,嗯……凶惡噬血蜈蚣要強多了……
+PROPQUEST_DUNGEONANDPK_INC_000644,Thanks to you the extraction in this area will be much easier!,多虧了您，這區域的萃取會容易得多！
+PROPQUEST_DUNGEONANDPK_INC_000645,Hmm... Despite your level the Hazardous Blood Trillipys are much stronger...,嗯……儘管你的水平，危險的凶惡噬血蜈蚣要強得多……
+PROPQUEST_DUNGEONANDPK_INC_000646,Collect $QUEST_END_ITEM_COUNT$ loot from the Bloody Trilipy and kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.,從噬血蜈蚣身上收集 $QUEST_END_ITEM_COUNT$ 戰利品並殺死 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$。
+PROPQUEST_DUNGEONANDPK_INC_000648,The bottom of the mine,礦井底部
+PROPQUEST_DUNGEONANDPK_INC_000649,"Hello, if you're here it's because you've defeated all the known monsters in the mine. I'm Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem that lies at the bottom of the mine. In a secret room sleep dragons from ancient times created by Shade ages ago.",您好，如果您在這裡，那是因為您已經擊敗了礦井中所有已知的怪物。 我是德卡內，這個礦井的創造者。 既然你已經證明了自己，我就可以告訴你礦井底部的真正問題。 在一個秘密房間裡，沉睡於很久以前由陰影創造的遠古時代的龍。
+PROPQUEST_DUNGEONANDPK_INC_000650,Good luck!,好運！
+PROPQUEST_DUNGEONANDPK_INC_000651,It is true that this is not an easy thing for an adventurer. Come and try your luck again when you are ready.,說實在的，這對於冒險者來說並不是一件容易的事。 準備好後再來試試運氣。
+PROPQUEST_DUNGEONANDPK_INC_000652,So you really did kill them all... Thank you very much.,所以你真的把他們都殺了……非常感謝。
+PROPQUEST_DUNGEONANDPK_INC_000654,Collect 30 Blood Trillipy Shells from the Bloody Trillipy and kill 3 Mutant Keakoon Workers.,從噬血蜈蚣身上收集30 件背甲並殺死 3 名模範奇昆工頭。
+PROPQUEST_DUNGEONANDPK_INC_000656,"To defeat them, you'll need a well-armed team. Ah, but there's one detail I forgot to mention. You'll need 1,000,000 Penya to open the door, but for now, collecting 30 Blood Trillipy Shells and defeating 3 Mutant Keakoon Workers will be enough. Are you ready to accept this challenge?","要打敗他們，你需要一支裝備精良的隊伍。 啊，但是有一個細節我忘了說：你需要 1,000,000 金幣才能打開門，但現在，30 個噬血蜈蚣背甲和 3 個模範奇昆工頭就足夠了。 你準備好接受這個挑戰了嗎？"

@@ -1,0 +1,51 @@
+﻿Key,English,Polish
+CLIENT_FAQ_INC_000000,How can I be resurrected?,Jak mogę zmartwychwstać?
+CLIENT_FAQ_INC_000001,"You can revive in the nearest town by choosing 'Lodestar' in the revive window. If you have a 'Scroll of Resurrection' or a resurrection skill is cast on you, you can revive instantly on the place you died.","Możesz zmartwychwstać w najbliższym mieście, wybierając „Lodestar” w oknie wskrzeszenia. Jeśli posiadasz 'Zwój Wskrzeszenia' lub umiejętność wskrzeszenia została rzucona przez Asystenta na Twoją postać, możesz natychmiast ożywić się w miejscu, w którym umarłeś."
+CLIENT_FAQ_INC_000002,Where are the monsters?,Gdzie znajdę potwory?
+CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those that you can handle.,"Są na polach wokół miast. Walcz tylko z tymi, z którymi możesz sobie poradzić."
+CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,Jak mogę zaznaczyć cel i odznaczyć go?
+CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.","Kliknij dwukrotnie cel myszą, aby go zaatakować, kliknij raz, aby go tylko zaznaczyć, kliknij ESC, aby go odznaczyć."
+CLIENT_FAQ_INC_000006,How can I attack continuously?,Jak mogę nieprzerwanie atakować?
+CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,"Upewnij się, że ustawienie Auto Attack jest zaznaczone w Ustawieniach."
+CLIENT_FAQ_INC_000008,How do you use the skills?,Jak używać umiejętności?
+CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,"Naciśnij K, aby przejść do menu Umiejętności i przeciągnij ikony umiejętności, których chcesz użyć, do paska kombinacji w prawym dolnym rogu ekranu."
+CLIENT_FAQ_INC_000010,How do you use the skills continuously?,Jak korzystać z kombinacji umiejętności?
+CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting something to use those skills. Moves that are shaped like puzzle pieces need to be placed together.,"Umieść umiejętności w pasku kombinacji i i naciśnij C, gdy celujesz w coś, aby użyć tych umiejętności. Ruchy w kształcie puzzli muszą być ułożone razem."
+CLIENT_FAQ_INC_000012,How do I gain my health back?,Jak odzyskać moje punkty życia?
+CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,Jedzenie i niektóre inne przedmioty przywrócą ci zdrowie po dwukrotnym kliknięciu. Ilość PŻ przywracanych przez każdy przedmiot jest podana w opisie przedmiotu.
+CLIENT_FAQ_INC_000014,How do I get a Job?,Jak zmienić profesję?
+CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.","Kiedy osiągniesz poziom 15, porozmawiaj z Julia w Flarine aby otrzymać zadania związane z zmianą profesji. Zadania Najemnika i Asystenta rozpoczynają się we Flaris, misja Maga rozpoczyna się w Saint Morning, a misja Akrobaty rozpoczyna się w Darken."
+CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,Dlaczego nie zdobywam doświadczenia na 15 poziomie.
+CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.","Kiedy osiągniesz poziom 15 i nie możesz zdobyć doświadczenia, musisz ukończyć pierwszą misję zmiany profesji, aby ponownie zdobywać doświadczenie. Idź do Instruktora / Trenera profesji i ukończ zadanie wybranej profesji, którą chcesz uzyskać, gdy osiągniesz 15 poziom."
+CLIENT_FAQ_INC_000018,,
+CLIENT_FAQ_INC_000019,"In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill.","In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill."
+CLIENT_FAQ_INC_000020,How do I fly?,Jak latać?
+CLIENT_FAQ_INC_000021,When you reach level 20 you can buy a board or broomstick from a player or NPC. Then equip the by double-clicking on it and you can fly.,"Kiedy osiągniesz poziom 20, możesz kupić latającą deskę lub miotłę od gracza lub NPC. Następnie nałóż ją, klikając dwukrotnie, od teraz możesz latać."
+CLIENT_FAQ_INC_000022,How do I move the camera.,Jak mogę poruszać kamerą.
+CLIENT_FAQ_INC_000023,There are two main ways to move the camera. Old Version: Press and hold the mouse wheel. Then move the mouse around. New Version: Press and hold the right mouse button. Then move the mouse around. Use the mouse wheel to zoom in or out and to rotate your camera.,"Istnieją dwa główne sposoby poruszania kamerą. Stara wersja: Naciśnij i przytrzymaj kółko myszy. Następnie poruszaj myszą. Nowa wersja: Naciśnij i przytrzymaj prawy przycisk myszy. Następnie poruszaj myszą. Użyj kółka myszy, aby przybliżać lub oddalać oraz obracać kamerą."
+CLIENT_FAQ_INC_000024,How do I return to my default camera position?,Jak wrócić do domyślnej pozycji kamery?
+CLIENT_FAQ_INC_000025,Old Version: Double click the mouse wheel. New Version: Double click the right mouse button.,Stara wersja: Kliknij dwukrotnie kółkiem myszy. Nowa wersja: Kliknij dwukrotnie prawym przyciskiem myszy.
+CLIENT_FAQ_INC_000026,"While flying, the camera is hard to move.","Podczas lotu, kamerą trudno się poruszać."
+CLIENT_FAQ_INC_000027,"While flying, double click on the right mouse button or use the arrow keys",Podczas lotu kliknij dwukrotnie prawym przyciskiem myszy lub użyj klawiszy strzałek
+CLIENT_FAQ_INC_000028,How can I use Emoticons?,Jak mogę używać Emotikonów?
+CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emotion and drag it to the bar.,"Kliknij 'F9', aby odpocząć i ponownie kliknij 'F9', aby wstać. Możesz także nacisnąć 'O' i wybrać emocję siedzenia i przeciągnąć ją do swojego okna."
+CLIENT_FAQ_INC_000030,How do you trade with other characters?,Jak handlować z innymi postaciami?
+CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.","Kliknij lewym przyciskiem na postać, trzymając wciśnięty Alt i wybierz z menu Handel. Używanie i upuszczanie przedmiotów nie są dostępne podczas handlu."
+CLIENT_FAQ_INC_000032,Where can I get a quest?,Gdzie mogę otrzymać misję?
+CLIENT_FAQ_INC_000033,If you want to find out about taking on a quest you can do so by talking with the NPCs.,"Jeśli chcesz dowiedzieć się o podjęciu Misji, możesz to zrobić, rozmawiając z NPC. Najlepiej z oznaczeniem wykrzyknika '!'."
+CLIENT_FAQ_INC_000034,What is a duel?,Czym jest pojedynek?
+CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player) by mutual consent. There is no penalty for dueling.",Oznacza pojedynek między graczami lub PvP (Player Vs Player) za obopólną zgodą. Nie otrzymasz kary za pojedynki.
+CLIENT_FAQ_INC_000036,How can I become famous?,Jak mogę stać się sławny?
+CLIENT_FAQ_INC_000037,The more you win tournament the more famous you become. If you become a high level player people will recognize you no matter where you are.,"Im więcej wygrywasz w turniejach, tym bardziej stajesz się sławny. Jeśli zostaniesz graczem na wysokim poziomie, ludzie będą Cię rozpoznawać bez względu na to, gdzie jesteś."
+CLIENT_FAQ_INC_000038,Why are some player names red? Can I attack everyone?,Dlaczego imiona niektórych graczy są czerwone? Czy mogę wszystkich zaatakować?
+CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.","PK i Karma rosną, gdy zabijasz innych graczy. Twoja postać zostanie ukarana wraz ze wzrostem PK i Karmy. Imię postaci PK jest wyświetlane na czerwono. Twoje PK może zostać odkupione poprzez wykonanie zadania spowiedzi, a twoja karma spada, gdy zabijasz potwory i / lub zostajesz zabity."
+CLIENT_FAQ_INC_000040,"If I encounter a bug, what can I do?","Co mogę zrobić, jeśli napotkam błąd?"
+CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting the bug on our forums at $WEBSITE$,"Jeśli napotkasz jakiekolwiek błędy, poinformuj nas o tym, publikując błąd na naszych forach pod adresem $WEBSITE$"
+CLIENT_FAQ_INC_000042,What is a guild?,Czym jest gildia?
+CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.","Gildia to społeczność, która jest znacznie większa niż Drużyna. Wraz ze wzrostem poziomu twojej gildii dostępnych jest wiele funkcji, takich jak Guild Bank, Guild Cloak i Guild Battle 1 na 1."
+CLIENT_FAQ_INC_000044,Where can we form a guild?,Jak możemy założyć gildię?
+CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.","Aby stworzyć gildię, poziom twojej postaci powinien wynosić co najmniej 40. Gdy osiągniesz 40 poziom, idź porozmawiaj z NPC Helena w Saint Morning i wykonaj zadanie gildii, które ci zleci."
+CLIENT_FAQ_INC_000046,How about a Party?,Jak utworzyć Drużynę?
+CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,"Możesz utworzyć drużynę niezależnie od poziomu, po prostu zaproś innych graczy do drużyny."
+CLIENT_FAQ_INC_000048,How to invite other players?,Jak zaprosić innych graczy?
+CLIENT_FAQ_INC_000049,Click on another player and select Invite to join party.,Kliknij na innego gracza i wybierz Zaproś do drużyny.

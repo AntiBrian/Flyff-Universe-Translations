@@ -1,0 +1,1544 @@
+﻿Key,English,Japanese
+TEXTCLIENT_CONNECTING,Connecting. Please wait.,接続中です。しばらくお待ちください。
+TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,接続できません。何度か試しても接続できない場合は、ネットワークの状態をご確認ください。
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,ゲームがアップデートされました。一度ページを閉じてから、再度開いてください。
+TEXTCLIENT_WRONGSERVER,Wrong server identifier.,サーバーの識別子が間違っています。
+TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.",不明なエラーです。もう一度お試しください。
+TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,このアカウントは既に接続されています。
+TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,接続中のキャラクターを解除しますか？
+TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,接続中のキャラクターを解除しました。再ログインまで10秒お待ちください。
+TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.",このチャンネルは現在満員です。しばらく待つか、別のチャンネルを選択してください。
+TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,すでに使われているキャラクター名です。
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,ボス級モンスターが出現！
+TEXTCLIENT_APP_MAP,World Map,ワールドマップ
+TEXTCLIENT_APP_OPTION,Options,オプション
+TEXTCLIENT_APP_LOGOUT,Logout,接続終了
+TEXTCLIENT_APP_QUIT,Quit,ゲーム終了
+TEXTCLIENT_APP_SUPPORT,Support,サポート
+TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_NAVIGATOR,Navigator,ナビゲーター
+TEXTCLIENT_APP_DEBUG,Debug,デバッグ
+TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,%d秒後、終了します。
+TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,キャラクター切り替え中 %d秒
+TEXTCLIENT_LINKACCOUNT,Linking account in %d sec(s).,アカウントへリンク中...残り %d 秒
+TEXTCLIENT_LOGOUT,Do you want to disconnect?,接続を終了しますか?
+TEXTCLIENT_LOGOUT_GUEST,#cffff0000You will lose your guest character.#nc Please link an account.,#cffff0000ゲストキャラクターが消えてしまいます。#ncアカウントのリンクをお勧めします。
+TEXTCLIENT_EXIT,Do you want to exit the program?,プログラムを終了しますか?
+TEXTCLIENT_DISCONNECTED,Disconnected from the server.,サーバから接続が解除されました。Flyff Universeを再起動してください。
+TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,このサーバーではキャラクターの作成が無効になっています。
+TEXTCLIENT_MAPHIDDEN,There seems to be an evil force clouding your vision of the area.,該当エリアは闇に覆われていてMAPを確認することができません。
+TEXTCLIENT_ITEM_DESC,Description:,説明：
+TEXTCLIENT_INVALIDCHARACTERS,This name contains unauthorized characters.,この名前には使用できない文字が含まれています。
+TEXTCLIENT_INVALIDNAME,This name contains unauthorized words.,この名前には使用できない単語が含まれています。
+TEXTCLIENT_IPBANNED,Your public internet address has been banned. Contact the administrator for more informations.,このIPアドレスはBANされています。詳細については、管理者にお問い合わせください。
+TEXTCLIENT_IPRESTRAINTED,The game is currently not available in your country.,このゲームは現在、お住まいの国ではご利用になれません。
+TEXTCLIENT_IPBLOCKED,An important activity has been detected on your public internet address. Please wait %s before trying again.,お使いのグローバルIPアドレスで重要なアクティビティが検出されました。%s 待ってから再試行してください。　
+TEXTCLIENT_SECS,second(s),秒
+TEXTCLIENT_MINS,minute(s),分
+TEXTCLIENT_HOURS,hour(s),時間
+TEXTCLIENT_SESSIONEXPIRED,"Your session has expired, please enter your login and password again.",セッションの有効期限が切れています。再度パスワードを入力してログインしてください。
+TEXTCLIENT_ADMIN,Admin,Admin
+TEXTCLIENT_DEVELOPER,Dev,開発者
+TEXTCLIENT_GAMEMASTER,Game Master,Game Master
+TEXTCLIENT_MODERATOR,MOD,MOD
+TEXTCLIENT_VENDOR_NPC,[Vendor],[売り子]
+TEXTCLIENT_APP_CHAT,Chatting,チャット
+TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,IDまたはパスワードが無効です。
+TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,認証に失敗しました。もう一度お試しください。
+TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","座標：x = %f, y = %f, z = %f, angle = %f"
+TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,自分自身にPMを送信することはできません。
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s は存在しないか、オンラインではありません。
+TEXTCLIENT_APP_NOTICE,Notice,お知らせ
+TEXTCLIENT_APP_STATUS,Status,申請状況
+TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s Lv %d
+TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,現在使用中の同じアイテムは使用できません。
+TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,座ってる状態では、ブリンクウィングの使用はできません。
+TEXTCLIENT_STAND_LIMIT,You can use it when you stand up.,キャラクターが通常に立っている状態でのみ、アイテムを使用できます。
+TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,飛行中はご利用できません。
+TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,飛行禁止区域です。
+TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,発言を制限されています。
+TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,チャットを連続で送信したため、%d分間制限されています。
+TEXTCLIENT_APP_MOTION,Motion,モーション
+TEXTCLIENT_APP_CHARINFO,Character,キャラクター
+TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s 以上 %d で回復できません。
+TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,アイテムを再び使用するには、しばらくお待ちください。
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,ロードスターは近くの街で復活し、アイテムを使う場合はその場で復活します。
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,ロードスターを押すと、アリーナの近くで復活します。
+TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,他のキャラクターと戦闘中のモンスターは攻撃できません。
+TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,戦闘中には終了できません。
+TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,レベルアップ！　キャラクターウィンドウから能力値をアップすることができます。
+TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,レベルアップ!!
+TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,現在の設定でGPポイントを使いますか？
+TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,転職クエスト完了後にステータスが初期化されます。
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,本機能は「拡張バトルパス」またはヒーロークエストでのみ利用可能です。
+TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,ステータスページの入れ替えは、%d秒間待つ必要があります。
+TEXTCLIENT_ADMIN_STATE,Status,ステータス
+TEXTCLIENT_ADMIN_NORMAL,Normal,ノーマル
+TEXTCLIENT_SPEED_VERYSLOW,Very slow,とても遅い
+TEXTCLIENT_SPEED_LOW,Slow,遅い
+TEXTCLIENT_SPEED_NORMAL,Normal,ノーマル
+TEXTCLIENT_SPEED_FAST,Fast,早い
+TEXTCLIENT_SPEED_VERYFAST,Very fast,とても早い
+TEXTCLIENT_SPEED_FASTEST,Fastest,非常に早い
+TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%sは他のキャラクターの所有です。
+TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,空きがありません。
+TEXTCLIENT_REAPITEM,You received %s.,%sを獲得しました。
+TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,%s +%d を受け取りました。
+TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s が %s を獲得しました。
+TEXTCLIENT_APP_INVENTORY,Inventory,インベントリ
+TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,%sぺニャを獲得しました。(総%sペニャ)
+TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%sを使うには、性別が合っていません。
+TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,装備条件に満たしていないため、%sを装備することができません。
+TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),キャラクターレベルが低いため、装備できません。（必要レベル：%d）
+TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,削除したり、地面に置くことができないアイテムです。
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,You are already using this item.
+TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,「%s」を%d個削除しました。
+TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.",ターゲットしていないか、モンスターではないため使用できません。
+TEXTCLIENT_NOTUSE,You cannot use this yet.,まだご利用できません。
+TEXTCLIENT_ERROR_NOTLEVEL,Your level is too low.,キャラクターレベルが足りません。
+TEXTCLIENT_BLOCK_PM,%s is in the 'Refuse to Whisper/Messenger' setting.,%s は「ささやき、メッセンジャーチャットの拒否」設定になっています。
+TEXTCLIENT_YETTRADE,That player is currently busy. Please try again after few minutes.,すでに取引申請中なので、申請することができません。時間を空けて再度申請してください。
+TEXTCLIENT_ITEMNOTUSE_TRADING,You cannot use items while trading.,取引中はアイテムを使用できません。
+TEXTCLIENT_REDCHIP,Red Chip,(レッドチップ)
+TEXTCLIENT_ERROR_EQUIPTRADE,Please unequip the item before selling it.,装着中のアイテムは売ることができません。装備を外してから販売してください。
+TEXTCLIENT_ERROR_NPCBUFFLEVEL,Only level %d~%d character can get buffs.,レベル　%d~%d　のキャラクターのみ、バフを受けることができます。
+TEXTCLIENT_ERROR_NPCBUFFFAIL,You cannot use %s right now.,該当スキルを使用中なので%sを使えません。
+TEXTCLIENT_LEVEL15JOB,Now it's time to choose your job.,転職可能なレベルになりました。
+TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,おめでとうございます！職業が変わり、 %s になりました！
+TEXTCLIENT_APP_SKILL,Skills,スキル
+TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,キャラクターレベル：%d
+TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,攻撃パターンが追加されました！
+TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,スキルを使用するために必要なアイテムを装備していません。
+TEXTCLIENT_REQFP,Not enough FP.,FP不足により、スキルが使えません。
+TEXTCLIENT_REQMP,Not enough MP.,MP不足により、スキルが使えません。
+TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,障害物があるため、攻撃できません。
+TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s のスキルレベルが %d 以上必要です。
+TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s のスキルレベルが上がりました。
+TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,個人商店
+TEXTCLIENT_APP_QUEST,Quests,クエスト
+TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,フリフショップ
+TEXTCLIENT_PREMIUM_ITEMS,Premium Items,プレミアムアイテム
+TEXTCLIENT_COMMUNICATION,Communication,コミュニケーション
+TEXTCLIENT_COMMUNITY,Community,コミュニティ
+TEXTCLIENT_HELPER,Helper,ヘルパー
+TEXTCLIENT_APP_ITEM_DURATION,Duration,期限
+TEXTCLIENT_APP_MESSENGER,Messenger,メッセンジャー
+TEXTCLIENT_APP_PARTY,Party,Party
+TEXTCLIENT_APP_GUILD,Guild,ギルド
+TEXTCLIENT_APP_COUPLE,Couple,Couple
+TEXTCLIENT_APP_HELP,Help,ヘルプ
+TEXTCLIENT_APP_HELP_TIPS,Tips,簡単なTips集
+TEXTCLIENT_APP_FAQ,FAQ,FAQ
+TEXTCLIENT_APP_FITTINGROOM,Fitting Room,試着室
+TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Webのヘルプ
+TEXTCLIENT_APP_INFO_PANG,Info-Pang,インフォ・ファン
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,ギルドコンバットエリアでは、パーティを作成できません。
+TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,パーティーデュエル中に他のキャラクターをパーティーに招待することはできません。
+TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,デュエル中はパーティーに参加できません。
+TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,デュエル中はギルドに参加できません。
+TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,戦闘中はパーティーへの招待はできません。
+TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,別のチャンネルからプレイヤーを招待することはできません。
+TEXTCLIENT_PARTYOTHER,%s is currently in another party.,%s は他のパーティーに所属しています。
+TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s は既にこのパーティに参加しています。
+TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,パーティーに加入させることができません。
+TEXTCLIENT_PARTYFAILINVITATE,%s has refused to join the party.,%s がパーティー参加を拒否しました。
+TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,%s はパーティー勧誘の拒否設定です。
+TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,メンバーの追加はパーティーリーダーのみできます。
+TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,パーティーは既に上限の8名に達しています。
+TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,パーティー参加に失敗しました。
+TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,ギルドに参加できませんでした。
+TEXTCLIENT_PARTYCREATE,Party has been created.,パーティーを結成しました。
+TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s がパーティーに参加しました。
+TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s がパーティーから脱退しました。
+TEXTCLIENT_PARTYEXIT,You have left the party.,パーティーから脱退しました。
+TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,パーティーが解散されました。
+TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,死んだ時に復活するロードライトをこの場所に設定しました。
+TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,パーティーリーダーではないか、パーティーウィンドウからパーティーメンバーを選択していません。
+TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,ログアウトしたキャラクターにはリーダーを変更することができません。
+TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,既にパーティーリーダーです。
+TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,パーティーデュエル中にはパーティーリーダーの変更はできません。
+TEXTCLIENT_PARTY_TROUPEUP,Party level increased to 10.,パーティーレベルが10になりました。
+TEXTCLIENT_PARTY_LEVELUP,Party level increased.,パーティーレベルがアップしました。
+TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose another one.,すでに同じ名前のパーティーがあります。他の名前を入力してください。
+TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,このパーティ名には不正な文字や単語が含まれています。
+TEXTCLIENT_ERROR,Error,エラー
+TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,ベーシックパーティーからアドバンスパーティーに変更されました。
+TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,パーティー名が%sに変更されました。
+TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,パーティースキルは、パーティーリーダーのみ使用できます。
+TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,このパーティは必要レベルが足りません。
+TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,パーティー経験値が不足しているため、スキルを使用することができません。
+TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,パーティースキル %s は使用中です。しばらくしてから再度実行してください。
+TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,パーティースキル %s を使用しました。
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,パーティースキル %s の効果が切れました。
+TEXTCLIENT_ACR_FAME01,Rogue,ﾛｰｸﾞ
+TEXTCLIENT_ACR_FAME02,Outlaw,ｱｳﾄﾛｰ
+TEXTCLIENT_ACR_FAME03,Vigilante,ｼｰﾌ
+TEXTCLIENT_ACR_FAME04,Pathfinder,ﾊﾞｽﾌｧｲﾝﾀﾞｰ
+TEXTCLIENT_ACR_FAME05,Pursuer,ﾚﾝｼﾞｬｰ
+TEXTCLIENT_ACR_FAME06,Hejerdor,ﾃﾞｨｾｲﾊﾞｰ
+TEXTCLIENT_ACR_FAME07,Phoenix,ｱｻｼﾝ
+TEXTCLIENT_ACR_FAME08,Splitter,ｽﾋﾟﾘｯﾄ
+TEXTCLIENT_ACR_FAME09,Valcan,ﾊﾞﾙｶﾝ
+TEXTCLIENT_ACR_FAME10,Lamia,ﾗﾐｱ
+TEXTCLIENT_MER_FAME01,Trainer,ﾄﾚｰﾅｰ
+TEXTCLIENT_MER_FAME02,Fighter,ﾌｧｲﾀｰ
+TEXTCLIENT_MER_FAME03,Gladiator,ｸﾞﾗﾃﾞｨｴｰﾀｰ
+TEXTCLIENT_MER_FAME04,Berserker,ﾊﾞｰｻｰｶｰ
+TEXTCLIENT_MER_FAME05,Wardancer,ｳｫｰﾏｽﾀｰ
+TEXTCLIENT_MER_FAME06,Blaster,ﾌﾞﾙﾛｽﾄ
+TEXTCLIENT_MER_FAME07,Eraser,ｲﾚｰｻﾞｰ
+TEXTCLIENT_MER_FAME08,Champion,ﾁｬﾝﾋﾟｵﾝ
+TEXTCLIENT_MER_FAME09,Warrior,ｳｫﾘｱｰ
+TEXTCLIENT_MER_FAME10,Bearcat,ｿｰﾄﾞﾏｽﾀｰ
+TEXTCLIENT_MAG_FAME01,Apprentice,ｱﾌﾟﾚﾝﾃｨｽ
+TEXTCLIENT_MAG_FAME02,Mage,ﾒｲｼﾞ
+TEXTCLIENT_MAG_FAME03,War Mage,ｳｫｰﾒｲｼﾞ
+TEXTCLIENT_MAG_FAME04,Grand Mage,ｸﾞﾗﾝﾄﾞﾒｲｼﾞ
+TEXTCLIENT_MAG_FAME05,Arch Mage,ｱｰｸﾒｲｼﾞ
+TEXTCLIENT_MAG_FAME06,Sorcerer,ｿｰｻﾗｰ
+TEXTCLIENT_MAG_FAME07,Warlock,ｳｫｰﾛｯｸ
+TEXTCLIENT_MAG_FAME08,Sage,ｾｰｼﾞ
+TEXTCLIENT_MAG_FAME09,Arch Sage,ｱｰｸｾｰｼﾞ
+TEXTCLIENT_MAG_FAME10,Elder,ｴﾙﾀﾞｰ
+TEXTCLIENT_ASS_FAME01,Protector,ﾌﾟﾛﾃｸﾀｰ
+TEXTCLIENT_ASS_FAME02,Guardian,ガーディアン
+TEXTCLIENT_ASS_FAME03,Knight,クレリック
+TEXTCLIENT_ASS_FAME04,Paladin,ﾌﾟﾘｰｽﾄ
+TEXTCLIENT_ASS_FAME05,Crusader,クルセイダー
+TEXTCLIENT_ASS_FAME06,Crusader,クルセイダー
+TEXTCLIENT_ASS_FAME07,Chaplain,ｼｬｰﾏﾝ
+TEXTCLIENT_ASS_FAME08,Luminary,ﾙﾐﾅﾘｰ
+TEXTCLIENT_ASS_FAME09,Prophet,ﾌﾟﾛﾌｨｯﾄ
+TEXTCLIENT_ASS_FAME10,Oracle,オラクル
+TEXTCLIENT_ALREADYFRIEND,That player is already in your friends list.,そのキャラクターはすでにメッセンジャーに登録されています。
+TEXTCLIENT_MSGINVATE,You have asked for permission to add %s to your messenger.,%s にメッセンジャーの要請をしました。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_FRIENDADD,You cannot add friends in the Guild Siege arena.,ギルドコンバットエリアではフレンド追加できません。
+TEXTCLIENT_BATTLE_NOTFRIEND,You cannot add someone to your friends list while dueling.,戦闘中はフレンド登録ができません。
+TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,メッセンジャー追加を拒否しました。
+TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s はメッセンジャーの拒否状態です。
+TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,メッセンジャーに登録できる最大キャラクター数は200名です。
+TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s よりメッセンジャーに登録されました。
+TEXTCLIENT_NOTLOGIN,That player is not connected.,ゲームに接続していません。
+TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.",%s は拒否されているためメッセージを送ることができません。
+TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,%d個の手紙が届いています。
+TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,相手のメッセージボックスがいっぱいになっているため、メッセージを残すことができません。
+TEXTCLIENT_MESSNOTE,You sent the memo.,手紙を送りました。
+TEXTCLIENT_MAILRECEIVE,You have received new mail!,ファン・ギフトが届きました。
+TEXTCLIENT_CANT_SHOUT_BELOW_20,Characters under Level %d cannot shout.,レベル%d以下のキャラクターは叫べません。
+TEXTCLIENT_NOPARTY,Party does not exist.,パーティーが存在しません。
+TEXTCLIENT_NOGUILD,Guild does not exist.,ギルドが存在しません。
+TEXTCLIENT_WHISPERAGREE,Private messages allowed,個人メッセージを許可
+TEXTCLIENT_WHISPERREFUSE,Private messages refused,個人メッセージを拒否
+TEXTCLIENT_MSGERAGREE,Messenger allowed,メッセージを許可
+TEXTCLIENT_MSGERREFUSE,Messenger refused,メッセージを拒否
+TEXTCLIENT_STAGEAGREE,Party & guild invites allowed,パーティーとギルドの招待を許可
+TEXTCLIENT_STAGEREFUSE,Party & guild invites refused,パーテォーとギルドの招待を拒否
+TEXTCLIENT_CONNAGREE,Post connection status,接続を知らせる設定にしました。
+TEXTCLIENT_CONNREFUSE,Do not post connection status.,接続を知らせない設定にしました。
+TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,無視リストがいっぱいです。無視リストを減らすか、再ログインしてリセットしてください。
+TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,自分を無視してはダメです。大事なことを言うかもしれないじゃん！
+TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,そのキャラクターのチャットは既に遮断されています。
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,%s を無視リストに追加しました。解除する場合は、 /Unignore <名前> を入力してください。
+TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s を無視リストから解除しました。
+TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,そのキャラクターのチャットは遮断されていません。
+TEXTCLIENT_EQUIPPUT,Please unequip the item first.,装備を解除してから行ってください。
+TEXTCLIENT_CHARGED_NOTUSE,You can not use the premium items.,プレミアムアイテムは、利用できません。
+TEXTCLIENT_MSGSELFSENDERERROR,"You cannot send a message to yourself, silly.",自分にメッセージを送ることはできません。
+TEXTCLIENT_MAILBOX_FULL,%s's mail box is full.,%s のメール・ボックスがいっぱいになりました。
+TEXTCLIENT_LACKMONEY,You do not have enough Penya.,ペニャが足りません。
+TEXTCLIENT_CANNOTPOST,You cannot send this item.,送れないアイテムです。
+TEXTCLIENT_MAIL_UNKNOWN,Unknown user,不明なキャラクターです。
+TEXTCLIENT_POST_ERROR,You have failed to send.,送信に失敗しました。
+TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,ファン・ギフトを送りました。
+TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.",エラーが発生しました。もう一度操作してください。
+TEXTCLIENT_REALTIME,Real Time - %s,現実時間 - %s
+TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,マドリガル時間 - %s
+TEXTCLIENT_NEW_QUEST,New Quest,新しいクエスト
+TEXTCLIENT_CURRENT_QUEST,Quests in Progress,進行中のクエスト
+TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,%sクエストが始まりました。クエストウィンドウで詳細を確認できます。
+TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,%sクエストが取り消されました。
+TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,クエストを完了できません。クエストをキャンセルしてください。
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,プレイできないワールドです。ワールド1にて再入場してください。
+TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,飛行の状態では、入れません。
+TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,開けるためには %s が必要です。
+TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.",不思議な力で封印されています。開ける方法はあるのでしょうか？
+TEXTCLIENT_ITEMBOX_MESSAGE3,"Wrong sex, unable to open itembox.",異なる性別では開けることができません。
+TEXTCLIENT_ITEMBOX_MESSAGE4,You need to be on the %s quest to open it.,%s クエスト進行中でなければ開くことができません。
+TEXTCLIENT_ITEMBOX_MESSAGE5,"Wrong job, unable to open itembox.",あなたの職業では開くことができません。
+TEXTCLIENT_QUEST_NOINVENTORYSPACE,Unable to complete quest. Not enough room in your inventory.,インベントリに空きがないため、クエストを完了できません。
+TEXTCLIENT_REAPEXP,You have gained Experience.,経験値がアップしました。
+TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,おめでとうございます！%s が完了しました。
+TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.",パーティーのメンバーがレベル %d 以上である場合、入場できません。
+TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,これ以上、チェックできません。
+TEXTCLIENT_COMACCEPT,You have joined the %s guild.,ギルド %s に加入しました。
+TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,ギルドを脱退しました。もう%sギルドには所属していません。
+TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,ギルド戦中にギルドロゴの変更はできません。
+TEXTCLIENT_GUILDWARERRORNAME,You cannot change your guild name during a guild duel.,ギルド戦中にギルド名を変更はできません。
+TEXTCLIENT_GUILDNOTICEUPDATE,A new Guild Notice has been posted. Please check it in the guild window.,ギルドの告知事項が更新されました。ギルドウインドウで確認ください。
+TEXTCLIENT_GUILD_NAMEINUSE,That guild name is already in use. Please choose another one.,そのギルド名はすでに使用されています。別の名前を入力してください。
+TEXTCLIENT_GUILD_INVALIDNAME,This guild name contains unauthorized characters or words.,このギルド名には使用できない文字や単語が含まれています。
+TEXTCLIENT_GUILDCHANGENAME,%s guild has changed their name to %s.,「%s」ギルド名が「%s」に変更されました。
+TEXTCLIENT_GUILDWARNODISMISS,You cannot disband your guild during a guild duel.,ギルド戦中にギルドを解散させることはできません。
+TEXTCLIENT_GUILDSALARYCHANGED,Salary for each title has been changed.,該当の称号に対する支給金が変更されました。
+TEXTCLIENT_GUILDPOWERCHANGED,Authority for each title has been changed.,各称号の権限が変更されました。
+TEXTCLIENT_GUILDWARNOMEMBER,Unable to use the member management function during a guild duel.,ギルド戦中にメンバーの管理機能は使用できません。
+TEXTCLIENT_GUILDMEMBER_PROMOTED,%s has been promoted.,%s の称号をアップさせました。
+TEXTCLIENT_GUILDMEMBER_DEMOTED,%s has been demoted.,%s の称号をダウンさせました。
+TEXTCLIENT_GUILD_TRANSFERLEADER,%s has become the guild master.,%s がギルドマスターになりました。
+TEXTCLIENT_GUILD_MEMBERLEAVE,%s has left the guild.,%s がギルドから脱退しました。
+TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%sさんはすでにギルドに所属しています。
+TEXTCLIENT_BATTLE_NOTGUILD,You cannot invite others to join your guild during a battle.,戦闘中はギルドへの招待はできません。
+TEXTCLIENT_COMACCEPTKINGPIN,You invited %s to your guild.,ギルドに %s を招待しました。
+TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,招待したキャラクターはオフライン状態です。
+TEXTCLIENT_GUILDNOTINCLUDE,You have to wait 2 days before joining another guild.,ギルドを脱退してから48時間が経っていないので、ギルドに加入することができません。
+TEXTCLIENT_GUILDFAILINVITATE,%s has refused to join the guild.,%s はギルドへの参加を拒否しました。
+TEXTCLIENT_COMNOEXCOM,That guild does not exist.,ギルドが存在しません。
+TEXTCLIENT_GUILDWARNOINVATE,Cannot join a guild during a guild duel.,ギルド戦中はギルドに加入できません。
+TEXTCLIENT_COMHAVECOM,You are already in a guild.,すでにギルドに所属しているので、加入できません。
+TEXTCLIENT_COMOVERMEMBER,The guild is full.,ギルドの最大人員に達しました。
+TEXTCLIENT_COMACCEPTWELCOME,%s has joined the guild.,ギルドに %s が加入しました。
+TEXTCLIENT_GUILDNOTHINGNAME,Unable to make a contribution. Ask your Guild Leader to set the guild name first.,ギルド名が設定されていないため献上できません。ギルドマスターはギルド名を設定してください。
+TEXTCLIENT_GUILDMERITMAXLEVEL,Unable to make a contribution. The guild has reached its maximum level.,ギルドレベルが満たないため、献上できません。
+TEXTCLIENT_GUILDLEVELUP,Guild level has increased.,ギルドレベルがアップしました。
+TEXTCLIENT_GUILDCLOAK,%s Guild Cloak,%s Guild Cloak
+TEXTCLIENT_NOTTRADE,You cannot trade a premium item.,このプレミアムアイテムはギルド倉庫に保管することができません
+TEXTCLIENT_GUILDBANKFULL,The guild warehouse is full.,ギルド倉庫に空きがありません。
+TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,The couple storage is full.
+TEXTCLIENT_SLOTFULL,Your inventory is full.,空きがありません。
+TEXTCLIENT_CONFIRMMOVEITEM,Really move this item?,本当に移動してよろしいですか？
+TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,ギルドマントを作成しました。
+TEXTCLIENT_GUILDNEEDGOLD,Unable to create guild cloak. Insufficient Penya in the guild warehouse.,ギルド倉庫のペニャが不足しているため、マントを作成することができません。
+TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,ギルドの給料 %d ペニャ支給されました。
+TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,ターゲットが不明です。
+TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,不明な職業
+TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,スキルポイントが初期化されました。スキルウィンドウからポイントを再分配してください。
+TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,レベル15以上は転職をしなければ経験値が増えません。
+TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,エキスパートではない職業
+TEXTCLIENT_EXPERTJOBS,Expert Job: %s,エキスパート職業: %s
+TEXTCLIENT_EXPERTLEVEL,Expert Level: %d ~ %d,エキスパートレベル: %d ~ %d
+TEXTCLIENT_ERROR_NOTPROFESSIONALJOB,Not Professional Job,プロではない職業
+TEXTCLIENT_ERROR_NOTSPECIALISTJOB,Not Specialist Job,Not Specialist Job
+TEXTCLIENT_PROFESSIONALJOBS,Professional Job: %s,プロな職業: %s
+TEXTCLIENT_PROFESSIONALLEVEL,Professional Level: %d ~~~,プロレベル: %d ~~~
+TEXTCLIENT_SPECIALISTJOBS,Specialist Job: %s,Specialist Job: %s
+TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Specialist Level: %d ~~~
+TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,スキルポイント上昇!!
+TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,%s を習得しました。スキルポイントを割り当てることができるようになりました。
+TEXTCLIENT_FLYLVLUP,Flying level up!,飛行レベルがアップしました。
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,貴様ら、ここが何処か知ってるのか！
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,死を恐れるとは愚かな奴らだ！
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,俺様が、お前らに裁きを下してやる！
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG4,Don't make me angry!,俺様を怒らせるなよ？！
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG5,"%s, you fool! How dare you!",%s！！愚かな奴め！！俺様の怒りの石槌から逃れられると思っているのか！！
+TEXTCLIENT_BOSS_MUSHMOOT_MSG1,I will crush your bones!,お前らを試してやろう！
+TEXTCLIENT_BOSS_MUSHMOOT_MSG2,I will destroy you all!,呪いをかけてやる！
+TEXTCLIENT_BOSS_MUSHMOOT_MSG3,I will break you!,殺してやる！
+TEXTCLIENT_BOSS_KRRR_MSG1,Who woke me?,お前は誰だ？
+TEXTCLIENT_BOSS_KRRR_MSG2,%s! My axe and I will destroy you!,%s！貴様をこの斧と体で破壊しつくしてやる！
+TEXTCLIENT_BOSS_KRRR_MSG3,Go to Hell!,地獄へ落ちろ！
+TEXTCLIENT_SKILLLEVELLIMIT,Set %s' skill level: 1 ~ %d.,%s'スキルは1 ~ %d のみ、レベルを上げることが出来ます。
+TEXTCLIENT_REQ_DARK,You are not in Dark Illusion mode.,ダークイリュージョン状態ではありません。
+TEXTCLIENT_NEVERKILLSTOP,You cannot use the skill.,スキルが使えません。
+TEXTCLIENT_NOTELEMWEAPON,Unable to use equipped item. Item needs an elemental upgrade first.,装備中の武器に属性が付与されていないため使用できません。
+TEXTCLIENT_DONOTUSEBUFF,Cannot use the skill at this time.,上級レベルのスキルを使用中には、このスキルは使えません。
+TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_SKILLWAITTIME,Please wait.,しばらくお待ちください。
+TEXTCLIENT_SKILL_SELF,You use %s.,%sを使用しました
+TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
+TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s が %s を使用しました。
+TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you.
+TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,装備確認を拒絶しています。
+TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,すべての変更を有効にするには、ゲームを再起動する必要があります。
+TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,現在使用中の同じアイテムは使用できません。持続時間が終了するまでお待ちください。
+TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,レベルが足りないので使用できません。(必要なレベル: %s)
+TEXTCLIENT_NOTOVERLAP_USE,You cannot use these items at the same time.,このアイテムは重ねて使用することはできません。
+TEXTCLIENT_COND_USE,Takes effect when player dies.,死亡の際に効果適用
+TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d 日
+TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d 時間
+TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d 分
+TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d 秒
+TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,現在、初期設定の状態なので、リセットできません。
+TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,犯罪者ではないので、利用できません。
+TEXTCLIENT_GETKARMA,Recovered 1 Karma.,カルマが１段階回復されました。
+TEXTCLIENT_NTROUPEO10,Either you are not a party member or the party level is higher than 10.,パーティーに所属していないか、もしくはパーティーレベルが既に10以上です。
+TEXTCLIENT_EXP_NOTUSE,"You cannot stack this scroll anymore. At level %d ~ %d, this scroll can only be stacked %d times.",これ以上重複使用はできません。レベル%d ~ %dは、%d個まで重ねて使えます。
+TEXTCLIENT_EXP_NOTUSELEVEL,You cannot use this scroll. This scroll is only available for level %d ~ %d.,使用できませんでした。このアイテムは%d ~ %dレベルで使用できます。
+TEXTCLIENT_EXPITEM_TOOLTIP,*** Your Experience rate has been amplified by #cffff5a50%d%%#nc ***,*** 獲得経験値率 #cffff5a50%d%%#nc ***
+TEXTCLIENT_EXP_COUTMSG0,The time left,残り時間
+TEXTCLIENT_EXP_COUTMSG1,First:,一番目：
+TEXTCLIENT_EXP_COUTMSG2,Second:,二番目：
+TEXTCLIENT_EXP_COUTMSG3,Third:,三番目：
+TEXTCLIENT_EXPBOX_INFO_MSG,You can recover some of your Experience If you return to the place where you died.,死んだ所に戻って、経験値ボックスを回収すると、失くした経験値の一部が回復されます。
+TEXTCLIENT_NOT_EXPBOX,You can not use it.,使用できません。
+TEXTCLIENT_EXPBOX_EAT,You have recovered 30% of decreased Experience from your death.,死亡時に減少した経験値の30％を回復しました。
+TEXTCLIENT_ADMIN_INVISIBLE,Invisible,透明
+TEXTCLIENT_ADMIN_IMMORTAL,Undying1,無敵
+TEXTCLIENT_ADMIN_IMMORTALHALF,Undying2,半無敵
+TEXTCLIENT_ADMIN_NOMOVING,Freeze player,移動禁止
+TEXTCLIENT_ADMIN_MIGHTY,OneKill,超必
+TEXTCLIENT_TELESKILL_CLICK,Touch on the ground where you want to use %s.,%s を使いたい場所を押してください。
+TEXTCLIENT_CREATEMON_CLICK,Touch on the ground where you want to invoke the monster.,モンスターを召喚する場所を選択してください。
+TEXTCLIENT_TELESKILL_CANCEL,%s invocation was cancelled.,%s の呼び出しはキャンセルされました。
+TEXTCLIENT_CREATEMON_CANCEL,Monster invocation was cancelled.,モンスター召喚を中止しました。
+TEXTCLIENT_USEAIRCRAFT,"In order to ride a flying vehicle, you must reach level 20.",レベル20未満のキャラクターは使用できません。
+TEXTCLIENT_QUEST_DISGUISE_NOTFLY,You cannot fly while transforming.,変身中は飛ぶことができません。
+TEXTCLIENT_UPGRADE_FIRE,Fire,火
+TEXTCLIENT_UPGRADE_WATER,Water,Water
+TEXTCLIENT_UPGRADE_ELECTRICITY,Electric,雷
+TEXTCLIENT_UPGRADE_WIND,Wind,風
+TEXTCLIENT_UPGRADE_EARTH,Earth,土
+TEXTCLIENT_RUN,Run,移動を「走る」に変更しました。
+TEXTCLIENT_WALK,Walk,歩く
+TEXTCLIENT_CANNOT_DROPMONEY,You cannot drop your Penya on the ground.,ペニャは捨てることができません。
+TEXTCLIENT_NOTDROP,You cannot drop a premium item on the ground.,スペシャルアイテムは捨てることができません。
+TEXTCLIENT_QUEITMWARNING,The quest will not progress without this item. Continue discarding item?,アイテムを捨てます。このアイテムがないとクエストが進まない可能性があります。本当に捨てますか？
+TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,空中に飛んでいる状態では、アイテムをドロップできません。
+TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,取引中はアイテムをドロップすることはできません。
+TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,あぁ..落ちていく...。翼を授ける飲み物があれば助かるのに。
+TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,このショップ名は使用できません。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,イベント中は取引できません。
+TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,個人商店の開設ができない地域です。
+TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,NPCの周りでは個人商店を開くことができません。
+TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,この個人商店は完売しています。
+TEXTCLIENT_CHEER_MESSAGE1,Cheer Message Point(s): %d/3,応援可能ポイント：%d/3
+TEXTCLIENT_CHEER_MESSAGE2,Time left until the next point,次のポイントまでの残り時間 :
+TEXTCLIENT_CHEER_MESSAGE3,%s sent you a cheer message of friendship!,%s があなたに友情の応援を送りました。
+TEXTCLIENT_CHEER_MESSAGE4,%s sent you a cheer message of love!,%s があなたに愛の応援を送りました。
+TEXTCLIENT_CHEER_MESSAGE5,Your cheer points have increased by 1.,応援ポイントが追加されました。
+TEXTCLIENT_CHEER_NO1,Unable to send cheer message. Please try again after %s minutes.,応援ポイントがありません。%s分後に応援できます。
+TEXTCLIENT_CHEER_NO2,Please select a player to cheer. You can only send cheer messages to players other than yourself.,応援の対象を指定していないか対象が不適切です。応援は自分以外のキャラクターにだけ使用できます。
+TEXTCLIENT_COLLECT_EQUIP,You need to equip a collector.,コレクターを装備する必要があります。
+TEXTCLIENT_COLLECT_TARGET,"Cannot collect, no dead catcher monster targeted.",収集できません。このキャッチャーモンスターは倒されていません。
+TEXTCLIENT_COLLECT_EMPTY,Insufficient supplements.,モンスターの資源がなくなりました。
+TEXTCLIENT_COLLECT_ERROROTHER,Unable to collect resource from a monster killed by another player.,他のキャラクターが狩ったモンスターです。一定時間は採集することができません。
+TEXTCLIENT_HARVEST_EQUIP,You need to equip harvesting gloves.,収穫用手袋を装備する必要があります。
+TEXTCLIENT_HARVEST_RECEIVE,You have harvested %s x%d.,%sx%dを収穫しました。
+TEXTCLIENT_HARVEST_CARRIER,A harvest carrier has been revealed! Kill it to gain its extra berries.,収穫キャリアが明らかになりました！それらを倒して余分なベリーを手に入れましょう。
+TEXTCLIENT_HARVEST_COOLDOWN,"You cannot currently open it, try again in a few seconds.","You cannot currently open it, try again in a few seconds."
+TEXTCLIENT_NOTREADY_USESHOP,Please try again after taking off the head item,頭に装備しているアイテムを外してから、利用してください。
+TEXTCLIENT_SHOP_CHOICE,Selected,選択した
+TEXTCLIENT_CHANGE_HAIR,Change your Hair,選択したヘアーチェンジの費用は
+TEXTCLIENT_SHOP_COST,Price is,費用は
+TEXTCLIENT_SHOP_PENYA,Penya.,ペニャです。
+TEXTCLIENT_CHANGE_HAIR_QUESTION,Do you want to change your hair?,ペニャです。ヘアーをチェンジしますか？
+TEXTCLIENT_TRADEREQUEST,You have offered to trade with %s.,%s に取引要請をしました。
+TEXTCLIENT_ALREADY_TRADING,The player is already trading.,プレーヤーは現在取引中です。
+TEXTCLIENT_BATTLE_NOTTRADE,The player cannot trade while fighting.,戦闘中はトレードができません。
+TEXTCLIENT_TRADECANCEL,The trade has been cancelled.,取引がキャンセルされました。
+TEXTCLIENT_CANNOTTRADE_ITEM,This item cannot be traded.,取引できないアイテムです。
+TEXTCLIENT_CANNOTTRADE_EDIT,You cannot add into or remove items from the trading window anymore after the first confirmation.,既に確定しているので追加/削除はできません。やり直す場合は一度キャンセルしてください。
+TEXTCLIENT_TRADEACCEPT,%s has completed the trade.,%s が取引を確認しました。
+TEXTCLIENT_FINALCONFIRM,%s pushed final confirmation.,%s が最終確認をしました。
+TEXTCLIENT_TRADEAGREE,You agreed to trade.,取引の申請を許可設定にしました。
+TEXTCLIENT_TRADEREFUSE,You refused to trade.,取引の申請を拒否設定にしました。
+TEXTCLIENT_SBEVE_NOTUSEITEM,You cannot use that item.,アイテムは使用できません。
+TEXTCLIENT_PIERCING_POSSIBLE_ITEM,The item cannot be pierced.,ソケット作成できないアイテムです。
+TEXTCLIENT_STILL_DEVELOPMENT,This functionality is still in development.,この機能はまだ開発中です。
+TEXTCLIENT_ENDUSE,You may no longer use %s . That item has expired.,%sの有効期間が終了しました。
+TEXTCLIENT_DAYUSE,You can use the %s for %d days.,%sの有効期間は約%d日です。
+TEXTCLIENT_TIMEUSE,Time remaining on %s: %d days.,%sの有効期間は約%d時間です。
+TEXTCLIENT_ITEM_EXPIRED,This item has expired.,期間満了のアイテムです。
+TEXTCLIENT_NOTUPGRADE,The item cannot be equipped or moved during refining.,精錬中のアイテムは移動や装備ができません。
+TEXTCLIENT_CARDRESHUFFLE_NOTAVAILABLE,Registration is not possible because the grade is not correct.,成績が正しくないため、登録できません。
+TEXTCLIENT_ERROR_NOPIERCING,There is no space to put a card.,カードをセットするソケットがありません。
+TEXTCLIENT_PIERCINGFAIL,Piercing failed.,ソケットの作成に失敗しました。
+TEXTCLIENT_PIERCINGSUCCESS,Piercing Succeeded.,ソケットの作成に成功しました。
+TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,ソケットにカードをセットしたアイテムだけ利用できます。
+TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfully.,カードの除去に成功しました。
+TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,このアイテムには使用できません。
+TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,スペシャルアイテムは精錬できません。
+TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,その精錬に適した補助石ではありません。
+TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,武器屋のソケットメニューで使うことができます。
+TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,武器屋のアクセサリー強化メニューで使うことができます。
+TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,防具屋の精錬メニューから使うことができます。
+TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,インベントリでこのアイテムをダブルクリックすると使用できます。
+TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,このアイテムは属性精錬ができません。
+TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,１つのアイテムに２種類以上の属性は付与できません。
+TEXTCLIENT_WRONGUPLEVEL,Using wrong item to upgrade.,精錬材料のレベルが合っていません。
+TEXTCLIENT_UPGRADE_MAXOVER,Can only upgrade up to Level 10.,精錬は+10まで強化できます。
+TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,アクセサリーの精錬は最大で+20まで行うことができます。
+TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,精錬材料のレベルが合っていません。
+TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,補助石が足りません。
+TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,精錬に失敗しました。
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,精錬に成功しました。
+TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,該当アイテムは属性精錬の除去かできません。確認後やり直してください。
+TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,アイテムの属性精錬が除去されました。
+TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,このアイテムはキャラクターが死亡する際に、効力を発します。使用しますか？
+TEXTCLIENT_SKILLINIT,This item resets your skills. Do you want to use this item?,スキルが初期化されます。使用しますか？
+TEXTCLIENT_ERROR_SKILLRECCURENCE,Your skill has already been reset.,スキルが初期化されています。
+TEXTCLIENT_NOTUSEVAG,You can use this item after your 1st job change.,1次転職を終えなければ使用できません。
+TEXTCLIENT_CHECKEQUIP,Please unequip the item first.,装備を解除してから行ってください。
+TEXTCLIENT_PK_BLINK_NO,You cannot use a blinkwing at Kebaras.,ケバラス島ではブリンクウィングは使えません。
+TEXTCLIENT_BLINK_EVENT_NO,You cannot use a blinkwing during event.,イベント中はブリンクウイングを使用することはできません。
+TEXTCLIENT_GUILDCOMBAT_NO_OUTWAR,You cannot use Blinkwings to escape the Guild Siege arena.,ギルドコンバットエリアでは、ブリンクウィング及びリターンウィングは使用できません。
+TEXTCLIENT_ARENA_BLINKPOOL,You cannot use Blinkpool in the Arena.,アリーナではブリンクプールを使用できません。
+TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,転職するとスキルは全て失われます。転職しますか？
+TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,キャラクターが%sへの転職に成功しました！
+TEXTCLIENT_RETURN_USEITEM,The item loses its potency 4 hours after being equipped if not returned to the inventory . Do you want to use the item?,アイテム使用後4時間以内に元の位置に帰らないと、アイテムの効力は無くなります。アイテムを使いますか？
+TEXTCLIENT_LIMITZONE_USE,Unable to use item in the limit zone.,この地域は制限地域ですので、アイテムが使えません。
+TEXTCLIENT_ON_EVENT,The '%s' event is underway! Visit %s for event details!,イベント「%s」を開催中！ イベントの詳細はこちらへ！ %s
+TEXTCLIENT_ON_EVENT_DESC,The '%s' event is underway! %s,「 %s 」イベントが開催中！ %s
+TEXTCLIENT_START_EVENT,The '%s' event has just started. Visit %s for event details!,"""%s""イベントが開始されました。イベントの詳細については%sを参照してください。"
+TEXTCLIENT_START_EVENT_DESC,The '%s' event has just started. %s,"""%s""が開始されました。%s"
+TEXTCLIENT_END_EVENT,The '%s' event is over.,%s' イベントが終了されました。
+TEXTCLIENT_ARENA_DISABLED,Arena is not available on this channel.,アリーナは、現在接続中のチャンネルでは使用できません。
+TEXTCLIENT_CREATEMON_F_15,Summoning should be used on players that are 15 meters or closer to you.,召喚は15メター以内の地域でのみ使えます。
+TEXTCLIENT_CREATEMON_F_AREA,You can not summon there.,選択した地域では、召喚できません。
+TEXTCLIENT_CREATEMON_S,You have summoned %s.,%sを召喚しました。
+TEXTCLIENT_PRIORITYSUMMONMOB,This monster was summoned by %s. You cannot attack it.,%s が召喚したモンスターです。攻撃はできません。
+TEXTCLIENT_CREATEMON_LIMIT,You cannot summon anymore monsters. Please wait and try again.,これ以上、モンスターを召喚することができません。しばらく経ってから召喚してください。
+TEXTCLIENT_GETPKPOINT,You recovered your Karma points by %d.,カルマポイントを%d回復しました。
+TEXTCLIENT_DECPKPOINT,%d Karma points have been reduced.,%dカルマポイントが減少しました。
+TEXTCLIENT_PK_MARKETNOUSE,You cannot use stores if your Karma grade is Vicious.,カルマ称号Deathは商店を利用する事ができません。
+TEXTCLIENT_PKDEAD,You have been slain by %s.,%sに倒されました。
+TEXTCLIENT_GETFAMEPOINT,You gained %d fame points.,名声ポイントを %d 獲得しました。
+TEXTCLIENT_DECFAMEPOINT,You lost %d fame points.,名声ポイントを %d 失いました。
+TEXTCLIENT_BANKWRONGPASS,Wrong password. Please try again.,パスワードが違います。もう一度やり直してください。
+TEXTCLIENT_BANKFULL,The bank is full.,倉庫がいっぱいです。
+TEXTCLIENT_PK_LEVEL_GAP,Unable to duel. Level gap is more than 30.,レベルの差が30以上あるのでデュエルできません。
+TEXTCLIENT_PK_SAFETY_NO,You cannot duel in a safety zone.,安全地域ではデュエルはできません。
+TEXTCLIENT_PK_SAME_NO,You can duel only if the other player is in the same place as you.,同じ地域にいないとデュエルはできません。
+TEXTCLIENT_PK_CHANGEJOB_NO,You can only duel after your 1st job-change.,1次転職をしないとデュエルに参加できません。
+TEXTCLIENT_PK_PARTY_LIMIT,You cannot duel with party members.,パーティーに入っているプレイヤーとはデュエルできません。
+TEXTCLIENT_PK_MODE_REJECT,The other player is in duel rejection mode.,相手はデュエル拒否モードです。
+TEXTCLIENT_DUELNO,%s refused to duel.,%sがデュエル申請を拒否しました。
+TEXTCLIENT_DUELSTART,Duel with %s started!,%sとのデュエルが始まりました。
+TEXTCLIENT_DUELCANCEL,The duel has been cancelled.,デュエルがキャンセルされました。
+TEXTCLIENT_PK_NO_IPARTYLEADER,You are not the Party leader.,パーティーリーダーではないため、この申請は出来ません。
+TEXTCLIENT_PK_NO_UPARTYLEADER,The other member is not the Party leader.,相手がパーティーリーダーではないので、この申請は出来ません。
+TEXTCLIENT_PK_NO_DUEL,You cannot duel with the other player currently.,現在、他のプレイヤーと決闘することはできません。
+TEXTCLIENT_PDSTART,Duel has started with %s party.,パーティー名 %s とデュエルが始まりました。
+TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.",%s のパーティーデュエル状態が終了しました。すぐにデュエルに参加しようとすると、デュエル規則によってペナルティーが課せられます。
+TEXTCLIENT_PDCANCEL,Duel has been cancelled.,パーティーデュエルがキャンセルされました。
+TEXTCLIENT_PDVICTORY,You won the party duel.,パーティーデュエルに勝利しました。
+TEXTCLIENT_PDLOSE,You lost the party duel.,パーティーデュエルに敗北しました。
+TEXTCLIENT_DONOTUSE_SHOP,You cannot use that item while using Hair Stylist or Plastic Surgeon.,ヘアサロン、メイクアップの利用中は、このアイテムを使用できません。
+TEXTCLIENT_CASHSHOP_NOACCOUNT,You cannot use the Flyff Shop without account. Please link an account.,アカウントなしでフリフショップを利用することはできません。アカウントをリンクしてください。
+TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,このアイテムは無効です。
+TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,サーバーがオフラインのため、FlyffShopを使用できません。
+TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,アイテムを購入するのに十分なキャッシュがありません。購入する前にアカウントをリロードしてください。
+TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,この商品のキャラクターあたりの購入上限数に達しました。
+TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.",不明なエラーです。もう一度お試しください。
+TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,ご購入いただきありがとうございます！インベントリがいっぱいの場合は空きを作ってから再度ログインするとアイテムが表示されます。
+TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,プレイヤーは無効であり、フリフショップを使用することはできません。
+TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,操作に時間がかかりすぎています。もう一度やり直してください。
+TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,＃cff0000ff私がお前の父だ。＃nc
+TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,＃cff0000ff私がお前の母です。＃nc
+TEXTCLIENT_COMNOHAVECOM,Cannot cancel because you do not belong to a guild.,所属しているギルドがありません。
+TEXTCLIENT_COMDELNOKINGPIN,Only the guild leader can disband the guild.,ギルドの解散は、ギルドマスターのみ可能です。
+TEXTCLIENT_GUILDWARREQLV6,Your guild level has to be higher than 5 to declare a guild duel.,ギルド戦の申請はギルドレベル6以上から可能になります。
+TEXTCLIENT_GUILDWARSTILLNOWAR,Unable to declare war during guild duel.,ギルド戦闘中はギルド戦の宣言ができません。
+TEXTCLIENT_GUILDWARNOTHINGGUILD,That Guild does not exist.,その名称のギルドが見つかりません。
+TEXTCLIENT_GUILDWAROTHERLV6,Unable to declare a guild duel. Opposing guild level is below 6.,相手ギルドのギルドレベルが６になってないため宣言できません
+TEXTCLIENT_GUILDWARMASTEROFF,The opposing Guild Leader is offline.,相手ギルドのギルドマスターはオフラインの状態です。
+TEXTCLIENT_GUILDWARMEMBER10,The opposing guild must have at least 10 members.,相手ギルドには10名以上のメンバーが必要です。
+TEXTCLIENT_GUILDWAROTHERWAR,The other guild is already participating in a guild duel.,相手ギルドはギルド戦中です。
+TEXTCLIENT_GUILDWARDECLINED,Opposing guild leader declined the duel.,対立ギルドリーダーは決闘を断りました。
+TEXTCLIENT_GUILDWARNOFINDGUILD,Cannot find the guild that declared a guild duel.,ギルド戦を宣言したギルドが見つかりません。
+TEXTCLIENT_PK_NOFLIGHT_DURING,You cannot duel when only one player is flying.,プレイヤーが飛行しているときは決闘できません。
+TEXTCLIENT_GUILDWARERRORDUEL,You cannot duel during a guild duel.,戦争中はデュエル申請ができません。
+TEXTCLIENT_GUILDWARSTART,A guild duel has started between %s Guild and %s Guild.,「%s」ギルドと「%s」ギルドのギルド戦が始まりました。
+TEXTCLIENT_GUILDWARSTILL,A guild duel between %s Guild and %s Guild is in progress.,「%s」ギルドと「%s」ギルドのギルド戦が進行中です。‘
+TEXTCLIENT_GUILDWARDOING,You are at war with another guild.,ギルド戦に参加しています。
+TEXTCLIENT_SHOUTAGREE,Shout messages allowed,シャウトメッセージを許可
+TEXTCLIENT_SHOUTREFUSE,Shout messages refused,シャウトメッセージは拒否されました
+TEXTCLIENT_GUILDWARWIN_MASTER,A Guild Leader has been killed!,ギルドマスター敗北
+TEXTCLIENT_GUILDWARWIN_GIVEUP,Victory! Opponent guild has conceded.,相手ギルドの降参
+TEXTCLIENT_GUILDWARWIN_TIMEUP,Victory by default!,ギルドマスターの接続時間の優勢
+TEXTCLIENT_GUILDWARWIN_KILLNUM,Victory due to number of opponents killed!,相手ギルド員を倒した回数
+TEXTCLIENT_GUILDWARWIN,The guild duel between %s and %s has finished. The Guild %s has won. %s.,「%s」ギルドと「%s」ギルドのギルド戦で、「%s」ギルドが「%s」により勝利しました。
+TEXTCLIENT_GUILDWARPEACE,%s and %s have agreed to a truce.,「%s」ギルドと「%s」ギルドが休戦しました。
+TEXTCLIENT_GUILDWARDRAW,The guild duel between %s and %s resulted in a tie.,「%s」ギルドと「%s」ギルドのギルド戦が引き分けに終わりました。
+TEXTCLIENT_GUILDWARNOETC,You are either not participating in a guild duel or have already given up.,ギルド戦に参加していないか、降参している状態です。
+TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s ギルドの %s が降参しました。
+TEXTCLIENT_GUILDWARPEACEDECLINED,Opposing guild declined the truce.,対立ギルドは休戦を断りました。
+TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.",%sギルドメンバー%sが倒されました。
+TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same time.,トランスとグローのアイテムを同時に使用することはできません。
+TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,同じ機能のアイテムをすでに使っています。持続時間終了後にご使用ください。
+TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,%s の名前が刻まれています。恋人にプレゼントしてください♥
+TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,%s の名前を刻みました。恋人にプレゼントしてください♥
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,このリングに名前が刻印されているプレイヤーはオンラインではありません。
+TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,ここからは %s のいる場所へ行けません。
+TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,飛行中には相手に行けません。
+TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,このアイテムは武器と防具にのみ使えます。
+TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,次のアイテムにランダムステータスアップグレードを適用しますか？\n%s
+TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,適用された以前のステータスアップグレードが上書きされます。実行しますか？
+TEXTCLIENT_RANDOMSCROLL_SUCCESS,%s has been enchanted with %s +%d.,%sアイテムに%s+%dが適用されました。
+TEXTCLIENT_STATE_NOTUSE,You cannot use %s,%s使えません。
+TEXTCLIENT_TRADE_NOTUSE,Trading,取引
+TEXTCLIENT_TRADE_NOTUSE1,Because the person is trading.,相手は取引中なので
+TEXTCLIENT_DIE_NOTUSE,If the person is dead,死んだ状態では
+TEXTCLIENT_DIE_NOTUSE1,Because the person is dead,相手は死んでいる状態なので
+TEXTCLIENT_VENDOR_NOTUSE,On opening a private shop,個人商店を開いてる時は
+TEXTCLIENT_VENDOR_NOTUSE1,Because the person is on opening a private shop,相手は個人商店を開いてるので
+TEXTCLIENT_ATTACK_NOTUSE,In Combat,戦闘中は
+TEXTCLIENT_ATTACK_NOTUSE1,Because the person is in combat.,相手は戦闘中なので
+TEXTCLIENT_FLY_NOTUSE,On flying,飛行中は
+TEXTCLIENT_FLY_NOTUSE1,Because the person is flying.,相手は飛行中なので
+TEXTCLIENT_DUEL_NOTUSE,In Duel,決闘
+TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,決闘中です。
+TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,特殊フィールドにいますので
+TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,ケバラスの中
+TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,自分には使用できません。
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s は接続していません。
+TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,このプレイヤーはフレンドではないか、ブロックされています。
+TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,%s 召喚できません。
+TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,%s 承諾できません。
+TEXTCLIENT_WORLD_NOTUSE,Because you are in different areas,異なる地域にいます。
+TEXTCLIENT_DUNGEON_NOTUSE,Because you are in a dungeon,なぜならあなたはダンジョンにいるからです。
+TEXTCLIENT_SUMMONFRIEND_CONFIRM,You have asked to summon %s,%s に召喚を要請しました。
+TEXTCLIENT_SUMMON_FRIEND_CANCEL,%s has cancelled the summon.,%s が召喚申請をキャンセルしました。
+TEXTCLIENT_SUMMONFRIEND_NOITEM,You don't have %s. You cannot summon %s.,%s アイテムがないので、%s を召喚することができません。
+TEXTCLIENT_SUMMON_SUCCESS1,You are summoned to %s,%s に召喚されました。
+TEXTCLIENT_SUMMON_SUCCESS,%s is summoned,%s が召喚されました。
+TEXTCLIENT_SUMMONPARTY_NOTTIME,You can not go.,リーダーではないか、召喚時間に間に合いませんでした。
+TEXTCLIENT_TROUPECREATE,Only the party leader can use this function.,パーティーメンバーのみ、使用できます。
+TEXTCLIENT_ITEM_TRANSY,This item is not available. Please input another item.,このアイテムは変換できません。他のアイテムを入れてください。
+TEXTCLIENT_ITEM_TRANSY_NOT_LEVEL,Only %d-%d level items are usable.,%d-%dレベルのアイテムのみ使用できます。
+TEXTCLIENT_ITEM_TRANSY_SUCCESS,The change from %s to %s was successful.,%sから%sに変換されました。
+TEXTCLIENT_GUILDCREATE,Only the guild master can use this function.,この機能を使用できるのはギルドマスターだけです。
+TEXTCLIENT_CHANGENAME,Player name successfully changed.,キャラクターの名前を変更しました。
+TEXTCLIENT_MAP_MARK_MAX_NUMBER,You can't save your position any more. Please arrange your saved postion first and try again.,これ以上自分の位置を保存できません。保存した位置を最初に配置して再試行してください。
+TEXTCLIENT_UPGRADE_ERROR_NOUNICK,You cannot upgrade a unique item.,スプレットアイテムは精錬できません。
+TEXTCLIENT_NOTEQUALELEM,The attribute of %s and the applied attribute of the item are not the same.,%sの属性とアイテムの属性が一致していません。
+TEXTCLIENT_NOTELEMENT,The attribute has not been applied to the selected item. Please finish the attribute refining first.,属性精錬されているアイテムだけに使用可能です。
+TEXTCLIENT_ALREADYELEM,Charge attribute has already been applied.,既に有料属性が適用されています。
+TEXTCLIENT_REMOVEELEMENT,The attribute of the selected item has been deleted.,選択したアイテムの属性が消去されました。
+TEXTCLIENT_CHATSAMETEXT,Unable to enter the same sentence twice in a row.,同じ内容を連続して入力することはできません。
+TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to chat spam limitations.,チャットスパム制限により、最後のメッセージを送信できませんでした。
+TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),現在、チャット禁止ペナルティーを受けています。(残り時間:%d分 %d秒)
+TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,シャウト（叫ぶ）は60秒間に5回だけできます。
+TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,フルシャウトでの叫びは2分に1回だけ許可されています。
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,ギルドが存在していないか、ギルドマスターではありません。
+TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,ギルドコンバットの受付は終了しました。
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,レベルが%d以上のギルドが、ギルドコンバットに申請することができます。
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,%dペニャ以上所持しているギルドが、ギルドコンバットに申請することができます。
+TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,ギルドコンバットへ適用するには%dペニャが必要です。
+TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,入札額を所持していないと、ギルドコンバットへ申請できません。
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,現在の入札額%dペニャから、追加で%dペニャを入札しました。
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,ギルドコンバットの申請が受理されました。
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,参加確定ギルドは、毎週土曜日17：00から参加メンバーの構成ができます。
+TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,ただ今、使用できません。
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,ギルドコンバットへ申請していません。
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,ギルドコンバットに参加できなかった場合、ギルドコンバット終了後、入札金の一部が払い戻されます。
+TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,ギルドコンバット申請をキャンセルしました。
+TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,[GCC]キャンセルによる払戻し
+TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,こんにちは。私はドナリスというギルドマネージャーです。\nキャンセルされたので返却させていただきますが、手数料として20％を差し引いています。\n良い一日を！
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,よい空の旅を！
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.",ギルドコンバットの参加資格を得ました。フラリスで「ギルド攻城戦への布陣」を今すぐ終わらせてください。
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.",ギルドコンバットの参加資格を得られませんでした。またチャレンジしてください。払戻し金は、ファン・ギフトにてお送りします。
+TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,この後、ギルドコンバット開催予定です。%d秒後に自動でフラリスに移動します。
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.",今後、フラリスのフランキーからギルドコンバットのアリーナへ入ることができます。
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.",ただいまより、ギルドコンバットの参加メンバー構成ができます。
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,参加メンバーの構成・準備時間
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,ギルドコンバット開始
+TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,コンバット終了まで
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,フラリスに移動します。
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,ギルドコンバットが利用可能になりました。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.",現在、ギルドコンバットの参加メンバー構成はできません。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.",ギルドコンバットに申請していないか、参加可能な順位に入ることができませんでした。
+TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,%d人を超えました。
+TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,参加メンバーの条件は、レベル%d以上です。
+TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,既に登録されています。再登録してください。
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,ギルドマスターはディフェンダーになれません。
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,ギルドコンバットへの参加メンバーにギルドマスターやロイヤルが存在していません。
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,ディフェンダーが指定されていません。ディフェンダーを指定してください。
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,参加メンバーがいません。参加メンバーを選択してください。
+TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,今週のギルドコンバットが開催されました。
+TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,入場開始まで少々お待ちください。
+TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,準備中です。
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,放浪者は入場できません。1次転職をしていることが条件です。
+TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,ギルドコンバットにようこそ！
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,[Scroll Lock]キーを押すと、段階別のカメラ拡大になります。
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.",あなたはギルドマスターです！ディフェンダーを倒すとボーナスがもらえます。
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.",あなたはディフェンダーです！あなたが倒されると、敵にボーナスポイントを与えてしまいます！慎重にプレイしてください！
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.",ギルドの大いなる栄光のため、敵を倒すのです！ディフェンダーを倒すと、ボーナスポイントがもらえます！
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!",ギルドマップの獲得、おめでとうございます！
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,準備時間後すぐにコンバットがスタートします。
+TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,コンバットスタート
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,ギルドマスターは%dを獲得しました！
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,あなたのギルドが%dポイントを獲得！
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,味方のディフェンダーが死亡！「%s」ギルドがポイントを獲得！！
+TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,ギルドコンバットへ入場するにはチャンネル1に接続している必要があります。
+TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,ギルドコンバットが終了しました。
+TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,今週最強の王者は、ギルド%s！！おめでとう！
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVPは %s です！！
+TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,おめでとうございます！
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,入場制限時間
+TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドメンバーを招待することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,ギルドコンバットに申請したギルドは、ギルドの解散はできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドからの脱退はできません。
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ギルドシージ中はメンバー管理機能を使用できません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドシージ中にギルドのロゴを変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドシージ中にギルド名を変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドシージ中に戦争宣言はできません。
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,イベント期間中はご利用いただけません。
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,イベント中はスキルを使用できません。
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,イベント中は適用できません。
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,イベント中は叫びを使用できません。
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,ギルド対戦中には使用できません。
+TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,[GCC]参加対象外の払い戻し
+TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,こんにちはっ。ギルドコンバットマネジャーのドナリスだよっ。\n入札額が上位8ギルドに入れなかったから、手数料2%を差引いた金額を払い戻すね。\n残念だったけど、次の参加を待ってるからね～。\nこれからも、ギルドコンバットを盛り上げてねっ！！
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.",既にMVP褒賞金をもらったか、ギルドコンバットのMVPではありません。
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.",ギルドシージの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,MVPとして%dペニャを受け取りました。おめでとう！
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",既に褒賞金を受取ったか、受け取り対象ではありません。
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,ギルドシージの賞金として%dペニャを受け取りました。おめでとう！
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,申請時の金額から、%dペニャを差し引いた額を受け取りました。
+TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,変身中には使用できません。
+TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,このアカウントはBANされています。カスタマーサービスへお問い合わせください。
+TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,この先には行けません。
+TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,アカウントが確認されていません。登録した際のメールボックスをご確認ください。
+TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,このキャラクターは接続がブロックされている為、アクセスすることができません。カスタマーサービスよりお問い合わせください。
+TEXTCLIENT_RECONNECT_QUESTION,Do you want to try to reconnect?,再接続しますか？
+TEXTCLIENT_ROSHAMBO_STARTGUID1,You need a Rock-Paper-Scissors Coupon in order to play.,じゃんけんをするには、クーポンが必要です。
+TEXTCLIENT_MINIGAME_USING,You are playing a game now!,ゲームの進行中です。
+TEXTCLIENT_MINIGAME_ITEM_POST,Item / Penya was sent to your mailbox.,メールボックスに支給されました。
+TEXTCLIENT_ERROR_TRYLATER,Please try again later,時間を置いてお試し下さい。
+TEXTCLIENT_ERROR_LACKITEM,You don't have the right item.,条件に合ったボックスを所有していません。
+TEXTCLIENT_EXCHANGE_SUCCESS,You have received %s x%d.,%s x%dを受け取りました。
+TEXTCLIENT_REAPITEM_EVENT,You have received %s as a reward!,%s プレゼントが配布されました。
+TEXTCLIENT_DISCONNECTED_CHEAT,"You have been disconnected from server due to abnormal detected activity. A GM will analyse the report and may decide to ban your account. If you think this is an error, please fill out a bug report indicating exactly what you were doing in game before this message. Thank you.",異常な行動が検出されたため、サーバーから切断されました。GMがレポートを精査し、ご利用のアカウントを禁止する場合があります。このレポートが誤検知の場合は、このメッセージが表示される直前にゲーム内で何をしていたか、詳細にバグレポートをお送りください。
+TEXTCLIENT_DISCONNECTED_HACK,Your character has been banned because the system detected a cheating software. A partial copy of your client memory has been stored as legal proof. You can create a new character and stop using any external tool. Thank you.,システムが不正行為ソフトウェアを検出したため、キャラクターが禁止されました。クライアントメモリの部分的なコピーは、法的証拠として保存されています。新しいキャラクターを作成して、外部ツールの使用を停止できます。ありがとうございます。
+TEXTCLIENT_CASHMAP_MAPITEMUSE,"If you use the torch, you will be able to see this map. Continue?",トーチを使えば、このエリアの地図を見ることができます。使用しますか？
+TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,既に召喚中のペットがいます。
+TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,カオスユーザーは飛行できません。
+TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Notice] This is a test! Server will close in %s and characters will be deleted.
+TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,【お知らせ】早期アクセスです！サーバーの安定性の問題とバグが発生する可能性があります。
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,【注意】GM（ゲームマスター）がアカウントや銀行のパスワードを聞くことは絶対にありません。
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,【注意】アイテムの貸し借りはしないでください。成立したトレードは元に戻せません。詐欺にご注意ください。
+TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,ターゲットから遠すぎます。
+TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%sが3連続キル！
+TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%sが連続4キル！ランページ！
+TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%sが連続5キル！アンストッパブル！
+TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,ボス討伐残り時間%d分
+TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s が %s を倒しました！
+TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s が率いるギルド %s が %s を討伐！
+TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,残り %d 分間のアイテム拾得時間
+TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,放浪者はアリーナへ入場できません。
+TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,まずはアリーナから退出してください。
+TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,アリーナへの入場は3分で1度のみ入場できます。
+TEXTCLIENT_CHANGE_FACE,Change your Appearance.,選択したメーキャップの費用は
+TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,メーキャップをしますか？
+TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%sはダンジョン入場のクールタイム中です。残り時間: %s
+TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,%sペニャを失いました。（所持：%sペニャ）
+TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,決闘中にはできません。
+TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,このアイテムは、カードマスターのカードアップグレードメニューで使用できます。
+TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,カードアップグレードに成功しました。
+TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,カードのアップグレードに失敗しました。
+TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,カードのアップグレードに失敗しました。使用したカードが%d枚破壊されました。
+TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,%sを獲得しました。
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,変換に成功!
+TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s がギルドメンバーの上限数を5人増やしました！
+TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,レポートは正常に送信されました。
+TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,同じプレーヤーを報告する前に待つ必要があります。
+TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,業績
+TEXTCLIENT_ACHIEVEMENT_CLAIMSUCCESS,Successfully claimed,実績が受領されました。
+TEXTCLIENT_ACHIEVEMENT_CLAIMNOTHING,You have nothing to claim,受け取れるものがありません。
+TEXTCLIENT_ACHIEVEMENT_LEVELREACH,"You reached level %d of achievement ""%s""",レベル%dへ到達しました！実績「%s」
+TEXTCLIENT_ACHIEVEMENT_COMPLETE,"You completed ""%s""",業績「%s」を完了しました
+TEXTCLIENT_ACHIEVEMENT_TITLEUNLOCK,You unlocked title [%s],称号のロックを解除しました[%s]
+TEXTCLIENT_PARTYMESSAGEERROR3,Your party is already level 40. You cannot use this item.,パーティーレベルが40以上の場合は使用できません。
+TEXTCLIENT_PARTYALREADYPERMANENT,The party is already permanent.,すでに永続パーティです。
+TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatically ejected when they are offline.,このパーティは永続パーティです。メンバーがオフラインのときでもメンバーが自動で追放されることはありません。
+TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,このモンスターを攻撃できるのは、クエスト%sの間だけです。
+TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,保護巻物が不足しています。
+TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,アップグレード素材が不足しています。
+TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,必要なペニャが不足しています。
+TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,アップグレード素材が間違っています。
+TEXTCLIENT_UPGRADESAFE_NOMINERAL,You need at least #b%d#nb additional %s.,最低でも#b%d#nb追加の%sが必要です。
+TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,パーティ経験値獲得方式が%sに変更されました。
+TEXTCLIENT_PARTY_CHANGEITEM,Party Distribute Item changed to %s.,パーティアイテム獲得方式が%sに変更されました。
+TEXTCLIENT_JOIN_GROUP_APPROVAL,Please wait for Leader Approval.,リーダーの承認をお待ちください。
+TEXTCLIENT_JOIN_GUILD_APPROVAL,Please wait for Master Approval.,マスターの承認をお待ちください。
+TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%sがパーティ参加を拒否しました。
+TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%sがギルド参加を拒否しました。
+TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,飛行中はこのスキルを使用できません。
+TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,我に逆らう愚かな奴らめ！溶かしつくしてやらあぁ！！
+TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,地獄の苦痛を味うがいい！燃えろ！
+TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s！！ 逃げんのか？！消し炭にしてやる！
+TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,1人だと思った？！
+TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,今はバフを削除できません。
+TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,バフが削除されました。
+TEXTCLIENT_ERROR_SNATCH,No Penya to steal from this target.,このターゲットから盗むペニャはありません。
+TEXTCLIENT_ERROR_ITEM_ACCESSLEVEL,You don't have the required access to use this item.,このアイテムを使用するために必要な権限がありません。
+TEXTCLIENT_ERROR_CATCHERPRIORITY,You can only kill and collect one Catcher at a time.,一度に倒して集めることができるキャッチャーは1人だけです。
+TEXTCLIENT_MAX_COLLECTOR_LEVEL,Collector can be upgraded up to +5.,リファレクターの精錬は+5まで行うことができます。
+TEXTCLIENT_MAX_HARVEST_LEVEL,Harvesting gloves can only be upgraded up to +5.,収穫用手袋は+5までしかアップグレードできません。
+TEXTCLIENT_CAN_JOIN_GUILD,You can already join a guild.,すでにギルドに参加しています。
+TEXTCLIENT_CAN_REJOIN_GUILD,You can join a guild now.,今すぐギルドに参加できます。
+TEXTCLIENT_NEED_PET,You must summon a pet first.,最初にペットを召喚する必要があります。
+TEXTCLIENT_CHANGENAME_PET,Pet name successfully changed.,ペットの名前が正常に変更されました。
+TEXTCLIENT_PET_SKILL_NOUSE,Your pet must have at least %d energy and a full progress bar to use the skill.,スキルを使用するには、ペットが%d個以上のエネルギーと完全なプログレスバーを持っている必要があります。
+TEXTCLIENT_PET_SKILL_HASBUFF,The skill is already active.,スキルはすでにアクティブです。
+TEXTCLIENT_REAPMONEY_SHORT,Received %s Penya - Total %s,%sペニャを受け取った（合計%s）
+TEXTCLIENT_REAPITEM_SHORT,Received %s,「%s」を受け取った
+TEXTCLIENT_TROUPEREAPITEM_SHORT,%s received %s,%sは%sを受け取りました。
+TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,%s後にサーバーメンテナンスを行います。
+TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,サーバーメンテナンスはキャンセルされました。
+TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,%s の価格は、%sペニャを超えることはできません。
+TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,売り子の個人商店をオープンしました。
+TEXTCLIENT_VENDOR_SHOP_CLOSE,Your Vendor Shop has been closed.,売り子の個人商店をクローズしました。
+TEXTCLIENT_VENDOR_SHOP_NOTOWN,You cannot purchase items from your own Vendor.,自分の売り子からアイテムを購入することはできません。
+TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your inventory and login again.,受け取れるアイテムが %d個 あります。インベントリに空きを作って再度ログインしてください。
+TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,このアイテムはお気に入りに設定されています。
+TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,すでに2つの拡張バッグを使用しています。
+TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,インベントリが拡張されました。
+TEXTCLIENT_APP_EXTRABAG,Inventory View,インベントリビュー
+TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,誰かがあなたを倒した場合のみ、懸賞金を出すことができます。
+TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,指名手配登録に成功しました。
+TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,このプレイヤーの懸賞金を登録する前に、しばらくお待ちください。
+TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%sは現在オフラインです。
+TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,インベントリのスペースが%d増加しました！
+TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s が %s を %s+%dに精錬成功！
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s が[装備帰属] %s を %s+%dに精錬成功！
+TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%sがレベル%dに達しました！
+TEXTCLIENT_APP_GACHA,Gacha,ガチャ
+TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,ボックスは正常にリセットされました。
+TEXTCLIENT_APP_BOT,Bot,Bot
+TEXTCLIENT_SKILL_AWAKE,Item received a bonus.,アイテムボーナスを受け取りました。
+TEXTCLIENT_SKILL_AWAKE_FAILED,No bonus is available for this item.,このアイテムにはボーナスはありません。
+TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,できませんでした。
+TEXTCLIENT_ITEM_LEVELDOWN_ALREADY,Better effect has already been activated.,既に完成されているアイテムです。
+TEXTCLIENT_UNBINDING,The item is now tradable.,アイテムが取引可能になりました。
+TEXTCLIENT_EXPSTOP_EMPTY,Reload the Experience Lock gauge first.,先に経験値ロックゲージをリロードします。
+TEXTCLIENT_EXPSTOP_STOP,You receive experience from monsters now!,モンスターから経験値を獲得します！
+TEXTCLIENT_EXPSTOP_START,Your experience is now locked.,経験値がロックされました。
+TEXTCLIENT_EXPSTOP_ALMOST,Your Experience Lock gauge is almost empty.,経験値ロックゲージは空です。
+TEXTCLIENT_EXPSTOP_ACTIVE,You don't receive experience because Experience Lock is active.,経験値ロックがアクティブになっているため、経験値が取得できません。
+TEXTCLIENT_EXPSTOP_RELOAD,Your Experience Lock gauge is now %d.,経験値ロックゲージが%dになりました。
+TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please refresh in a few seconds.,アリーナランキングは現在ロード中です。数秒後に更新してください。
+TEXTCLIENT_ARENA_RANKING_WINNER,The best player of the Arena this week is %s!,今週のアリーナ王者は、プレイヤー %s です！
+TEXTCLIENT_ARENA_RANKING_MAIL,Congratulations for your rank %d in the PvP Arena this week!,今週のPvPアリーナ %d位 おめでとうございます！
+TEXTCLIENT_QUEST_NOTELEPORT,Blinkwings are not allowed during the quest %s.,%s のクエストが進行中の為、飛行はできません。
+TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,%s を見つけました！
+TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s が %s を見つけました！
+TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,祝福が出来ないアイテムか、既に祝福されているアイテムです。
+TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,アイテムに秘められた力が覚醒しました。
+TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,女神の祝福によってオプションが付与されたアイテムだけに使用可能です。
+TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,女神の祝福によるオプションが除去されました。
+TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,おかえりなさい！プレゼントをお贈りしました！
+TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,すでに地面にあるアイテムが多すぎます。
+TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,%dx %sを作成しました。
+TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,宝石抽出に失敗しました。
+TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,コンバットパワーランキングでのランク%d（%s）おめでとうございます！
+TEXTCLIENT_PVPLIMIT,This PvP kill is not counted because you already fought together a little while ago.,少し前に共に戦っていたため、このPvPキルはカウントされません。
+TEXTCLIENT_GEM_WRONG,Please use the correct Jewel for the weapon.,武器に適した宝石を使用してください。
+TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,ユニーク武器への変換に成功しました！
+TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,ユニーク武器への変換に失敗しました。
+TEXTCLIENT_BOUNTY_OTHERCHANNEL,The player is currently in a different channel.,プレイヤーは現在別のチャンネルにいます。
+TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,プレイヤーは現在安全地帯にいます。
+TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,既に近くにいます！
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,ジャイアントハントランキング %d位 おめでとうございます！
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,ジャイアントハントランキングで %dポイント に到達しました。おめでとうございます！
+TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,%dジャイアントハンティングポイント（合計%d）を獲得しました！
+TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,サーバーメンテナンスが行われるため、購入できません。
+TEXTCLIENT_CTRLRECOVERY,You found a HP container!,HPコンテナを見つけました！
+TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,報酬の請求に成功
+TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,%sボーナスコインを受け取りました。
+TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,この武器にはアップグレード効果はありません。
+TEXTCLIENT_UPGRADEEFFECT,Upgrade effects are changed for this weapon.,この武器のアップグレード効果が変更されました。
+TEXTCLIENT_INVALIDOTP,Invalid Two Factor authentication code.,2段階認証コードが無効です。
+TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,チャレンジを完了できませんでした。もう一度やり直してください。
+TEXTCLIENT_SERVERCLOSED,The game is in maintenance. Please wait.,メンテナンス中です。お待ちください。
+TEXTCLIENT_PRIVATE_SHOP_LEVEL,You must complete your 1st Job Change to open a Private Shop.,個人商店を開くには、1次転職を完了する必要があります。
+TEXTCLIENT_VENDOR_SHOP_LEVEL,You must reach level %d to open a Vendor Shop.,売り子の個人店を開くには、レベル%dに到達する必要があります。
+TEXTCLIENT_CANT_CHAT_LEVEL,Guest Characters under Level %d cannot use the chat.,レベル%d未満のゲストキャラクターはチャットを使用できません。
+TEXTCLIENT_CANT_CHAT_LEVEL2,Characters under Level %d cannot use the chat.,レベル%d未満のキャラクターはチャットできません。
+TEXTCLIENT_TOOMANYREQUESTS,Too many requests. Please try again later.,リクエストが多すぎます。後でもう一度やり直してください。
+TEXTCLIENT_PLAYERDISCONNECTED,Player %s disconnected.,%s がログアウトしました。
+TEXTCLIENT_ERROR_CATCHERLEVEL,You must complete your 1st Job Change to attack this monster.,このモンスターを攻撃するには、1次転職を完了させる必要があります。
+TEXTCLIENT_ERROR_RESURRECTPK,You can only be resurrected on a PK channel.,PKチャンネルでのみ復活できます。
+TEXTCLIENT_GUILD_ADDBAG,%s expanded the guild bank!,%sがギルドバンクを拡張しました!
+UI_CASHSHOP_MAXPURCHASE,Maximum amount of purchases per character: %d,キャラクターごとの最大購入数: %d
+TEXTCLIENT_LEADERSHIPOFF,Cannot transfer Leadership to offline player.,リーダーシップをオフラインプレイヤーに譲渡することはできません。
+TEXTCLIENT_PET_NOTFOUND,You do not have a summoned pet.,召喚中のペットがいません。
+TEXTCLIENT_PET_USEFEED,You have used %d pet candy.,%d個のペットキャンディーを使用しました。
+TEXTCLIENT_PET_HATCH,Bring your Pet to the Pet Tamer to upgrade it!,持っているペットの経験値が100％になりました。ペットテイマーに行ってランクアップしてください。
+TEXTCLIENT_PET_WRONGCANDY,You must use the correct Pet Candy to feed your pet.,ペットに与えるには、正しいペットキャンディーを使用する必要があります。
+TEXTCLIENT_PET_HATCH_CONF,Turns an egg into a D Level pet. Pet class will be decided at random.,卵をD級ペットにします。ペットのクラスはランダムで決定されます。
+TEXTCLIENT_PET_REQEGG,Use on your egg.,卵状態でのみ、使用できます。
+TEXTCLIENT_PET_REROLL_TIER,The tier of the pet must be higher or equal.,ペットの等級はそれ以上である必要があります。
+TEXTCLIENT_PET_REROLL_ALREADY,Your pet already has the maximum level possible.,あなたのペットはすでに最大レベルに達しています。
+TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!",あなたのペットは新しいレベルになりました！
+TEXTCLIENT_PET_REROLL_LOWER,"You rolled the same or a lower level, so nothing changed.",同じレベルかそれより低いレベルを振ったので、何も変わりませんでした。
+TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,エネルギーバーはすでにいっぱいです。
+TEXTCLIENT_PET_NOTEGG,Cannot use on egg.,卵には使用できません。
+TEXTCLIENT_PET_TRANSMUTE,Your pet has got a new appearance!,あなたのペットが新しくなりました！
+TEXTCLIENT_GUILDCOMBAT_REDCHIPS,%d Red Chips have been sent to your inventory or mail box.,%d個のレッド チップがインベントリまたはメール ボックスに送信されました。
+TEXTCLIENT_PET_TRANSMUTE_CONF,Your pet will get a new appearance. Do you want to continue?,あなたのペットは新しい姿になります。続行しますか？
+TEXTCLIENT_ITEM_TRANSMUTE_SUCCESS,You have transmuted your item!,アイテムを変換しました！
+TEXTCLIENT_ITEM_TRANSMUTE_INCOMPATIBLE,These items are not compatible for transmutation.,これらのアイテムは変換に対応していません。
+TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,変換は削除されました。
+TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,アイテムがワードローブに追加されました。
+TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,このチャンネルでは宣戦布告できません。
+TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,バトルパス
+TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s ミッション %s が完了しました。
+TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,You received %d %s points.
+TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,%s シーズンがリセットされました!
+TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,%s のグレード %d に達しました!
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,You reached the %s bonus grade %d+%d!
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,アクティブなバトルパスはもうありません。
+TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,拡張%sをお買い上げいただきありがとうございます!
+TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,拡張 %s を購入すると、より多くの報酬を獲得できます!
+TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,このLv80ギルドコンバットは、レベル80以下のキャラクターのみ適用可能です。
+TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,今回のLv60ギルドコンバットは、2次転職を完了していないキャラクターのみ応募可能です。
+TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,今週はLv80ギルドコンバットが開催されます。
+TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,今週はLv60ギルドコンバットが開催されます。
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Lv80ギルドコンバットが終了しました。
+TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Lv80ギルドコンバットが終了しました。
+TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s がインベントリまたはメール ボックスに送信されました。
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",まもなくフラリス北にいるNPCアトラスにて、Lv80ギルドコンバットアリーナへ参加できるようになります。
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",まもなくフラリス北にいるNPCオリビアにて、Lv60ギルドコンバットアリーナへ参加できるようになります。
+TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,別のギルドコンバットが試合中です。
+TEXTCLIENT_SKILL_ROOT,You cannot move right now.,今は移動できません。
+TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s が倒されたぞ！
+TEXTCLIENT_EVENT_REQGUILD,You should join a Guild to participate to the event!,ギルドに所属してイベントへ参加しよう！
+TEXTCLIENT_GUILD_WORLDCUP_POINTS,%s brought %d GET'EM B'ALL points to the Guild (Total: %d)!,%s がギルドに%dサッカーボールイベントのポイントを貢献！（合計: %d）
+TEXTCLIENT_WORLDCUP_RANKING_MAIL,Congratulations for your rank %d in the GET'EM B'ALL ranking!,ボールを集めよ！イベントランキングで%d位に入賞！おめでとうございます！
+TEXTCLIENT_REMOVEPIERCING_NOSELECTION,You need to select a card to remove !,カードを除去する必要があります！
+TEXTCLIENT_REMOVEPIERCING_NOCARD,The slot you selected has no card in it !,選択したスロットにはカードが入っていません！
+TEXTCLIENT_DUNGEON_FAIL_ENTER,Unable to enter the dungeon.,このダンジョンは入場できません。
+TEXTCLIENT_DUNGEON_FAIL_LEADER,Your leader must enter the dungeon first.,リーダーが最初にダンジョンへ入る必要があります。
+TEXTCLIENT_DUNGEON_START,%s started the dungeon %s!,%s が %s ダンジョンへ！
+TEXTCLIENT_DUNGEON_START_DIFFICULTY,%s started the dungeon %s (%s)!,%s が %s（%s）ダンジョンへ！
+TEXTCLIENT_DUNGEON_FULL,Too many players are in this dungeon. Please wait a moment.,このダンジョンに入場中のプレイヤーが多すぎるため、しばらくお待ちください。
+TEXTCLIENT_DUNGEON_NOTRANS,You cannot enter an instanced dungeon while you are using a Trans.,変身した状態ではインスタンスダンジョンに入場できません。
+TEXTCLIENT_DUNGEON_NOTRANSUSE,You cannot use a Trans inside of an instanced dungeon.,インスタンスダンジョン内では、変身できません。
+TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a moment.,前のインスタンスダンジョンが終了しています。しばらくお待ちください。
+TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,このダンジョンでは、グループメンバーが %d人を超えることはできません。
+TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,現在入場できません。
+TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,残り %d 分です。モンスター %dをクリアしてください。
+TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...",時間切れ！ダンジョンをクリアできませんでした...。
+TEXTCLIENT_LACKITEM,You do not have the required items.,必要なアイテムがありません。
+TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,準備はいいですか？
+TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,ダンジョンが他のチャンネルで継続中です。
+TEXTCLIENT_DUNGEON_COOLDOWN,Please wait before challenging this dungeon again.,このダンジョンを再挑戦するには、しばらくお待ちください。
+TEXTCLIENT_DUNGEON_PARTY_REQ,You must be in a Party to enter this dungeon.,このダンジョンへ入場するには「パーティ」を組む必要があります。
+TEXTCLIENT_DUNGEON_GUILD_REQ,You must be in a Guild to enter this dungeon.,このダンジョンへ入場するには「ギルド」へ所属する必要があります。
+TEXTCLIENT_GUILDCOMBAT_NOMASTERS,You cannot join a Lv80 Guild Siege or Lv60 Guild Siege when doing a master quest!,マスタークエストを挑戦中、Lv80・Lv60ギルドコンバットに参加することはできません。
+TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,スキル「%s」Lv.%dをアンロックしました！
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL,Congratulations for your rank %d in the Thief Santa Hunt ranking!,おめでとうございます！偽サンタ討伐ランキング%d位になりました！
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Thief Santa Hunt ranking!,おめでとうございます！偽サンタ討伐ランキング%dポイントになりました。
+TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,偽サンタ討伐ポイント %d を獲得！（合計 %d）
+TEXTCLIENT_APP_LOTTERY,Lottery,抽選
+TEXTCLIENT_LOTTERY_LOWLEVEL,"Your level is too low, you must be level %d minimum to start this lottery!",この宝くじを開始するには最低レベル%dである必要があります!
+TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!",この宝くじを開始するには最低レベル%dである必要があります!
+TEXTCLIENT_LOTTERY_ITEMSMISSING,You must have %d %s to start this lottery!,この宝くじを開始するには、%d %s が必要です!
+TEXTCLIENT_LOTTERY_ERRORSTARTED,You already started a lottery! Wait for it to finish!,あなたはすでに宝くじを始めました!それが終わるのを待ってください!
+TEXTCLIENT_LOTTERY_NOREWARD,Unlucky.. You got no reward this time!,アンラッキー。。今回は報酬がありません!
+TEXTCLIENT_LOTTERY_NOFREESPINS,You don't have any free spins left!,フリースピンが残っていません!
+TEXTCLIENT_LOTTERY_FREESPIN,You can now claim your free Lottery Wheel spin!,これで、無料の宝くじホイールスピンを請求できます!
+TEXTCLIENT_APP_EVENTPASS,Lunar Pass,旧正月パス
+TEXTCLIENT_BATTLEPASS_REWARD,You need to be at least level %d to claim %s rewards!,%d 以上にレベルアップして、 %s をゲットしよう！
+TEXTCLIENT_EXCHANGECONSUME_ERROR,You already have one buff of that type active.,既に同じタイプのバフが1つ有効になっています。
+TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,ギルド「%s」は見つかりませんでした。
+TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,理由を提示する必要があります。
+TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,%s から警告を受け取りました。理由：%s
+TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s が警告されました。
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.",%s はオンラインではありませんが、警告は記録されました。
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,残り %d分以内に %sを討伐してください。
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,%d分以内に、%d体の%sを倒してください。
+TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,チケットが期限切れです！マドリガルへテレポートされました。
+TEXTCLIENT_PETCAGE_FAIL01,The pet inside did not survive.,中にいたペットを助けられなかった..。
+TEXTCLIENT_MINTARGETLEVEL,This item can only be used on items level %d and above.,このアイテムは、レベル%d以上のアイテムにのみ使用できます。
+TEXTCLIENT_DUNGEON_MAXENTRY,Your reached the maximum entrance amount for today.,本日の入場上限金額に達しました。
+TEXTCLIENT_DUNGEON_MAXINSTANCE,You already have %d dungeon running. Please wait.,すでに %d ダンジョンが実行されています。お待ちください。
+TEXTCLIENT_DUNGEON_RATELIMIT,Too many players are starting dungeons. Please try again soon.,ダンジョンへ入場するプレイヤーが多すぎるため、再度お試しください。
+TEXTCLIENT_DUNGEON_FAILMASTER,You cannot enter dungeons while on a Master quest.,マスタークエスト中はダンジョンに入ることができません。
+TEXTCLIENT_ITEM_PK,This item is only usable on a PK Channel.,このアイテムは、PKチャンネルでのみ使用可能です。
+TEXTCLIENT_DUNGEON_RANKING_MAIL,Congratulations for your rank %d in the %s!,ランク%d到達おめでとうございます！%s！
+TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,今週の勝者は %s ！そして、ギルド %s！
+TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,今回は勝者がいませんでしたが、ギルドは %sです。
+TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,PKチケット使用中は、PK以外のチャンネルへテレポートできません。
+TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,%s ダンジョンクリア！
+TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,おめでとうございます！すべての %s（s）が倒されました！ボーナスでボスが出現します！
+TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,他のプレイヤーがこれを使用しています!お待ちください。。
+TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,アイテム%s は、バフがまったく同じアイテムである場合にのみ累積可能です。現在のバフアイテム %s。
+TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,コスチュームは既に使用済みです。
+TEXTCLIENT_COSTUMECOLLECTION_NOTHING,You have nothing to submit.,提出するものは何もありません。
+TEXTCLIENT_APP_EVENTS,Events,イベント
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_1,You have nothing to submit.,提出するものは何もありません。
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_2,Achievement collection error 02.,アチーブメント コレクション エラー 02.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_3,Achievement collection error 03.,アチーブメント コレクション エラー 03.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_4,Achievement collection error 04.,アチーブメント コレクション エラー 04.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_5,Costume is already used.,コスチュームは既に使用済みです。
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_6,Achievement collection error 06.,アチーブメント コレクション エラー 06.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_7,Achievement collection error 07.,アチーブメントコレクションエラー 07.
+TEXTCLIENT_ACHIEVEMENT_COLLECTIONSUCCESS,Costumes successfully submitted.,コスチュームが無事に提出されました。
+TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""",%d レベルに到達しました。実績: %s
+TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,メッセージの長さが最大文字数を超えています。
+TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,凍り付いているとテレポートできません。
+TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,プレミアムアイテムを交換するには、レベル%dに到達する必要があります。
+TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,このモーションを使用するには、レベル %d に到達する必要があります。
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Switch Equip
+TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,アイテムはスイッチ装備のメニュー/ショートカットからのみ装備できます。
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,プリセット %s の更新に成功しました!
+TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,プリセットが多すぎます!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,プリセット %s が作成されました!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,プリセット %s を削除しました!
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,You don't have access to this preset anymore.. You need battlepass for it.,このプリセットにはもうアクセスできません。それにはバトルパスが必要です。
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,プリセット装備に%sを追加することはできません。要件が満たされていません。
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,プリセット装備に追加する前に、まずそのアイテムを一度装備する必要があります。
+TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,少し待ってから別のスイッチを使用してください。
+TEXTCLIENT_PVPCONTEST_NOGUILD,You need a guild and be the leader to register.,登録するにはギルドが必要で、リーダーになる必要があります。
+TEXTCLIENT_PVPCONTEST_ALREADYREGISTERED,Your guild is already registered for the FWC PVP Contest!,あなたのギルドはすでにFWC PVPコンテストに登録されています!
+TEXTCLIENT_PVPCONTEST_NOTCLOSED,You can't register now. FWC PVP Contest has already started or will start tomorrow!,現在、登録できません。FWC PVPコンテストはすでに始まっているか、明日から開始されます!
+TEXTCLIENT_PVPCONTEST_COMPOSITIONNOTCLOSED,You can't change your participating players now. FWC PVP Contest has already started or will start tomorrow!,参加プレイヤーを変更することはできません。FWC PVPコンテストはすでに始まっているか、明日から開始されます!
+TEXTCLIENT_PVPCONTEST_NOTREGISTERED,Your guild is not registered for the FWC PVP Contest.,あなたのギルドはFWC PvPコンテストに登録されていません。
+TEXTCLIENT_PVPCONTEST_COMPOSITIONSUCCESS,You successfully set your player composition!,プレーヤー構成の設定に成功しました!
+TEXTCLIENT_PVPCONTEST_REGISTRATIONSUCCESS,You successfully registered your guild for the FWC PVP Contest!,FWC PvPコンテストへのギルド登録が完了しました!
+TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s penyas to register to the FWC PVP Contest!,FWC PvPコンテストに登録するには、少なくとも%sペニャが必要です!
+TEXTCLIENT_PVPCONTEST_STATE_REGISTRATIONS,Registrations for FWC PVP Contest are now open! ,FWC PVPコンテストの参加登録受付を開始しました!
+TEXTCLIENT_PVPCONTEST_STATE_PRELIMINARY,Preliminaries will start from now on!,いよいよ予選が始まります!
+TEXTCLIENT_PVPCONTEST_STATE_BACKUP,Backup Match will start from now on!,これからバックアップマッチが始まります!
+TEXTCLIENT_PVPCONTEST_STATE_FINALS,Final Matchs will start from now on!,いよいよ決勝戦が始まります!
+TEXTCLIENT_PVPCONTEST_HAVENOT_PLAYER,You need to select players to participate the FWC PVP Contest!,FWC PvPコンテストに参加する選手を選択する必要があります!
+TEXTCLIENT_PVPCONTEST_SELECTION_MAX,You can only select %d players maximum!,最大で %d 人のプレイヤーしか選択できません!
+TEXTCLIENT_PVPCONTEST_LIMIT_LEVEL_NOTICE,Selected player must be at least level %d!,選択したプレイヤーはレベル %d 以上である必要があります!
+TEXTCLIENT_PVPCONTEST_ALREADY_ENTRY,That player is already selected! Please pick another.,そのプレイヤーはすでに選ばれています!別のものを選んでください。
+TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC PVP Contest!,ギルドリーダーはFWC PVPコンテストに参加する必要があります!
+TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,FWC PVPコンテストの登録は1時間後に終了します!参加するには、必ずギルドを登録してください!
+TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,選択したプレイヤーリストの取得中にエラーが発生しました。もう一度やり直してください。
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,一致するものを選択する必要があります。
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %02d:%02d today.",確認していただきありがとうございます、次の試合は今日%02d:%02dに開始されます。
+TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.",FWC PVPコンテスト中にメンバー管理機能を利用できない、または登録に選ばれたメンバーを編集しようとしています。
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,FWC PvPコンテスト中にギルド名を変更することはできません。
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,FWC PvPコンテスト中にギルドのロゴを変更することはできません。
+TEXTCLIENT_PVPCONTEST_NOT_WAR,Unable to declare war during FWC PVP Contest.,FWC PvPコンテスト中に宣戦布告できない。
+TEXTCLIENT_PVPCONTEST_CANNOT_FRIENDADD,You cannot add friends in the FWC PVP Contest.,FWC PvPコンテストにフレンドを追加することはできません。
+TEXTCLIENT_PVPCONTEST_CANNOT_PARTY,You cannot make a party in the FWC PVP Contest.,FWC PvPコンテストではパーティーを組むことはできません。
+TEXTCLIENT_PVPCONTEST_NO_OUTWAR,You cannot use Blinkwings to escape the FWC PVP Contest.,ブリンクウィングスを使用してFWC PvPコンテストから脱出することはできません。
+TEXTCLIENT_PVPCONTEST_MATCHEND_WINNER,Match has ended! Winner is %s!,試合終了!勝者は %s です!
+TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,試合終了!今回は勝者がいませんでした!
+TEXTCLIENT_PVPCONTEST_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,対戦相手を待っています.. 
+TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,Preparation phase. Match will start in: 
+TEXTCLIENT_PVPCONTEST_CAPTION_FIGHT,End combat  ,戦闘終了
+TEXTCLIENT_PVPCONTEST_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in ,試合終了!マドリガルにテレポートします。
+TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedules!,試合日程はリーダーしか選べません!
+TEXTCLIENT_PVPCONTEST_ALREADYPLAYEDTODAY,You already played a match today! You can't select another schedule.,今日はもう試合をしましたね!別のスケジュールを選択することはできません。
+TEXTCLIENT_PVPCONTEST_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,マッチ中にテレポートすることはできなくなりました。試合が始まりました。
+TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there is no match waiting for you.,あなたを待っている試合がないため、テレポーテーションは不可能です。
+TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",対戦相手は参加しませんでした!その後、試合が終了し、勝利が与えられます!
+TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,対戦相手が見つかりませんでした!その後、あなたの試合は勝利と見なされました!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s が [%s] %s を倒しました!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s killed [%s] %s and stopped their killing spree!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s is on a killing spree!
+TEXTCLIENT_PVPCONTEST_MATCHSOON,You can't change your participation now. Matches are starting soon!,今すぐ参加を変更することはできません。まもなく試合が始まります!
+TEXTCLIENT_PVPCONTEST_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,プレイヤーがマッチに参加していないか、マッチから退出しています!ギルドの残りライフが%d減少しました!
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT,The FWC PVP Contest Preliminary %d:%d UTC matches have ended! The next matches will start at %d:%d UTC!,FWC PvP コンテスト予選 %d:%d UTC の試合は終了しました!次のマッチは %d:%d UTC に開始されます!
+TEXTCLIENT_TRANSITEM_TRANSY,Your transmuted item does not have an equivalent item for the other gender. Please consider removing the transmutation or trying a different item.,変換されたアイテムには、他の性別に相当するアイテムがありません。核変換を外すか、別のアイテムを試すことを検討してください。
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD,The FWC PVP Contest has ended! The winner is: %s! Congratulations!,FWC PVPコンテストは終了しました!勝者は %s です!
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD,The FWC PVP Contest has ended on a draw! Congratulations!,FWC PVPコンテストは抽選で終了しました!
+TEXTCLIENT_PVPCONTEST_NOMATCHS,There is no match to spectate.,観戦する相手はいません。
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_1,You can't spectate if you're already participating in a match.,すでに試合に参加している場合は観戦できません。
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,あなたが観戦しようとしている試合が終わろうとしています。別のものを選択してください。
+TEXTCLIENT_PVPCONTEST_RANK34,"You lost that match, but you will have the opportunity to compete in a final match for the 3rd rank against the other losing guild when the final match takes place. Best of luck!",その試合には負けましたが、決勝戦が行われると、他の負けたギルドと3ランクの決勝戦に出場する機会があります。幸運を祈ります!
+TEXTCLIENT_SERVERTRANSFER,You have requested a server transfer to %s.,%s へのサーバ転送を要求しました。
+TEXTCLIENT_RPS_DAILYLIMITOVER,You've used all the chances for today.,今日はチャンスを全て使いましたね。
+TEXTCLIENT_RPS_SOLDOUT,All the rewards for today are gone. See you tomorrow.,今日のご褒美は全てなくなってしまいました。ではまた明日。
+TEXTCLIENT_RPS_ISOPENED,You are already speaking with this NPC.,あなたはすでにこのNPCと話しています。
+TEXTCLIENT_RPS_MINTARGETLEVEL,Only available to level %d or above.,レベル %d 以上でのみ使用可能です。
+TEXTCLIENT_RPS_PLAYABLE,You can't play Lucky RPS. Check your state.,ラッキーRPSはプレイできません。状態を確認してください。
+TEXTCLIENT_RPS_DAYCHANGE,You do not have the right to acquire the item.,あなたにはアイテムを取得する権利はありません。
+TEXTCLIENT_PVPCONTEST_SPECTATE_AUTH,You don't have the required auth to spectate.,観戦に必要な認証がありません。
+TEXTCLIENT_GUILDBUFF_NEW,Your Guild just unlocked Guild Buff Level %d!,ギルドのバフレベル%dがアンロックされました!
+TEXTCLIENT_GUILDBUFF_DONATE,%s donated %s #bx%d#nb to the Guild (Total: %d)!,%s は %s #bx%d#nb をギルドに寄付しました (合計: %d)!
+TEXTCLIENT_GUILDBUFF_RANKING_MAIL,Congratulations for your rank %d in the First Come First Served ranking!,先着順でランク %d を達成しました!
+TEXTCLIENT_PURCHASE_ERROR_LEVEL,You cannot purchase this item because your level is too low. (Req Lev: %d),レベルが低すぎるため、このアイテムを購入できません。(要求レベル: %d)
+TEXTCLIENT_PURCHASE_ERROR_COUNT,You can purchase this item up to %d times.,このアイテムは %d 回まで購入できます。
+TEXTCLIENT_MONSTER_ATTACK_ERROR_LEVEL,This monster can only be attacked by level %d or higher,このモンスターはレベル%d以上でしか攻撃できない
+TEXTCLIENT_REAPITEMCOUNT,You received %d %s.,%d %s を受け取りました。
+TEXTCLIENT_GUILDBANKSCROLL_NOGUILD,You can’t use this item because you are not part of a guild,ギルドに所属していないため、このアイテムは使用できません
+TEXTCLIENT_CANNOT_USE_OTHER_ACTIONS,You cannot use the item during other actions.,他のアクション中にアイテムを使用することはできません。
+TEXTCLIENT_CANNOT_USE_CURRENT_STATE,You cannot use the item in the current state.,現在の状態では使用できません。
+TEXTCLIENT_ACCEL_FUEL_PRIORITY01,"You are currently using Acceleration Fuel. When you use this item, the existing effect will not be applied any more. Are you sure you want to use this?",現在、加速燃料を使用しています。この項目を使用すると、既存の効果は適用されなくなります。これを使用してもよろしいですか?
+TEXTCLIENT_ACCEL_FUEL_PRIORITY02,"You are currently using Nitro Booster. When you use this item, the existing effect will still take priority. Are you sure you want to use this?",現在、ニトロブースターを使用しています。このアイテムを使用すると、既存の効果が優先されます。これを使用してもよろしいですか?
+TEXTCLIENT_DAILY_LOTTERY_COUNT,You've used all the roulette chances today.,今日はルーレットのチャンスをすべて使いました。
+TEXTCLIENT_TRANS_LOTTERY_TRANS,You can't use the roulette while being transformed.,変身中はルーレットを使用できません。
+TEXTCLIENT_TRANS_LOTTERY_WING,You can't use the roulette while using the wing effect.,ウィングエフェクトを使用している間はルーレットを使用できません。
+TEXTCLIENT_TRANS_LOTTERY_FLY,You can't use the roulette while flying.,飛行中にルーレットを使用することはできません。
+TEXTCLIENT_TRANS_LOTTERY_DUNGEON,You can't use the roulette in this dungeon.,このダンジョンではルーレットは使えません。
+TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,すでにバンクエキストラバッグをご利用の場合
+TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,銀行は現在拡張されています。
+TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,戦闘中は使用できません。
+TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s 使用済み %s です!
+TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,You used %s on %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,You used %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,ターゲットが見つかりませんでした。
+TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,ターゲットをレインボーバリアでブロック!
+TEXTCLIENT_RAINBOWRACE_USEITEM_USERBARRIER,You've blocked an item with your Rainbow Barrier!,レインボーバリアでアイテムをブロックしました!
+TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory period.,準備期間中はご搭乗いただけません。
+TEXTCLIENT_RAINBOWRACE_NOSTAND,You cannot stop flying during the racing period.,レース期間中は飛行を止めることはできません。
+TEXTCLIENT_RAINBOWRACE_NOSTACK,Your target is already suffering from this item!,あなたのターゲットはすでにこのアイテムに苦しんでいます!
+TEXTCLIENT_RAINBOWRACE_PREP,The Rainbow Race begins in %d seconds...,レインボーレースが %d 秒後にスタートします...!
+TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,レインボーレースが始まります!
+TEXTCLIENT_RAINBOWRACE_FINISH,You've finished the race!,レースを完走しました!
+TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,レインボーレースが終わりました!勝者は%sです!
+TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,レインボーレースに申し込むのに十分なペニャがありません。
+TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,次のレースへの応募は済んでいます。
+TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,レインボーレースは参加者不足のため開催されませんでした。
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,変換に成功しました!
+TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,材料が不足しています。
+TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,このアイテムは最大アップグレードレベルに達しています。
+TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,アップグレードは大失敗でした。
+TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,アップグレードは大成功!
+TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,この項目は対象には使用できません。
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,このアイテムは、武器ショップの「アルティメット武器の作成」メニューで使用できます
+TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,最初にターゲット項目を設定する必要があります。
+TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,ギルド船に入札するには、ギルドの一員である必要があります。
+TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,ギルド船を購入できるのはギルドリーダーだけです。
+TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,あなたのギルドはすでにギルド船を所有しています。
+TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,このギルド船の入札に成功しました!
+TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,このギルド船はすでに別のギルドに属しています。入札することはできません。
+TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,この船はギルドに属していません。
+TEXTCLIENT_HOUSEOBJECTS_TOOFAR,The position you're trying to put your furniture at is too far from you.,家具を置こうとしている位置が、自分から離れすぎています。
+TEXTCLIENT_HOUSEOBJECTS_ALREADYPLACED,You already placed that furniture. Please disable it before.,その家具は既に配置されています。事前に無効にしてください。
+TEXTCLIENT_HOUSEOBJECTS_NOTPLACED,You first need to place that furniture before disabling it.,無効にする前に、まずその家具を配置する必要があります。
+TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,ここには家具を置くことはできません。
+TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,オブジェクトを配置する地面をタッチします。マウスホイールで回転させます。マウスホイールを押しながらマウスを左右に動かしてサイズを変更します。
+TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,デコレーションオブジェクトの配置がキャンセルされました。
+TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,その家に家具を置く権利はありません。
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,その家具を置くには、家やギルドハウスにいる必要があります。
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,あなたには家もギルドハウスもありません。
+TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,%sをビジターとして追加しました!
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,選択したプレーヤーはオンラインではありません。
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,そのプレーヤーを訪問者リストから正常に削除しました。
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,そのプレーヤーは訪問者リストにありません。
+TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,現在、家を所有していません。
+TEXTCLIENT_PLAYERHOUSING_BUYSUCCESS,You successfully setup your house.,あなたはあなたの家をうまくセットアップしました。
+TEXTCLIENT_HOUSING_PACKOWNED,You already unlocked that housing pack!,あなたはすでにそのハウジングパックをアンロックしました!
+TEXTCLIENT_HOUSING_PACKSUCCESS,You successfully unlocked %s!,%s のロック解除に成功しました!
+TEXTCLIENT_PLAYERHOUSING_VISIT_EMPTY,There are currently no available houses to visit from your friends list.,現在、フレンドリストから訪問できる家はございません。
+TEXTCLIENT_PLAYERHOUSING_VISIT_OFFLINE,The owner of that house is currently offline.,その家の所有者は現在オフラインです。
+TEXTCLIENT_PLAYERHOUSING_VISIT_NOHOUSE,That player has no house to visit.,そのプレイヤーには訪問する家がありません。
+TEXTCLIENT_HOUSEOBJECTS_RESET_NOTOWNER,Only the owner can reset the house decorations!,家の装飾をリセットできるのは所有者だけです!
+TEXTCLIENT_HOUSEOBJECTS_RESET_SUCCESS,You successfully reset the house decorations.,家の装飾を正常にリセットしました。
+TEXTCLIENT_HOUSEOBJECTS_NOPACKS,You do not have any unlocked decoration packs.,アンロックされたデコレーションパックを所持していない。
+TEXTCLIENT_HOUSEOBJECTS_NOTUNLOCKED,You do not have that decoration unlocked.,その装飾のロックは解除されていません。
+TEXTCLIENT_HOUSEOBJECTS_NPCEXIST,This NPC already exists in the house.,このNPCはすでに家に存在します。
+TEXTCLIENT_PLAYERHOUSINGWND_BUYNOTEMPLATES,There are currently no house templates available. ,現在、利用可能なハウステンプレートはありません。
+TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase the template again or set a different one to access your house.,ハウス テンプレート %s の有効期限が切れています!テンプレートを再度購入するか、別のテンプレートを設定して家にアクセスします。
+TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,このハウステンプレートは既に所有しています。
+TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","ハウステンプレート ""%s"" のロック解除に成功しました!"
+TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,まず、そのハウジングテンプレートのロックを解除する必要があります。
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild house does not belong to anyone. Place a bid if you want it!,このギルドハウスは誰のものでもありません。あなたがそれを望むなら入札してください!
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild house does not belong to your guild. You can't enter.,このギルドハウスはギルドに属していません。入場できません。
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. You can't place a bid on it.,このギルドハウスはすでにギルドに属しています。入札することはできません。
+TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,あなたのギルドがギルド船のオークションに勝ちました!これで、マップを使用して船を右クリックすると、テレポートできます。
+TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,あなたには入札する権利がありません。
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!,ギルドハウスの入札額が %s になりました!
+TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough penya in your guild bank.,ギルドバンクにペニャが足りません。
+TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,あなたはすでに別のギルド船に入札しています。
+TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s penya.,最低初期入札単価を%sペニャに設定する必要があります。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,ちょっと待って。。。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,アーティファクトの出現位置の設定に成功しました!%s の手数料がギルド バンクから引き落とされました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,アーティファクトの出現位置を設定する権限がありません。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough penya in your guild bank to set the artifact spawn position.,ギルドバンクにアーティファクトの出現位置を設定するのに十分なペニャがありません。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",これでギルドは船のアーティファクトを設置できるようになりました!詳細については、ギルドウィンドウタブの「ハウジング」を確認してください。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,アーティファクトの出現位置をまだ設定する時期ではありません。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,今週アーティファクトが設置されなかったため、ギルドはギルド船の所有権を失いました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルド船のアーティファクトが出現しました!PKチャンネルで船の所有権を求めて彼らを狩りましょう!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,あなたのチームがギルド船のアーティファクトを破壊しました!そのギルド船は今、あなたのギルドに属しています!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,あなたのチームがギルド船のアーティファクトを破壊しました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s penya has been deposited into your guild bank. Congratulations!,%s ペニャがギルドバンクに入金されました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,ギルドのアーティファクトが破壊されました!船の所有権を失いました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,ギルドは船のアーティファクトを守ることに成功しました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s penya has been deposited into the guild bank. Congratulations!,あなたは所有権を保持し、%sペニャはギルド銀行に預け入れられました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,ギルド%sはアーティファクトを守ることができました!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,アーティファクトを攻撃するにはギルドに所属している必要があります。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,自分の船のアーティファクトを攻撃することはできません!
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on the channel 1 to teleport to the guild house ship!,ギルドハウスの船にテレポートするには、チャンネル1にいる必要があります!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,アーティファクトの出現位置が正常に更新されました。
+TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,削除するプリセットを選択する必要があります。
+TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,そのマップのプリセットが多すぎます。
+TEXTCLIENT_HOUSINGPRESETS_NORIGHTS,You don't have rights to make a preset of that house.,あなたには、その家のプリセットを作成する権限はありません。
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS,"You successfully created housing preset ""%s""","ハウジング プリセット ""%s"" が正常に作成されました"
+TEXTCLIENT_HOUSINGPRESETS_EXIST,You already have a preset with that name. Please use another name.,その名前のプリセットがすでにあります。別の名前を使用してください。
+TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?,プロセスが失敗すると、アイテムは破棄されます。防具店のアップグレードメニューを使用することをお勧めします。続行してもよろしいですか?
+TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,このタイプの props は %d 個以上持つことはできません。
+TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,ホイールが動かなくなっている...今のところ、船は制御不能のようです。
+TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,有効期限が切れているため、配置できなかったものがあります。
+TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,レインボー レースの払い戻しとして%sペニャを受け取りました。
+TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,ハウジングプリセットのロック解除可能な最大スロットにすでに達しています!
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,これで、最大 %d 個のハウジング プリセットを使用できます。
+TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,ハウスで個人商店を開くことはできません!
+TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,家の中では返却巻物は使えません!
+TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,このアイテムは、すでに可能な限り最高のランダムステータスを持っています。
+TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,%d minute(s) remaining to %s
+TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,レインボーレース中にテレポートすることはできません。
+TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,あなたはレースから失格となりました。
+TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,まもなく10分後にレインボーレース開始！参加登録はダーコンへ！
+TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,銀行は現在拡張されています。
+TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,直接サインインはできません。ウェブサイトからサインインしてください。
+TEXTCLIENT_EVENTBUFF,%s is active!,%s はアクティブです!
+TEXTCLIENT_STORAGEFULL,The bag is full.,バッグがいっぱいです。
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s アーマー パック (%d/%d)
+TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,一度に使用できるバッグは1つだけです。
+TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,このモーションはPvPエリアでは再生できません。
+TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,アップグレードは成功しました。
+TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,それを配置するには、その小道具がさらに必要です。
+TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,配置するには、そのNPCがさらに必要です。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.,このアーティファクトバトルに申し込んでいません。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!,アーティファクトバトルに参加するにはギルドが必要です!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing permission to register to the artifact battle.,アーティファクトバトルに登録するには、ギルドの住居許可が必要です。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d penyas to register to the artifact battle.,アーティファクトバトルに登録するには、少なくとも%dペニャが必要です。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the artifact battle!,あなたのギルドはすでにアーティファクトバトルに登録されています!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d penyas fee has been taken off your guild bank.,次のアーティファクトバトルへの登録に成功しました。手数料%d ペニャがギルドバンクから引き落とされました
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d penyas fee has been deposited back into your guild bank.,次のアーティファクトバトルへの申し込みをキャンセルしました。%d ペニャがギルドバンクに返金されました。
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!",アーティファクトバトルはすでに始まっていますので、申し込みをキャンセルすることはできません!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,今週はアーティファクトバトルはありません。来週またお試しください!
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,ここにはギルドハウスのNPCしか配置できません。
+TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,このアイテムには使用できません。
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,正常に送信されました。
+TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,ここにはパーソナルハウスNPCしか配置できません。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,このアーティファクトのスポーン位置は、すでに別のギルドが占領しています。
+TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,同時に %d 個以上の小道具を配置することはできません!
+TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,%sは、%sの進行中にのみ取得できます。
+TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.",小道具/NPCは編集メニューで移動できます。このモードを終了するには、Esc キーを押します。
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,ギルド %s がギルド %s のアーティファクトを破壊しました!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled the guild!,このギルドハウスの所有者がギルドを解体しました!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant.",ギルドハウスのアーティファクトは現在廃墟と化しており、家の所有権は現在空いています。
+TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,登録に失敗しました。
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,レベルが低いため登録できません。
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,登録が完了しました。
+TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,入力に失敗しました。
+TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,カルガスアサルトにフレンドを追加することはできません。
+TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,カルガス・アサルトではパーティーを組むことができません。
+TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,カルガス・アサルトは取引できません。
+TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,カルガス・アサルトではアイテムを使用できません。
+TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,カルガス・アサルトではルーレットは使えません。
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,ブリンクウィングスを使ってカルガス・アサルトから逃れることはできません。
+TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,カルガス・アサルトに位置
+TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,このゲームではすでに銀貨を使用しています。
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,銀貨が必要です。
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,金貨が必要です。
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,金貨が不足しています。
+TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,カルガス・アサルトの試合がまもなく始まります。
+TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,カルガスアサルトに参加できません。
+TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,カルガスアサルトが予定されています。今すぐご登録ください！
+TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,トランスアイテムを使用している間はカルガスアサルトに入ることはできません。
+TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,このエリアではパーティースキルは使用できません。
+TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,少し待ってから、別のゲストブックメッセージを投稿してください。
+TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,あなたの家にはまだ何人かのプレイヤーがいます。内部に誰もいなくなるまで、テンプレートを変更することはできません。
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s does not have enough Penya to apply for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s is during other actions.
+TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Teams will be randomly matched after %d seconds
+TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Teleportation is no longer available.
+TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Team member invitations are in progress.
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
+TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
+TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
+TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,マスタークエスト中はカルガスアサルトをプレイできません。
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,%sは別のプレイヤーのものです。
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,あなたはチームメンバーではありません。
+TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,このアイテムは略奪できません。
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,他のプレイヤーはデュエルベットを受け付けません。
+TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,%dx %s を受け取りました。
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,%dx %s を受信しました
+TEXTCLIENT_TELEPORTMENU,Teleport menu,テレポートメニュー
+TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,%s の再突入のクールダウンが %d 分短縮されました。
+TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,クールダウン短縮が可能なダンジョンはありません。
+TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,マジッククロックの最大数をすでに使用しています
+TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,インスタンスダンジョンの残りクールダウンはアイテムの効果よりも短いです。アイテムを使用してもよろしいですか?
+TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,このエリアにアクセスするには、レベル %d に到達する必要があります。
+TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,レベル %d 以下のプレイヤーは召喚できません。
+TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
+TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,ゲストキャラクターは装備できません。アカウント連携をお願いします。
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
+TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
+TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
+TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,The coupon has been submitted successfully. Please check in the Flyff Shop.
+TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Coupon has already been used.
+TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,The coupon usage limit has been reached.
+TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,No coupon found with this code. Please try again.
+TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Invalid coupon code. Please try again.
+TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
+TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
+TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
+TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
+TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
+TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
+TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,It can only be used when the target is within 15 meters.
+TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,There is no target to use it on.
+TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,You cannot use it there.
+TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,You cannot teleport to yourself.
+TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,The shop has been closed.
+TEXTCLIENT_PVPMATCH_TEAM,Team ,Team 
+TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,試合終了!勝者は %s です!
+TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,試合終了!今回は勝者がいませんでした!
+TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
+TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",対戦相手は参加しませんでした!その後、試合が終了し、勝利が与えられます!
+TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,対戦相手が見つかりませんでした!その後、あなたの試合は勝利と見なされました!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s が [%s] %s を倒しました!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_PVPMATCH_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,プレイヤーがマッチに参加していないか、マッチから退出しています!ギルドの残りライフが%d減少しました!
+TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,あなたが観戦しようとしている試合が終わろうとしています。別のものを選択してください。
+TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,You cannot add friends in a PVP Match.
+TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You cannot make a party in a PVP Match.
+TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
+TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
+TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
+TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
+TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
+TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,You can't use the roulette in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,You cannot trade in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_PARTY,You cannot make a party in the Madrigal Tournament.,You cannot make a party in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_FRIENDADD,You cannot add friends in the Madrigal Tournament.,You cannot add friends in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_HAVENOT_MASTER,party leader has to participate to the Madrigal Tournament!,party leader has to participate to the Madrigal Tournament!
+TEXTCLIENT_MATOURNAMENT_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,対戦相手を待っています.. 
+TEXTCLIENT_MATOURNAMENT_CAPTION_PREPARE,Preparation phase. Match will start in ,Preparation phase. Match will start in 
+TEXTCLIENT_MATOURNAMENT_CAPTION_FIGHT,End combat  ,戦闘終了
+TEXTCLIENT_MATOURNAMENT_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in,Match has ended! You will be teleported on Madrigal in
+TEXTCLIENT_MATOURNAMENT_NOT_REGISTRABLE_TIME,Registration is not available at this time.,Registration is not available at this time.
+TEXTCLIENT_MATOURNAMENT_NOPARTY,You are not in a party.,You are not in a party.
+TEXTCLIENT_MATOURNAMENT_NOTPARTYLEADER,You are not the party leader.,You are not the party leader.
+TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,Invalid number of party members.
+TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
+TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
+TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
+TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
+TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
+TEXTCLIENT_MATOURNAMENT_TELEPORTNOMATCH,You can't enter because there is no match available.,You can't enter because there is no match available.
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",対戦相手は参加しませんでした!その後、試合が終了し、勝利が与えられます!
+TEXTCLIENT_MATOURNAMENT_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT_WIN,No opponent was found for your match! We then considered your match as won!,対戦相手が見つかりませんでした!その後、あなたの試合は勝利と見なされました!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,試合終了!今回は勝者がいませんでした!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_WINNER,Match has ended! Winner is %s!,試合終了!勝者は %s です!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s が [%s] %s を倒しました!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,マッチ中にテレポートすることはできなくなりました。試合が始まりました。
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,You have received the betting dividends.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,Failed to send the dividends. Check your state.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.,You bet %s penya to %s.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,You already bet other team.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,You can't bid at this time.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.,You have no penya to collect.
+TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,You have no participation or rewards to receive.
+TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,You have received a reward.
+TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,You can't receive the reward. Check your mail.
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT_MAIL,Madrigal Tournament Betting Payout,Madrigal Tournament Betting Payout
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT,You receive betting's payout.,You receive betting's payout.
+TEXTCLIENT_MATOURNAMENT_BETTING_FAIL,Betting failed. Please try again.,Betting failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.,Registration failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_FAIL_ENTER,Unable to enter the Madrigal Tournament.,Unable to enter the Madrigal Tournament.
+TEXTCLIENT_ULTIMATE_JEWEL_POSSIBLE_ITEM,The item is not allowed to add jewel.,The item is not allowed to add jewel.
+TEXTCLIENT_ERROR_NOULTIMATEJEWEL,There is no space to put a ultimate jewel.,There is no space to put a ultimate jewel.
+TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel is available.,Only ultimate weapon equipped with jewel is available.
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOSELECTION,You need to select a jewel to remove!,You need to select a jewel to remove!
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOJEWEL,The slot you selected has no jewel in it !,The slot you selected has no jewel in it !
+TEXTCLIENT_ULTIMATE_JEWEL_REMOVE_SUCCESS,Your ultimate jewel has been removed succesfully.,Your ultimate jewel has been removed succesfully.
+TEXTCLIENT_COMPOSEJEWEL_SUCCESS,You received %s.,%sを獲得しました。
+TEXTCLIENT_ERROR_SAMEKIND_JEWEL,You can only attach one of each kind of jewel or rune.,You can only attach one of each kind of jewel or rune.
+TEXTCLIENT_COMPOSEJEWEL_FAIL,Fusion failed. Returned %d %s.,Fusion failed. Returned %d %s.
+TEXTCLIENT_COMPOSEJEWEL_REGISTER_SAMEKIND,Only the same jewel can be registered.,Only the same jewel can be registered.
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_SUCCESS,Ultimate jewel creation successful!,Ultimate jewel creation successful!
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,Ultimate jewel creation failed.
+TEXTCLIENT_COUPLENOTARGET,You must select a player first.,You must select a player first.
+TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,Your proposal was refused.
+TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,Your request for break up was refused.
+TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!","You are now a couple, congratulations!"
+TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,Your target is already in a couple.
+TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s and %s have become a couple!
+TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,The couple skill %s has been used.
+TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,You already have the %s skill active.
+TEXTCLIENT_COUPLE_SKILL_NOPOINTS,You do not have enough points.,You do not have enough points.
+TEXTCLIENT_COUPLE_SKILL_NOPARTY,You must be in the same party to use this skill.,You must be in the same party to use this skill.
+TEXTCLIENT_COUPLE_REPLACE_RING,This will replace your current couple ring. Are you sure you would like to send this request to your partner?,This will replace your current couple ring. Are you sure you would like to send this request to your partner?
+TEXTCLIENT_COUPLE_NEW_RING,Your ring has been replaced!,Your ring has been replaced!
+TEXTCLIENT_COUPLE_SAME_RING,You are already using this ring.,You are already using this ring.
+TEXTCLIENT_COUPLE_MISSING,You must be in a couple to use this item.,You must be in a couple to use this item.
+TEXTCLIENT_COUPLE_QUESTEXP,Your couple has gained experience!,Your couple has gained experience!
+TEXTCLIENT_COUPLE_NOTITLE,You must be in a couple to use this title.,You must be in a couple to use this title.
+TEXTCLIENT_COUPLE_BREAKUP_DEADLINE,The break up request was not answered. Forceful break up notification timer has begun.,The break up request was not answered. Forceful break up notification timer has begun.
+TEXTCLIENT_COUPLE_MAX_POINTS,Your couple cannot exceed the maximum skill points.,Your couple cannot exceed the maximum skill points.
+TEXTCLIENT_COUPLE_CHEER_SEND,You have cheered your partner.,You have cheered your partner.
+TEXTCLIENT_COUPLE_CHEER_REC,You have been cheered by your partner.,You have been cheered by your partner.
+TEXTCLIENT_COUPLE_MINLEVEL,You and your target must both be at least level %d.,You and your target must both be at least level %d.
+TEXTCLIENT_COUPLE_COOLDOWN,You need to wait %s to form a couple with this player.,You need to wait %s to form a couple with this player.
+TEXTCLIENT_COUPLE_PROPOSAL_SENT,You have sent a proposal!,You have sent a proposal!
+TEXTCLIENT_COMPOSE_RAINBOWJEWEL_FAIL,Composing rainbow jewel failed.,Composing rainbow jewel failed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_SUCCESS,Dismantle rainbow jewel succeed.,Dismantle rainbow jewel succeed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_FAIL,Dismantle rainbow jewel failed.,Dismantle rainbow jewel failed.
+TEXTCLIENT_HOUSINGWARDROBE_NPCNOTFOUND,The NPC you intended to edit does not exist in your house!,The NPC you intended to edit does not exist in your house!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMNOTFOUND,The item you intented to equip is not in your wardrobe!,The item you intented to equip is not in your wardrobe!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMALREADYUSED,There is already an NPC using that item!,There is already an NPC using that item!
+TEXTCLIENT_HOUSINGEQUIP_NORIGHTS,You don't have permission to edit the equipment of that NPC.,You don't have permission to edit the equipment of that NPC.
+TEXTCLIENT_HOUSINGINVENTORY_NORIGHTS,You don't have permission to edit the inventory of this house.,You don't have permission to edit the inventory of this house.
+TEXTCLIENT_HOUSINGINVENTORY_WRONGITEM,You can only put pets or eggs in the house pet inventory.,You can only put pets or eggs in the house pet inventory.
+TEXTCLIENT_HOUSEOBJECTS_PETEXIST,This pet already exists in the house.,This pet already exists in the house.
+TEXTCLIENT_HOUSINGPET_SPAWNED,You need to remove that pet before taking it out of the pet inventory!,You need to remove that pet before taking it out of the pet inventory!
+TEXTCLIENT_PETTRAINING_MAXLEVEL,This pet has already reached its maximum experience!,This pet has already reached its maximum experience!
+TEXTCLIENT_PETTRAINING_WRONGPET,This trainer can't accept that pet.,This trainer can't accept that pet.
+TEXTCLIENT_HOUSINGINVENTORY_FULL,Pet inventory is full!,Pet inventory is full!
+TEXTCLIENT_PETTRAINING_PETINUSE,You need to remove that pet from the field before training it!,You need to remove that pet from the field before training it!
+TEXTCLIENT_PETTRAINING_NAME,[Training],[Training]
+TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,Trainer %s has completed your pet training!
+TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,You have already unlocked the maximum pet inventory slots!
+TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,You have successfully unlocked a new pet inventory slot for your house!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,You need a guild to use this scroll!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses.","You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses."
+TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,You must be in a level %d couple to use this motion.
+TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,You must select your partner in order to request this motion.
+TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Your partner refused to perform the motion.
+TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,You are too far away from each other to perform this motion.
+TEXTCLIENT_APP_LIFE,Life,Life
+TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,You need to equip a(n) %s.
+TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Please check the correct tool.
+TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
+TEXTCLIENT_GATHERING_HOE,hoe,hoe
+TEXTCLIENT_GATHERING_AXE,axe,axe
+TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pickaxe
+TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Fishing failed.
+TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Too many players are using this prop. Please try again later.
+TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,Repaired %s for %s points.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,You cannot change your expertise yet.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Successfully changed your expertise.
+TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,Failed to use the production reduction item. Please check your production status.
+TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,You do not have enough ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Unable to check your ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,You are already producing this item.
+TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,The production time has been reduced by %d minutes.
+TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,Wondering shop inventory renewed successfully.
+TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No space in inventory, %d empty slots needed."
+TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,You can only fish near a body of water.
+TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,You need to equip a fishing rod.
+TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Your fishing rod must be repaired.
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Not enough bait.
+TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
+TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,You cannot produce this item without the required title.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,You need to add the correct ingredients.
+TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,This item does not require repairing.
+TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Product upgrade failed.
+TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,Product upgrade successful!
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,%s's recipe has been unlocked.
+TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,You cannot stack this item anymore. This item can only be stacked %d times.
+TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
+TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
+TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
+TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
+TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
+TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,You are too far.
+TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,You need to use that pet at least once before putting it in the pet inventory.
+TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,You cannot put eggs in the pet inventory.
+TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,You have exceeded the maximum number of invitees.
+TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,The entrance time for the tournament match is now.
+TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,You can't use an equipment preset while attacking.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,There are currently no races available to enter.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,You are not a registered player.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,You cannot enter on the current channel.
+TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
+TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,You can't harvest this now.
+TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,You can't harvest this here.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this motion.,You must complete the quest %s to use this motion.
+TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,You cannot use this item in a PvP setting.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!,You can now use the motion %s!
+TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.,The motion %s has expired.
+TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,You can't remove a Blessing of the Demon!
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,This feature is only available with the Extended Battle Pass.
+TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,You already used all your daily teleports.
+TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,You cannot teleport to this shop because it is on a different channel.
+TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Harvests %d/%d
+TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,Infinite harvests
+TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,The same level was rolled. No scrolls were consumed.
+TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,The selected tier has been rerolled to a %d.
+TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Legendary fighters, imbued with the spirit of war."
+TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.","Mystical leaders, channeling Rhisis' powers to command and protect their allies."
+TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.","Cunning tricksters, weaving illusions and chaos."
+TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.","Elusive hunters, guided by the spirits of nature."
+TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolve.","Noble defenders, bound by honor and unbreakable resolve."
+TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
+TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
+TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
+TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,The start of all. You are Vagrant.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Failed to reveal a recipe.
+TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
+TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
+TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,You can't fly when fishing.
+TEXTCLIENT_COUPLEHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your current or further couple house!,You have successfully unlocked a new pet inventory slot for your current or further couple house!
+TEXTCLIENT_WANDERING_SHOP_TICKET_FAIL,You can only use this item when the Wandering Shop is open.,You can only use this item when the Wandering Shop is open.
+TEXTCLIENT_VENDOR_RADIUS,"There is already a Private Shop at this position, please move a little bit.","There is already a Private Shop at this position, please move a little bit."
+TEXTCLIENT_NO_SPECTATE_WORLD,You cannot spectate in this world.,You cannot spectate in this world.
+TEXTCLIENT_NO_SPECTATE_PLAYER,You cannot spectate this player.,You cannot spectate this player.
+TEXTCLIENT_NO_SPECTATE_WAR,You cannot spectate right now.,You cannot spectate right now.
+TEXTCLIENT_NO_SPECTATE_SELF,You cannot spectate yourself.,You cannot spectate yourself.
+TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not have permission to spectate.
+TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
+UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
+TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
+TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
+TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
+TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
+TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,失敗によりアイテムが破壊されました。
+TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
+TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
+TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
+TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
+TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d hours have passed] Excessive gaming can interfere with normal daily life.
+TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Your account is not allowed to access this server.
+TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,A statue in the name of the first person to reach maximum level.
+TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maximum upgrade.,A statue in the name of the first person to reach maximum upgrade.
+TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid material item for upgrade.
+TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
+TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
+TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
+TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
+TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
+TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
+TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
+TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,%s x%dを受け取りました。
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.
+TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
+TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
+TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.
+TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,You do not have enough Trap Tool.
+TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping the same jewel failed.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,You do not have enough jewel or penya for synthesis.
+TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
+TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
+TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
+TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
+TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
+TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.

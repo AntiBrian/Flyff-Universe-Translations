@@ -1,0 +1,10 @@
+﻿#b#cff0000ff* Règles de Base#nb#nc
+- Chaque groupe et buff sont annulés après l'entrée.
+- Le commerce d'objets est interdit 5 minutes avant le combat.
+- Le combat progresse pendant 10 minutes.
+- 5 membres de l'avant-groupe se joignent en premier.
+- Le joueur suivant rejoint après la mort d'un joueur.
+- Le joueur mort devient le dernier de la liste.
+- Un joueur a 3 chances de renaissance.
+* Maître de guilde: Obtient un point bonus en battant l'ennemi.
+* Défenseur (sauf pour le maître de guilde): confère un point bonus à l'ennemi lorsqu'il meurt.

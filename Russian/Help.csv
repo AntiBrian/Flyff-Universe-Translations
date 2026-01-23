@@ -1,0 +1,725 @@
+﻿Key,English,Russian
+CLIENT_HELP_INC_000000,Basic Operations,Основные возможности игры
+CLIENT_HELP_INC_000001,This section will continue were the Info-Pang left off. You can expect a more in-depth explanation of the game mechanics and some unique features.,"Здесь объясняется, как пользоваться основными возможностями игры: передвигаться, летать, сражаться; поднимать, бросать и использовать предметы; торговать с NPC и другими игроками и т. д."
+CLIENT_HELP_INC_000002,If you read through this section and you still have questions you should visit the Official Website and Forums. These can be found at $WEBSITE$,"Если вы не сумеете разобраться в чем-то самостоятельно, зайдите на официальный форум игры: более опытные игроки с удовольствием вам помогут!"
+CLIENT_HELP_INC_000003,Mouse,Мышь
+CLIENT_HELP_INC_000004,"Your mouse will be used constantly throughout game play. Left Clicking your mouse will be used most commonly for movement, targeting, and selecting menu options. The Right Click will be used predominately for controlling the camera and accessing the NPC Menu when a NPC is targeted. All of these features will be covered in the Help Menu.","Чтобы присесть и восстановить здоровье, откройте окно жестов и эмоций (клавиша 'O') и выберите значок сидящего человечка. Чтобы встать, снова щелкните по этому значку или атакуйте монстра."
+CLIENT_HELP_INC_000005,Movement,Движение
+CLIENT_HELP_INC_000006,"To move using the keyboard, press the “W” Key to go forward, the “A” Key to go left, the “S” Key to go backwards, and the “D” Key to go right. You can also use the Left Click of the Mouse to move.","To move using the keyboard, press the “W” Key to go forward, the “A” Key to go left, the “S” Key to go backwards, and the “D” Key to go right. You can also use the Left Click of the Mouse to move."
+CLIENT_HELP_INC_000007,"To jump, simply press the spacebar. You can jump either from a standing position or while moving.","To jump, simply press the spacebar. You can jump either from a standing position or while moving."
+CLIENT_HELP_INC_000008,Camera,Камера
+CLIENT_HELP_INC_000009,"You can control the camera view in many different ways. You can even lock the camera into place. To do this access the Start Menu, select Option and then toggle Camera Fix. This will allow you to control the Camera with the A and D keys. This overrides movement controls. If this setup does not feel comfortable to you, you can simply hold down the Right Mouse Button and move the mouse.","Чтобы поворачивать камеру, двигайте мышью, удерживая правую кнопку нажатой. Кроме того, камерой можно управлять с помощью клавиш со стрелками."
+CLIENT_HELP_INC_000010,"Regardless of how you choose to manipulate the camera, the zoom functions will always be the same. You can Zoom in and out with the mouse wheel or the Page Up and Page Down keys. In order to zoom in even further, press the Scroll Lock Button.","Приближайте и отдаляйте камеру, вращая колесико мыши. Если у вас мышь без колесика, пользуйтесь клавишами со стрелками."
+CLIENT_HELP_INC_000011,Flying,Полет
+CLIENT_HELP_INC_000012,A character that has reached level 20 and has finished the flying quest can take advantage of flying with broom and boards.,"Возьмите скейт или метлу и нажмите 'Пробел'. Вы наберете скорость. Чтобы остановиться, снова нажмите 'Пробел'."
+CLIENT_HELP_INC_000013,Station NPC's sell a variety of Brooms and Boards. If you feel like you would like to spice up your method of flying you can check the premium shop for faster and more unique items to fly on.,"Управляйте полетом с помощью мыши или клавиш W, A, S, D."
+CLIENT_HELP_INC_000014,,
+CLIENT_HELP_INC_000015,,
+CLIENT_HELP_INC_000016,,
+CLIENT_HELP_INC_000017,,
+CLIENT_HELP_INC_000018,,
+CLIENT_HELP_INC_000019,How do I fly?,Как научиться летать?
+CLIENT_HELP_INC_000020,"To fly, simply equip a flying board or broom and then press the Spacebar. You will automatically accelerate until your reach your maximum speed. To stop, press the Spacebar again.","To fly, simply equip a flying board or broom and then press the Spacebar. You will automatically accelerate until your reach your maximum speed. To stop, press the Spacebar again."
+CLIENT_HELP_INC_000021,"You can steer while flying with your mouse or with the W,A,S,D keys.","Чтобы научиться летать, вам придется достичь 20-го уровня и выполнить особое задание."
+CLIENT_HELP_INC_000022,You can buy fuel to increase the speed of your broom or board. Double-click the fuel and press the X key to activate or de-activate the fuel.,После этого купите метлу или скейт в Воздушном порту. А если захотите приобрести что-нибудь более оригинальное - загляните в платный магазин.
+CLIENT_HELP_INC_000023,,
+CLIENT_HELP_INC_000024,,
+CLIENT_HELP_INC_000025,,
+CLIENT_HELP_INC_000026,,
+CLIENT_HELP_INC_000027,,
+CLIENT_HELP_INC_000028,Combat,Сражения
+CLIENT_HELP_INC_000029,"You will encounter hundreds of hostile masquerpets in the land of Madrigal. Depending on what type of character you build, you will have multiple options on how to attack these villainous monsters. These methods will be explained in more detail here.","You will encounter hundreds of hostile masquerpets in the land of Madrigal. Depending on what type of character you build, you will have multiple options on how to attack these villainous monsters. These methods will be explained in more detail here."
+CLIENT_HELP_INC_000030,"Along with these masquerpets, you can engage in intense PVP Combat if you have chosen to play on Demian. To attack players on Demian, you must hold down the Ctrl Key and then initiate your attack.","Along with these masquerpets, you can engage in intense PVP Combat if you have chosen to play on Demian. To attack players on Demian, you must hold down the Ctrl Key and then initiate your attack."
+CLIENT_HELP_INC_000031,,
+CLIENT_HELP_INC_000032,Melee Attack,Ближний бой
+CLIENT_HELP_INC_000033,"Melee attacks are done with all variations of close combat weapons, this includes swords, axes, staffs, and even knuckle weapons. To engage a enemy in a Melee attack simply equip your weapon, target your enemy, and then click on them.","Melee attacks are done with all variations of close combat weapons, this includes swords, axes, staffs, and even knuckle weapons. To engage a enemy in a Melee attack simply equip your weapon, target your enemy, and then click on them."
+CLIENT_HELP_INC_000034,Ranged Attack,Дальний бой
+CLIENT_HELP_INC_000035,"Ranged attacks are done with Yo-yos, and bows. To engage an enemy with a ranged attack, equip the appropriate weapon, target the enemy, and then Right Click on the target. Note that Bow require arrows to be used.","Ranged attacks are done with Yo-yos, and bows. To engage an enemy with a ranged attack, equip the appropriate weapon, target the enemy, and then Right Click on the target. Note that Bow require arrows to be used."
+CLIENT_HELP_INC_000036,Magic Attack,Магические атаки дальнего боя
+CLIENT_HELP_INC_000037,Wands have the unique ability to shoot a charged magic attack. Do this by holding down the Right Mouse button after you have selected your target. Release the button to launch your attack.,Магическое оружие дальнего боя - волшебная палочка.
+CLIENT_HELP_INC_000038,Equipping items,Экипировка предметов
+CLIENT_HELP_INC_000039,"To equip an item, open your inventory then double click the item you want to equip. It will then automatically replace the item you currently have equipped in that slot. Double click on equipped item to unequip it.","Чтобы экипировать предмет (надеть его, взять в руки и т. п.), откройте инвентарь и дважды щелкните по нужному предмету. Он автоматически заменит тот предмет, который до этого находился в соответствующей ячейке. Чтобы убрать предмет в рюкзак, дважды щелкните по нему."
+CLIENT_HELP_INC_000040,Using Items,Использование предметов
+CLIENT_HELP_INC_000041,You can use an item by double clicking it. You can also place items in your Extra Bags by simply opening them and then dragging it over. The item drops to the ground if you place the item outside your inventory.,"Чтобы использовать предмет, дважды щелкните по нему. Чтобы выбросить предмет, перетащите его из рюкзака на землю."
+CLIENT_HELP_INC_000042,You can place an item in the quick task bar located at the bottom of your screen. It is possible to use it instantly with the corresponding Hot Key or by clicking with your Mouse. Right click an item to remove the item from the quick slot.,"Предметы можно помещать на расположенную внизу экрана панель быстрого доступа. После этого их можно будет использовать одним нажатием 'горячей' клавиши или щелчком мыши. Чтобы убрать предмет с панели быстрого доступа, щелкните по нему правой кнопкой."
+CLIENT_HELP_INC_000043,,
+CLIENT_HELP_INC_000044,Chatting,Чат
+CLIENT_HELP_INC_000045,"Pressing enter will toggle the Chat Menu display on if you have closed it for any reason. Once the Chat Menu is open simply press Enter one time to toggle the chat function. Once you have typed your message simply press Enter again to send your message out. You will also see buttons for Whisper, Shout, Party, and Guild. These buttons will filter your message directly to those respective groups. There are also options for filtering your incoming chats, and viewing System Messages.","Pressing enter will toggle the Chat Menu display on if you have closed it for any reason. Once the Chat Menu is open simply press Enter one time to toggle the chat function. Once you have typed your message simply press Enter again to send your message out. You will also see buttons for Whisper, Shout, Party, and Guild. These buttons will filter your message directly to those respective groups. There are also options for filtering your incoming chats, and viewing System Messages."
+CLIENT_HELP_INC_000046,NPC Trading,Торговля с NPC
+CLIENT_HELP_INC_000047,"To trade with an NPC, left click the NPC and choose Trade.","To trade with an NPC, left click the NPC and choose Trade."
+CLIENT_HELP_INC_000048,You can purchase an item you want by dragging it into your inventory. The price of the item will show and if you accept the price a confirmation window will pop-up. Accept the confirmation window to finish the transaction.,"При покупке предмета появится окно подтверждения. Нажмите 'Ок', и предмет переместится к вам в рюкзак."
+CLIENT_HELP_INC_000049,"If you are trying to sell items, just drag the item you want to sell from your inventory, into the NPC trade window.","Помимо пункта 'Торговля', у NPC обычно есть еще один пункт - 'Разговор'. Не забывайте разговаривать со всеми, кого видите - у NPC встречаются полезные подсказки и просто забавные реплики!"
+CLIENT_HELP_INC_000050,Player Trading,Player Trading
+CLIENT_HELP_INC_000051,"If you would like to trade with another player, you can hold down the ALT key and Left Click on the player, or simply Right Click on the player . A menu will appear, select trade, and wait for the other player to approve the trade.","Чтобы начать обмен с другим игроком, щелкните по нему, зажав клавишу ALT. Выберите в появившемся меню пункт 'Обмен' и подождите, пока другой игрок подтвердит свое согласие. Откроется окошко обмена. Перетащите в него предметы и пенни. Проверьте, устраивают ли вас условия сделки, перед тем, как нажимать 'ОК' и 'Принять'. Не одалживайте незнакомым игрокам предметы - их могут попросту не вернуть. Обмен ведется на ваш страх и риск, так что будьте очень внимательны. Если вы что-то потеряете, купите не тот предмет или получите не то количество пенни, администрация игры не сможет вам помочь. Чтобы прервать обмен, щелкните по кнопке 'Отмена'."
+CLIENT_HELP_INC_000052,"Once the trade window opens you can drag items or Penya into the window. Make very sure that everything is just how you want it before clicking OK and ACCEPT. Never let anyone BORROW any items as they may not return what you lend them. Make sure you are getting the right items and right amount of Penya before you go through with a trade. All trades are done at your own risk so please be very careful. If you lose something, get the wrong item, or the wrong Penya amount there is nothing that can be done to get the item back. So be careful. If at any time you feel uncomfortable with a trade click the CANCEL button to end the trade.","Как только вы нажмете 'ОК' и 'Принять', произойдет обмен, и приобретенные вами предметы переместятся к вам в рюкзак. Если же там не окажется места, обмен будет отменен."
+CLIENT_HELP_INC_000053,Once you put items in a trade window and select OK and ACCEPT the trade will go through and the items you traded for will be in your inventory. If your inventory box is full the trade will be canceled.,Once you put items in a trade window and select OK and ACCEPT the trade will go through and the items you traded for will be in your inventory. If your inventory box is full the trade will be canceled.
+CLIENT_HELP_INC_000054,Quests,Задания
+CLIENT_HELP_INC_000055,"NPC's with a Yellow ""!"" above their heads have a Quest you can complete. Select the NPC and then select New Quest. This will show you all of the available quests and the level required to accept the quest.","NPC's with a Yellow ""!"" above their heads have a Quest you can complete. Select the NPC and then select New Quest. This will show you all of the available quests and the level required to accept the quest."
+CLIENT_HELP_INC_000056,Complete as many quests as you can as they will give you many rewards along with valuable Exp bonuses!,Complete as many quests as you can as they will give you many rewards along with valuable Exp bonuses!
+CLIENT_HELP_INC_000057,Interface,Интерфейс
+CLIENT_HELP_INC_000058,This Section will detail the various Menus you will be seeing and using while you play.,This Section will detail the various Menus you will be seeing and using while you play.
+CLIENT_HELP_INC_000059,Status Menu,Панель персонажа
+CLIENT_HELP_INC_000060,"You can toggle this window by pressing the T Button. This Window will give you the overall status of your character. It includes your Health Points, Magic Points, Focus Points, Experience, and Bubble Time.","You can toggle this window by pressing the T Button. This Window will give you the overall status of your character. It includes your Health Points, Magic Points, Focus Points, Experience, and Bubble Time."
+CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA, the more HP you have the longer you will live. MP is necessary for magician and assist skills. Your total MP increases as you increase your INT. FP is necessary for mercenary and acrobat skills, your total FP increases as you increase your STA.","Your total HP increases as you increase STA, the more HP you have the longer you will live. MP is necessary for magician and assist skills. Your total MP increases as you increase your INT. FP is necessary for mercenary and acrobat skills, your total FP increases as you increase your STA."
+CLIENT_HELP_INC_000062,Exp notes the necessary amount of experience needed to level up. Exp is gained by hunting monsters and completing quests. Bubble Time is a special Buff that gives you bonus Exp. This is filled through the Guild House and is explained under that section of the Help Menu.,Exp notes the necessary amount of experience needed to level up. Exp is gained by hunting monsters and completing quests. Bubble Time is a special Buff that gives you bonus Exp. This is filled through the Guild House and is explained under that section of the Help Menu.
+CLIENT_HELP_INC_000063,Character Menu,Окно персонажа
+CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.","Здесь показывается информация о вашем персонаже, его характеристики, которые можно повышать с помощью полученных за уровень очков, и список полученных титулов во вкладке ""Титулы""."
+CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.","When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities."
+CLIENT_HELP_INC_000066,"ATK represents your Attack Power, this is how much damage you can deliver to the enemy. DEF represents your Defense, this is how much damage you can absorb from an enemy's attack. Critical means how much chance you have to make a critical attack, and A. Speed shows how fast your character will attack.",Очки характеристик начисляются с повышением уровня и служат для улучшения характеристик.
+CLIENT_HELP_INC_000067,"STR affects the attack power of all melee weapons. STA affects defense, max HP, max FP, and HP/FP restoration. DEX affects attack speed, dodge, blocking, critical chance and bow attack power. INT affects maximum MP, MP restoration, magical spell damage and magic defense.","STR affects the attack power of all melee weapons. STA affects defense, max HP, max FP, and HP/FP restoration. DEX affects attack speed, dodge, blocking, critical chance and bow attack power. INT affects maximum MP, MP restoration, magical spell damage and magic defense."
+CLIENT_HELP_INC_000068,The Fame/Master Tab will display of all the Titles you have earned. Select one of these Titles to show the world what you can accomplish!,The Fame/Master Tab will display of all the Titles you have earned. Select one of these Titles to show the world what you can accomplish!
+CLIENT_HELP_INC_000069,Chat Menu,Окно чата
+CLIENT_HELP_INC_000070,"Press Enter to activate this Menu and then you can type in it. Chat, Whisper, Shout, Party and Guild Chats are possible. You can click the System button to view any system messages that have been displayed.","Это окно расположено над панелью быстрого доступа. В нем можно обмениваться сообщениями с другими игроками. Чтобы войти в чат, нажмите Enter. В окне чата есть несколько вкладок: 'Общие', 'Личное', 'Крик', 'Гильдия', 'Труппа'. Системные сообщения отображаются в отдельном окне, которое включается кнопкой 'Система'."
+CLIENT_HELP_INC_000071,"If you want to copy a message and paste it with the Shortcut key then type the message into the chat window, don’t press enter, then drag the balloon mark located on the left side of the chat window to your quick slot.","If you want to copy a message and paste it with the Shortcut key then type the message into the chat window, don’t press enter, then drag the balloon mark located on the left side of the chat window to your quick slot."
+CLIENT_HELP_INC_000072,Navigator,Навигатор
+CLIENT_HELP_INC_000073,Press the N Button to toggle this Menu. The Navigator is the mini-map located at the upper-right of your screen.,Press the N Button to toggle this Menu. The Navigator is the mini-map located at the upper-right of your screen.
+CLIENT_HELP_INC_000074,"NPC's will appear as purple dots, while other players will appear as white dots. NPC Shops will be displayed with an icon that indicates what shop they are. If you are turning in a quest look for a yellow and black dot. Yellow and orange dots indicate enemy mobs. If you use your mouse to roll over a dot, it will tell you the name of that specific target.","NPC's will appear as purple dots, while other players will appear as white dots. NPC Shops will be displayed with an icon that indicates what shop they are. If you are turning in a quest look for a yellow and black dot. Yellow and orange dots indicate enemy mobs. If you use your mouse to roll over a dot, it will tell you the name of that specific target."
+CLIENT_HELP_INC_000075,There are a few buttons on the Mini-Map to help you as well. You can zoom the mini-map in and out using the + and - icons. The drop down will allow you to filter what appears on your Mini-Map.,There are a few buttons on the Mini-Map to help you as well. You can zoom the mini-map in and out using the + and - icons. The drop down will allow you to filter what appears on your Mini-Map.
+CLIENT_HELP_INC_000076,Skill Menu,Окно умений
+CLIENT_HELP_INC_000077,Toggle this Menu with the K Button. This window displays the skills and skill tree of your character. You can upgrade skills if you have the necessary requirements.,"В этом окне показывается дерево умений вашего персонажа. Умения можно улучшать, если выполнены необходимые требования."
+CLIENT_HELP_INC_000078,"To use skills, drag the skill to the quick slots in the bottom center of the screen and use F1 - F9. Otherwise, drag the skill in the skill window to the Action Slot on the bottom right of the screen and press C.","Чтобы использовать умение, перетащите его в одну из ячеек средней части панели быстрого доступа (F1-F9). После этого вы сможете применять его одним нажатием. Также можно перетащить умение в ячейку действия (правая часть панели) и применять его клавишей 'C'."
+CLIENT_HELP_INC_000079,"Skill points are necessary to level up your skill. Skill points are earned as you level up. Click the skill you want to increase and adjust the skill level with +,- button and click Finish.","Для улучшения умений нужны очки умений. Они начисляются с повышением уровня. Щелкните по умению, вложите в него очки с помощью кнопок + и -, после чего щелкните по кнопке 'Готово'."
+CLIENT_HELP_INC_000080,Inventory,Инвентарь
+CLIENT_HELP_INC_000081,"Your inventory shows you everything you currently have equipped and everything you are carrying. You can store weapons, armor, items, Penya and anything that isn't nailed down inside your inventory. View your inventory by Pressing the I Button.","В рюкзаке можно хранить оружие, доспехи, ключевые предметы, еду и напитки - и, наконец, пенни. Оружие, доспехи и бижутерию можно экипировать и обратно в рюкзак."
+CLIENT_HELP_INC_000082,Messenger Menu,Коммуникатор
+CLIENT_HELP_INC_000083,"You can talk to friends and Guildies as well as check their current connection status. It will be updated as you add friends and guild members. To add your friend, hold down ALT and left click the character, then select ‘add to my list’ or click the + icon located below the messenger window. Your Guild list will automatically update as players come and go. There is also a Tab to check you Mentor Pupil Status but that system is outlined later in the Help Guide.","Коммуникатор служит для общения с друзьями. Чтобы добавить персонажа в коммуникатор, щелкните по нему левой кнопкой мыши, удерживая ALT. Выберите пункт 'Добавить в коммуникатор' или нажмите значок +. У лидеров гильдий список коммуникатора пополняется автоматически, когда они принимают в гильдию нового персонажа."
+CLIENT_HELP_INC_000084,Quest Menu,Дневник
+CLIENT_HELP_INC_000085,"By pressing the Q Button, you can check the progress of your current quests and other valuable information about your quests. This Menu is divided into tabs to better help you organize your quests. If you select a quest from the list it will be added to your on screen display to help you better track your progress quickly.","By pressing the Q Button, you can check the progress of your current quests and other valuable information about your quests. This Menu is divided into tabs to better help you organize your quests. If you select a quest from the list it will be added to your on screen display to help you better track your progress quickly."
+CLIENT_HELP_INC_000086,Motion Menu,Окно эмоций
+CLIENT_HELP_INC_000087,This window displays emoticons and motion icons.,This window displays emoticons and motion icons.
+CLIENT_HELP_INC_000088,You can open this Menu by pressing O. You can left click the icon to use it instantly or drag it the shortcut window and use it later.,You can open this Menu by pressing O. You can left click the icon to use it instantly or drag it the shortcut window and use it later.
+CLIENT_HELP_INC_000089,,
+CLIENT_HELP_INC_000090,Party Menu,Окно труппы
+CLIENT_HELP_INC_000091,"This window manages your party. There are basic parties and advanced parties. Basic parties are groups that you share exp and items with, while an advanced party uses various party skills. When a basic party reaches level 10 you can change it to an advanced party and use party skills.","В этом окне находится вся информация о вашей труппе (группе). Труппы бывают обычными и профессиональными. Игроки обычной труппы просто делят между собой опыт и добычу, а профессиональная труппа получает дополнительные умения. Труппы, как и игроки, набирают опыт. Чтобы обычная труппа стала профессиональной, она должна достигнуть 10-го уровня."
+CLIENT_HELP_INC_000092,Guild Menu,Окно гильдии
+CLIENT_HELP_INC_000093,"A Guild is a bigger community than a party and anyone level 40 or higher can create one. You have to complete the quest from NPC Helena to make a guild. The Info tab shows general information and notices, the member tab allows you to manage guild members, the title tab shows titles and allows you to pay members, and the duel tab shows info on your guild duels.","A Guild is a bigger community than a party and anyone level 40 or higher can create one. You have to complete the quest from NPC Helena to make a guild. The Info tab shows general information and notices, the member tab allows you to manage guild members, the title tab shows titles and allows you to pay members, and the duel tab shows info on your guild duels."
+CLIENT_HELP_INC_000094,Options Tab,Изображение и звук
+CLIENT_HELP_INC_000095,This window configures the basic details and options for the Game and can be found in the Start Tab. There are many settings here and they have been separated into two Tabs: Video and Game / Audio.,В этом окне можно настраивать параметры изображения и звука. Задайте их в соответствии с возможностями вашего компьютера.
+CLIENT_HELP_INC_000096,Video,Video
+CLIENT_HELP_INC_000097,This window is for video settings. If you set the options to their highest settings you may encounter some additional lag. You will also see other settings for various visual elements.,В этом окне можно настроить основные параметры игры. В нем есть две закладки: 'Изображение' и 'Игра'.
+CLIENT_HELP_INC_000098,Game / Audio,Настройки игры
+CLIENT_HELP_INC_000099,"From this tab you can allow or block Trades, Whispers, Friend Requests, Duel Requests, Party Requests, along with numerous other options. You can also control the audio levels and Battle Music.","From this tab you can allow or block Trades, Whispers, Friend Requests, Duel Requests, Party Requests, along with numerous other options. You can also control the audio levels and Battle Music."
+CLIENT_HELP_INC_000100,Helper Tab,Объявления
+CLIENT_HELP_INC_000101,Selecting the Help Tab from the Start Menu will open various help texts. You can find all forms of helpful things in this area.,"В этом окне появляются объявления об игровых обновлениях и прочих важных событиях. Если здесь появилась новая информация, не пропустите ее."
+CLIENT_HELP_INC_000102,Help,Помощь
+CLIENT_HELP_INC_000103,This selection includes the Helper Tree you are currently looking at. There are numerous topics here that are described in detail to help give you a better understanding of the game.,"В этом окне объясняются основные особенности игры. Если у вас есть какие-либо вопросы, попробуйте найти на них ответ."
+CLIENT_HELP_INC_000104,Tips,Подсказки
+CLIENT_HELP_INC_000105,This selection contains tips that help with game play and other things that are easily overlooked.,This selection contains tips that help with game play and other things that are easily overlooked.
+CLIENT_HELP_INC_000106,FAQ,Вопросы и ответы
+CLIENT_HELP_INC_000107,This is the FAQ window. When you have questions you should start here as there are numerous answers to various questions.,"В этом окне перечислены часто задаваемые вопросы и ответы на них. Если у вас возник вопрос, попробуйте сначала найти на него ответ в этом списке, а уже затем обращайтесь за помощью к другим игрокам или в техническую поддержку."
+CLIENT_HELP_INC_000108,Information Tab,Выход из игры
+CLIENT_HELP_INC_000109,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.,This tab will give you access to the In-Game notice. Various information and major news will be listed here from time to time. This notice is also displayed by default when the game launches.
+CLIENT_HELP_INC_000110,Revive Menu,Окно воскрешения
+CLIENT_HELP_INC_000111,"This window opens when your HP reaches 0. There are three options, 'Lodestar' which allows you to revive from the nearest town. If you have a 'Scroll of Resurrection' you can revive from the spot with the 'Original Place' option. You can also visit the Cash item shop through this menu.","Это окно появляется, когда ваш запас ОЗ падает до нуля. В нем есть три пункта: 'Звезда Жизни' - воскрешение в ближайшем городе; 'Свиток воскрешения' (если он у вас есть) - воскрешение на месте гибели; и 'Магазин' - платный магазин игры."
+CLIENT_HELP_INC_000112,Trade Menu,Окно обмена
+CLIENT_HELP_INC_000113,"If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed.","If you either initiate a Trade or Accept another players Trade Request, you will be presented with this menu. From here you can trade Penya and other various items. The trade will have to be confirmed before it is completed."
+CLIENT_HELP_INC_000114,Bank Menu,Окно банка
+CLIENT_HELP_INC_000115,This Menu will allow you to store various items and Penya without taking up space in your inventory. You can access your bank from the [Public Office] NPC in each major city.,"В личный сейф можно сложить предметы и пенни из рюкзака. Чтобы открыть сейф, поговорите с банкиром в одном из городов."
+CLIENT_HELP_INC_000116,Task Bar,Панель быстрого доступа
+CLIENT_HELP_INC_000117,"This section refers to the bar that runs along the bottom of your screen. It houses your Start Menu, System Slots, and Quick Action Slots.","This section refers to the bar that runs along the bottom of your screen. It houses your Start Menu, System Slots, and Quick Action Slots."
+CLIENT_HELP_INC_000118,Start Menu,Главное меню
+CLIENT_HELP_INC_000119,This Menu allows the user to access all of the game options and various game play functions. Many of the Hot Keyed Menus can be accessed through the Start Menu.,С помощью кнопки 'Старт' можно получить быстрый доступ к основным функциям игры.
+CLIENT_HELP_INC_000120,System Slots,Панель меню
+CLIENT_HELP_INC_000121,"This refers to the slots to the right of the Start Menu. These slots are used so that users can quickly access skills, save text strings, or other various tasks they want to repeat.",Эта панель расположена справа от кнопки 'Старт'. На нее можно вынести значки Главного меню и назначить для них 'горячие' клавиши.
+CLIENT_HELP_INC_000122,Hot Keys,Ячейки быстрого доступа
+CLIENT_HELP_INC_000123,This refers to the nine slots in the middle of the bottom bar labeled F1-F9. These slots are linked to the corresponding Function keys and can be triggered accordingly. Reserve these for your most important funtions!,"Эти ячейки находятся в центре панели быстрого доступа. Перетащите в них те предметы и умения, которыми вы часто пользуетесь."
+CLIENT_HELP_INC_000124,Action Slot,Ячейка действия
+CLIENT_HELP_INC_000125,The Action Slot is located in the lower right corner of the screen.,The Action Slot is located in the lower right corner of the screen.
+CLIENT_HELP_INC_000126,What is the Action Slot,Использование ячейки действия
+CLIENT_HELP_INC_000127,The Action Slot allows you to trigger a pre-determined set of skills. You can place skills in the Action Slot from the Skills Menu.,"Чтобы использовать ячейку действия, выберите цель и нажмите клавишу 'C'."
+CLIENT_HELP_INC_000128,Using the Action Slot,Цепочка умений
+CLIENT_HELP_INC_000129,"To actually use the Action Slot you will need to select a target and press ""C"". This can be done repeatedly.","To actually use the Action Slot you will need to select a target and press ""C"". This can be done repeatedly."
+CLIENT_HELP_INC_000130,Order of the Action Slot,Паззл умений
+CLIENT_HELP_INC_000131,Skills can be used in a succession as long as you follow the order of the different types of skills. The order is; Step > Circle > Finish. You can only use the action icons if the skills are in order.,"Умения складываются, как кусочки паззла. Цепочка должна быть такой: открывающее > серединное > закрывающее."
+CLIENT_HELP_INC_000132,Action Slot Cooldown,Пример паззла
+CLIENT_HELP_INC_000133,There is a Cooldown for the Action Slot. As you cast you will notice a shadow the will begin covering the Action Slot. You will not be able to uses Skills that are covered in shadow. Simply wait and the shadow will vanish.,"Вот примеры того, как умения складываются в паззл: (1) открывающее > серединное > закрывающее; (2) открывающее > закрывающее; (3) открывающее > серединное > серединное > закрывающее; (4) обычное > обычное > обычное."
+CLIENT_HELP_INC_000134,Community,Сообщество
+CLIENT_HELP_INC_000135,In order to make Flyff more social and entertaining we encourage users to band together. There is both an intricate Party System and a Guild System.,In order to make Flyff more social and entertaining we encourage users to band together. There is both an intricate Party System and a Guild System.
+CLIENT_HELP_INC_000136,Basic Party System,Труппы
+CLIENT_HELP_INC_000137,"Parties are used to help benefit users who band together for a short time. There are numerous benefits to joining a Party as opposed to playing alone. The Party Menu can be accessed by pressing ""P"".","Parties are used to help benefit users who band together for a short time. There are numerous benefits to joining a Party as opposed to playing alone. The Party Menu can be accessed by pressing ""P""."
+CLIENT_HELP_INC_000138,Party Requirements,Создание труппы
+CLIENT_HELP_INC_000139,"To make a party, at least 2 people are needed. There are no job or level requirements to create normal party.","Чтобы создать труппу, нужно от двух до восьми игроков. Они могут быть любого класса и уровня."
+CLIENT_HELP_INC_000140,Inviting members to a Party,Приглашение в профессиональную труппу
+CLIENT_HELP_INC_000141,"To invite a player, either hold the ALT key and left click on the player or simply right click on the user. After accessing the Player Menu, simply select ""Invite to join party"".","Чтобы пригласить персонажа в профессиональную труппу, щелкните по нему левой кнопкой, удерживая ALT. Появится меню. Выберите пункт 'Пригласить в труппу' и дождитесь, пока игрок примет ваше приглашение."
+CLIENT_HELP_INC_000142,Joining a Party,Присоединение к труппе
+CLIENT_HELP_INC_000143,Select ACCEPT when you are invited to join a party.,Дождитесь приглашения в труппу и щелкните по кнопке 'Принять'.
+CLIENT_HELP_INC_000144,Leave a Party,Выход из профессиональной труппы
+CLIENT_HELP_INC_000145,"To leave a Party, open the Party Menu and click on the LEAVE button. A Party will be disbanded automatically if everyone leaves the Party.",Для этого откройте окно труппы и щелкните по кнопке 'Пока!'.
+CLIENT_HELP_INC_000146,Removing a Party member,Исключение из профессиональной труппы
+CLIENT_HELP_INC_000147,"Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button.","Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button."
+CLIENT_HELP_INC_000148,Changing Party Leader,Смена лидера профессиональной труппы
+CLIENT_HELP_INC_000149,"To transfer leadership in a Basic Party the Leader must choose a Party member and click the Transfer button. In case the Leader leaves the party, then the Party member placed next to Leader becomes the Party Leader.","Чтобы передать управление труппой другому игроку, лидер должен выбрать его и щелкнуть по кнопке 'Лидер'. Если лидер покинет группу, не передав свои полномочия, его место займет игрок, находившийся ближе всех к нему."
+CLIENT_HELP_INC_000150,Become an Advanced Party,Создание профессиональной труппы
+CLIENT_HELP_INC_000151,When a basic Party’s level reaches 10 it is able to change to an Advanced Party. Simply select the Change button on the Party Menu. Once your Party changes to an Advanced Party you will be able to name your Party. Once you have an Advanced Party you can begin to take advantage of the Skills Tab inside the Party Menu.,"При превращении простой труппы в профессиональную лидер может изменить ее название. В профессиональной труппе может быть до восьми игроков. Все решения принимает лидер, поэтому выберите им того игрока, которому можно доверять!"
+CLIENT_HELP_INC_000152,Advanced Party System,Профессиональная труппа
+CLIENT_HELP_INC_000153,Advanced Parties evolve from Basic Parties. They are very beneficial for groups attempting to conquer the most difficult tasks!,Профессиональная труппа отличается от обычной несколькими особенностями.
+CLIENT_HELP_INC_000154,Become an Advanced Party,Создание профессиональной труппы
+CLIENT_HELP_INC_000155,When a basic Party’s level reaches 10 it is able to change to an Advanced Party. Simply select the Change button on the Party Menu. Once your Party changes to an Advanced Party you will be able to name your Party. Once you have an Advanced Party you can begin to take advantage of the Skills Tab inside the Party Menu.,"При превращении простой труппы в профессиональную лидер может изменить ее название. В профессиональной труппе может быть до восьми игроков. Все решения принимает лидер, поэтому выберите им того игрока, которому можно доверять!"
+CLIENT_HELP_INC_000156,Inviting members to a Party,Приглашение в профессиональную труппу
+CLIENT_HELP_INC_000157,"To invite a player, either hold the ALT key and left click on the player or simply right click on the user. After accessing the Player Menu, simply select ""Invite to join party"".","Чтобы пригласить персонажа в профессиональную труппу, щелкните по нему левой кнопкой, удерживая ALT. Появится меню. Выберите пункт 'Пригласить в труппу' и дождитесь, пока игрок примет ваше приглашение."
+CLIENT_HELP_INC_000158,Joining an advanced party.,Присоединение к профессиональной труппе
+CLIENT_HELP_INC_000159,Select ACCEPT when you are invited to join a party.,Дождитесь приглашения в труппу и щелкните по кнопке 'Принять'.
+CLIENT_HELP_INC_000160,Party Exp and Skills,Party Exp and Skills
+CLIENT_HELP_INC_000161,The Advanced Party will get stronger as your Party earns Exp which in turn gives the Party Points. These Party Points are then consumed to use Party Skills. The Party Skills and Points are different according to the level of the Party. Only the Party Leader can use the Party Skills.,The Advanced Party will get stronger as your Party earns Exp which in turn gives the Party Points. These Party Points are then consumed to use Party Skills. The Party Skills and Points are different according to the level of the Party. Only the Party Leader can use the Party Skills.
+CLIENT_HELP_INC_000162,Leave a Party,Выход из профессиональной труппы
+CLIENT_HELP_INC_000163,"To leave a Party, open the Party Menu and click on the LEAVE button. A Party will be disbanded automatically if everyone leaves the Party.",Для этого откройте окно труппы и щелкните по кнопке 'Пока!'.
+CLIENT_HELP_INC_000164,Removing a Party member,Исключение из профессиональной труппы
+CLIENT_HELP_INC_000165,"Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button.","Only the Leader of the Party can remove a Party member. To do this you need to access the Party Menu, select the targeted Party member, and then finally press the Leave Button."
+CLIENT_HELP_INC_000166,Changing Party Leader,Смена лидера профессиональной труппы
+CLIENT_HELP_INC_000167,"To transfer leadership in an Advanced Party the Leader must choose a Party member and click the Transfer button. In case the Leader leaves the party, then the Party member placed next to Leader becomes the Party Leader.","Чтобы передать управление труппой другому игроку, лидер должен выбрать его и щелкнуть по кнопке 'Лидер'. Если лидер покинет группу, не передав свои полномочия, его место займет игрок, находившийся ближе всех к нему."
+CLIENT_HELP_INC_000168,,
+CLIENT_HELP_INC_000169,,
+CLIENT_HELP_INC_000170,Advanced Party Skills,Умения профессиональной труппы
+CLIENT_HELP_INC_000171,Only the Advanced Party Leader can use the Advanced Party Skills. The Advanced Party Skills will be acquired as you reach a certain Party Level. Party Points are consumed to use Skills.,"Использовать групповые умения может только лидер профессиональной труппы. Умения появляются, когда труппа достигает определенного уровня. Для их использования требуются очки труппы."
+CLIENT_HELP_INC_000172,Call,Зов
+CLIENT_HELP_INC_000173,Informs all Party members of the location of the Party Leader. It does not consume any Party Points.,Informs all Party members of the location of the Party Leader. It does not consume any Party Points.
+CLIENT_HELP_INC_000174,Blitz,Блиц
+CLIENT_HELP_INC_000175,Party Leader orders Party members to attack a target. It does not consume any Party Points.,Party Leader orders Party members to attack a target. It does not consume any Party Points.
+CLIENT_HELP_INC_000176,Retreat,Отступление
+CLIENT_HELP_INC_000177,Party Leader orders all Party members to retreat. It does not consume any Party Points.,Party Leader orders all Party members to retreat. It does not consume any Party Points.
+CLIENT_HELP_INC_000179,,
+CLIENT_HELP_INC_000180,Precision,Точность
+CLIENT_HELP_INC_000181,"Use this ability to gain an almost guaranteed critical hit on your next attack. Available at party level 17, consumes 1 Party Point.","Use this ability to gain an almost guaranteed critical hit on your next attack. Available at party level 17, consumes 1 Party Point."
+CLIENT_HELP_INC_000182,Linked Attack,Совместная атака
+CLIENT_HELP_INC_000183,"While the Party Leader is attacking a target, damage increase for all Party members attacking the same target. Available at party level 20, consumes 3 Party Points.","While the Party Leader is attacking a target, damage increase for all Party members attacking the same target. Available at party level 20, consumes 3 Party Points."
+CLIENT_HELP_INC_000184,Lucky Drop,Удача
+CLIENT_HELP_INC_000185,"Increases the chance of Masquerpets dropping unique items. Available at party level 25, consumes 5 Party Points.","Increases the chance of Masquerpets dropping unique items. Available at party level 25, consumes 5 Party Points."
+CLIENT_HELP_INC_000186,Resting,Отдых
+CLIENT_HELP_INC_000187,"Party members recover 1.5 times faster. It the Party Leader is an Assist, Party members recover 1.8 times faster. Available at party level 30, consumes 2 Party Points.","Party members recover 1.5 times faster. It the Party Leader is an Assist, Party members recover 1.8 times faster. Available at party level 30, consumes 2 Party Points."
+CLIENT_HELP_INC_000188,Gift Box,Подарки
+CLIENT_HELP_INC_000189,"Increases the amount of items dropped by Masquerpets. Available at party level 40, consumes 8 Party Points.","Increases the amount of items dropped by Masquerpets. Available at party level 40, consumes 8 Party Points."
+CLIENT_HELP_INC_000190,Jobs and their Skills,Умения и амплуа (классы)
+CLIENT_HELP_INC_000191,This section details the various Jobs in Flyff and all of their corresponding skills. The Skill Menu can be pulled up by pressing the K Key.,This section details the various Jobs in Flyff and all of their corresponding skills. The Skill Menu can be pulled up by pressing the K Key.
+CLIENT_HELP_INC_000192,Players will receive Skill Points as they Level up their characters.,"Чтобы развить умение, вложите в него очки."
+CLIENT_HELP_INC_000193,These Skill Points can then be assigned to various skills to increase the strength of that particular Skill.,These Skill Points can then be assigned to various skills to increase the strength of that particular Skill.
+CLIENT_HELP_INC_000194,PH1,"Бродяга, или бродячий артист - начальный класс игры. "
+CLIENT_HELP_INC_000195,Vagrants are the basic class everyone in Flyff starts with before they decide on their First Job Change. They use physical attacks and use melee weapons like swords and axes.,"Бродяги сражаются в ближнем бою и используют мечи, топоры и щиты."
+CLIENT_HELP_INC_000196,Clean Hit,Прямой выпад
+CLIENT_HELP_INC_000197,"A powerful, downward strike. This skill is available at Level 3 and can be used with any Melee Weapon.","A powerful, downward strike. This skill is available at Level 3 and can be used with any Melee Weapon."
+CLIENT_HELP_INC_000198,Flurry,Взмах
+CLIENT_HELP_INC_000199,A rapid stabbing attack that follows a Clean Hit in the Action Slot. This skill is available at Level 5 to Players who have at least 3 Skill Points in Clean Hit and can be used with any Melee Weapon.,A rapid stabbing attack that follows a Clean Hit in the Action Slot. This skill is available at Level 5 to Players who have at least 3 Skill Points in Clean Hit and can be used with any Melee Weapon.
+CLIENT_HELP_INC_000200,Over Cutter,Добивание
+CLIENT_HELP_INC_000201,This attack gathers all of the power the vagrant has and unleashes it in a strong upwards finishing blow. Over Cutter completes the combo after Flurry in the Action Slot. This skill is available at Level 10 to Players who have at least 3 Skill Points in Flurry and can be used with any Melee Weapon.,"Это завершающее умение можно получить на 10-м уровне. Собрав все свои силы, бродяга наносит мощный удар, чтобы прикончить противника."
+CLIENT_HELP_INC_000202,Mercenary,Борец
+CLIENT_HELP_INC_000203,"Mercenaries prefer to partake in close range combat. The main characteristics of this particular class involve physical strength, and a strong body that is able to withstand attacks.",Борцы обладают выдающейся силой и специализируются на умениях ближнего боя. Их основное оружие - топоры и мечи.
+CLIENT_HELP_INC_000204,"Powerful and headstrong, the mercenary has both inner and physical strength. Mercenaries will become either a Blade or a Knight.","Powerful and headstrong, the mercenary has both inner and physical strength. Mercenaries will become either a Blade or a Knight."
+CLIENT_HELP_INC_000205,PH2,Порез
+CLIENT_HELP_INC_000206,"Strikes the enemy two times, in rapid succession. This skill is available at Level 15 and can be used with any Axe or Sword.","Strikes the enemy two times, in rapid succession. This skill is available at Level 15 and can be used with any Axe or Sword."
+CLIENT_HELP_INC_000207,PH3,Вертушка
+CLIENT_HELP_INC_000208,A continuous spinning attack. This skill is available at Level 18 to Players who have at least 4 Skill Points in Slash and can be used with any Axe or Sword.,A continuous spinning attack. This skill is available at Level 18 to Players who have at least 4 Skill Points in Slash and can be used with any Axe or Sword.
+CLIENT_HELP_INC_000209,PH4,Коса смерти
+CLIENT_HELP_INC_000210,"A spinning, finishing move. This skill is available at Level 24 to Players who have at least 6 Skill Points in Keenwheel and can be used with any Axe or Sword.","A spinning, finishing move. This skill is available at Level 24 to Players who have at least 6 Skill Points in Keenwheel and can be used with any Axe or Sword."
+CLIENT_HELP_INC_000211,Special Hit,Резкий удар
+CLIENT_HELP_INC_000212,A single powerful strike. This skill is available at Level 30 to Players who have at least 8 Skill Points in Blindside and can be used with any Axe or Sword.,A single powerful strike. This skill is available at Level 30 to Players who have at least 8 Skill Points in Blindside and can be used with any Axe or Sword.
+CLIENT_HELP_INC_000213,PH5,Кровавая кража
+CLIENT_HELP_INC_000214,Drains life from an enemy. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slash and can be used with any Axe or Sword.,Drains life from an enemy. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slash and can be used with any Axe or Sword.
+CLIENT_HELP_INC_000215,Reflex Hit,Отражение
+CLIENT_HELP_INC_000216,This Skill absorbs one attack and releases it back at an enemy. This skill is available at Level 25 to Players who have at least 8 Skill Points in Bloody Strike and can be used with any Axe or Sword.,This Skill absorbs one attack and releases it back at an enemy. This skill is available at Level 25 to Players who have at least 8 Skill Points in Bloody Strike and can be used with any Axe or Sword.
+CLIENT_HELP_INC_000217,Guillotine,Гильотина
+CLIENT_HELP_INC_000218,This attack begins from a short distance and then launches the player at the enemy in a fiery burst. This skill is available at Level 30 to Players who have at least 10 Skill Points in Reflex Hit and can be used with any Axe or Sword.,This attack begins from a short distance and then launches the player at the enemy in a fiery burst. This skill is available at Level 30 to Players who have at least 10 Skill Points in Reflex Hit and can be used with any Axe or Sword.
+CLIENT_HELP_INC_000219,Protection,Защита
+CLIENT_HELP_INC_000220,Increases the defense of a Shield against melee attacks. This skill is available at Level 15 and requires a shield.,Increases the defense of a Shield against melee attacks. This skill is available at Level 15 and requires a shield.
+CLIENT_HELP_INC_000221,Pan Barrier,Защита от стрел
+CLIENT_HELP_INC_000222,Increases the defense of a Shield against ranged attacks. This skill is available at Level 18 to Players who have at least 3 Skill Points in Protection and requires a shield.,Increases the defense of a Shield against ranged attacks. This skill is available at Level 18 to Players who have at least 3 Skill Points in Protection and requires a shield.
+CLIENT_HELP_INC_000223,Sneaker,Сеть
+CLIENT_HELP_INC_000224,Holds an enemy in place with a net. This skill is available at Level 20 to Players who have at least 10 Skill Points in Pan Barrier and can be used with any Axe or Sword.,Holds an enemy in place with a net. This skill is available at Level 20 to Players who have at least 10 Skill Points in Pan Barrier and can be used with any Axe or Sword.
+CLIENT_HELP_INC_000225,Empower Weapon,Оружие стихий
+CLIENT_HELP_INC_000226,This Skill strengthens the elemental damage of a weapon. It is not applied if there is no elemental attack power on the weapon. This skill is available at Level 20 to Players who have at least 5 Skill Points in Protection and can be used with any Axe or Sword.,This Skill strengthens the elemental damage of a weapon. It is not applied if there is no elemental attack power on the weapon. This skill is available at Level 20 to Players who have at least 5 Skill Points in Protection and can be used with any Axe or Sword.
+CLIENT_HELP_INC_000227,Smite Axe,Карающая секира
+CLIENT_HELP_INC_000228,Increases the attack level of an Axe and gives additional defense. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Axe.,Increases the attack level of an Axe and gives additional defense. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Axe.
+CLIENT_HELP_INC_000229,Axe Mastery,Мастер секиры
+CLIENT_HELP_INC_000230,Increases the attack level of an Axe. This skill is available at Level 30 to Players who have at least 9 Skill Points in Smite Axe and can be used with any Axe.,Increases the attack level of an Axe. This skill is available at Level 30 to Players who have at least 9 Skill Points in Smite Axe and can be used with any Axe.
+CLIENT_HELP_INC_000231,Blazing Sword,Пылающий меч
+CLIENT_HELP_INC_000232,Increases the attack level and accuracy of a Sword. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Sword.,Increases the attack level and accuracy of a Sword. This skill is available at Level 25 to Players who have at least 4 Skill Points in Empower Weapon and can be used with any Sword.
+CLIENT_HELP_INC_000233,Sword Mastery,Мастер меча
+CLIENT_HELP_INC_000234,Increases the attack level of a Sword. This skill is available at Level 30 to Players who have at least 9 Skill Points in Blazing Sword and can be used with any Sword.,Increases the attack level of a Sword. This skill is available at Level 30 to Players who have at least 9 Skill Points in Blazing Sword and can be used with any Sword.
+CLIENT_HELP_INC_000235,Acrobat,Акробат
+CLIENT_HELP_INC_000236,"Acrobats mainly wield long distance weapons such as Bows or Yo-Yos. Using tactics based on speed and accuracy, they are usually able to break anyone willing enough to fight them. Sly and witty, the acrobat is a cunning trickster.","Acrobats mainly wield long distance weapons such as Bows or Yo-Yos. Using tactics based on speed and accuracy, they are usually able to break anyone willing enough to fight them. Sly and witty, the acrobat is a cunning trickster."
+CLIENT_HELP_INC_000237,"An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger.","An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger."
+CLIENT_HELP_INC_000238,Pulling,Йо-Йода
+CLIENT_HELP_INC_000239,Pulls a target towards the player. This skill is available at Level 15 to Players and can be used with any Yo-Yo.,Pulls a target towards the player. This skill is available at Level 15 to Players and can be used with any Yo-Yo.
+CLIENT_HELP_INC_000240,Fast Walker,Мастер стрельбы
+CLIENT_HELP_INC_000241,Increases the walking speed of the user for a limited time. This skill is available at Level 18 to Players who have at least 3 Skill Points in Pulling and can be used with any Bow or Yo-Yo.,Increases the walking speed of the user for a limited time. This skill is available at Level 18 to Players who have at least 3 Skill Points in Pulling and can be used with any Bow or Yo-Yo.
+CLIENT_HELP_INC_000242,Dark Illusion,Иллюзия пустоты
+CLIENT_HELP_INC_000243,Turn a character invisible for a short time. This skill is available at Level 30 to Players who have at least 6 Skill Points in Fast Walker and can be used with any Bow or Yo-Yo.,Turn a character invisible for a short time. This skill is available at Level 30 to Players who have at least 6 Skill Points in Fast Walker and can be used with any Bow or Yo-Yo.
+CLIENT_HELP_INC_000244,Perfect Block,Сеятель стрел
+CLIENT_HELP_INC_000245,Block rate will be increased. This skill is available at Level 45 to Players who have at least 8 Skill Points in Dark Illusion and can be used with any Bow or Yo-Yo.,Block rate will be increased. This skill is available at Level 45 to Players who have at least 8 Skill Points in Dark Illusion and can be used with any Bow or Yo-Yo.
+CLIENT_HELP_INC_000246,Slow Step,Бегун
+CLIENT_HELP_INC_000247,You have a chance to decrease the moving speed of enemy. This skill is available at Level 15 and can be used with any Yo-Yo.,You have a chance to decrease the moving speed of enemy. This skill is available at Level 15 and can be used with any Yo-Yo.
+CLIENT_HELP_INC_000248,Yo-Yo Mastery,Прицельный выстрел
+CLIENT_HELP_INC_000249,Increases Yo-Yo damage. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slow Step and can be used with any Yo-Yo.,Increases Yo-Yo damage. This skill is available at Level 20 to Players who have at least 3 Skill Points in Slow Step and can be used with any Yo-Yo.
+CLIENT_HELP_INC_000250,Snatch,Замедление
+CLIENT_HELP_INC_000251,Steals Penya from the target; can only be used while in Dark Illusion from behind target. This skill is available at Level 35 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo.,Steals Penya from the target; can only be used while in Dark Illusion from behind target. This skill is available at Level 35 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo.
+CLIENT_HELP_INC_000252,Deadly Swing,Бесшумный выстрел
+CLIENT_HELP_INC_000253,A critical attack that has a chance to cause the enemy to bleed. This skill is available at Level 50 to Players who have at least 10 Skill Points in Snatch and can be used with any Yo-Yo.,A critical attack that has a chance to cause the enemy to bleed. This skill is available at Level 50 to Players who have at least 10 Skill Points in Snatch and can be used with any Yo-Yo.
+CLIENT_HELP_INC_000254,Cross Line,Мастер блокирования
+CLIENT_HELP_INC_000255,Gather energy into your Yo-Yo in order to strike an enemy with a powerful attack that has the chance to stun your target. This skill is available at Level 30 to Players who have at least 8 Skill Points in Yo-Yo Mastery and can be used with any Yo-Yo. .,Повышает вероятность блокирования ударов противника.
+CLIENT_HELP_INC_000256,Counterattack,Ливень стрел
+CLIENT_HELP_INC_000257,Evade the enemy's next attack and strike back with an attack of your own. This skill is available at Level 40 to Players who have at least 10 Skill Points in Cross Line and can be used with any Yo-Yo.,Evade the enemy's next attack and strike back with an attack of your own. This skill is available at Level 40 to Players who have at least 10 Skill Points in Cross Line and can be used with any Yo-Yo.
+CLIENT_HELP_INC_000258,Junk Arrow,Перекрестные нити
+CLIENT_HELP_INC_000259,This skill shoots four arrows very quickly but with reduced accuracy. This skill is available at Level 15 and can be used with any Bow.,This skill shoots four arrows very quickly but with reduced accuracy. This skill is available at Level 15 and can be used with any Bow.
+CLIENT_HELP_INC_000260,Bow Mastery,Очередь
+CLIENT_HELP_INC_000261,Increases Bow damage. This skill is available at Level 20 to Players who have at least 5 Skill Points in Junk Arrow and can be used with any Bow.,Increases Bow damage. This skill is available at Level 20 to Players who have at least 5 Skill Points in Junk Arrow and can be used with any Bow.
+CLIENT_HELP_INC_000262,Silent Shot,Кража
+CLIENT_HELP_INC_000263,Delivers a powerful sneak attack to the target if you are in Dark Illusion. This skill is available at Level 30 to Players who have at least 4 Skill Points in Bow Mastery and can be used with any Bow.,Delivers a powerful sneak attack to the target if you are in Dark Illusion. This skill is available at Level 30 to Players who have at least 4 Skill Points in Bow Mastery and can be used with any Bow.
+CLIENT_HELP_INC_000264,Auto Shot,Контратака
+CLIENT_HELP_INC_000265,Attacks four times in succession without missing. Each hit is slightly less damaging than a hit from Junk Arrow. This skill is available at Level 45 to Players who have at least 9 Skill Points in Silent Shot and can be used with any Bow.,Attacks four times in succession without missing. Each hit is slightly less damaging than a hit from Junk Arrow. This skill is available at Level 45 to Players who have at least 9 Skill Points in Silent Shot and can be used with any Bow.
+CLIENT_HELP_INC_000266,Aimed Shot,Смертоносная нить
+CLIENT_HELP_INC_000267,A carefully aimed shot that has a chance to deal double damage to the target. This skill is available at Level 35 to Players who have at least 5 Skill Points in Bow Mastery and can be used with any Bow.,A carefully aimed shot that has a chance to deal double damage to the target. This skill is available at Level 35 to Players who have at least 5 Skill Points in Bow Mastery and can be used with any Bow.
+CLIENT_HELP_INC_000268,Arrow Rain,Лассо
+CLIENT_HELP_INC_000269,A rain of arrows that will fall on all enemies in a wide circle around your target. This skill is available at Level 50 to Players who have at least 5 Skill Points in Aimed Shot and can be used with any Bow.,A rain of arrows that will fall on all enemies in a wide circle around your target. This skill is available at Level 50 to Players who have at least 5 Skill Points in Aimed Shot and can be used with any Bow.
+CLIENT_HELP_INC_000270,Assist,Униформист
+CLIENT_HELP_INC_000271,"The Assist is the priest or medic of Flyff. The two primary builds for this job are a Full Support healer or a Buff Warrior. Both have the same skills to chose from. Where the Healer will need a partner to level, the Warrior can self-buff and fight alone.","Класс профессиональных целителей и помощников. Вы можете выбрать путь лекаря и помогать другим персонажам в совместной прокачке, либо можете стать войном-одиночкой с возможностью применять баффы на самом себе."
+CLIENT_HELP_INC_000272,The Assist may chose from Ringmaster or Billposter when the times comes to progress into a second Job.,Униформист в дальнейшем сможет выбрать второе амплуа Иллюзиониста или Атлета.
+CLIENT_HELP_INC_000273,Heal,Лечение
+CLIENT_HELP_INC_000274,"Primary healing spell, which recovers a portion of the target's HP. This skill is available at Level 15 and can be used with any Stick.",Основное исцеляющее заклинание. Восстанавливает ОЗ цели. Доступно с 15 уровня и может быть использовано с любым жезлом.
+CLIENT_HELP_INC_000275,Patience,Терпение
+CLIENT_HELP_INC_000276,Increases the target’s maximum HP. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,Повышает максимальный запас ОЗ цели. Доступно с 18 уровня.
+CLIENT_HELP_INC_000277,Resurrection,Воскрешение
+CLIENT_HELP_INC_000278,"Revives a dead Player, but only grants a portion of their HP. This skill is available at Level 20 to Players who have at least 4 Skill Points in Patience and can be used with any Stick.",Воскрешает погибшего игрока. Доступно с 20 уровня.
+CLIENT_HELP_INC_000279,Circle Healing,Исцеляющий круг
+CLIENT_HELP_INC_000280,Heals Party Members within a specified range of yourself. This skill is available at Level 25 to Players who have at least 4 Skill Points in Resurrection and can be used with any Stick.,"Излечивает игроков группы, находящихся в пределах определенного радиуса. Доступно с 25 уровня."
+CLIENT_HELP_INC_000281,Prevention,Предосторожность
+CLIENT_HELP_INC_000282,This spell will automatically recover all of your HP if you drop below 10% HP. This skill is available at Level 30 to Players who have at least 4 Skill Points in Circle Healing and can be used with any Stick.,This spell will automatically recover all of your HP if you drop below 10% HP. This skill is available at Level 30 to Players who have at least 4 Skill Points in Circle Healing and can be used with any Stick.
+CLIENT_HELP_INC_000283,Quick Step,Скороход
+CLIENT_HELP_INC_000284,"Increases the target’s walking speed. The higher the level, the faster the target walks. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.","Повышает скорость передвижения цели. Чем выше уровень умения, тем быстрее движется цель. Доступно с 20 уровня."
+CLIENT_HELP_INC_000285,Haste,Спешка
+CLIENT_HELP_INC_000286,Increases the attack speed of a target Player. This skill is available at Level 25 to Players who have at least 3 Skill Points in Quick Step and can be used with any Stick.,Значительно повышает скорость атаки цели.
+CLIENT_HELP_INC_000287,Cat's Reflex,Кошачьи рефлексы
+CLIENT_HELP_INC_000288,Increases the Evasion rate of a target Player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Haste and can be used with any Stick.,Increases the Evasion rate of a target Player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Haste and can be used with any Stick.
+CLIENT_HELP_INC_000289,Cannon Ball,Пушечное ядро
+CLIENT_HELP_INC_000290,Increases the DEX of a target Player. This skill is available at Level 35 to Players who have at least 4 Skill Points in Cat's Reflex and can be used with any Stick.,Increases the DEX of a target Player. This skill is available at Level 35 to Players who have at least 4 Skill Points in Cat's Reflex and can be used with any Stick.
+CLIENT_HELP_INC_000291,Mental Sign,Умник
+CLIENT_HELP_INC_000292,Increases the INT of a target Player. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,Increases the INT of a target Player. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.
+CLIENT_HELP_INC_000293,Heap Up,Силач
+CLIENT_HELP_INC_000294,Increases the STA of a target Player. This skill is available at Level 20 to Players who have at least 4 Skill Points in Mental Sign and can be used with any Stick.,Increases the STA of a target Player. This skill is available at Level 20 to Players who have at least 4 Skill Points in Mental Sign and can be used with any Stick.
+CLIENT_HELP_INC_000295,Beef Up,Громила
+CLIENT_HELP_INC_000296,Increases the STR of a target Player. This skill is available at Level 25 to Players who have at least 4 Skill Points in Heap Up and can be used with any Stick.,Increases the STR of a target Player. This skill is available at Level 25 to Players who have at least 4 Skill Points in Heap Up and can be used with any Stick.
+CLIENT_HELP_INC_000297,Accuracy,Меткость
+CLIENT_HELP_INC_000298,Increases the accuracy of a target player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Beef Up and can be used with any Stick.,Increases the accuracy of a target player. This skill is available at Level 30 to Players who have at least 4 Skill Points in Beef Up and can be used with any Stick.
+CLIENT_HELP_INC_000299,Temping Hole,Прямой удар
+CLIENT_HELP_INC_000300,"A powerful, straight punch that strikes the enemy with a concentrated attack. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Knuckle.","A powerful, straight punch that strikes the enemy with a concentrated attack. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Knuckle."
+CLIENT_HELP_INC_000301,Stone Hand,Каменный кулак
+CLIENT_HELP_INC_000302,Physical attacks gain the chance to stun the target. This skill is available at Level 25 to Players who have at least 4 Skill Points in Temping Hole and can be used with any Knuckle.,Physical attacks gain the chance to stun the target. This skill is available at Level 25 to Players who have at least 4 Skill Points in Temping Hole and can be used with any Knuckle.
+CLIENT_HELP_INC_000303,Burst Crack,Пролом
+CLIENT_HELP_INC_000304,Smashes the ground and inflicts damage to enemies within the surrounding area. This skill is available at Level 28 to Players who have at least 4 Skill Points in Stone Hand and can be used with any Knuckle.,Smashes the ground and inflicts damage to enemies within the surrounding area. This skill is available at Level 28 to Players who have at least 4 Skill Points in Stone Hand and can be used with any Knuckle.
+CLIENT_HELP_INC_000305,Power Fist,Хеллбой
+CLIENT_HELP_INC_000306,A concentrated powerful strike. This skill is available at Level 35 to Players who have at least 4 Skill Points in Burst Crack and can be used with any Knuckle.,A concentrated powerful strike. This skill is available at Level 35 to Players who have at least 4 Skill Points in Burst Crack and can be used with any Knuckle.
+CLIENT_HELP_INC_000307,Magician,Фокусник
+CLIENT_HELP_INC_000308,Magicians control powerful elemental magic with the use of wands or staves. Magicians benefit from high intelligence.,Magicians control powerful elemental magic with the use of wands or staves. Magicians benefit from high intelligence.
+CLIENT_HELP_INC_000309,Magicians will be able to advance in their Jobs to become either an Elementor or a Psykeeper.,Magicians will be able to advance in their Jobs to become either an Elementor or a Psykeeper.
+CLIENT_HELP_INC_000310,Mental Strike,Пси-удар
+CLIENT_HELP_INC_000311,Deals non elemental magic damage to the target. Damage dealt varies by the difference of INT between the caster and the target. This skill is available at Level 15 and can be used with any Wand or Staff.,Deals non elemental magic damage to the target. Damage dealt varies by the difference of INT between the caster and the target. This skill is available at Level 15 and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000312,Flame Ball,Блик
+CLIENT_HELP_INC_000313,Strikes at the enemy with a ball of flame. This skill is available at Level 18 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,Strikes at the enemy with a ball of flame. This skill is available at Level 18 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000314,Flame Geyser,Огненный шар
+CLIENT_HELP_INC_000315,Inflicts intermediate fire damage to the target with a lasting Damage Over Time effect. This skill is available at Level 25 to Players who have at least 5 Skill Points in Flame Ball and can be used with any Wand or Staff.,Inflicts intermediate fire damage to the target with a lasting Damage Over Time effect. This skill is available at Level 25 to Players who have at least 5 Skill Points in Flame Ball and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000316,Fire Strike,Огненный вулкан
+CLIENT_HELP_INC_000317,Damages an enemy with a fire ball. The enemy loses health for a limited time afterwards. This skill is available at Level 30 to Players who have at least 7 Skill Points in Flame Geyser and can be used with any Wand or Staff.,Damages an enemy with a fire ball. The enemy loses health for a limited time afterwards. This skill is available at Level 30 to Players who have at least 7 Skill Points in Flame Geyser and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000318,Swordwind,Огненные объятия
+CLIENT_HELP_INC_000319,A violent wind that attacks a target from a short distance. This skill is available at Level 20 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,A violent wind that attacks a target from a short distance. This skill is available at Level 20 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000320,Strongwind,Воздушный клинок
+CLIENT_HELP_INC_000321,A tornado of wind that deals damage to the target as well as pushing them back. This skill is available at Level 25 to Players who have at least 5 Skill Points in Swordwind and can be used with any Wand or Staff.,A tornado of wind that deals damage to the target as well as pushing them back. This skill is available at Level 25 to Players who have at least 5 Skill Points in Swordwind and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000322,Wind Cutter,Порыв ветра
+CLIENT_HELP_INC_000323,A blade of wind that deals damage to the target. This skill is available at Level 30 to Players who have at least 7 Skill Points in Strongwind and can be used with any Wand or Staff.,A blade of wind that deals damage to the target. This skill is available at Level 30 to Players who have at least 7 Skill Points in Strongwind and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000324,Ice Missile,Воздушная стрела
+CLIENT_HELP_INC_000325,Inflicts basic water damage with a chance of slowing down the target’s movement. This skill is available at Level 20 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,Inflicts basic water damage with a chance of slowing down the target’s movement. This skill is available at Level 20 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000326,Waterball,Ледяная стрела
+CLIENT_HELP_INC_000327,Shoots damaging balls of water at the target. The number of balls fired increases as the skill level increases. This skill is available at Level 25 to Players who have at least 5 Skill Points in Ice Missile and can be used with any Wand or Staff.,Shoots damaging balls of water at the target. The number of balls fired increases as the skill level increases. This skill is available at Level 25 to Players who have at least 5 Skill Points in Ice Missile and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000328,Water Well,Водяной шар
+CLIENT_HELP_INC_000329,"A spell that throws columns of water at the target, dealing a large amount of damage. This skill is available at Level 30 to Players who have at least 7 Skill Points in Waterball and can be used with any Wand or Staff.","A spell that throws columns of water at the target, dealing a large amount of damage. This skill is available at Level 30 to Players who have at least 7 Skill Points in Waterball and can be used with any Wand or Staff."
+CLIENT_HELP_INC_000330,Lightning Ball,Гейзер
+CLIENT_HELP_INC_000331,A spell that gathers static electricity and forms it into a small ball that causes basic lightning damage. This skill is available at Level 18 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.,A spell that gathers static electricity and forms it into a small ball that causes basic lightning damage. This skill is available at Level 18 to Players who have at least 5 Skill Points in Mental Strike and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000332,Lightning Ram,Шаровая молния
+CLIENT_HELP_INC_000333,Deals a medium amount of lightning damage to the target. This skill is available at Level 25 to Players who have at least 5 Skill Points in Lightning Ball and can be used with any Wand or Staff.,Deals a medium amount of lightning damage to the target. This skill is available at Level 25 to Players who have at least 5 Skill Points in Lightning Ball and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000334,Lightning Shock,Клубок молний
+CLIENT_HELP_INC_000335,Damages the enemy with a small but fast lightning ball. This skill is available at Level 40 to Players who have at least 7 Skill Points in Lightning Ram and can be used with any Wand or Staff.,Damages the enemy with a small but fast lightning ball. This skill is available at Level 40 to Players who have at least 7 Skill Points in Lightning Ram and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000336,Stone Spike,Электрошок
+CLIENT_HELP_INC_000337,Inflicts earth elemental damage to the opponent as well as creating a chance to stun the target. This skill is available at Level 18 to Players who have at least 2 Skill Points in Mental Strike and can be used with any Wand or Staff.,Inflicts earth elemental damage to the opponent as well as creating a chance to stun the target. This skill is available at Level 18 to Players who have at least 2 Skill Points in Mental Strike and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000338,Rock Crash,Каменный шип
+CLIENT_HELP_INC_000339,Damages the enemy with a giant stone. This skill is available at Level 25 to Players who have at least 5 Skill Points in Stone Spike and can be used with any Wand or Staff.,Damages the enemy with a giant stone. This skill is available at Level 25 to Players who have at least 5 Skill Points in Stone Spike and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000340,Rooting,Камнепад
+CLIENT_HELP_INC_000341,Harnesses the power of the ground to prevent a user from moving. This skill is available at Level 30 to Players who have at least 7 Skill Points in Rock Crash and can be used with any Wand or Staff.,Harnesses the power of the ground to prevent a user from moving. This skill is available at Level 30 to Players who have at least 7 Skill Points in Rock Crash and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000342,Blinkpool,Корни
+CLIENT_HELP_INC_000343,Teleports the user in a specified location within the limited range. The range increases as the skill level goes up. This skill is available at Level 30 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.,Teleports the user in a specified location within the limited range. The range increases as the skill level goes up. This skill is available at Level 30 to Players who have at least 3 Skill Points in Mental Strike and can be used with any Wand or Staff.
+CLIENT_HELP_INC_000344,Power Stomp,Ошеломляющий удар
+CLIENT_HELP_INC_000345,Hits the ground with the handle of the axe. The shock wave deals damage with a chance to stun to all nearby enemies. The damage and stun chance will increase with every Skill Level. This skill is available at Level 65 to Players who have at least 4 Skill Points in Pain Dealer and can be used with any two handed Axe.,Hits the ground with the handle of the axe. The shock wave deals damage with a chance to stun to all nearby enemies. The damage and stun chance will increase with every Skill Level. This skill is available at Level 65 to Players who have at least 4 Skill Points in Pain Dealer and can be used with any two handed Axe.
+CLIENT_HELP_INC_000346,Knight,Гладиатор
+CLIENT_HELP_INC_000347,Mercenaries who chose to follow the teachings of the Hero Billaon become Knights. Knights are capable of incredible defense and possess the power to withstand the greatest assaults.,Mercenaries who chose to follow the teachings of the Hero Billaon become Knights. Knights are capable of incredible defense and possess the power to withstand the greatest assaults.
+CLIENT_HELP_INC_000348,Charge,Натиск
+CLIENT_HELP_INC_000349,A melee attack that deals maximum damage to a monster regardless of its level. This skill is available at Level 60 to Players who have at least 3 Skill Points in Sword Mastery and can be used with any two handed Sword.,A melee attack that deals maximum damage to a monster regardless of its level. This skill is available at Level 60 to Players who have at least 3 Skill Points in Sword Mastery and can be used with any two handed Sword.
+CLIENT_HELP_INC_000350,Earth Divider,Землетрясение
+CLIENT_HELP_INC_000351,A skill which damages nearby enemies. Higher Skill Level will result in more damage. This skill is available at Level 65 to Players who have at least 4 Skill Points in Charge and can be used with any two handed Sword.,A skill which damages nearby enemies. Higher Skill Level will result in more damage. This skill is available at Level 65 to Players who have at least 4 Skill Points in Charge and can be used with any two handed Sword.
+CLIENT_HELP_INC_000352,Pain Dealer,Несущий боль
+CLIENT_HELP_INC_000353,A melee skill which damages the target as  lowering its defense. Higher Skill Level will result in more damage and a bigger decrease in defense. This skill is available at Level 60 to Players who have at least 3 Skill Points in Axe Mastery and can be used with any two handed Axe.,A melee skill which damages the target as  lowering its defense. Higher Skill Level will result in more damage and a bigger decrease in defense. This skill is available at Level 60 to Players who have at least 3 Skill Points in Axe Mastery and can be used with any two handed Axe.
+CLIENT_HELP_INC_000354,Guard,Защитник
+CLIENT_HELP_INC_000355,Increases the characters defense but reduces the characters attack power. This skill is available at Level 62 and can be used with either a two handed Axe or Sword.,Increases the characters defense but reduces the characters attack power. This skill is available at Level 62 and can be used with either a two handed Axe or Sword.
+CLIENT_HELP_INC_000356,Rage,Ярость
+CLIENT_HELP_INC_000357,"Increases the characters attack power and HP, but it also reduces the characters defense and accuracy. This skill is available at Level 65 to Players who have at least 5 Skill Points in Guard and can be used with either a two handed Axe or Sword.","Increases the characters attack power and HP, but it also reduces the characters defense and accuracy. This skill is available at Level 65 to Players who have at least 5 Skill Points in Guard and can be used with either a two handed Axe or Sword."
+CLIENT_HELP_INC_000358,Pain Reflection,Отражение боли
+CLIENT_HELP_INC_000359,Reflects a portion of damage you receive back at the target. This skill is available at Level 70 to Players who have at least 4 Skill Points in Rage and can be used with either a two handed Axe or Sword.,Reflects a portion of damage you receive back at the target. This skill is available at Level 70 to Players who have at least 4 Skill Points in Rage and can be used with either a two handed Axe or Sword.
+CLIENT_HELP_INC_000360,Power Swing,Отбрасывание
+CLIENT_HELP_INC_000361,"A huge horizontal swing that deals damage, and knocks enemies back. This skill is available at Level 75 to Players who have at least 7 Skill Points in Pain Reflection and can be used with either a two handed Axe or Sword.","A huge horizontal swing that deals damage, and knocks enemies back. This skill is available at Level 75 to Players who have at least 7 Skill Points in Pain Reflection and can be used with either a two handed Axe or Sword."
+CLIENT_HELP_INC_000362,Blade,Фехтовальщик
+CLIENT_HELP_INC_000363,Blades are a second class for mercenaries and are the best damage dealers in the game. As a blade you will be able to wield two weapons at the same time and thus drastically increase your damage output.,Blades are a second class for mercenaries and are the best damage dealers in the game. As a blade you will be able to wield two weapons at the same time and thus drastically increase your damage output.
+CLIENT_HELP_INC_000364,Silent Strike,Неслышный удар
+CLIENT_HELP_INC_000365,A melee skill which deals a vicious cut in a sliding motion to the enemy. This skill is available at Level 60 to Players who have at least 3 Skill Points in Sword Mastery and can be used with a one handed Sword.,Быстрый скользящий удар. Для использования требуются два клинка.
+CLIENT_HELP_INC_000366,Blade Dance,Танец с лезвиями
+CLIENT_HELP_INC_000367,Uses both swords to attack all of the enemies around the wielder. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with a one handed Sword.,Наносит урон сразу нескольким врагам.  Для использования требуются два меча.
+CLIENT_HELP_INC_000368,Spring Attack,Пружина
+CLIENT_HELP_INC_000369,Strike at multiple enemies times. This skill is available at Level 60 to Players who have at least 3 Skill Points in Axe Mastery and can be used with two one handed axes.,Четыре быстрых удара по врагу.  Для использования требуются два топора.
+CLIENT_HELP_INC_000370,Hawk Attack,Удар ястреба
+CLIENT_HELP_INC_000371,"Jumps, striking the enemy with both weapons. Deals massive damage and possibly blinds the enemy for a short period of time. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with two one handed axes.","Jumps, striking the enemy with both weapons. Deals massive damage and possibly blinds the enemy for a short period of time. This skill is available at Level 65 to Players who have at least 5 Skill Points in Silent Strike and can be used with two one handed axes."
+CLIENT_HELP_INC_000372,Armor Penetrate,Пробивание брони
+CLIENT_HELP_INC_000373,A melee skill which ignores 50% of target's defense rating. This skill is available at Level 62 and can be used with a one handed Sword or Axe.,"Атака, обходящая защиту противника."
+CLIENT_HELP_INC_000374,Berserk,Берсерк
+CLIENT_HELP_INC_000375,"Temporarily raises attack power and attack speed, but you can not use any skills for the duration of the spell. This skill is available at Level 65 to Players who have at least 4 Skill Points in Armor Penetrate and can be used with a one handed Sword or Axe.",Повышает скорость и силу атак. Все прочие умения на это время блокируются.
+CLIENT_HELP_INC_000376,Sonic Blade,Парящий клинок
+CLIENT_HELP_INC_000377,"Gathers a powerful aura and transfers it to your weapon, and then deals damage to the closest enemy. This skill is available at Level 70 to Players who have at least 7 Skill Points in Berserk and can be used with a one handed Sword or Axe.",Сильный режущий удар.  Для использования требуются два клинка.
+CLIENT_HELP_INC_000378,Cross Strike,Крест-накрест
+CLIENT_HELP_INC_000379,A strong attack is dealt to the enemy with both weapons at once. This skill is available at Level 75 to Players who have at least 7 Skill Points in Sonic Blade and can be used with a one handed Sword or Axe.,Сильный удар двумя клинками одновременно.
+CLIENT_HELP_INC_000380,Jester,Шут
+CLIENT_HELP_INC_000381,"The first job class for Acrobats, they specialize in strong attacks made with a Yo-yo.","Амплуа, доступное акробатам. Шут специализируется на использовании йо-йо."
+CLIENT_HELP_INC_000382,placholder 31,placholder 31
+CLIENT_HELP_INC_000383,Critical swing,Критические удары
+CLIENT_HELP_INC_000384,Increase the probability of a critical strike.,Повышает вероятность нанести критический урон.
+CLIENT_HELP_INC_000385,Enchant Poison,Ядовитая йо-йо
+CLIENT_HELP_INC_000386,Plastering poison on the weapon to increase the normal damage and available to infect the enemy with poision,На оружие наносится яд. Это повышает причиняемый им урон и позволяет отравить противника.
+CLIENT_HELP_INC_000387,Enchant Bleed,Кровавая йо-йо
+CLIENT_HELP_INC_000388,Increase the normal damage with the bleeding attribute and available to make the enemy bleeding.,Повышает причиняемый йо-йо урон и вызывает у противника кровотечение.
+CLIENT_HELP_INC_000389,Enchant Absorb,Кровожадная йо-йо
+CLIENT_HELP_INC_000390,You can drain the HP of enemy with striking. The drain will be occurred with certain probability.,Позволяет при ударе с некоторой вероятностью украсть у противника часть ОЗ.
+CLIENT_HELP_INC_000391,Back Step,Удар в спину
+CLIENT_HELP_INC_000392,"When attacking from behind, deals a critical strike to the enemy. Also has a chance to stun the enemy.",Наносит критический урон при атаке со спины. С некоторой вероятностью оглушает противника.
+CLIENT_HELP_INC_000393,Hit of Penya,Удар пенни
+CLIENT_HELP_INC_000394,Uses a Yo-yo and a small amount of Penya to deal massive damage.,"Усиливает урон, наносимый йо-йо. Расходует пенни."
+CLIENT_HELP_INC_000395,Escape,Побег
+CLIENT_HELP_INC_000396,Enables character to escape from any movement impairing effects.,Позволяет вырваться из корней или ловушки.
+CLIENT_HELP_INC_000397,Vital Stab,Удар в слабое место
+CLIENT_HELP_INC_000398,"While using Dark Illusion, allows for a sudden attack from the shadows.","Внезапная атака, доступная только при использовании Иллюзии пустоты."
+CLIENT_HELP_INC_000399,Ranger,Стрелок
+CLIENT_HELP_INC_000400,"The second job class for Acrobats, they specialize in long distance attacks, mainly with a bow.","Амплуа, доступное акробатам. Стрелок специализируется на стрельбе из лука."
+CLIENT_HELP_INC_000401,placholder 32,placholder 32
+CLIENT_HELP_INC_000402,Critical Shot,Critical Shot
+CLIENT_HELP_INC_000403,This skill increases Critical Hit for a limited time.,This skill increases Critical Hit for a limited time.
+CLIENT_HELP_INC_000404,Ice Arrow,Обледенелая стрела
+CLIENT_HELP_INC_000405,"This skill causes an explosion of frost, slowing all enemies in a certain area for a certain period of time.",Замедляет всех противников в пределах определенной зоны.
+CLIENT_HELP_INC_000406,Flame Arrow,Пламенеющая стрела
+CLIENT_HELP_INC_000407,This skill gives the fire element to arrows and damages surrounding enemies.,This skill gives the fire element to arrows and damages surrounding enemies.
+CLIENT_HELP_INC_000408,Piercing Arrow,Пронзающая стрела
+CLIENT_HELP_INC_000409,"This skill pierces monsters who are a straight line, dealing damage to all of them.","Пробивает насквозь врагов, стоящих на линии полета стрелы, нанося урон каждому из них."
+CLIENT_HELP_INC_000410,Poison Arrow,Отравленная стрела
+CLIENT_HELP_INC_000411,The strong damage and continuous poisonous damage will be occurred simutaneously.,"Наносит сильный урон, а затем постепенный урон ядом."
+CLIENT_HELP_INC_000412,Silent Arrow,Глушащая стрела
+CLIENT_HELP_INC_000413,"Deals strong damage and silences the target. While silenced, the target cannot cast spells of any kind.",Наносит сильный урон и накладывает на цель немоту. Враг теряет способность читать заклинания.
+CLIENT_HELP_INC_000414,Nature,Помощь природы
+CLIENT_HELP_INC_000415,This skill heightenses the users senses with nature to increase Magic Defense & Bow Range.,This skill heightenses the users senses with nature to increase Magic Defense & Bow Range.
+CLIENT_HELP_INC_000416,Triple shot,Тройной выстрел
+CLIENT_HELP_INC_000417,Triple arrows will be shot to deal strong damage.,"Позволяет выпустить сразу три стрелы, наносящие значительный урон."
+CLIENT_HELP_INC_000418,Ringmaster,Иллюзионист
+CLIENT_HELP_INC_000419,"The first job class for Assists, uses a staff like an Assist. Focuses more on supporting party than damaging monsters.","Амплуа, доступное униформистам. Иллюзионисты сражаются посохами и специализируются на оказании помощи товарищам по труппе."
+CLIENT_HELP_INC_000420,Protect,Щит
+CLIENT_HELP_INC_000421,This buff increases the physical defense of the target.,Повышает физическую защиту цели.
+CLIENT_HELP_INC_000422,Holyguard,Holyguard
+CLIENT_HELP_INC_000423,This buff protects the target from incoming critical hits for a limited amount of time.,This buff protects the target from incoming critical hits for a limited amount of time.
+CLIENT_HELP_INC_000424,Holycross,Holycross
+CLIENT_HELP_INC_000425,The enemy will take double damage.,Наносимый противнику урон удваивается.
+CLIENT_HELP_INC_000426,Spiriture Fortune,Воодушевление
+CLIENT_HELP_INC_000427,Greatly increases your physical attack power for a period of time.,Greatly increases your physical attack power for a period of time.
+CLIENT_HELP_INC_000428,Gebura Tiphreth,Песнь одобрения
+CLIENT_HELP_INC_000429,"Increases accuracy, attack speed and attack power for all party members within range.","Increases accuracy, attack speed and attack power for all party members within range."
+CLIENT_HELP_INC_000430,Gvur Tialla,Очищение
+CLIENT_HELP_INC_000431,Cleanses any abnormal conditions.,Снимает с цели отрицательные эффекты.
+CLIENT_HELP_INC_000432,Heal Rain,Исцеляющий ливень
+CLIENT_HELP_INC_000433,Recovers a large amount of HP for all party members.,Восстанавливает здоровье находящихся рядом игроков труппы.
+CLIENT_HELP_INC_000434,Merkaba Hanzelrusha,Губительный дождь
+CLIENT_HELP_INC_000435,Deals damage over time to all enemies in a certain area.,Наносит урон окружающим врагам.
+CLIENT_HELP_INC_000436,Billposter,Атлет
+CLIENT_HELP_INC_000437,"The second job class for Assists, they use a knuckle hammer like Assists. They specialize in Critical attacks but have a slower attack speed.","Амплуа, доступное униформистам. Атлеты сражаются перчатками и специализируются на нанесении медленных, но очень мощных ударов."
+CLIENT_HELP_INC_000438,Belial Smashing,Дьявольский натиск
+CLIENT_HELP_INC_000439,A skill that delivers one powerful dashing punch.,Резкий сокрушительный удар.
+CLIENT_HELP_INC_000440,Blood Fist,Первая кровь
+CLIENT_HELP_INC_000441,"Strikes the enemy, making it bleed. Bleeding causes additional damage over time.",Наносит противнику кровоточащую рану. Враг постепенно теряет здоровье.
+CLIENT_HELP_INC_000442,Piercing Serpent,Бросок змеи
+CLIENT_HELP_INC_000443,"Dashes forward with a burning fist, striking the enemy.",Резкий рывок вперед и мощный удар.
+CLIENT_HELP_INC_000444,Asmodeus,Демон бездны
+CLIENT_HELP_INC_000445,Increases the attack power bonus of knuckles.,Повышает силу атаки с перчаткой.
+CLIENT_HELP_INC_000446,Baraqijal Esna,Демон битвы
+CLIENT_HELP_INC_000447,"When the skill works, it reduces the monsters defense and increases the monsters attack power.","Снижает защиту выбранного врага, но повышает силу его атак."
+CLIENT_HELP_INC_000448,Grvub Tialbold,Пожиратель
+CLIENT_HELP_INC_000449,An energy wave deals damage to all monsters around the caster.,Наносит урон окружающим врагам.
+CLIENT_HELP_INC_000450,Sonic Hand,Удар ниндзя
+CLIENT_HELP_INC_000451,Uses a knuckle hammer to strike with deadly speed.,Резкий и быстрый удар перчаткой.
+CLIENT_HELP_INC_000452,Asalraalaikum,Удар мастера
+CLIENT_HELP_INC_000453,"Strikes the enemy with concentrated power, consumes all MP.","Могучий удар, требующий абсолютной сосредоточенности. Отнимает всю ману без остатка."
+CLIENT_HELP_INC_000454,Elementor,Факир
+CLIENT_HELP_INC_000455,"The first job class for Magicians, they use staves like Magicians. They specialize in magic effecting large numbers of enemies at once.","Амплуа, доступное фокусникам. Факиры сражаются посохами и специализируются на нанесении урона группам врагов."
+CLIENT_HELP_INC_000456,Firebird,Огненная птица
+CLIENT_HELP_INC_000457,A fireball strikes the enemy.,Наносит противнику урон огнем.
+CLIENT_HELP_INC_000458,Burning Field,Горящая земля
+CLIENT_HELP_INC_000459,Sheets of flame burn the enemy for a period of time.,Наносит постепенный урон огнем.
+CLIENT_HELP_INC_000460,Fire Mastery,Fire Mastery
+CLIENT_HELP_INC_000461,Increases damage done by fire skills.,Повышает силу заклинаний стихии огня.
+CLIENT_HELP_INC_000462,Stone Spear,Каменное копье
+CLIENT_HELP_INC_000463,A spear made of rock strikes the enemy.,Наносит противнику урон землей.
+CLIENT_HELP_INC_000464,Earthquake,Дрожь земли
+CLIENT_HELP_INC_000465,Make a huge earthquake which deals a large amount of damage.,"Крупное землетрясение, наносящее серьезный урон."
+CLIENT_HELP_INC_000466,Earth Mastery,Earth Mastery
+CLIENT_HELP_INC_000467,Increases damage done by earth skills.,Повышает силу заклинаний стихии земли.
+CLIENT_HELP_INC_000468,Void,Пустота
+CLIENT_HELP_INC_000469,Strong Wind damage is dealt to a single target.,"Создает вокруг цели область, в которой невозможно дышать. Противник получает урон."
+CLIENT_HELP_INC_000470,Windfield,Смерч
+CLIENT_HELP_INC_000471,A strong wind slows all enemies around the caster for a period of time.,Наносит всем находящимся поблизости врагам урон ветром и замедляет их.
+CLIENT_HELP_INC_000472,Wind Mastery,Wind Mastery
+CLIENT_HELP_INC_000473,Increases damage done by wind skills.,Повышает силу заклинаний стихии ветра.
+CLIENT_HELP_INC_000474,Thunder Strike,Удар молнии
+CLIENT_HELP_INC_000475,Strong Lightning damage is dealt to a single target.,Наносит противнику урон молнией.
+CLIENT_HELP_INC_000476,Electric Shock,Цепная молния
+CLIENT_HELP_INC_000477,"Deals lightning damage to all enemies around the caster, also lowering their defense temporarily.",Наносит всем находящимся поблизости врагам урон молнией и снижает их защиту.
+CLIENT_HELP_INC_000478,Lightning Mastery,Lightning Mastery
+CLIENT_HELP_INC_000479,Increases damage done by lightning skills.,Повышает силу заклинаний стихии молний.
+CLIENT_HELP_INC_000480,Iceshark,Ледяные укусы
+CLIENT_HELP_INC_000481,A shark made of ice strikes the enemy.,Наносит противнику урон водой.
+CLIENT_HELP_INC_000482,Poison Cloud,Ядовитое облако
+CLIENT_HELP_INC_000483,"A poison cloud engulfs the enemy, dealing poison and wind damage.","Противника окутывает ядовитое облако, наносящее урон ядом и ветром."
+CLIENT_HELP_INC_000484,Water Mastery,Water Mastery
+CLIENT_HELP_INC_000485,Increases damage done by water skills.,Повышает силу заклинаний стихии воды.
+CLIENT_HELP_INC_000486,Meteo Shower,Метеоритный дождь
+CLIENT_HELP_INC_000487,"Meteors strike all the enemies in a certain area, dealing fire and earth damage.","На врагов обрушивается метеоритный дождь, наносящий урон огнем и землей."
+CLIENT_HELP_INC_000488,Lightning Storm,Грозовая буря
+CLIENT_HELP_INC_000489,Lightning and wind damage is dealt to all enemies in the area of effect.,"На врагов обрушивается грозовая буря, наносящая урон молниями и ветром."
+CLIENT_HELP_INC_000490,Sandstorm,Самум
+CLIENT_HELP_INC_000491,"A sand storm strikes all the enemies in a certain area, dealing wind and earth damage.","На врагов обрушивается песчаная буря, наносящая урон ветром и землей."
+CLIENT_HELP_INC_000492,Blizzard,Blizzard
+CLIENT_HELP_INC_000493,"A blizzard strikes all the enemies in a certain area, dealing earth and water damage as well as stunning them.","На врагов обрушивается буран, наносящий урон водой и землей, а также оглушающий их."
+CLIENT_HELP_INC_000494,Psykeeper,Манипулятор
+CLIENT_HELP_INC_000495,"The second job class for Magicians, they use a wand like a Magician. They specialize in magic attacks that assault the mind of the enemy.","Амплуа, доступное фокусникам. Манипуляторы сражаются волшебными палочками и специализируются на заклинаниях, направленных против разума противника."
+CLIENT_HELP_INC_000496,Demonology,Демонолог
+CLIENT_HELP_INC_000497,"Deals damage to the mind of the enemy, by creating illusions of devils.","Наносит урон разуму противника, создавая вокруг него иллюзорных демонов."
+CLIENT_HELP_INC_000498,Satanology,Сглаз
+CLIENT_HELP_INC_000499,"Confuses the enemy, and binds them in place for a certain amount of time.","На некоторое время сбивает противника с толку, не давая ему двинуться с места."
+CLIENT_HELP_INC_000500,Psychic Bomb,Пси-взрыв
+CLIENT_HELP_INC_000501,"Builds up spiritual power, and releases it to do massive damage.",Наносит противнику значительный урон пси-энергией.
+CLIENT_HELP_INC_000502,Spirit Bomb,Спиритический взрыв
+CLIENT_HELP_INC_000503,"Collapse the spirit of the enemy, deals damage based on MP.",Наносит противнику урон. Размер урона зависит от количества маны.
+CLIENT_HELP_INC_000504,Psychic Wall,Пси-заслон
+CLIENT_HELP_INC_000505,Creates a psychic barrier in front of the caster that the monster cannot pass.,"Создает перед игроком пси-заслон, который не может преодолеть монстр."
+CLIENT_HELP_INC_000506,Crucio Spell,Палач
+CLIENT_HELP_INC_000507,"Gives a certain chance to reflect skill and magic attacks, at double damage.",Наносит противнику урон в два раза больше полученного.
+CLIENT_HELP_INC_000508,Maximum Crisis,Иллюзорный мир
+CLIENT_HELP_INC_000509,"If it works then it deals huge damage to the monster. If not, the caster takes the damage instead.","Затягивает врага в иллюзорный мир, где противник получает значительный урон. Если умение не срабатывает, урон получает сам заклинатель."
+CLIENT_HELP_INC_000510,Psychic Square,Пси-генератор
+CLIENT_HELP_INC_000511,Dazzles the monster and deals a large amount of damage.,"Ослепляет всех врагов, находящихся рядом с заклинателем, и наносит им значительный урон."
+CLIENT_HELP_INC_000512,Information of the ability,Способности
+CLIENT_HELP_INC_000513,This explains the information of various abilities that can be increased by growth of character.,"Персонажи обладают различными способностями, которые будут развиваться по мере роста уровня."
+CLIENT_HELP_INC_000514,Name,Имя
+CLIENT_HELP_INC_000515,The given name of the avatar/character.,Личное имя персонажа.
+CLIENT_HELP_INC_000516,Job,Класс
+CLIENT_HELP_INC_000517,This shows the job/class that the player has chosen for his character.,"Амплуа, выбранное вами для персонажа."
+CLIENT_HELP_INC_000518,Level,Уровень
+CLIENT_HELP_INC_000519,This increases according to the accumulated experience. You get new Stat Points and Skill Points for every level reached.,This increases according to the accumulated experience. You get new Stat Points and Skill Points for every level reached.
+CLIENT_HELP_INC_000520,placholder 33,placholder 33
+CLIENT_HELP_INC_000521,placholder 34,placholder 34
+CLIENT_HELP_INC_000522,placholder 35,placholder 35
+CLIENT_HELP_INC_000523,placholder 36,placholder 36
+CLIENT_HELP_INC_000524,Strength,Сила
+CLIENT_HELP_INC_000525,Weapon attack rate increases except for wands and bows.,Weapon attack rate increases except for wands and bows.
+CLIENT_HELP_INC_000526,Stamina,Выносливость
+CLIENT_HELP_INC_000527,"Affects HP, FP, Defense and HP/FP restoration rate.","Влияет на ОЗ, ОЭ, защиту и скорость восстановления ОЗ и ОЭ."
+CLIENT_HELP_INC_000528,Dexterity,Ловкость
+CLIENT_HELP_INC_000529,"Affects accuracy, attack speed, dodge rate, block rate, critical chance and bow attack power.","Влияет на меткость, скорость атаки, уклонение, блокирование, вероятность критического удара и силу атаки при использовании лука."
+CLIENT_HELP_INC_000530,Intelligence,Интеллект
+CLIENT_HELP_INC_000531,"Affects maximum MP, MP restoration amount, magic power and magic defense.","Влияет на запас ОМ, скорость восстановления ОМ, силу магии и защиту от магии."
+CLIENT_HELP_INC_000532,HP (life),ОЗ (жизнь)
+CLIENT_HELP_INC_000533,This is the vitality of the character and the character will die if it reaches 0. You can recover it with food and pill items.,"Запас здоровья персонажа. Если он падает до нуля, персонаж погибает. Здоровье восстанавливается с помощью еды и таблеток."
+CLIENT_HELP_INC_000534,MP (spirit),ОМ (мана)
+CLIENT_HELP_INC_000535,"This is for using magic, you can revive it by drinking refresher.","Магическая энергия, необходимая для плетения заклинаний. Восстанавливается с помощью освежителей."
+CLIENT_HELP_INC_000536,FP (endurance),ОЭ (энергия)
+CLIENT_HELP_INC_000537,This is needed to use physical skills. It can be replenished by resting/sitting down but it can be immediately recovered by using vitality drink items.,"Энергия, необходимая для использования физических умений. Восстанавливается во время отдыха или с помощью энергетиков."
+CLIENT_HELP_INC_000538,Exp (experience),Exp (experience)
+CLIENT_HELP_INC_000539,This is required to raise the level of a character. It can be earned by killing monsters or through quests.,"Чтобы набрать опыт и повысить уровень персонажа, выполняйте задания и сражайтесь с монстрами."
+CLIENT_HELP_INC_000540,Skills,Умения
+CLIENT_HELP_INC_000541,Skills get stronger as you level and put more points into them.,"Чтобы развивать и усиливать умения, вкладывайте в них очки умений."
+CLIENT_HELP_INC_000542,Stat points,Очки характеристик
+CLIENT_HELP_INC_000543,"This is the point you get when you level up. You can distribute the points to your STR,STA,DEX, and INT.","Очки характеристик начисляются каждый раз, когда вы получаете новый уровень. С их помощью можно повысить силу, выносливость, ловкость и интеллект."
+CLIENT_HELP_INC_000544,Extra ability,Параметры
+CLIENT_HELP_INC_000545,"Some skills require you to become a Hero before being usable, and require special training to be leveled / trained.","Some skills require you to become a Hero before being usable, and require special training to be leveled / trained."
+CLIENT_HELP_INC_000546,Attack,Атака
+CLIENT_HELP_INC_000547,This shows the Attack Capacity of a character. The character’s equipment and supportive skills cast on the character also influences this.,Сила атаки персонажа. Ее можно повысить с помощью соответствующего снаряжения и заклинаний.
+CLIENT_HELP_INC_000548,Defense,Защита
+CLIENT_HELP_INC_000549,This shows the Defense Capacity of a character. The character’s equipment and supportive skills cast on the character also influences this.,Показатель защиты персонажа. Его можно повысить с помощью соответствующего снаряжения и заклинаний.
+CLIENT_HELP_INC_000550,Critical hit rate,Вероятность критического удара
+CLIENT_HELP_INC_000551,This means how much chance you have to make a critical hit.,"Показывает, с какой вероятностью вы можете нанести врагу критический удар."
+CLIENT_HELP_INC_000552,Attack Speed,Скорость атаки
+CLIENT_HELP_INC_000553,This shows the Attack Rate of a character when attacking.,"Показывает, с какой скоростью персонаж наносит удары врагу."
+CLIENT_HELP_INC_000554,Resisting power,Сопротивление
+CLIENT_HELP_INC_000555,This indicates how much “Reduced/Weakened magical damage” a character can receive.,"Смягчает урон, наносимый магией той или иной стихии."
+CLIENT_HELP_INC_000556,Properties,Стихии
+CLIENT_HELP_INC_000557,There are 5 elemental properties or attributes that exist in FLYFF. Each of these properties has a strength and weakness. A player can achieve the highest possible damage when he uses a weapon which is imbued with the property that is the weakness of his enemy’s property.,"Магия Мадригала распределена по пяти стихиям. Для каждой из них существует своя контр-стихия. Научитесь этим пользоваться. Если противник принадлежит к стихии огня, значит, он почти не способен сопротивляться воде, и его нужно бить оружием, зачарованным арканом воды."
+CLIENT_HELP_INC_000558,Fire,Огонь
+CLIENT_HELP_INC_000559,Fire A property that is weak against the Wind property but is weak against the Water property.,"Огонь гасит ветер, но уступает воде."
+CLIENT_HELP_INC_000560,Water,Вода
+CLIENT_HELP_INC_000561,Water. A property that is as strong against the Fire Property but is weak against the Electricity property.,"Вода заливает огонь, но уступает молниям."
+CLIENT_HELP_INC_000562,Electricity,Молнии
+CLIENT_HELP_INC_000563,A property that is strong against the Water Property but weak against the Earth Property.,"Молнии пронизывают воду, но уступают земле."
+CLIENT_HELP_INC_000564,Earth,Земля
+CLIENT_HELP_INC_000565,earth A property that is strong against the Electricity Property but weak against the Wind Property.,"Земля гасит молнии, но уступает ветру."
+CLIENT_HELP_INC_000566,Wind,Ветер
+CLIENT_HELP_INC_000567,A property that is strong against the Earth Property but weak against the Fire property.,"Ветер раздувает землю, но уступает огню."
+CLIENT_HELP_INC_000568,Enchant,Усиление предметов
+CLIENT_HELP_INC_000569,"Upgrading means making the item more powerful. Each item can be normally upgraded over 10 levels, and weapons / armor chest pieces can be elementally upgraded over 10 levels. If the upgrade fails, there is no penalty between levels 1 and 3, but from levels 4-10 the item will be lost.","Upgrading means making the item more powerful. Each item can be normally upgraded over 10 levels, and weapons / armor chest pieces can be elementally upgraded over 10 levels. If the upgrade fails, there is no penalty between levels 1 and 3, but from levels 4-10 the item will be lost."
+CLIENT_HELP_INC_000570,Attribute Enchant,Арканы стихий
+CLIENT_HELP_INC_000571,"Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT.","Your item can receive an attribute modifier (visible in the name of the item) through various means, granting it extra STR, STA, DEX and/or INT."
+CLIENT_HELP_INC_000572,Fire Upgrade,Аркан огня
+CLIENT_HELP_INC_000573,"When you refine an item with the Fire property, you’ll need a Fire Property Card. When an item is imbued with the Fire Property the item becomes weak to Water but stronger against Wind.","When you refine an item with the Fire property, you’ll need a Fire Property Card. When an item is imbued with the Fire Property the item becomes weak to Water but stronger against Wind."
+CLIENT_HELP_INC_000574,Water Upgrade,Аркан воды
+CLIENT_HELP_INC_000575,"When you refine an item with the Water property, you’ll need a Water Property Card. When an item is imbued with the Water Property the item becomes weak to Electricity but stronger against Fire.","When you refine an item with the Water property, you’ll need a Water Property Card. When an item is imbued with the Water Property the item becomes weak to Electricity but stronger against Fire."
+CLIENT_HELP_INC_000576,Electric Upgrade,Аркан молний
+CLIENT_HELP_INC_000577,"When you refine an item with the Electricity property, you’ll need an Electricity Property Card. When an item is imbued with the Electricity Property the item becomes weak to Earth but stronger against Water.","When you refine an item with the Electricity property, you’ll need an Electricity Property Card. When an item is imbued with the Electricity Property the item becomes weak to Earth but stronger against Water."
+CLIENT_HELP_INC_000578,Wind Upgrade,Аркан ветра
+CLIENT_HELP_INC_000579,"When you refine an item with the Wind property, you’ll need a Wind Property Card. When an item is imbued with the Wind Property the item becomes weak to Fire but stronger against Earth.","When you refine an item with the Wind property, you’ll need a Wind Property Card. When an item is imbued with the Wind Property the item becomes weak to Fire but stronger against Earth."
+CLIENT_HELP_INC_000580,Earth Upgrade,Аркан земли
+CLIENT_HELP_INC_000581,"When you refine an item with the Earth property, you’ll need an Earth Property Card. When an item is imbued with the Earth Property the item becomes weak to Wind but stronger against Electricity.","When you refine an item with the Earth property, you’ll need an Earth Property Card. When an item is imbued with the Earth Property the item becomes weak to Wind but stronger against Electricity."
+CLIENT_HELP_INC_000582,General Upgrade,Общее усиление
+CLIENT_HELP_INC_000583,"Normal upgrade means a non-element upgrade. Power Dice are required to upgrade, there are 5 types of Power Dice, 4, 6, 8, 10 and 12.","Для общего усиления требуются кости (игральные кубики). Кости бывают пяти видов: 4, 6, 8, 10 и 12 точек. "
+CLIENT_HELP_INC_000584,Ultimate Weapon Upgrade,Абсолютное оружие
+CLIENT_HELP_INC_000585,"You can make an Ultimate Weapon with a +10 upgraded unique weapon by using the Ultimate Weapon Upgrade. The maximum upgrade for an Ultimate weapon is up to +10 the same as any other item upgrade but it needs 'Shining Orikalkum'. The Ultimate upgrade is available only for weapons, and the item is destroyed in case of a failure. From +6 you are able to socket your weapon.","Если у вас есть уникальное оружие силой +10, из него можно сделать Абсолютное оружие. Абсолютное оружие также можно усилить до +10. Для этого потребуются сверкающие солуниты. В случае неудачи оружие уничтожается. Начиная с уровня +6 в оружии можно делать гнезда для арканов."
+CLIENT_HELP_INC_000586,placholder 39,placholder 39
+CLIENT_HELP_INC_000587,placholder 40,placholder 40
+CLIENT_HELP_INC_000588,placholder 41,placholder 41
+CLIENT_HELP_INC_000589,placholder 42,placholder 42
+CLIENT_HELP_INC_000590,placholder 43,placholder 43
+CLIENT_HELP_INC_000591,placholder 44,placholder 44
+CLIENT_HELP_INC_000592,placholder 45,placholder 45
+CLIENT_HELP_INC_000593,placholder 46,placholder 46
+CLIENT_HELP_INC_000594,placholder 47,placholder 47
+CLIENT_HELP_INC_000595,placholder 48,placholder 48
+CLIENT_HELP_INC_000596,Building,Магазины и постройки
+CLIENT_HELP_INC_000597,Information about the buildings that provide services.,"В Мадригале есть множество персонажей, держащих лавки и управляющих различными службами."
+CLIENT_HELP_INC_000598,Lodestar,Звезда Жизни
+CLIENT_HELP_INC_000599,This is a structure that gathers spiritual life and resurrects players who died. It is located inside a city or a wide open clearing.,Эта замечательная постройка возрождает погибших игроков. Она располагается в городе или на просторном открытом месте.
+CLIENT_HELP_INC_000600,Lodelight,Маяк Жизни
+CLIENT_HELP_INC_000601,This is a structure that functions like a Lodestar but it resurrects a player in a place near the hunting grounds.,"Эта постройка работает так же, как Звезда Жизни, только находится вне города."
+CLIENT_HELP_INC_000602,Weapon shop,Оружейная лавка
+CLIENT_HELP_INC_000603,"This place sells weapons for the 1st job class such as vagrant, mercenary, and acrobat. It also sells weapons for the 2nd job class such as knight, blade, ringmaster, billposter, jester, and ranger.","This place sells weapons for the 1st job class such as vagrant, mercenary, and acrobat. It also sells weapons for the 2nd job class such as knight, blade, ringmaster, billposter, jester, and ranger."
+CLIENT_HELP_INC_000604,Armor shop,Лавка доспехов
+CLIENT_HELP_INC_000605,"This place sells armor for Mercenaries, Assists, and Acrobats.","Здесь продаются доспехи для борцов, униформистов и акробатов."
+CLIENT_HELP_INC_000606,Magic store,Магозин
+CLIENT_HELP_INC_000607,"This place sells weapons, armor, and magic items best suited for Magicians.","Здесь продаются оружие, доспехи и магические предметы, лучше всего подходящие для фокусников."
+CLIENT_HELP_INC_000608,Food shop,Продуктовая лавка
+CLIENT_HELP_INC_000609,This shop sells food items that help recover HP,"Здесь продается еда, восстанавливающая ОЗ."
+CLIENT_HELP_INC_000610,General merchandise,Мелочная лавка
+CLIENT_HELP_INC_000611,"This place sells Arrows, Posters, and those sorts of things.","Здесь продаются стрелы, афиши и прочие полезные вещи."
+CLIENT_HELP_INC_000612,Public Office,Банк
+CLIENT_HELP_INC_000613,"This place is for selling Perin, using your personal bank, and guild bank.","Здесь можно обменять пенни на перины, а также положить вещи в личный сейф или сейф гильдии."
+CLIENT_HELP_INC_000614,Station,Воздушный порт
+CLIENT_HELP_INC_000615,This shop sells Flight related items like Flight gears as well as guide’s player on how to fly.,Здесь учат полетам и продают летательные аппараты.
+CLIENT_HELP_INC_000616,Duel,Поединки
+CLIENT_HELP_INC_000617,A duel is a battle between 2 players. This is different from PK. It is called PvP (Player Vs Player) which can only start when 2 players agree to a duel. A duel has no penalties associated with it.,Поединок - это сражение между двумя игроками по обоюдному согласию. Никаких штрафов за поединки не накладывается.
+CLIENT_HELP_INC_000618,Fame,Слава
+CLIENT_HELP_INC_000619,You will gain the fame if you keep winning duels. You will also gain  different titles as well.,"Побеждая в поединках, вы приобретете славу и завоюете различные титулы."
+CLIENT_HELP_INC_000620,Guild Combat Center,Замок войны
+CLIENT_HELP_INC_000621,This place is for applying and running guild sieges and 1 on 1 guild sieges. Only available on the 1st sub server.,Замок войны находится на первом канале каждого сервера. Здесь подают заявки на поединки гильдий.
+CLIENT_HELP_INC_000622,Other inquiries,Другие вопросы
+CLIENT_HELP_INC_000623,Please visit the official homepage: $WEBSITE$ for more inquiries. Have a nice day.,Ответ на другие вопросы всегда можно получить на сайте или форуме игры.
+CLIENT_HELP_INC_000624,Beauty shop,Салон красоты
+CLIENT_HELP_INC_000625,You can change your hair style and color. The price varies based on the color and style you choose.,Здесь можно изменить прическу и цвет волос. Стоимость зависит от выбранного варианта.
+CLIENT_HELP_INC_000626,Private Shop,Частная лавочка
+CLIENT_HELP_INC_000627,Items can be conveniently presented for sale to through this option. You can set the quantity and the price.,Частная лавочка позволит вам выставить предметы на продажу.  Количество и цену указываете вы.
+CLIENT_HELP_INC_000628,"Open the Start menu, select Personal Shop, and the Personal Shop window will appear.",Откройте меню 'Старт' и выберите пункт 'Частная лавочка'. Появится окно.
+CLIENT_HELP_INC_000629,Drag the items you wish to sell from your inventory and drop them into the Personal Shop window.,"Перетащите из рюкзака в окно лавочки те предметы, которые нужно продать."
+CLIENT_HELP_INC_000630,"After dragging the item into the window, you can set the price for the item, and the quantity you wish to sell.",Назначьте цену и укажите количество предметов.
+CLIENT_HELP_INC_000631,"Put a name in the Shop Name Window, and press OK. You can start selling items after that.","Введите название и нажмите кнопку 'ОК'. После этого можете отойти от компьютера - если найдется покупатель, сделка произойдет без вашего участия."
+CLIENT_HELP_INC_000632,Creating a Guild,Создание гильдии
+CLIENT_HELP_INC_000633,"There are some basic requirements to creating a Guild. You will need a party of three players all at least level 40, then you have to complete a quest through the Public office NPC Helena in SM. Once finished you and your party members will become a guild.",Возможность создавать гильдии появляется на 40-м уровне. Для этого нужно выполнить задание Элены. 
+CLIENT_HELP_INC_000634,Raising the Guild Level,Развитие гильдии
+CLIENT_HELP_INC_000635,"Guild Members area able to contribute items and Penya towards raising the guild level. To contribute items, simply press the Support Button inside of the Guild Storage. Raising the Guild Level will open up various options to the Guild to help it grow and distinguish itself.","Guild Members area able to contribute items and Penya towards raising the guild level. To contribute items, simply press the Support Button inside of the Guild Storage. Raising the Guild Level will open up various options to the Guild to help it grow and distinguish itself."
+CLIENT_HELP_INC_000636,Joining a Guild,Присоединение к гильдии
+CLIENT_HELP_INC_000637,Initially only a Guild Master has the authority to invite Guild members. But a Guild Master can give authority to any Guildie to recruit other members to his Guild.,Изначально правом приглашать в гильдию новых игроков обладает только лидер. Однако он может наделить соответствующими правами любого игрока гильдии.
+CLIENT_HELP_INC_000638,Disbanding a Guild,Роспуск гильдии
+CLIENT_HELP_INC_000639,"The Guild Master can disband the Guild by pressing the DISMISS button on the Guild Menu. Once the Guild is dismissed, it takes 2 days before Members can create or join a new Guild.","Лидер гильдии может распустить ее, нажав в окне информации о гильдии кнопку 'Распустить'. Создать новую гильдию можно не раньше, чем через два дня после роспуска старой."
+CLIENT_HELP_INC_000640,Managing Guild Members,Управление гильдией
+CLIENT_HELP_INC_000641,"The Guild Master can manage his Guild from the Guild Menu. He can set things such as promotions, demotions, nicknames, kicking from Guild, etc.","The Guild Master can manage his Guild from the Guild Menu. He can set things such as promotions, demotions, nicknames, kicking from Guild, etc."
+CLIENT_HELP_INC_000642,Managing Guild Ranks,Управление рангами
+CLIENT_HELP_INC_000643,"The Guild Master can manage Guild Ranks in the Guild Menu. He can set the authority of the title, degree, admission, access to items and monthly payment.","Лидер гильдии может назначить для игроков каждого ранга права доступа, полномочия и ежемесячное вознаграждение."
+CLIENT_HELP_INC_000644,Announcement,Объявления
+CLIENT_HELP_INC_000645,Guild Masters can make an announcement by clicking the Notice button on the Information Tab in the Guild Menu. Either a new message can be made of the old one can simply be modified.,Guild Masters can make an announcement by clicking the Notice button on the Information Tab in the Guild Menu. Either a new message can be made of the old one can simply be modified.
+CLIENT_HELP_INC_000646,Guild Logo,Эмблема гильдии
+CLIENT_HELP_INC_000647,"The Guild Logo is the symbol or emblem of the Guild. This can be chosen only once and only by the Guild Master. To use this function, select the Logo button in the Guild Menu.","Эмблему гильдии выбирает лидер. Изменить ее будет уже невозможно. Чтобы создать эмблему, нажмите кнопку 'Эмблема' на закладке информации о гильдии."
+CLIENT_HELP_INC_000648,Guild Storage,Банк гильдии
+CLIENT_HELP_INC_000649,You can use the Guild Storage only on the 1st Channel of each Server. Anyone can deposit items and Penya into the Guild Storage but only authorized Guild Members can withdraw items and penya.,You can use the Guild Storage only on the 1st Channel of each Server. Anyone can deposit items and Penya into the Guild Storage but only authorized Guild Members can withdraw items and penya.
+CLIENT_HELP_INC_000650,Info-Pang,Автоматические подсказки
+CLIENT_HELP_INC_000651,You may have noticed when you first logged into the game that you were greeted by the Info-Pang in the lower right corner of your screen. This section briefly explains the Info-Pang and how to use him.,"Автоматические подсказки появляются по достижении игроком того или иного уровня и рассказывают о том, что вам нужно знать на этом этапе."
+CLIENT_HELP_INC_000652,What is it?,Показать
+CLIENT_HELP_INC_000653,"The Info-Pang will guide you through all of the basics including controls, hotkeys, menus, and even some game functions. Once you have completed a section, you can always access it if you need to review it. Simply right click on the Info-Pang and select Check the List.","Вы можете выбрать, будет ли новый персонаж видеть руководство при заходе в игру. Выберите вкладку 'Прочее' меню 'Настроек', чтобы задать дополнительные варианты: 'Полное руководство', 'Без руководства' или 'Частичное руководство'. "
+CLIENT_HELP_INC_000654,Access the Info-Pang,Скрыть
+CLIENT_HELP_INC_000655,"The Info-Pang will be activated by default when you log into the game. If you would like to turn the Info-Pang off, Right Click on the Info-Pang and select Hide. If later you would like to recall the Info-Pang you can do that by accessing the Start Menu, selecting Helper, and then selecting Info-Pang.","Чтобы отключить руководство, щелкните правой кнопкой по Пингвиду и выберите пункт 'Скрыть'. Выберите вкладку 'Прочее' меню 'Настроек', чтобы задать дополнительные варианты: 'Полное руководство', 'Без руководства' или 'Частичное руководство'. "
+CLIENT_HELP_INC_000656,Duel among users,Поединки
+CLIENT_HELP_INC_000657,This is a duel between 2 players.,Поединок - это сражение между двумя игроками.
+CLIENT_HELP_INC_000658,PvP,PvP
+CLIENT_HELP_INC_000659,It means a fight between characters by mutual agreement. Affects PVP fame and PVP point.,"PvP-поединок - это бой между персонажами, проходящий по обоюдному согласию. Его результат влияет на PvP-славу и приносит PvP-очки."
+CLIENT_HELP_INC_000660,Asking for PvP,Вызов на поединок
+CLIENT_HELP_INC_000661,"If you right-click with ALT key on the player whom you want to have duel with, you can have a duel with the player in case of that the user accepts that.","Щелкнув по игроку правой кнопкой мыши при зажатой клавише ALT, вы можете вызвать его на поединок. Игрок имеет право отказаться."
+CLIENT_HELP_INC_000662,"In case of that you are the leader of your troupe and the clicked one is another leader of other troupe, you can have a group duel, if the other lead accept it.","Если вы лидер труппы, можете вызвать на поединок лидера другой труппы. В этом случае состоится групповой поединок."
+CLIENT_HELP_INC_000663,The result of PVP and Fame,Результаты PvP и слава
+CLIENT_HELP_INC_000664,PVP fame and PVP point change according to PvP record.,PvP-слава и PvP-очки начисляются по итогам поединков.
+CLIENT_HELP_INC_000665,placholder 49,placholder 49
+CLIENT_HELP_INC_000666,placholder 50,placholder 50
+CLIENT_HELP_INC_000667,placholder 51,placholder 51
+CLIENT_HELP_INC_000668,placholder 52,placholder 52
+CLIENT_HELP_INC_000669,placholder 53,placholder 53
+CLIENT_HELP_INC_000670,placholder 54,placholder 54
+CLIENT_HELP_INC_000671,placholder 55,placholder 55
+CLIENT_HELP_INC_000672,placholder 56,placholder 56
+CLIENT_HELP_INC_000673,placholder 57,placholder 57
+CLIENT_HELP_INC_000674,placholder 58,placholder 58
+CLIENT_HELP_INC_000675,placholder 59,placholder 59
+CLIENT_HELP_INC_000676,placholder 60,placholder 60
+CLIENT_HELP_INC_000677,placholder 61,placholder 61
+CLIENT_HELP_INC_000678,placholder 62,placholder 62
+CLIENT_HELP_INC_000679,placholder 63,placholder 63
+CLIENT_HELP_INC_000680,placholder 64,placholder 64
+CLIENT_HELP_INC_000681,placholder 65,placholder 65
+CLIENT_HELP_INC_000682,placholder 66,placholder 66
+CLIENT_HELP_INC_000683,Server,Сервер
+CLIENT_HELP_INC_000684,Guild bank and Guild sieges are available only at the 1st sub server of each server set.,Банк гильдии и поединки гильдий доступны только на первом канале каждого сервера.
+CLIENT_HELP_INC_000685,placholder 67,placholder 67
+CLIENT_HELP_INC_000686,placholder 68,placholder 68
+CLIENT_HELP_INC_000687,placholder 69,placholder 69
+CLIENT_HELP_INC_000688,placholder 70,placholder 70
+CLIENT_HELP_INC_000689,placholder 71,placholder 71
+CLIENT_HELP_INC_000690,placholder 72,placholder 72
+CLIENT_HELP_INC_000691,placholder 73,placholder 73
+CLIENT_HELP_INC_000692,placholder 74,placholder 74
+CLIENT_HELP_INC_000693,placholder 75,placholder 75
+CLIENT_HELP_INC_000694,placholder 76,placholder 76
+CLIENT_HELP_INC_000695,placholder 77,placholder 77
+CLIENT_HELP_INC_000696,placholder 78,placholder 78
+CLIENT_HELP_INC_000697,placholder 79,placholder 79
+CLIENT_HELP_INC_000698,placholder 80,placholder 80
+CLIENT_HELP_INC_000699,placholder 81,placholder 81
+CLIENT_HELP_INC_000700,placholder 82,placholder 82
+CLIENT_HELP_INC_000701,placholder 83,placholder 83
+CLIENT_HELP_INC_000702,placholder 84,placholder 84
+CLIENT_HELP_INC_000703,placholder 85,placholder 85
+CLIENT_HELP_INC_100000,Achievements,Достижения
+CLIENT_HELP_INC_100001,"There are many kinds of missions: Daily Rewards, Time-Limited Events, Account Shared Achievements, etc. Complete them and you will receive various rewards such as Items, Custom Title, Attack Power Bonus, Penya or Bonus fCoins!","There are many kinds of missions: Daily Rewards, Time-Limited Events, Account Shared Achievements, etc. Complete them and you will receive various rewards such as Items, Custom Title, Attack Power Bonus, Penya or Bonus fCoins!"
+CLIENT_HELP_INC_100002,Battle Pass,Battle Pass
+CLIENT_HELP_INC_100003,"Complete daily, weekly and season missions to receive rewards!\n\nDon't forget to claim your rewards before the end of the Battle Pass season.\n\nPoints earned through the Season missions are not included in the weekly limit.","Complete daily, weekly and season missions to receive rewards!\n\nDon't forget to claim your rewards before the end of the Battle Pass season.\n\nPoints earned through the Season missions are not included in the weekly limit."
+CLIENT_HELP_INC_100004,Equipment Switch,Equipment Switch
+CLIENT_HELP_INC_100005,"Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle.","Create equipment presets, allowing you to have your sets, weapons, and accessories readily available. With a simple shortcut, you can effortlessly equip them without any hassle."
+CLIENT_HELP_INC_100006,Create ultimate weapon,Create ultimate weapon
+CLIENT_HELP_INC_100007,Kalgas Assault Revival,Kalgas Assault Revival
+CLIENT_HELP_INC_100008,"In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20).","In the Kalgas Assault, each respawn from death takes a certain amount of time and increases with the number of respawns (up to 1 minute).\nSpending Kalgas Coin will make you respawn with no waiting time, and the item can be purchased in Cash Shop.\nKalgas Silver Coins can only be used once, while Kalgas Gold Coins can be used for unlimited revives.\n*Kalgas Gold Coins require an increased amount each time they are used (up to 20)."
+CLIENT_HELP_INC_100009,Couple Menu,Couple Menu
+CLIENT_HELP_INC_100010,"This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled.","This window manages your couple. Through this window, you can check information about your couple and utilize functions available with your couple. All functions can be used by any member of the couple. The daily usage limits for ‘Teleport' and 'Cheer' reset every day at 00:00. \n\nIf you click the 'Break up' button, you request a breakup from your partner. If the request is declined or no response is received, you can notify the breakup after a cooldown period. Please be cautious, as when you break up with your partner, the couple ring, anniversary gifts, and all items in the Storage will be deleted, and couple-related functions will be disabled."
+CLIENT_HELP_INC_100011,Life,Life
+CLIENT_HELP_INC_100012,"This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time.","This window provides information about your Life Skill and allows you to use related features.\n\nClick the 'Set as an Expert' button at the bottom to specialize in a specific Life Skill for a designated period. A bonus effect will be applied when you set your area of expertise. \n\nNote that once your expertise is set, it cannot be changed for some time."
+CLIENT_HELP_INC_100013,Fishing Menu,Fishing Menu
+CLIENT_HELP_INC_100014,"If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button.","If you have a fishing rod and bait, you can fish in any waterside of Madrigal.\nBefore you start fishing, select the bait you want to use from your inventory and register it in the popup, then click the start button to begin fishing.\nOnce you've cast your line, you'll need to wait for a bite.\nWhen the bite comes, you'll play a minigame to catch the fish. Your chances of catching a fish in the mini-game increase as you guess the direction of the fish's progress.\nIf you don't play the minigame within the time limit, the minigame is considered unplayed.\nAt the end of the minigame, you can see if you have or have not caught a fish.\nWhile waiting for a bite, you can skip the minigame by checking Skip minigame, and see how much you've caught so far by tapping the Fishing Status button."
+CLIENT_HELP_INC_100015,Pet Training,Pet Training
+CLIENT_HELP_INC_100016,"You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc","You can train a Raised Pet that you've got in your inventory or in the house inventory. Each caretaker NPC has different feeding schedules and intervals.\n\nOnce you've selected the Raised Pet you wish to entrust to the Caretaker, #beither by double-clicking or drag-and-drop#nb, simply press the 'Done' button to initiate the Caretaker's training.\n\n#cffff0000If you decide to change the Raised Pet, the next feeding schedule will be reset.#nc"
+CLIENT_HELP_INC_100017,Housing Objects,Housing Objects
+CLIENT_HELP_INC_100018,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.
+CLIENT_HELP_INC_100019,Production,Production
+CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success","You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success"

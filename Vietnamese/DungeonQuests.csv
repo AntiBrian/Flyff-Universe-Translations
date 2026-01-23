@@ -1,0 +1,182 @@
+﻿Key,English,Vietnamese
+PROPQUEST_DUNGEONANDPK_INC_000001,P.K,P.K
+PROPQUEST_DUNGEONANDPK_INC_000002,Hunting Monsters to recover Karma,Săn quái vật để phục hồi Karma
+PROPQUEST_DUNGEONANDPK_INC_000003,Your Karma can be redeemed. Are you ready to pay for your sins?,Karma của bạn có thể được mua lại. Bạn đã sẵn sàng trả giá cho tội lỗi của mình chưa?
+PROPQUEST_DUNGEONANDPK_INC_000004,Hunt $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.,Săn $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.
+PROPQUEST_DUNGEONANDPK_INC_000005,You have yet to pay for your sins…,Bạn vẫn chưa phải trả giá cho tội lỗi của mình…
+PROPQUEST_DUNGEONANDPK_INC_000006,Your quest has been accomplished. Your sins have been forgiven.,Nhiệm vụ của bạn đã được hoàn thành. Tội lỗi của bạn đã được tha thứ.
+PROPQUEST_DUNGEONANDPK_INC_000007,"If you are truly unwilling to fight for forgiveness, then there is no hope for you.","Nếu bạn thực sự không muốn đấu tranh để được tha thứ, thì không có hy vọng cho bạn."
+PROPQUEST_DUNGEONANDPK_INC_000019,Hunting $QUEST_END_KILL_NAME$ will recover your Karma points.,Săn $QUEST_END_KILL_NAME$ sẽ phục hồi điểm Karma của bạn.
+PROPQUEST_DUNGEONANDPK_INC_000376,Get the Key to escape Kebaras Island,Nhận chìa khóa để thoát khỏi đảo Kebaras
+PROPQUEST_DUNGEONANDPK_INC_000377,You can warp away from here at the Warp Zone but you need the Key. Are you ready to earn it?,Bạn có thể di chuyển khỏi đây tại Warp Zone nhưng bạn cần có Chìa khóa. Bạn đã sẵn sàng để kiếm được nó chưa?
+PROPQUEST_DUNGEONANDPK_INC_000378,I will give you the Key if you can bring me $QUEST_END_ITEM_COUNT$ Beads of Sin. You can get the beads in the empty lot beside the campsite.,Tôi sẽ đưa cho bạn Chìa khóa nếu bạn có thể mang lại cho tôi $QUEST_END_ITEM_COUNT$ Hạt tội lỗi. Bạn có thể lấy các hạt ở bãi đất trống bên cạnh khu cắm trại.
+PROPQUEST_DUNGEONANDPK_INC_000379,How long until you are ready to leave this place?,Bao lâu cho đến khi bạn sẵn sàng rời khỏi nơi này?
+PROPQUEST_DUNGEONANDPK_INC_000380,Here is the Key. Now go and never return.,Đây là chìa khoá. Bây giờ đi và không bao giờ trở lại.
+PROPQUEST_DUNGEONANDPK_INC_000381,I will give you your freedom for only $QUEST_END_ITEM_COUNT$ beads. How could you pass on an offer like that?,Tôi sẽ cho bạn sự tự do chỉ với $QUEST_END_ITEM_COUNT$ hạt. Làm thế nào bạn có thể chuyển một đề nghị như vậy?
+PROPQUEST_DUNGEONANDPK_INC_000382,Keep gathering your beads.,Tiếp tục thu thập các hạt của bạn.
+PROPQUEST_DUNGEONANDPK_INC_000390,You are welcome to stay for as long as you would like.,Bạn có thể ở lại bao lâu tùy thích.
+PROPQUEST_DUNGEONANDPK_INC_000420,Entering the Dekane Mine,Tiến vào hầm mỏ Dekane
+PROPQUEST_DUNGEONANDPK_INC_000421,You are really willing to enter the Dekane Mine?,Bạn có thực sự muốn tiến vào hầm mỏ Dekane?
+PROPQUEST_DUNGEONANDPK_INC_000422,"Then visit the Dwarpet, Rankashu, in front of the Dekane Mine.","Sau đó đến thăm Dwarpet, Rankashu, ở phía trước của hầm mỏ Dekane"
+PROPQUEST_DUNGEONANDPK_INC_000423,Ha ha ha. Of course not. It is far too frightening.,Ha ha ha. Dĩ nhiên là không. Nó quá đáng sợ.
+PROPQUEST_DUNGEONANDPK_INC_000424,Here is the Mine Entrance Card. It is up to you to enter but I advise against it. You may die.,Đây là Thẻ vào cửa của Hầm mỏ. Bạn có thể vào nhưng tôi khuyên bạn không nên làm như vậy. Bạn có thể chết
+PROPQUEST_DUNGEONANDPK_INC_000425,Is it so hard to tell me what I want to know? Leave quickly.,Thật khó để nói cho tôi biết những gì tôi muốn biết? Rời khỏi đây nhanh.
+PROPQUEST_DUNGEONANDPK_INC_000426,Visit the Dwarpet Rankashu and get the information Cell wanted.,Ghé thăm Dwarpet Rankashu và nhận thông tin Cell muốn.
+PROPQUEST_DUNGEONANDPK_INC_000429,You have the Mine Entrance Card. Now to find out what everyone is so afraid of.,Bạn có Thẻ vào Hầm mỏ. Bây giờ để tìm hiểu những gì tất cả mọi người rất sợ.
+PROPQUEST_DUNGEONANDPK_INC_000431,Keakoon in Mine (1),Keakoon tại Hầm mỏ (1)
+PROPQUEST_DUNGEONANDPK_INC_000432,"I am Drian son of Nevil, great chief of the original Keakoon. We were once friendly with the humans.","Tôi là Drian con trai của Nevil, thủ lĩnh vĩ đại của Keakoon chính gốc. Chúng tôi đã từng thân thiện với con người."
+PROPQUEST_DUNGEONANDPK_INC_000433,We helped humans develop the mine long ago but when they left some of us were locked up by a new breed of Keakoons.,"Chúng tôi đã giúp con người phát triển hầm mỏ từ lâu nhưng khi họ rời đi, một số người trong chúng tôi đã bị nhốt bởi một giống Keakoons mới."
+PROPQUEST_DUNGEONANDPK_INC_000434,My father is old and cannot last much longer in his prison. Please help me rescue him.,Cha tôi đã già và không thể ở trong tù được bao lâu nữa. Xin hãy giúp tôi giải cứu ông ấy
+PROPQUEST_DUNGEONANDPK_INC_000435,"The key to the cell where my father is being kept has three pieces. These false Keakoons are inside, keeping them hidden. Go and bring them to me.","Chìa khóa phòng giam nơi cha tôi đang bị giam giữ có ba mảnh. Những Keakoon giả này ở bên trong, giấu chúng đi. Đi và mang chúng cho tôi."
+PROPQUEST_DUNGEONANDPK_INC_000436,How could you? To think I thought to count you as a friend.,Làm sao bạn có thể…? Vậy mà tôi nghĩ tôi có thể xem bạn là một người bạn.
+PROPQUEST_DUNGEONANDPK_INC_000437,Oh… Thank you… so much. I could never repay you fully. Thank you so much.,Ồ...Cảm ơn bạn...rất nhiều. Ơn này tôi không bao giờ có thể báo đáp được hết cho bạn. Cảm ơn bạn rất nhiều
+PROPQUEST_DUNGEONANDPK_INC_000438,You have to gather all three pieces of the Key.,Bạn phải thu thập tất cả ba mảnh của Chìa khóa.
+PROPQUEST_DUNGEONANDPK_INC_000439,Hunt Keakoon and get all 3 pieces of the prison key.,Săn Keakoon và lấy cả 3 mảnh chìa khóa nhà tù.
+PROPQUEST_DUNGEONANDPK_INC_000442,You have delivered all the pieces of the key but it looks like he still has something to say.,Bạn đã giao tất cả các mảnh của chìa khóa nhưng có vẻ như anh ấy vẫn còn điều gì đó để nói
+PROPQUEST_DUNGEONANDPK_INC_000444,Keakoon in Mine (2),Keakoon tại Hầm mỏ (2)
+PROPQUEST_DUNGEONANDPK_INC_000445,I still have a need for you. Would you help me yet again?,Tôi vẫn cần bạn. Bạn có thể giúp tôi một lần nữa?
+PROPQUEST_DUNGEONANDPK_INC_000446,You are a true friend. Take this key and free my father. I am not strong enough. Please.,Bạn là một người bạn thực sự. Lấy chìa khóa này và giải thoát cho cha tôi. Tôi không đủ mạnh mẽ. Làm ơn.
+PROPQUEST_DUNGEONANDPK_INC_000447,You show yourself to be no better than the fiends that imprisoned my father.,Bạn cho thấy mình không tốt hơn những tên yêu quái đã bỏ tù cha tôi.
+PROPQUEST_DUNGEONANDPK_INC_000449,My father is in a prison on the outskirts of Keakoon village. Please hurry he cannot last much longer.,"Cha tôi đang ở trong một nhà tù ở ngoại ô làng Keakoon. Hãy nhanh lên, anh ấy không thể cầm cự lâu hơn nữa."
+PROPQUEST_DUNGEONANDPK_INC_000450,"Rescue Nevil, father of Drian.","Giải cứu Nevil, cha của Drian"
+PROPQUEST_DUNGEONANDPK_INC_000453,You have saved Nevil. Go and talk to him.,Bạn đã cứu Nevil. Đi và nói chuyện với anh ta
+PROPQUEST_DUNGEONANDPK_INC_000455,Keakoon in Mine (3),Keakoon tại Hầm mỏ (3)
+PROPQUEST_DUNGEONANDPK_INC_000456,"Many thanks, friend. You have done so much for us but would you do something more?","Cảm ơn rất nhiều, bạn của tôi. Bạn đã làm rất nhiều cho chúng tôi nhưng bạn có muốn làm gì hơn nữa không?"
+PROPQUEST_DUNGEONANDPK_INC_000457,Please defeat the Elite Keakoon Guard Leader and bring me the Chief Sign that proves I am the one true Chief of the Keakoon. Would you also please bring me the cargo my son Drian is keeping safe for me?,"Hãy đánh bại Elite Keakoon Guard Leader và mang cho tôi Chief Sign chứng minh rằng tôi là Chief of the Keakoon thực sự duy nhất. Bạn vui lòng mang cho tôi cargo mà con trai tôi, Drian, đang giữ an toàn cho tôi?"
+PROPQUEST_DUNGEONANDPK_INC_000458,What kind of person are you if you refuse to help those with less power than you?,Bạn là người như thế nào nếu bạn từ chối giúp đỡ những người có quyền lực kém hơn mình?
+PROPQUEST_DUNGEONANDPK_INC_000459,Thank you. It is my great hope that Keakoon and human can thrive together once again. Take this ring as a gift.,Cảm ơn bạn. Tôi hy vọng rất lớn rằng Keakoon và loài người có thể phát triển cùng nhau một lần nữa. Hãy lấy chiếc nhẫn này như một món quà.
+PROPQUEST_DUNGEONANDPK_INC_000460,"If, by any chance, you want more adventure visit Bernard in Darken. Be careful. I would hate for something to happen to you.","Nếu, có cơ hội, bạn muốn có nhiều cuộc phiêu lưu hơn, hãy đến thăm Bernard ở Darken. Hãy cẩn thận. Tôi sẽ ghét điều gì đó xảy ra với bạn."
+PROPQUEST_DUNGEONANDPK_INC_000461,Hrmm… It might not be that dangerous for someone as strong as you.,Hrmm...Nó có thể không nguy hiểm cho một người mạnh mẽ như bạn
+PROPQUEST_DUNGEONANDPK_INC_000462,Bring the seal of the chief and the package that Drian is holding back to Nevil.,Mang con dấu của chief và gói hàng mà Drian đang giữ lại cho Nevil.
+PROPQUEST_DUNGEONANDPK_INC_000465,"You rescued Nevil, chief of the Keakoon. You can feel the secrets around this place. Maybe you can get some information from Bernard.","Bạn đã giải cứu Nevil, tộc trưởng Keakoon. Bạn có thể cảm nhận được những bí mật xung quanh nơi này. Có lẽ bạn có thể nhận được một số thông tin từ Bernard."
+PROPQUEST_DUNGEONANDPK_INC_000467,Death Mine and Roaches (1),Hầm mỏ chết và những con rắn (1)
+PROPQUEST_DUNGEONANDPK_INC_000468,Hmm… Is that the ring of Nevil around your finger?,Hmm… Đó có phải là chiếc nhẫn của Nevil quanh ngón tay của bạn không?
+PROPQUEST_DUNGEONANDPK_INC_000469,Your strength has been proven then. Would you prove yourself further? The Roach is somehow connected to the death of people in the mine.,Sức mạnh của bạn đã được chứng minh sau đó. Bạn sẽ chứng minh mình hơn nữa? Rắn bằng cách nào đó có liên quan đến cái chết của những người trong mỏ.
+PROPQUEST_DUNGEONANDPK_INC_000470,There is a mystery to be unlocked here. Would you bring me the blood of the Roach larva?,Có một bí ẩn cần được mở khóa ở đây. Bạn có mang cho tôi máu của ấu trùng Rắn không?
+PROPQUEST_DUNGEONANDPK_INC_000471,Thank you. There are two kinds of Roach - Pink and Blue. Break open their eggs and hunt down the larva.,Cảm ơn. Có hai loại Roach - Pink và Blue. Phá vỡ trứng của chúng và săn lùng larva.
+PROPQUEST_DUNGEONANDPK_INC_000472,There will be no revelation without danger.,Sẽ không có tiết lộ nào mà không có nguy hiểm.
+PROPQUEST_DUNGEONANDPK_INC_000473,"Ahh, there is much to be learned from the blood of these Roaches.","Ahh, có rất nhiều điều phải học được từ máu của những con rắn này."
+PROPQUEST_DUNGEONANDPK_INC_000474,No! No! No! Bring me more information!,Không! Không! Không! Mang cho tôi thêm thông tin!
+PROPQUEST_DUNGEONANDPK_INC_000475,Bring the blood of Roaches by destroying their eggs and defeating Roach Larva.,Mang dòng máu của Roaches bằng cách phá hủy trứng của chúng và đánh bại Roach Larva.
+PROPQUEST_DUNGEONANDPK_INC_000478,Looks like he still has a need of you.,Có vẻ như anh ấy vẫn cần bạn.
+PROPQUEST_DUNGEONANDPK_INC_000480,Death Mine and Roaches (2),Hầm mỏ chết và những con rắn (2)
+PROPQUEST_DUNGEONANDPK_INC_000481,The toxicity of Roaches has poisoned many humans in the mine.,Độc tính của Rắn đã đầu độc nhiều người trong hầm mỏ
+PROPQUEST_DUNGEONANDPK_INC_000482,It seems that the Roach Queens are the source of the poison.,Có vẻ như Nữ hoàng Rắn là nguồn gốc của chất độc.
+PROPQUEST_DUNGEONANDPK_INC_000483,Bring me the blood of Pink and Blue Roach Queens so that I can make a vaccine.,Mang cho tôi máu của Pink và Blue Roach Queen để tôi có thể tạo ra vắc-xin.
+PROPQUEST_DUNGEONANDPK_INC_000484,Sprinkle this liquid on the Roach Queen egg to wake her up. Be careful.,Rắc chất lỏng này lên quả trứng của Nữ Hoàng Rắn để đánh thức cô ấy. Hãy cẩn thận.
+PROPQUEST_DUNGEONANDPK_INC_000485,You really will not see this through to the end?,Bạn thực sự sẽ không nhìn thấy điều này đến cuối cùng?
+PROPQUEST_DUNGEONANDPK_INC_000486,This vaccine will save many lives. Thank you.,Loại vắc xin này sẽ cứu sống nhiều người. Cảm ơn bạn.
+PROPQUEST_DUNGEONANDPK_INC_000487,Take this weapon as a token of gratitude and this card to venture deeper into the mine.,Hãy lấy vũ khí này như một biểu tượng của lòng biết ơn và thẻ này để tiến sâu hơn vào mỏ.
+PROPQUEST_DUNGEONANDPK_INC_000488,The Roaches appeared very suddenly in the mine. Maybe you can find out the reason by going deeper into the mine.,Những con Rắn xuất hiện rất đột ngột trong hầm mỏ. Có lẽ bạn có thể tìm ra lý do bằng cách đi sâu hơn vào hầm mỏ.
+PROPQUEST_DUNGEONANDPK_INC_000489,I am sure that you can handle the upcoming danger.,Tôi chắc chắn rằng bạn có thể đối phó với nguy hiểm sắp tới.
+PROPQUEST_DUNGEONANDPK_INC_000490,Gather the blood of Pinky and Blue Roach Queen.,Thu thập máu của Nữ hoàng rắn Pinky và Blue
+PROPQUEST_DUNGEONANDPK_INC_000493,Something about the way Bernard talks suggessts that the Roaches were placed in the mines intentionally. Maybe you can find out.,Có điều gì đó về cách nói chuyện của Bernard cho thấy rằng những con Rắn đã được đặt vào hầm mỏ một cách có chủ ý. Có lẽ bạn có thể tìm ra.
+PROPQUEST_DUNGEONANDPK_INC_000495,Dwarpet Kazen,Dwarpet Kazen
+PROPQUEST_DUNGEONANDPK_INC_000496,What brings you here? I am sure you know of the many deaths surrounding this place.,Điều gì mang bạn đến đây? Tôi chắc rằng bạn biết về nhiều cái chết xung quanh nơi này.
+PROPQUEST_DUNGEONANDPK_INC_000497,You will not be able to find out what happened here without my help. I will tell you what you want to know if you do me a favor. What do you think?,Bạn sẽ không thể tìm ra những gì đã xảy ra ở đây nếu không có sự giúp đỡ của tôi. Tôi sẽ cho bạn biết những gì bạn muốn biết nếu bạn giúp tôi. Bạn nghĩ sao?
+PROPQUEST_DUNGEONANDPK_INC_000498,Bring me 30 Cillin and I will tell you everything you need to know.,Hãy mang cho tôi 30 Cillin và tôi sẽ cho bạn biết mọi thứ bạn cần biết.
+PROPQUEST_DUNGEONANDPK_INC_000499,"Pssh, some great hero, you cannot even bring me some simple stones.","Pssh, một số anh hùng vĩ đại, bạn thậm chí không thể mang lại cho tôi một số viên đá đơn giản."
+PROPQUEST_DUNGEONANDPK_INC_000500,Hmm… I did not think you would be back so soon. Take this money as a gift.,Hmm… Tôi không nghĩ rằng bạn sẽ trở lại sớm như vậy. Hãy chấp nhận số tiền này như một món quà nhé.
+PROPQUEST_DUNGEONANDPK_INC_000501,I said 30. Not 29 or 28. Bring me 30 Cillin.,Tôi nói 30. Không phải 29 hay 28. Mang cho tôi 30 Cillin.
+PROPQUEST_DUNGEONANDPK_INC_000502,Gather 30 Cillin.,Thu thập 30 Cillin.
+PROPQUEST_DUNGEONANDPK_INC_000507,Bring Ribenuum,Mang theo Ribenuum
+PROPQUEST_DUNGEONANDPK_INC_000508,I am here in Dekane mining for Ribenuum. In all of Madrigal Ribenuum can only be found in the Darkon area.,Tôi đang ở đây để khai thác Dekane cho Ribenuum. Trong tất cả Madrigal Ribenuum chỉ có thể được tìm thấy trong khu vực Darkon.
+PROPQUEST_DUNGEONANDPK_INC_000509,Ribenuum is made when a Green Trillipy eats a stone and metabolizes it.,Ribenuum được tạo ra khi Green Trillipy ăn một viên đá và chuyển hóa nó.
+PROPQUEST_DUNGEONANDPK_INC_000510,Would you bring me some Ribenuum? A Green Tillipy is dangerous but you look equally as dangerous.,Bạn có thể mang cho tôi một ít Ribenuum? Green Tillipy nguy hiểm nhưng bạn trông cũng nguy hiểm không kém.
+PROPQUEST_DUNGEONANDPK_INC_000511,Green Trillipy are down the hall to the right. The room to the left is blocked.,Green Trillipy đang ở hành lang bên phải. Căn phòng bên trái bị chặn.
+PROPQUEST_DUNGEONANDPK_INC_000512,"Are you kidding me? Go on and get out of here, I may not look it but I am an old Dwarpet and I do not have time for games.","Đùa tôi à? Tiếp tục và ra khỏi đây, tôi có thể không nhìn nó nhưng tôi là một Người lùn già và tôi không có thời gian cho trò chơi."
+PROPQUEST_DUNGEONANDPK_INC_000513,Ahhh...you brought the Ribenuum. But what is this? It is flawed!,Ahhh...bạn đã mang Ribenuum. Nhưng cái này là gì? Thật là thiếu sót!
+PROPQUEST_DUNGEONANDPK_INC_000514,How hard is it to bring me what I asked for? 30 pieces of Ribenuum?,Thật khó để mang lại cho tôi những gì tôi đã yêu cầu? 30 miếng Ribenuum?
+PROPQUEST_DUNGEONANDPK_INC_000515,Gather 30 pieces of Ribenuum from Green Trillipy,Thu thập 30 mảnh Ribenuum từ Green Trillipy
+PROPQUEST_DUNGEONANDPK_INC_000520,Refine Ribenuum,Tinh chế Ribenuum
+PROPQUEST_DUNGEONANDPK_INC_000521,The Ribenuum you brought is impure. I could take it home and refine it myself but the other Dwarpets would laugh me back to Flarine.,Ribenuum bạn mang theo là không tinh khiết. Tôi có thể mang nó về nhà và tự tinh chế nhưng những Người lùn khác sẽ chê cười tôi khi quay lại Flarine.
+PROPQUEST_DUNGEONANDPK_INC_000522,"It will have to be refined in a human village then. There is only one human I trust to do it it right. There is man named Nein, he was one of the last humans to work in these mines. Maybe the very last human.","Sau đó nó sẽ phải được tinh chế trong một ngôi làng của con người. Chỉ có một người mà tôi tin tưởng để làm điều đó 1 cách đúng đắn. Có một người đàn ông tên là Nein, anh ta là một trong những người cuối cùng làm việc trong những khu mỏ này. Có thể là con người cuối cùng"
+PROPQUEST_DUNGEONANDPK_INC_000523,"Bring these Ribenuum to Nein and have him refine them. Then bring them back to me, would you?","Mang những Ribenuum này cho Nein và nhờ anh ta tinh chế chúng. Sau đó mang chúng trở lại cho tôi, bạn có được không?"
+PROPQUEST_DUNGEONANDPK_INC_000524,I heard that Nein lives somewhere in the Dead Walderness. He will refine the 30 pieces of impure Ribenuum into 10 pieces of high quality Ribenuum.,Tôi nghe nói rằng Nein sống ở đâu đó trong Dead Walderness. Anh ta sẽ tinh chế 30 mảnh Ribenuum không tinh khiết thành 10 mảnh Ribenuum chất lượng cao.
+PROPQUEST_DUNGEONANDPK_INC_000525,Are you kidding me? Get lost! I do not have patience for games!,Đùa tôi à? Bị lạc! Tôi không có kiên nhẫn cho các trò chơi!
+PROPQUEST_DUNGEONANDPK_INC_000526,"Oh… Thank you, thank you, thank you! Take this necklace and some money with you.","Oh…Cảm ơn bạn, cảm ơn bạn, cảm ơn bạn! Hãy mang theo chiếc vòng cổ này và một ít tiền. "
+PROPQUEST_DUNGEONANDPK_INC_000527,Hmmm... maybe I was asking too much of you. You can just go home.,Hmmm…có lẽ tôi đã yêu cầu quá sức của bạn. Bạn có thể về nhà luôn cũng được.
+PROPQUEST_DUNGEONANDPK_INC_000528,Gather 10 pieces of high quality Ribenuum,Tập hợp 10 miếng Ribenuum chất lượng cao
+PROPQUEST_DUNGEONANDPK_INC_000533,Bring Triduum,Mang theo Triduum
+PROPQUEST_DUNGEONANDPK_INC_000534,"Ribenuum is useless to most humans. Maybe you have a Dwarpet friend you can give it to? Here, let me see it. These samples are too impure and even I cannot refine them without the right materials.","Ribenuum là vô dụng đối với hầu hết con người. Có thể bạn có một người bạn Người lùn mà bạn có thể tặng nó cho người bạn đó? Đây, để tôi xem. Những mẫu này quá không tinh khiết và thậm chí tôi không thể tinh chế chúng nếu không có vật liệu phù hợp."
+PROPQUEST_DUNGEONANDPK_INC_000535,I need a special metal called Triduum in order to refine this. You can get it by hunting Violet Trillipy but they live deep in the Dekane Mine.,Tôi cần một loại kim loại đặc biệt gọi là Triduum để tinh luyện thứ này. Bạn có thể lấy nó bằng cách săn Violet Trillipy nhưng chúng sống sâu trong hầm mỏ Dekane.
+PROPQUEST_DUNGEONANDPK_INC_000536,Well… If you really need the Ribenuum refined bring me 20 Triduums. You are going to need a special ID card to go in there.,"Chà…Nếu bạn thực sự cần Ribenuum tinh chế, hãy mang cho tôi 20 Triduums. Bạn sẽ cần một thẻ ID đặc biệt để vào đó. "
+PROPQUEST_DUNGEONANDPK_INC_000537,Go and get an ID card from the guys I used to work with.,Hãy đi lấy thẻ căn cước từ những người tôi từng làm việc cùng.
+PROPQUEST_DUNGEONANDPK_INC_000538,Ha ha ha.You can do that if you need to. I hope you are not doing this for some Dwarpet.,Ha ha ha. Bạn có thể làm điều đó nếu bạn cần. Tôi hy vọng bạn không làm điều này vì một số Người lùn
+PROPQUEST_DUNGEONANDPK_INC_000539,"Here is your refined Ribenuum. But, a word of warning, if the Dwarpet Kazen asked you for this… he is thinking more than he is saying.","Đây là Ribenuum tinh chế của bạn. Nhưng, cảnh báo trước, nếu Dwarpet Kazen hỏi bạn điều này… thì lời anh ta nói ra chưa chắc đã là những gì anh ta nghĩ đâu."
+PROPQUEST_DUNGEONANDPK_INC_000540,Kazen has hated humans for as long as I have known him and him working with you means he is on to something big. You know… there is a rumor that he had a hand in all the deaths in that mine.,"Kazen đã căm ghét con người từ khi tôi biết anh ấy rồi, việc anh ta chịu hợp tác với bạn nghĩa là anh ta đang âm mưu gì đó lớn đấy. Bạn biết đấy… có tin đồn rằng anh ta đã nhúng tay vào tất cả những cái chết trong khu mỏ đó."
+PROPQUEST_DUNGEONANDPK_INC_000541,You let me know if he is acting suspiciously. Maybe I can do something to help you.,Bạn cho tôi biết nếu anh ta đang hành động đáng ngờ. Có lẽ tôi có thể làm gì đó để giúp bạn
+PROPQUEST_DUNGEONANDPK_INC_000542,Why not just let it go? Go home and get some rest.,Tại sao không chỉ để nó đi? Về nhà nghỉ ngơi đi.
+PROPQUEST_DUNGEONANDPK_INC_000543,Get the ID card that will allow you into the room with the Violet Trillipy. Hunt them down and bring 20 pieces of Triduum to Nein.,Lấy thẻ căn cước sẽ cho phép bạn vào phòng với Violet Trillipy. Hãy săn lùng chúng và mang 20 mảnh Triduum cho Nein.
+PROPQUEST_DUNGEONANDPK_INC_000548,ID Card (1),Thẻ căn cước (1)
+PROPQUEST_DUNGEONANDPK_INC_000549,"What? You want to know where the Violet Trillipy live? You seem so curious about this accursed mine. Unfortunately, there are not many people left who know much about it.","Cái gì? Bạn muốn biết Violet Trillipy sống ở đâu? Bạn có vẻ rất tò mò về điều đáng nguyền rủa này của tôi. Thật không may, không còn nhiều người biết nhiều về nó."
+PROPQUEST_DUNGEONANDPK_INC_000550,Only a few of the mine workers go that deep into the mine. I don't know much about them or the ID card they use to get down there. Oh! You should go speak with Bernard about this.,Chỉ có một số mine workers đi sâu vào mỏ. Tôi không biết nhiều về họ hay thẻ ID mà họ dùng để xuống đó. Ồ! Bạn nên nói chuyện với Bernard về điều này.
+PROPQUEST_DUNGEONANDPK_INC_000551,Would you please say Hi to Bernard for me?,Bạn vui lòng nói Xin chào Bernard giùm tôi được không?
+PROPQUEST_DUNGEONANDPK_INC_000552,"No, you are right. You should not be the next one to suffer.","Không, bạn đã đúng. Bạn không nên là người tiếp theo phải chịu đựng."
+PROPQUEST_DUNGEONANDPK_INC_000553,Violet Trillipy… Do you mean you are going in there with them?,Violet Trillipy….Ý bạn là bạn sẽ vào đó với họ à?
+PROPQUEST_DUNGEONANDPK_INC_000554,Why not just relax and give it up?,Tại sao không chỉ cần thư giãn và từ bỏ nó?
+PROPQUEST_DUNGEONANDPK_INC_000555,"Chat with Bernard, then meet Andre in Darkon 3.","Trò chuyện với Bernard, sau đó gặp Andre trong Darkon 3."
+PROPQUEST_DUNGEONANDPK_INC_000560,ID card (2),Thẻ căn cước (2)
+PROPQUEST_DUNGEONANDPK_INC_000561,"Look, I have no problem giving you the ID card… I just do not want to see you die… But if you really insist, then fine. Hunt some Watangka and I will give you the card.","Nghe này, tôi không có vấn đề gì với việc đưa thẻ ID cho bạn… Tôi chỉ không muốn bạn đi đời thôi… Nhưng nếu bạn thực sự muốn vậy thì được thôi. Săn vài con Watangka đi rồi tôi sẽ đưa thẻ cho bạn."
+PROPQUEST_DUNGEONANDPK_INC_000562,If you can hunt Watangka you can probably hunt Violet Trillipy.,"Nếu bạn có thể săn Watangka, bạn có thể săn Violet Trillipy."
+PROPQUEST_DUNGEONANDPK_INC_000563,Bye bye then! Take care of yourself…,Tạm biệt nhé! Hãy chăm sóc bản thân…
+PROPQUEST_DUNGEONANDPK_INC_000564,Hmm… Violet Trillipy may be stronger than Watangka.,Hmm… Violet Trillipy có thể mạnh hơn Watangka. 
+PROPQUEST_DUNGEONANDPK_INC_000565,"Alright, here is the ID card. Just make sure you come out of there alive. I do not need a guilty conscience.","Được rồi, đây là thẻ căn cước. Chỉ cần đảm bảo rằng bạn sống sót ra khỏi đó. Tôi không cần lương tâm cắn rứt."
+PROPQUEST_DUNGEONANDPK_INC_000566,I guess we all get tired sometime?,Tôi nghĩ rằng tất cả chúng ta đều sẽ có lúc cảm thấy mệt mỏi chứ?
+PROPQUEST_DUNGEONANDPK_INC_000567,Defeat 30 Captain Watangka and the Lord Watangka.,Defeat 30 Captain Watangka and the Lord Watangka.
+PROPQUEST_DUNGEONANDPK_INC_000572,Door of Dark,Cánh cửa bóng tối
+PROPQUEST_DUNGEONANDPK_INC_000573,"Excuse me. If you are not busy, would you please listen to my story? Have you ever heard of the Iblis Temple?","Xin lỗi cho tôi hỏi. Nếu bạn không bận, bạn vui lòng nghe câu chuyện của tôi? Bạn đã bao giờ nghe nói về Đền thờ Iblis chưa?"
+PROPQUEST_DUNGEONANDPK_INC_000574,"The Iblis Temple was built by the followers of Iblis, a leader from before the first age of Madrigal.","Đền Iblis được xây dựng bởi những người theo Iblis, một nhà lãnh đạo từ trước thời đại đầu tiên của Madrigal."
+PROPQUEST_DUNGEONANDPK_INC_000575,"The temple is located in the Fantasy Desert, in the southern part of Saint Morning.","Ngôi đền nằm trong sa mạc Fantasy, ở phía nam của Saint Morning."
+PROPQUEST_DUNGEONANDPK_INC_000576,You see... every mayor has to explore all the Islands of Madrigal. In the course of these travels we have to visit the Iblis Temple but... I am so afraid.,"Bạn thấy đấy… mọi thị trưởng đều phải tìm hiểu và học hỏi về tất cả Islands of Madrigal. Trong những chuyến đi này, chúng tôi phải đến thăm Iblis Temple nhưng .. tôi rất sợ."
+PROPQUEST_DUNGEONANDPK_INC_000577,Would you please help me? I beg of you.,Bạn có thể làm ơn giúp tôi được không? Tôi cầu xin bạn.
+PROPQUEST_DUNGEONANDPK_INC_000578,"Thank you! Please, investigate the entrance of the temple for anything dangerous. Would you?",Cảm ơn bạn! Vui lòng điều tra lối vào của ngôi đền xem có gì nguy hiểm không. Bạn có muốn không?
+PROPQUEST_DUNGEONANDPK_INC_000579,"I cannot force you to help me if you are busy. But maybe, when you have the time, you could come back and help me.","Tôi không thể ép bạn giúp tôi nếu bạn bận. Nhưng có thể, khi nào có thời gian, bạn có thể quay lại giúp tôi."
+PROPQUEST_DUNGEONANDPK_INC_000580,"Thank you, you did a great job.","Xin cảm ơn, bạn đã làm tốt lắm"
+PROPQUEST_DUNGEONANDPK_INC_000581,It is very easy to find the entrance of the temple in Fantasy Desert.,Rất dễ dàng tìm thấy lối vào của ngôi đền trong Sa mạc Fantasy.
+PROPQUEST_DUNGEONANDPK_INC_000582,Investigate the temple entrace.,Điều tra lối vào ngôi đền
+PROPQUEST_DUNGEONANDPK_INC_000584,Temple of the Clown,Ngôi đền của Clown
+PROPQUEST_DUNGEONANDPK_INC_000585,Oh... Back so soon? I am glad you are back but I am still so worried.,Oh ..Trở lại nhanh như vậy sao? Tôi rất vui vì bạn đã trở lại nhưng tôi vẫn còn rất lo lắng.
+PROPQUEST_DUNGEONANDPK_INC_000586,I guess I am still worrying about the Iblis Temple. I know you said that there is nothing to worry about but I still have a bad feeling about that place.,Tôi đoán tôi vẫn đang lo lắng về Ngôi đền Iblis. Tôi biết bạn đã nói rằng không có gì phải lo lắng nhưng tôi vẫn có cảm giác không tốt về nơi đó.
+PROPQUEST_DUNGEONANDPK_INC_000587,Would you please help me once more? I will not be able to rest until I know for sure…,Bạn vui lòng giúp tôi một lần nữa được không? Tôi sẽ không thể nghỉ ngơi cho đến khi tôi biết chắc chắn…
+PROPQUEST_DUNGEONANDPK_INC_000588,"I heard that there is a copy of the Iblis Revelation in the temple. Please bring me a rubbed copy of it, I need to see what it says.","Tôi nghe nói rằng có một bản sao của Khải Huyền Iblis trong đền thờ. Vui lòng mang cho tôi một bản sao của nó, tôi cần xem nó nói gì."
+PROPQUEST_DUNGEONANDPK_INC_000589,...but I... I... need your help…,..nhưng tôi .. tôi .. cần sự giúp đỡ của bạn… 
+PROPQUEST_DUNGEONANDPK_INC_000590,This… this is more shocking than I could have imagined. Bubble please protect us.,Điều này… điều này gây sốc hơn tôi tưởng tượng. Bubble xin hãy bảo vệ chúng tôi.
+PROPQUEST_DUNGEONANDPK_INC_000591,There is a copy of the Iblis Revelation in the Iblis Temple. Bring a rubbed copy of it.,Có một bản sao của Khải Huyền Iblis trong Ngôi đền Iblis. Hãy mang theo một bản sao của nó.
+PROPQUEST_DUNGEONANDPK_INC_000593,The Revival,Sự hồi sinh
+PROPQUEST_DUNGEONANDPK_INC_000594,What should we do?! What should we do?!,Chúng ta nên làm gì?! Chúng ta nên làm gì?!
+PROPQUEST_DUNGEONANDPK_INC_000595,I read the revelation and it speaks of the revival of Iblis as the trigger to the end of the world!,Tôi đã đọc sách Khải Huyền và nó nói về sự hồi sinh của Iblis như là nguyên nhân dẫn đến ngày tận thế!
+PROPQUEST_DUNGEONANDPK_INC_000596,"If this is true, we have to stop it! This could be worse than the Hero Wars of long ago.","Nếu điều này là đúng, chúng ta phải ngăn chặn nó! Điều này có thể tồi tệ hơn so với các cuộc chiến tranh anh hùng từ lâu."
+PROPQUEST_DUNGEONANDPK_INC_000597,You told me that you saw new types of masquerpets while you were getting the revelation right? I think that maybe…,Bạn đã nói với tôi rằng bạn đã nhìn thấy các chủng loại masquerpets mới trong khi bạn đang đọc sách Khải Huyền đúng không? Tôi nghĩ rằng có thể…
+PROPQUEST_DUNGEONANDPK_INC_000598,...they are the scouts of the army of Iblis. It looks like we may have to work together for a little while longer. Are you willing to help?,..bọn chúng là những quân do thám của quân đội Iblis. Có vẻ như chúng ta phải hợp tác một thời gian nữa. Bạn có sẵn sàng hỗ trợ không?
+PROPQUEST_DUNGEONANDPK_INC_000599,Excellent. Go in to the temple and gather any information you can about the strange masquerpets.,Xuất sắc. Đi vào ngôi đền và thu thập bất kỳ thông tin nào bạn có thể về những con masquerpets kỳ lạ.
+PROPQUEST_DUNGEONANDPK_INC_000600,What?! Are you really going to stand by and let the world end?,Cái gì?! Bạn có thực sự sẽ chờ đợi và để cho thế giới kết thúc?
+PROPQUEST_DUNGEONANDPK_INC_000601,"Hmm... Iblis Crasher... So, that is one of the masquerpets? Alright, give me some time to study this information. Thank you.","Hmm .. Iblis Crasher .. Vậy, đó là một trong những con masquerpets à? Được rồi, hãy cho tôi chút thời gian để tìm hiểu thông tin này. Cảm ơn bạn."
+PROPQUEST_DUNGEONANDPK_INC_000602,Any information about any Masquerpets is good.,Mọi thông tin về Masquerpets đều tốt.
+PROPQUEST_DUNGEONANDPK_INC_000603,Go into the temple and gather any information you can.,Đi vào ngôi đền và thu thập bất kỳ thông tin nào bạn có thể.
+PROPQUEST_DUNGEONANDPK_INC_000605,Into the Dark,Đi vào bóng tối
+PROPQUEST_DUNGEONANDPK_INC_000606,Hi. I have studied the information you brought me and I have found that there is an altar in the Iblis Temple. There is also evidence that there are masquerpets guarding the altar.,Chào. Tôi đã nghiên cứu thông tin mà bạn mang đến cho tôi và tôi thấy rằng có một tế đàn trong Đền Iblis. Cũng có bằng chứng cho thấy rằng có những con masquerpets canh giữ tế đàn.
+PROPQUEST_DUNGEONANDPK_INC_000607,Do you see? They do not want anyone to interupt the revival of Iblis. We need to do something. We need to stop them!,Bạn có thấy không? Họ không muốn bất cứ ai làm gián đoạn sự hồi sinh của Iblis. Chúng ta cần phải làm một điều gì đó. Chúng ta cần phải ngăn chặn chúng!
+PROPQUEST_DUNGEONANDPK_INC_000608,Are you ready for one last journey into the dark?,Bạn đã sẵn sàng cho một cuộc hành trình cuối cùng vào bóng tối?
+PROPQUEST_DUNGEONANDPK_INC_000609,"I knew you would be. There is a masquerpet name Iblis Guardian. If you can defeat it, you can enter the altar.","Tôi biết bạn sẽ như vậy. Có một con quái tên Người canh gác Iblis. Nếu bạn có thể đánh bại nó, bạn có thể vào tế đàn."
+PROPQUEST_DUNGEONANDPK_INC_000610,Are you serious? What could be more important than saving the world?,Bạn nghiêm túc chứ? Điều gì có thể quan trọng hơn việc giải cứu thế giới?
+PROPQUEST_DUNGEONANDPK_INC_000611,"Great job, now you can enter the altar. I am counting on you to defeat the followers of Iblis... we all are. Go to the altar now.","Làm tốt lắm, bây giờ bạn có thể vào tế đàn. Tôi trông cậy vào bạn để đánh bại những người theo Iblis ... tất cả chúng ta đều như vậy. Tiến đến tế đàn ngay."
+PROPQUEST_DUNGEONANDPK_INC_000612,I do not know exactly where Iblis Guardian is. But we have to find it and destroy it.,Tôi không biết chính xác Người canh gác Iblis ở đâu. Nhưng chúng ta phải tìm ra nó và tiêu diệt nó.
+PROPQUEST_DUNGEONANDPK_INC_000613,Defeat Iblis Guardian and enter the altar.,Đánh bại Người canh gác Iblis và tiến vào tế đàn
+PROPQUEST_DUNGEONANDPK_INC_000615,If you can defeat the Iblis Guardian you can enter the altar.,"Nếu bạn có thể đánh bại Người canh gác Iblis, bạn có thể tiến vào tế đàn"
+PROPQUEST_DUNGEONANDPK_INC_000625,Dekane Mine,Hầm mỏ Dekane
+PROPQUEST_DUNGEONANDPK_INC_000626,Iblis Temple,Ngôi đền Iblis
+PROPQUEST_DUNGEONANDPK_INC_000640,Bloody corridor,Hành lang đẫm máu
+PROPQUEST_DUNGEONANDPK_INC_000641,Well... Not a bad deal... Can you collect 20 Blood Trillipy Shells and defeat a Mutant Keakoon Worker?,Chà... Một thỏa thuận không tồi... Bạn có thể thu thập 20 Blood Trillipy Shells và đánh bại Mutant Keakoon Worker không?
+PROPQUEST_DUNGEONANDPK_INC_000642,"In that case...Hic, good luck.","Trong trường hợp đó ... Hic, chúc may mắn."
+PROPQUEST_DUNGEONANDPK_INC_000643,Hmm... the Hazardous Blood Trillipys are much stronger...,Hừm ... Hazardous Blood Trillipys mạnh hơn nhiều ...
+PROPQUEST_DUNGEONANDPK_INC_000644,Thanks to you the extraction in this area will be much easier!,Nhờ bạn mà việc khai thác trong lĩnh vực này sẽ dễ dàng hơn nhiều!
+PROPQUEST_DUNGEONANDPK_INC_000645,Hmm... Despite your level the Hazardous Blood Trillipys are much stronger...,"Hmm ... Bất chấp cấp độ của bạn, Hazardous Blood Trillipys mạnh hơn nhiều ..."
+PROPQUEST_DUNGEONANDPK_INC_000646,Collect $QUEST_END_ITEM_COUNT$ loot from the Bloody Trilipy and kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$.,Thu thập $ QUEST_END_ITEM_COUNT $ chiến lợi phẩm từ Bloody Trilipy và giết $ QUEST_END_KILL_COUNT $ $ QUEST_END_KILL_NAME $.
+PROPQUEST_DUNGEONANDPK_INC_000648,The bottom of the mine,Đáy của hầm mỏ
+PROPQUEST_DUNGEONANDPK_INC_000649,"Hello, if you're here it's because you've defeated all the known monsters in the mine. I'm Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem that lies at the bottom of the mine. In a secret room sleep dragons from ancient times created by Shade ages ago.","Xin chào, nếu bạn ở đây là vì bạn đã đánh bại tất cả những con quái vật đã biết trong hầm mỏ. Tôi là Dekane, người tạo ra cái hầm mỏ này. Bây giờ bạn đã chứng minh được bản thân, tôi sẽ có thể cho bạn biết vấn đề thực sự nằm ở đáy của hầm mỏ. Trong một căn phòng bí mật, những con rồng từ thời cổ đại được tạo ra bởi Shade từ nhiều năm trước."
+PROPQUEST_DUNGEONANDPK_INC_000650,Good luck!,Chúc bạn may mắn!
+PROPQUEST_DUNGEONANDPK_INC_000651,It is true that this is not an easy thing for an adventurer. Come and try your luck again when you are ready.,Có 1 sự thật là đây không phải là một điều dễ dàng đối với một nhà thám hiểm. Hãy đến và thử vận may của bạn một lần nữa khi bạn đã sẵn sàng.
+PROPQUEST_DUNGEONANDPK_INC_000652,So you really did kill them all... Thank you very much.,"Vì vậy, bạn thực sự đã giết tất cả họ ... Cảm ơn bạn rất nhiều."
+PROPQUEST_DUNGEONANDPK_INC_000654,Collect 30 Blood Trillipy Shells from the Bloody Trillipy and kill 3 Mutant Keakoon Workers.,Thu thập 30 Blood Trillipy Shells từ Bloody Trilipy và giết 3 Mutant Keakoon Workers.
+PROPQUEST_DUNGEONANDPK_INC_000656,"To defeat them, you'll need a well-armed team. Ah, but there's one detail I forgot to mention. You'll need 1,000,000 Penya to open the door, but for now, collecting 30 Blood Trillipy Shells and defeating 3 Mutant Keakoon Workers will be enough. Are you ready to accept this challenge?","Để đánh bại chúng, bạn sẽ cần một đội được vũ trang tốt. Ah, nhưng có một chi tiết tôi quên đề cập đến. Bạn sẽ cần 1.000.000 Penya để mở cửa, nhưng hiện tại, thu thập 30 Blood Trilipy Shells và đánh bại 3 Mutant Keakoon worker là đủ. Bạn đã sẵn sàng chấp nhận thử thách này chưa?"

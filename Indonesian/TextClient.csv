@@ -1,0 +1,1544 @@
+﻿Key,English,Indonesian
+TEXTCLIENT_CONNECTING,Connecting. Please wait.,Menghubungkan. Mohon tunggu.
+TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Tidak dapat terhubung ke game. Silakan periksa jaringan.
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Permainan telah diperbarui. Silakan tutup halaman dan buka lagi.
+TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Pengidentifikasi server salah.
+TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Kesalahan tidak diketahui, harap coba lagi."
+TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Akunmu sudah terhubung.
+TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,Apakah kamu ingin memutuskan sambungan perangkat lain?
+TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,Perangkat terputus. Silakan login kembali dalam 10 detik.
+TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.","Channel ini sedang penuh, mohon tunggu sebentar atau pilih channel lain."
+TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Nama karakter sudah digunakan.
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss Monster Detected!
+TEXTCLIENT_APP_MAP,World Map,World Map
+TEXTCLIENT_APP_OPTION,Options,Options
+TEXTCLIENT_APP_LOGOUT,Logout,Logout
+TEXTCLIENT_APP_QUIT,Quit,Quit
+TEXTCLIENT_APP_SUPPORT,Support,Support
+TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_NAVIGATOR,Navigator,Navigator
+TEXTCLIENT_APP_DEBUG,Debug,Debug
+TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,Logging out in %d sec(s).
+TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,Changing character in %d sec(s).
+TEXTCLIENT_LINKACCOUNT,Linking account in %d sec(s).,Linking account in %d sec(s).
+TEXTCLIENT_LOGOUT,Do you want to disconnect?,Apakah kamu ingin disconnect?
+TEXTCLIENT_LOGOUT_GUEST,#cffff0000You will lose your guest character.#nc Please link an account.,#cffff0000Kamu akan kehilangan guest karaktermu.#nc Harap tautkan akun.
+TEXTCLIENT_EXIT,Do you want to exit the program?,Apakah kamu ingin keluar dari program?
+TEXTCLIENT_DISCONNECTED,Disconnected from the server.,Terputus dari server.
+TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,Pembuatan karakter dinonaktifkan di server ini.
+TEXTCLIENT_MAPHIDDEN,There seems to be an evil force clouding your vision of the area.,Tampaknya ada kekuatan jahat yang mengaburkan visimu tentang area tersebut.
+TEXTCLIENT_ITEM_DESC,Description:,Keterangan:
+TEXTCLIENT_INVALIDCHARACTERS,This name contains unauthorized characters.,Nama ini mengandung karakter yang tidak sah.
+TEXTCLIENT_INVALIDNAME,This name contains unauthorized words.,Nama ini mengandung kata-kata yang tidak sah.
+TEXTCLIENT_IPBANNED,Your public internet address has been banned. Contact the administrator for more informations.,Alamat internet publikmu telah diblokir. Hubungi administrator untuk informasi lebih lanjut.
+TEXTCLIENT_IPRESTRAINTED,The game is currently not available in your country.,Game saat ini tidak tersedia di negaramu.
+TEXTCLIENT_IPBLOCKED,An important activity has been detected on your public internet address. Please wait %s before trying again.,Aktivitas penting telah terdeteksi di alamat internet publikmu. Harap tunggu %s sebelum mencoba lagi.
+TEXTCLIENT_SECS,second(s),detik(s)
+TEXTCLIENT_MINS,minute(s),menit(s)
+TEXTCLIENT_HOURS,hour(s),jam(s)
+TEXTCLIENT_SESSIONEXPIRED,"Your session has expired, please enter your login and password again.","Sesi telah kedaluwarsa, silakan masukkan lagi login dan kata sandimu."
+TEXTCLIENT_ADMIN,Admin,Admin
+TEXTCLIENT_DEVELOPER,Dev,Dev
+TEXTCLIENT_GAMEMASTER,Game Master,Game Master
+TEXTCLIENT_MODERATOR,MOD,MOD
+TEXTCLIENT_VENDOR_NPC,[Vendor],[Vendor]
+TEXTCLIENT_APP_CHAT,Chatting,Chatting
+TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Login atau kata sandimu tidak valid.
+TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,Otentikasi gagal. Silakan coba lagi.
+TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Posisi: x = %f, y = %f, z = %f, angle = %f"
+TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,Kamu tidak dapat mengirim PM ke diri sendiri.
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s tidak ada atau tidak online.
+TEXTCLIENT_APP_NOTICE,Notice,Notice
+TEXTCLIENT_APP_STATUS,Status,Status
+TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s - Lv: %d
+TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,Kamu tidak dapat menggunakannya selama skill motion.
+TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,Kamu tidak dapat menggunakan Blinkwing ketika duduk.
+TEXTCLIENT_STAND_LIMIT,You can use it when you stand up.,Kamu dapat menggunakannya saat berdiri.
+TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,Tidak dapat digunakan saat terbang.
+TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,Kamu tidak bisa terbang ke sini.
+TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,Kamu tidak diperbolehkan untuk berbicara.
+TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,Kamu menerima penalti %d menit karena terlalu banyak mengobrol.
+TEXTCLIENT_APP_MOTION,Motion,Motion
+TEXTCLIENT_APP_CHARINFO,Character,Character
+TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s recovery limited to %d.
+TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,Harap tunggu beberapa saat sebelum menggunakan item tersebut kembali.
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,Tekan Lodestar untuk resurrect (Kota Terdekat) atau menggunakan item untuk resurrect di tempat.
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,Tekan Lodestar untuk resurrect di dekat Arena.
+TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,Kamu tidak dapat menyerang monster yang sedang bertarung melawan pemain lain.
+TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,Kamu tidak bisa berhenti selama pertempuran.
+TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,Level up! Kamu dapat meningkatkan statistikmu di window karakter.
+TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,Selamat! Level up!
+TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,Apakah kamu ingin menggunakan pengaturan Stat saat ini?
+TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,Stat valuemu akan diatur ulang setelah 1st job change.
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,Fitur ini hanya tersedia pada Extended Battle Pass atau Hero Quest.
+TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,Kamu dapat menukar halaman stat setiap %d detik.
+TEXTCLIENT_ADMIN_STATE,Status,Status
+TEXTCLIENT_ADMIN_NORMAL,Normal,Normal
+TEXTCLIENT_SPEED_VERYSLOW,Very slow,Sangat lambat
+TEXTCLIENT_SPEED_LOW,Slow,Lambat
+TEXTCLIENT_SPEED_NORMAL,Normal,Normal
+TEXTCLIENT_SPEED_FAST,Fast,Cepat
+TEXTCLIENT_SPEED_VERYFAST,Very fast,Sangat cepat
+TEXTCLIENT_SPEED_FASTEST,Fastest,Tercepat
+TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%s milik pemain lain saat ini. Mohon tunggu sebentar.
+TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,Inventory penuh. Harap sediakan ruang dan coba lagi.
+TEXTCLIENT_REAPITEM,You received %s.,Kamu menerima %s.
+TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,Kamu menerima %s +%d.
+TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s telah bertambah %s.
+TEXTCLIENT_APP_INVENTORY,Inventory,Inventory
+TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,Kamu menerima %s Penya (Total: %s Penya).
+TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%s bukan untuk gendermu.
+TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,Kamu tidak dapat menggunakannya %s. Persyaratan tidak terpenuhi.
+TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),Kamu tidak dapat menggunakan item ini karena levelmu terlalu rendah. (Req Lev: %d)
+TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,Kamu tidak dapat membuang item ini.
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,You are already using this item.
+TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,Jumlah %s yang dihapus: %d.
+TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.","Tidak bisa menyerang, tidak ada monster yang ditargetkan."
+TEXTCLIENT_NOTUSE,You cannot use this yet.,Kamu belum bisa menggunakan ini.
+TEXTCLIENT_ERROR_NOTLEVEL,Your level is too low.,Levelmu terlalu rendah.
+TEXTCLIENT_BLOCK_PM,%s is in the 'Refuse to Whisper/Messenger' setting.,%s ada di setting 'Refuse to Whisper/Messenger'.
+TEXTCLIENT_YETTRADE,That player is currently busy. Please try again after few minutes.,Pemain itu sedang sibuk. Silakan coba lagi setelah beberapa menit.
+TEXTCLIENT_ITEMNOTUSE_TRADING,You cannot use items while trading.,Kamu tidak dapat menggunakan item saat trading.
+TEXTCLIENT_REDCHIP,Red Chip,Red Chip
+TEXTCLIENT_ERROR_EQUIPTRADE,Please unequip the item before selling it.,Harap lepaskan item sebelum menjualnya.
+TEXTCLIENT_ERROR_NPCBUFFLEVEL,Only level %d~%d character can get buffs.,Hanya karakter level %d~%d yang bisa mendapatkan buff.
+TEXTCLIENT_ERROR_NPCBUFFFAIL,You cannot use %s right now.,Kamu tidak dapat menggunakan %s sekarang.
+TEXTCLIENT_LEVEL15JOB,Now it's time to choose your job.,Sekarang saatnya untuk memilih jobmu.
+TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,Selamat! Kamu telah advanced ke job class %s.
+TEXTCLIENT_APP_SKILL,Skills,Skills
+TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,Character Level: %d
+TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Kamu sedang mempelajari attack pattern baru!
+TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,Kamu perlu menggunakan senjata atau item yang benar untuk menggunakan skill itu.
+TEXTCLIENT_REQFP,Not enough FP.,Tidak cukup FP.
+TEXTCLIENT_REQMP,Not enough MP.,Tidak cukup MP.
+TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Tindakan ini telah diblokir oleh rintangan..
+TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s skill level %d diperlukan.
+TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s skill level meningkat.
+TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,Private shop
+TEXTCLIENT_APP_QUEST,Quests,Quests
+TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Flyff Shop
+TEXTCLIENT_PREMIUM_ITEMS,Premium Items,Premium Items
+TEXTCLIENT_COMMUNICATION,Communication,Communication
+TEXTCLIENT_COMMUNITY,Community,Community
+TEXTCLIENT_HELPER,Helper,Helper
+TEXTCLIENT_APP_ITEM_DURATION,Duration,Duration
+TEXTCLIENT_APP_MESSENGER,Messenger,Messenger
+TEXTCLIENT_APP_PARTY,Party,Party
+TEXTCLIENT_APP_GUILD,Guild,Guild
+TEXTCLIENT_APP_COUPLE,Couple,Couple
+TEXTCLIENT_APP_HELP,Help,Help
+TEXTCLIENT_APP_HELP_TIPS,Tips,Tips
+TEXTCLIENT_APP_FAQ,FAQ,FAQ
+TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
+TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Wiki Help
+TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Kamu tidak bisa membuat Party di arena Guild Siege.
+TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Kamu tidak dapat mengundang karakter lain untuk bergabung dengan party selama party PvP.
+TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Kamu tidak dapat bergabung dengan party selama duel.
+TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Kamu tidak dapat bergabung dengan guild selama duel.
+TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,Kamu tidak dapat mengundang orang lain untuk bergabung ke partymu selama pertempuran.
+TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,Tidak dapat mengundang pemain dari server yang berbeda.
+TEXTCLIENT_PARTYOTHER,%s is currently in another party.,%s saat ini berada di party lain.
+TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s sudah ada di partymu.
+TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,Pemain tidak dapat bergabung dengan party.
+TEXTCLIENT_PARTYFAILINVITATE,%s has refused to join the party.,%s telah menolak untuk bergabung ke party.
+TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,%s saat ini tidak menerima undangan Party
+TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,Hanya party leader yang dapat mengundang anggota baru.
+TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,Batas party maksimal 8 pemain telah tercapai.
+TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,Kamu telah gagal untuk bergabung ke party.
+TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,Kamu telah gagal untuk bergabung ke guild.
+TEXTCLIENT_PARTYCREATE,Party has been created.,Party telah dibuat.
+TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s telah bergabung ke party.
+TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s telah meninggalkan party.
+TEXTCLIENT_PARTYEXIT,You have left the party.,Kamu telah meninggalkan party.
+TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,Party telah dibubarkan.
+TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,Kamu telah memilih Lodelight sebagai titik re-spawnmu.
+TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,Hanya Party Leader yang dapat mentransfer Leader Status ke anggota party lainnya.
+TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,Kamu tidak dapat meneruskan party leadership ke pemain offline.
+TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,Kamu sudah menjadi Party Leader.
+TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,Tidak dapat mengubah party leader selama duel party.
+TEXTCLIENT_PARTY_TROUPEUP,Party level increased to 10.,Level party meningkat menjadi 10.
+TEXTCLIENT_PARTY_LEVELUP,Party level increased.,Party level meningkat.
+TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose another one.,Nama party itu sudah digunakan. Silakan pilih yang lain.
+TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,Nama party ini mengandung karakter atau kata yang tidak sah.
+TEXTCLIENT_ERROR,Error,Error
+TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,Party telah diubah menjadi Advanced Party.
+TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,Nama party telah diubah menjadi %s.
+TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,Hanya party leader yang bisa menggunakan skill party.
+TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,Partymu tidak memiliki level yang dibutuhkan.
+TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,Tidak dapat menggunakan skill. Party experience yang tidak memadai.
+TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,Kamu masih menggunakan party skill %s. Coba lagi nanti.
+TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,Party skill %s telah digunakan.
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,Efek %s akan segera berakhir.
+TEXTCLIENT_ACR_FAME01,Rogue,Rogue
+TEXTCLIENT_ACR_FAME02,Outlaw,Outlaw
+TEXTCLIENT_ACR_FAME03,Vigilante,Vigilante
+TEXTCLIENT_ACR_FAME04,Pathfinder,Pathfinder
+TEXTCLIENT_ACR_FAME05,Pursuer,Pursuer
+TEXTCLIENT_ACR_FAME06,Hejerdor,Hejerdor
+TEXTCLIENT_ACR_FAME07,Phoenix,Phoenix
+TEXTCLIENT_ACR_FAME08,Splitter,Splitter
+TEXTCLIENT_ACR_FAME09,Valcan,Valcan
+TEXTCLIENT_ACR_FAME10,Lamia,Lamia
+TEXTCLIENT_MER_FAME01,Trainer,Trainer
+TEXTCLIENT_MER_FAME02,Fighter,Fighter
+TEXTCLIENT_MER_FAME03,Gladiator,Gladiator
+TEXTCLIENT_MER_FAME04,Berserker,Berserker
+TEXTCLIENT_MER_FAME05,Wardancer,Wardancer
+TEXTCLIENT_MER_FAME06,Blaster,Blaster
+TEXTCLIENT_MER_FAME07,Eraser,Eraser
+TEXTCLIENT_MER_FAME08,Champion,Champion
+TEXTCLIENT_MER_FAME09,Warrior,Warrior
+TEXTCLIENT_MER_FAME10,Bearcat,Bearcat
+TEXTCLIENT_MAG_FAME01,Apprentice,Apprentice
+TEXTCLIENT_MAG_FAME02,Mage,Mage
+TEXTCLIENT_MAG_FAME03,War Mage,War Mage
+TEXTCLIENT_MAG_FAME04,Grand Mage,Grand Mage
+TEXTCLIENT_MAG_FAME05,Arch Mage,Arch Mage
+TEXTCLIENT_MAG_FAME06,Sorcerer,Sorcerer
+TEXTCLIENT_MAG_FAME07,Warlock,Warlock
+TEXTCLIENT_MAG_FAME08,Sage,Sage
+TEXTCLIENT_MAG_FAME09,Arch Sage,Arch Sage
+TEXTCLIENT_MAG_FAME10,Elder,Elder
+TEXTCLIENT_ASS_FAME01,Protector,Protector
+TEXTCLIENT_ASS_FAME02,Guardian,Guardian
+TEXTCLIENT_ASS_FAME03,Knight,Knight
+TEXTCLIENT_ASS_FAME04,Paladin,Paladin
+TEXTCLIENT_ASS_FAME05,Crusader,Crusader
+TEXTCLIENT_ASS_FAME06,Crusader,Crusader
+TEXTCLIENT_ASS_FAME07,Chaplain,Chaplain
+TEXTCLIENT_ASS_FAME08,Luminary,Luminary
+TEXTCLIENT_ASS_FAME09,Prophet,Prophet
+TEXTCLIENT_ASS_FAME10,Oracle,Oracle
+TEXTCLIENT_ALREADYFRIEND,That player is already in your friends list.,Pemain itu sudah ada di daftar temanmu.
+TEXTCLIENT_MSGINVATE,You have asked for permission to add %s to your messenger.,Kamu telah meminta izin untuk menambahkan %s ke messengermu.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_FRIENDADD,You cannot add friends in the Guild Siege arena.,Kamu tidak dapat menambahkan teman di Guild Siege arena.
+TEXTCLIENT_BATTLE_NOTFRIEND,You cannot add someone to your friends list while dueling.,Kamu tidak dapat menambahkan seseorang ke daftar temanmu saat berduel.
+TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,Undangan telah ditolak.
+TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s ada di setelan 'Refuse Messenger'.
+TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,Jumlah maksimum pemain yang dapat didaftarkan ke messenger adalah 200.
+TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s telah menambahkamu ke Messenger mereka.
+TEXTCLIENT_NOTLOGIN,That player is not connected.,Pemain itu tidak terhubung.
+TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.","Gagal mengirim pesan, %s diblokir."
+TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,Kamu mendapat %d pesan baru.
+TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,Pesanmu tidak dapat dikirim. Kotak masuk penerima mungkin penuh.
+TEXTCLIENT_MESSNOTE,You sent the memo.,Kamu mengirim memo.
+TEXTCLIENT_MAILRECEIVE,You have received new mail!,Kamu telah menerima email baru!
+TEXTCLIENT_CANT_SHOUT_BELOW_20,Characters under Level %d cannot shout.,Karakter di bawah Level %d tidak bisa berteriak.
+TEXTCLIENT_NOPARTY,Party does not exist.,Kelompok tidak ada.
+TEXTCLIENT_NOGUILD,Guild does not exist.,Guild tidak ada.
+TEXTCLIENT_WHISPERAGREE,Private messages allowed,Pesan pribadi diperbolehkan
+TEXTCLIENT_WHISPERREFUSE,Private messages refused,Pesan pribadi ditolak
+TEXTCLIENT_MSGERAGREE,Messenger allowed,Messenger diperbolehkan
+TEXTCLIENT_MSGERREFUSE,Messenger refused,Messenger menolak
+TEXTCLIENT_STAGEAGREE,Party & guild invites allowed,Undangan Party & guild diizinkan
+TEXTCLIENT_STAGEREFUSE,Party & guild invites refused,Undangan Party & guild ditolak
+TEXTCLIENT_CONNAGREE,Post connection status,Posting status koneksi
+TEXTCLIENT_CONNREFUSE,Do not post connection status.,Jangan memposting status koneksi.
+TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,Ignore List sudah penuh. Harap abaikan beberapa karakter atau relog untuk mengatur ulang Ignore listmu.
+TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,Kamu seharusnya tidak mengabaikan diri sendiri. Kamu mungkin memiliki sesuatu yang penting untuk dikatakan!
+TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,Karakter itu sudah ada di Ignore Listmu.
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,%s telah diabaikan. Ketik /Unignore <NAME> untuk menghapusnya dari Ignore Listmu.
+TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,%s sekarang tidak diabaikan.
+TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,Karakter itu tidak ada dalam Ignore Listmu.
+TEXTCLIENT_EQUIPPUT,Please unequip the item first.,Tolong lepaskan item terlebih dahulu.
+TEXTCLIENT_CHARGED_NOTUSE,You can not use the premium items.,Kamu tidak dapat menggunakan item premium.
+TEXTCLIENT_MSGSELFSENDERERROR,"You cannot send a message to yourself, silly.","Kamu tidak dapat mengirim pesan kepada diri sendiri, bodoh."
+TEXTCLIENT_MAILBOX_FULL,%s's mail box is full.,Kotak surat %s penuh.
+TEXTCLIENT_LACKMONEY,You do not have enough Penya.,Kamu tidak memiliki cukup Penya.
+TEXTCLIENT_CANNOTPOST,You cannot send this item.,Kamu tidak dapat mengirim item ini.
+TEXTCLIENT_MAIL_UNKNOWN,Unknown user,Pengguna tidak dikenal
+TEXTCLIENT_POST_ERROR,You have failed to send.,Kamu gagal mengirim.
+TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,Emailmu telah berhasil dikirim.
+TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.","Terjadi kesalahan, silakan coba lagi operasinya."
+TEXTCLIENT_REALTIME,Real Time - %s,Real Time - %s
+TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,Madrigal Time - %s
+TEXTCLIENT_NEW_QUEST,New Quest,New Quest
+TEXTCLIENT_CURRENT_QUEST,Quests in Progress,Quests in Progress
+TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,Kamu telah menerima misi: %s. Buka Jendela Pencarianmu untuk detailnya.
+TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,%s pencarian telah dibatalkan.
+TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,Quest dibatalkan.
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,Saluran ini tidak tersedia. Silakan masukkan yang lain.
+TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,Terbang dilarang di dalam.
+TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,Kamu membutuhkan %s item untuk membukanya.
+TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.","Level salah, tidak dapat membuka itembox."
+TEXTCLIENT_ITEMBOX_MESSAGE3,"Wrong sex, unable to open itembox.","Salah jenis kelamin, tidak dapat membuka itembox."
+TEXTCLIENT_ITEMBOX_MESSAGE4,You need to be on the %s quest to open it.,Kamu harus berada dalam misi %s untuk membukanya.
+TEXTCLIENT_ITEMBOX_MESSAGE5,"Wrong job, unable to open itembox.","Pekerjaan salah, tidak dapat membuka itembox."
+TEXTCLIENT_QUEST_NOINVENTORYSPACE,Unable to complete quest. Not enough room in your inventory.,Tidak dapat menyelesaikan misi. Tidak cukup ruang di inventarismu.
+TEXTCLIENT_REAPEXP,You have gained Experience.,Kamu telah mendapatkan Experience.
+TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,Selamat! %s telah selesai.
+TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.","Jika anggota party melebihi level %d, dia tidak bisa masuk."
+TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,Kamu tidak dapat memeriksanya lagi.
+TEXTCLIENT_COMACCEPT,You have joined the %s guild.,Kamu telah bergabung dengan guild %s.
+TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,Kamu bukan lagi anggota guild %s.
+TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,Kamu tidak dapat mengubah logo guildmu selama duel guild.
+TEXTCLIENT_GUILDWARERRORNAME,You cannot change your guild name during a guild duel.,Kamu tidak dapat mengubah nama guildmu selama duel guild.
+TEXTCLIENT_GUILDNOTICEUPDATE,A new Guild Notice has been posted. Please check it in the guild window.,Pemberitahuan Guild baru telah diposting. Silakan periksa di jendela guild.
+TEXTCLIENT_GUILD_NAMEINUSE,That guild name is already in use. Please choose another one.,Nama guild itu sudah digunakan. Silakan pilih yang lain.
+TEXTCLIENT_GUILD_INVALIDNAME,This guild name contains unauthorized characters or words.,Nama guild ini mengandung karakter atau kata-kata yang tidak sah.
+TEXTCLIENT_GUILDCHANGENAME,%s guild has changed their name to %s.,%s guild telah mengubah nama mereka menjadi %s.
+TEXTCLIENT_GUILDWARNODISMISS,You cannot disband your guild during a guild duel.,Kamu tidak dapat membubarkan guildmu selama duel guild.
+TEXTCLIENT_GUILDSALARYCHANGED,Salary for each title has been changed.,Gaji untuk setiap title telah diubah.
+TEXTCLIENT_GUILDPOWERCHANGED,Authority for each title has been changed.,Otoritas untuk setiap title telah diubah.
+TEXTCLIENT_GUILDWARNOMEMBER,Unable to use the member management function during a guild duel.,Tidak dapat menggunakan fungsi manajemen anggota selama duel guild.
+TEXTCLIENT_GUILDMEMBER_PROMOTED,%s has been promoted.,%s telah dipromosikan.
+TEXTCLIENT_GUILDMEMBER_DEMOTED,%s has been demoted.,%s telah diturunkan.
+TEXTCLIENT_GUILD_TRANSFERLEADER,%s has become the guild master.,%s telah menjadi ketua guild.
+TEXTCLIENT_GUILD_MEMBERLEAVE,%s has left the guild.,%s telah meninggalkan guild.
+TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%s sudah ada di guild.
+TEXTCLIENT_BATTLE_NOTGUILD,You cannot invite others to join your guild during a battle.,Kamu tidak dapat mengundang orang lain untuk bergabung dengan guildmu selama pertempuran.
+TEXTCLIENT_COMACCEPTKINGPIN,You invited %s to your guild.,Kamu mengundang %s ke guildmu.
+TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,Karakter yang kamu undang sedang offline.
+TEXTCLIENT_GUILDNOTINCLUDE,You have to wait 2 days before joining another guild.,Kamu harus menunggu 2 hari sebelum bergabung dengan guild lain.
+TEXTCLIENT_GUILDFAILINVITATE,%s has refused to join the guild.,%s telah menolak untuk bergabung dengan guild.
+TEXTCLIENT_COMNOEXCOM,That guild does not exist.,Guild tidak ada.
+TEXTCLIENT_GUILDWARNOINVATE,Cannot join a guild during a guild duel.,Tidak dapat bergabung dengan guild selama duel guild.
+TEXTCLIENT_COMHAVECOM,You are already in a guild.,Kamu sudah berada di guild.
+TEXTCLIENT_COMOVERMEMBER,The guild is full.,Guild penuh.
+TEXTCLIENT_COMACCEPTWELCOME,%s has joined the guild.,%s telah bergabung dengan guild.
+TEXTCLIENT_GUILDNOTHINGNAME,Unable to make a contribution. Ask your Guild Leader to set the guild name first.,Tidak dapat memberikan kontribusi. Minta Ketua guildmu untuk menetapkan nama guild terlebih dahulu.
+TEXTCLIENT_GUILDMERITMAXLEVEL,Unable to make a contribution. The guild has reached its maximum level.,Tidak dapat memberikan kontribusi. Guild telah mencapai level maksimumnya.
+TEXTCLIENT_GUILDLEVELUP,Guild level has increased.,Peringat guild telah meningkat.
+TEXTCLIENT_GUILDCLOAK,%s Guild Cloak,%s Jubah guild
+TEXTCLIENT_NOTTRADE,You cannot trade a premium item.,Kamu tidak dapat memperdagangkan item premium.
+TEXTCLIENT_GUILDBANKFULL,The guild warehouse is full.,Gudang guild penuh.
+TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,The couple storage is full.
+TEXTCLIENT_SLOTFULL,Your inventory is full.,Inventarismu penuh.
+TEXTCLIENT_CONFIRMMOVEITEM,Really move this item?,Benar-benar memindahkan barang ini?
+TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,Jubah guild telah dibuat.
+TEXTCLIENT_GUILDNEEDGOLD,Unable to create guild cloak. Insufficient Penya in the guild warehouse.,Tidak dapat membuat jubah serikat. Penya tidak mencukupi di gudang guild.
+TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,Gaji guild sebesar %d Penya diterima.
+TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,Target pengaturan tidak diketahui
+TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Unknown job
+TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,Poin keterampilan karakter kamu telah diatur ulang. Harap distribusikan kembali poinmu di jendela Skill Tree.
+TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,Kamu harus memilih pekerjaan di Lv 15.
+TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,Not Expert Job
+TEXTCLIENT_EXPERTJOBS,Expert Job: %s,Expert Job: %s
+TEXTCLIENT_EXPERTLEVEL,Expert Level: %d ~ %d,Expert Level: %d ~ %d
+TEXTCLIENT_ERROR_NOTPROFESSIONALJOB,Not Professional Job,Not Professional Job
+TEXTCLIENT_ERROR_NOTSPECIALISTJOB,Not Specialist Job,Not Specialist Job
+TEXTCLIENT_PROFESSIONALJOBS,Professional Job: %s,Professional Job: %s
+TEXTCLIENT_PROFESSIONALLEVEL,Professional Level: %d ~~~,Professional Level: %d ~~~
+TEXTCLIENT_SPECIALISTJOBS,Specialist Job: %s,Specialist Job: %s
+TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Specialist Level: %d ~~~
+TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,Skill Points Baru sekarang tersedia.
+TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,Kamu telah mempelajari %s. Kamu sekarang dapat mengalokasikan poin keterampilan untuk kemampuan ini.
+TEXTCLIENT_FLYLVLUP,Flying level up!,Flying naik level!
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,Beraninya kau datang ke sini!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,Kamu tidak takut!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,Aku akan menjadi algojomu!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG4,Don't make me angry!,Jangan membuatku marah!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG5,"%s, you fool! How dare you!","%s, bodoh! Beraninya kamu!"
+TEXTCLIENT_BOSS_MUSHMOOT_MSG1,I will crush your bones!,Aku akan menghancurkan tulangmu!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG2,I will destroy you all!,Aku akan menghancurkan kalian semua!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG3,I will break you!,Aku akan menghancurkanmu!
+TEXTCLIENT_BOSS_KRRR_MSG1,Who woke me?,Siapa yang membangunkanku?
+TEXTCLIENT_BOSS_KRRR_MSG2,%s! My axe and I will destroy you!,%s! Kapakku dan aku akan menghancurkanmu!
+TEXTCLIENT_BOSS_KRRR_MSG3,Go to Hell!,Pergi keNeraka!
+TEXTCLIENT_SKILLLEVELLIMIT,Set %s' skill level: 1 ~ %d.,Setel%s' skill level: 1 ~ %d.
+TEXTCLIENT_REQ_DARK,You are not in Dark Illusion mode.,Kamu tidak dalam mode Ilusi Gelap.
+TEXTCLIENT_NEVERKILLSTOP,You cannot use the skill.,Kamu tidak dapat menggunakan keterampilan.
+TEXTCLIENT_NOTELEMWEAPON,Unable to use equipped item. Item needs an elemental upgrade first.,Tidak dapat menggunakan item yang dilengkapi. Item membutuhkan peningkatan elemen terlebih dahulu.
+TEXTCLIENT_DONOTUSEBUFF,Cannot use the skill at this time.,Tidak dapat menggunakan keterampilan saat ini.
+TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_SKILLWAITTIME,Please wait.,Mohon tunggu.
+TEXTCLIENT_SKILL_SELF,You use %s.,Kamu menggunakan %s.
+TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
+TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s casts %s padamu.
+TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you.
+TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,Izin untuk melihat peralatan ditolak.
+TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,Kamu harus memulai ulang game agar semua perubahan diterapkan.
+TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,Kamu sudah menggunakan item ini. Coba lagi setelah efeknya hilang.
+TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,Levelmu terlalu rendah. Kamu dapat menggunakannya di level %s.
+TEXTCLIENT_NOTOVERLAP_USE,You cannot use these items at the same time.,Kamu tidak dapat menggunakan item ini secara bersamaan.
+TEXTCLIENT_COND_USE,Takes effect when player dies.,Berlaku saat player mati.
+TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d Hari
+TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d Jam
+TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d Menit
+TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d Sec
+TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,Tidak dapat mengatur ulang statistikmu karena kamu sudah memiliki statistik dasar.
+TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,Hanya penjahat yang dapat menggunakan item ini.
+TEXTCLIENT_GETKARMA,Recovered 1 Karma.,Recovered 1 Karma.
+TEXTCLIENT_NTROUPEO10,Either you are not a party member or the party level is higher than 10.,Entah kamu bukan anggota guild atau level guild lebih tinggi dari 10.
+TEXTCLIENT_EXP_NOTUSE,"You cannot stack this scroll anymore. At level %d ~ %d, this scroll can only be stacked %d times.","Kamu tidak dapat menumpuk gulungan ini lagi. Pada level %d ~ %d, gulungan ini hanya dapat ditumpuk %d kali."
+TEXTCLIENT_EXP_NOTUSELEVEL,You cannot use this scroll. This scroll is only available for level %d ~ %d.,Kamu tidak dapat menggunakan gulungan ini. Gulungan ini hanya tersedia untuk level %d ~ %d.
+TEXTCLIENT_EXPITEM_TOOLTIP,*** Your Experience rate has been amplified by #cffff5a50%d%%#nc ***,*** Tingkat Pengalamanmu telah diperkuat oleh #cffff5a50%d%%#nc ***
+TEXTCLIENT_EXP_COUTMSG0,The time left,Waktu yang tersisa
+TEXTCLIENT_EXP_COUTMSG1,First:,Pertama:
+TEXTCLIENT_EXP_COUTMSG2,Second:,Kedua
+TEXTCLIENT_EXP_COUTMSG3,Third:,Ketiga:
+TEXTCLIENT_EXPBOX_INFO_MSG,You can recover some of your Experience If you return to the place where you died.,Kamu dapat memulihkan sebagian Pengalamanmu Jika kamu kembali ke tempat kamu mati.
+TEXTCLIENT_NOT_EXPBOX,You can not use it.,Kamu tidak dapat menggunakannya.
+TEXTCLIENT_EXPBOX_EAT,You have recovered 30% of decreased Experience from your death.,Kamu telah memulihkan 30% dari Pengalaman yang berkurang dari kematianmu.
+TEXTCLIENT_ADMIN_INVISIBLE,Invisible,Invisible
+TEXTCLIENT_ADMIN_IMMORTAL,Undying1,Undying1
+TEXTCLIENT_ADMIN_IMMORTALHALF,Undying2,Undying2
+TEXTCLIENT_ADMIN_NOMOVING,Freeze player,Freeze player
+TEXTCLIENT_ADMIN_MIGHTY,OneKill,OneKill
+TEXTCLIENT_TELESKILL_CLICK,Touch on the ground where you want to use %s.,Sentuh tanah ditempat yang kamu ingin gunakan %s.
+TEXTCLIENT_CREATEMON_CLICK,Touch on the ground where you want to invoke the monster.,Sentuh di tanah ditempat kamu ingin memanggil monster itu.
+TEXTCLIENT_TELESKILL_CANCEL,%s invocation was cancelled.,%s permintaan dibatalkan.
+TEXTCLIENT_CREATEMON_CANCEL,Monster invocation was cancelled.,Doa monster dibatalkan.
+TEXTCLIENT_USEAIRCRAFT,"In order to ride a flying vehicle, you must reach level 20.","Untuk mengendarai kendaraan terbang, kamu harus mencapai level 20."
+TEXTCLIENT_QUEST_DISGUISE_NOTFLY,You cannot fly while transforming.,Kamu tidak bisa terbang saat bertransformasi.
+TEXTCLIENT_UPGRADE_FIRE,Fire,Fire
+TEXTCLIENT_UPGRADE_WATER,Water,Water
+TEXTCLIENT_UPGRADE_ELECTRICITY,Electric,Electric
+TEXTCLIENT_UPGRADE_WIND,Wind,Wind
+TEXTCLIENT_UPGRADE_EARTH,Earth,Earth
+TEXTCLIENT_RUN,Run,Run
+TEXTCLIENT_WALK,Walk,Walk
+TEXTCLIENT_CANNOT_DROPMONEY,You cannot drop your Penya on the ground.,Kamu tidak dapat menjatukan Penya di tanah.
+TEXTCLIENT_NOTDROP,You cannot drop a premium item on the ground.,Kamu tidak dapat menjatuhkan premium item di tanah.
+TEXTCLIENT_QUEITMWARNING,The quest will not progress without this item. Continue discarding item?,Quest tidak akan berkembang tanpa item ini. Lanjutkan membuang item?
+TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,Kamu tidak dapat menjatuhkan item saat terbang.
+TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,Kamu tidak dapat menjatuhkan item saat bertransaksi.
+TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Hanya sayapp yang dapat menyelamatkanmu saat jatuh
+TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Nama toko ini tidak diperbolehkan.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Kamu tidak dapat berdagang selama acara.
+TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,Toko Pribadi tidak tersedia di area ini.
+TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Kamu tidak dapat membuka Toko Pribadi di dekat NPC.
+TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Semua barang dari toko pribadi terjual.
+TEXTCLIENT_CHEER_MESSAGE1,Cheer Message Point(s): %d/3,Cheer Message Point(s): %d/3
+TEXTCLIENT_CHEER_MESSAGE2,Time left until the next point,Waktu tersisa sampai poin berikutnya
+TEXTCLIENT_CHEER_MESSAGE3,%s sent you a cheer message of friendship!,%s mengirimimu pesan ceria tentang persahabatan!
+TEXTCLIENT_CHEER_MESSAGE4,%s sent you a cheer message of love!,%s mengirimimu pesan semangat dengan cinta!
+TEXTCLIENT_CHEER_MESSAGE5,Your cheer points have increased by 1.,cheer pointmu telah meningkat 1.
+TEXTCLIENT_CHEER_NO1,Unable to send cheer message. Please try again after %s minutes.,Tidak dapat mengirim pesan sorakan. Harap coba lagi setelah %s menit.
+TEXTCLIENT_CHEER_NO2,Please select a player to cheer. You can only send cheer messages to players other than yourself.,Silakan pilih pemain untuk dihibur. Kamu hanya dapat mengirim pesan semangat ke pemain selain dirimu sendiri.
+TEXTCLIENT_COLLECT_EQUIP,You need to equip a collector.,Kamu perlu melengkapi kolektor.
+TEXTCLIENT_COLLECT_TARGET,"Cannot collect, no dead catcher monster targeted.","Tidak dapat mengumpulkan, tidak ada monster penangkap mati yang ditargetkan."
+TEXTCLIENT_COLLECT_EMPTY,Insufficient supplements.,Suplemen tidak mencukupi.
+TEXTCLIENT_COLLECT_ERROROTHER,Unable to collect resource from a monster killed by another player.,Tidak dapat mengumpulkan sumber daya dari monster yang dibunuh oleh pemain lain.
+TEXTCLIENT_HARVEST_EQUIP,You need to equip harvesting gloves.,Kamu perlu memakai harvesting gloves.
+TEXTCLIENT_HARVEST_RECEIVE,You have harvested %s x%d.,Kamu telah memanen %s x%d.
+TEXTCLIENT_HARVEST_CARRIER,A harvest carrier has been revealed! Kill it to gain its extra berries.,Harvest carrier telah ditemukan! Habisi untuk mendapatkan ekstra berries.
+TEXTCLIENT_HARVEST_COOLDOWN,"You cannot currently open it, try again in a few seconds.","You cannot currently open it, try again in a few seconds."
+TEXTCLIENT_NOTREADY_USESHOP,Please try again after taking off the head item,Silakan coba lagi setelah melepas item kepala
+TEXTCLIENT_SHOP_CHOICE,Selected,Selected
+TEXTCLIENT_CHANGE_HAIR,Change your Hair,Change your Hair
+TEXTCLIENT_SHOP_COST,Price is,Price is
+TEXTCLIENT_SHOP_PENYA,Penya.,Penya.
+TEXTCLIENT_CHANGE_HAIR_QUESTION,Do you want to change your hair?,Apakah kamu ingin mengubah rambut kamu?
+TEXTCLIENT_TRADEREQUEST,You have offered to trade with %s.,Kamu menawarkan kepada berdagang dengan %s.
+TEXTCLIENT_ALREADY_TRADING,The player is already trading.,Player sudah berdagang.
+TEXTCLIENT_BATTLE_NOTTRADE,The player cannot trade while fighting.,Player tidak bisa berdagang saat bertarung.
+TEXTCLIENT_TRADECANCEL,The trade has been cancelled.,Transaksi telah dibatalkan.
+TEXTCLIENT_CANNOTTRADE_ITEM,This item cannot be traded.,Item ini tidak dapat diperdagangkan.
+TEXTCLIENT_CANNOTTRADE_EDIT,You cannot add into or remove items from the trading window anymore after the first confirmation.,Kamu tidak dapat menambah atau menghapus item dari jendela perdagangan lagi setelah konfirmasi pertama.
+TEXTCLIENT_TRADEACCEPT,%s has completed the trade.,%s telah menyelesaikan trade.
+TEXTCLIENT_FINALCONFIRM,%s pushed final confirmation.,%s menekan konfirmasi akhir.
+TEXTCLIENT_TRADEAGREE,You agreed to trade.,Kamu setuju untuk trade.
+TEXTCLIENT_TRADEREFUSE,You refused to trade.,Kamu menolak untuk trade.
+TEXTCLIENT_SBEVE_NOTUSEITEM,You cannot use that item.,Kamu tidak dapat menggunakan item tersebut.
+TEXTCLIENT_PIERCING_POSSIBLE_ITEM,The item cannot be pierced.,Item tidak dapat di Pierce.
+TEXTCLIENT_STILL_DEVELOPMENT,This functionality is still in development.,Fungsi ini masih dalam pengembangan.
+TEXTCLIENT_ENDUSE,You may no longer use %s . That item has expired.,Kamu tidak dapat menggunakan %s . Item tersebut telah Expired.
+TEXTCLIENT_DAYUSE,You can use the %s for %d days.,Kamu dapat menggunakan %s untuk %d hari.
+TEXTCLIENT_TIMEUSE,Time remaining on %s: %d days.,Waktu tersisa untuk %s: %d hari.
+TEXTCLIENT_ITEM_EXPIRED,This item has expired.,Item ini telah Expired.
+TEXTCLIENT_NOTUPGRADE,The item cannot be equipped or moved during refining.,Item ini tidak dapat digunakan atapun dipindah saat Refine berlangsung.
+TEXTCLIENT_CARDRESHUFFLE_NOTAVAILABLE,Registration is not possible because the grade is not correct.,Registrasi tidak memungkinkan karena grade salah.
+TEXTCLIENT_ERROR_NOPIERCING,There is no space to put a card.,Tidak ada ruang tersisa untuk menambahkan Card.
+TEXTCLIENT_PIERCINGFAIL,Piercing failed.,Piercing gagal.
+TEXTCLIENT_PIERCINGSUCCESS,Piercing Succeeded.,Piercing Sukses.
+TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,Hanya Suit yang telah di Pierce dengan Card yang dapat digunakan.
+TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfully.,Card Pierce telah sukses dilepaskan.
+TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,Item ini tidak dapat digunakan.
+TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,Item Premium tidak dapat di Refine.
+TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,Salah Supplement Item.
+TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,Kamu dapat menggunakan item ini pada Piercing menu di Weapon Shop.
+TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,Kamu dapat menggunakan item ini pada Accessory Upgrade menu di Weapon Shop.
+TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,Kamu dapat menggunakan item ini pada Upgrade menu di Weapon Shop.
+TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,Klik dua kali pada item ini di jendela Inventory untuk menggunakannya.
+TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,Item tidak dapat di Upgrade menggunakan Element ini.
+TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,Kamu tidak dapat memasukkan 2 Element yang berbeda pada item yang sama.
+TEXTCLIENT_WRONGUPLEVEL,Using wrong item to upgrade.,Item yang salah untuk Upgrade.
+TEXTCLIENT_UPGRADE_MAXOVER,Can only upgrade up to Level 10.,Hanya dapat di Upgrade sampai Level 10.
+TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,Jewelry dapat di Upgrade sampai +20.
+TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,Item yang salah untuk Upgrade.
+TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,Tidak cukup supplement item.
+TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,Upgrade telah gagal.
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,Upgrade Sukses!
+TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,Tidak dapat melepaskan Element yang telah di Upgrade pada senjata ini. Silakan periksa dan coba lagi.
+TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,Element dari Weapon telah dihapus.
+TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,Item ini memiliki efek sekali saat karaktermu mati. Apakah kamu ingin menggunakannya?
+TEXTCLIENT_SKILLINIT,This item resets your skills. Do you want to use this item?,Item ini akan mereset Skill karakter. Apakah kamu ingin menggunakannya?
+TEXTCLIENT_ERROR_SKILLRECCURENCE,Your skill has already been reset.,Skillmu telah direset.
+TEXTCLIENT_NOTUSEVAG,You can use this item after your 1st job change.,Kamu dapat menggunakan item ini setelah 1st Job Change.
+TEXTCLIENT_CHECKEQUIP,Please unequip the item first.,Tolong lepaskan item terlebih dahulu.
+TEXTCLIENT_PK_BLINK_NO,You cannot use a blinkwing at Kebaras.,Kamu tidak dapat menggunakan blinkwing di Kebaras.
+TEXTCLIENT_BLINK_EVENT_NO,You cannot use a blinkwing during event.,Kamu tidak dapat menggunakan Blinkwing selama Event.
+TEXTCLIENT_GUILDCOMBAT_NO_OUTWAR,You cannot use Blinkwings to escape the Guild Siege arena.,Kamu tidak dapat menggunakan Blinkwing untuk espace dari arena Guild Siege.
+TEXTCLIENT_ARENA_BLINKPOOL,You cannot use Blinkpool in the Arena.,Kamu tidak dapat menggunakan Blinkpool di Arena.
+TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,Stat karakter akan reset setelah berganti Job. Apakah kamu ingin mengganti Job karakter?
+TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,Karakter sukses berganti Job menjadi %s.
+TEXTCLIENT_RETURN_USEITEM,The item loses its potency 4 hours after being equipped if not returned to the inventory . Do you want to use the item?,Item akan kehilangan potensinya 4 jam setelah digunakan jika tidak dikembalikan kedalam Inventory. Apakah kamu ingin menggunakannya?
+TEXTCLIENT_LIMITZONE_USE,Unable to use item in the limit zone.,Tidak dapat menggunakan item didalam Limit Zone.
+TEXTCLIENT_ON_EVENT,The '%s' event is underway! Visit %s for event details!,'%s' event sedang berlangsung! Kunjungi %s untuk detail event!
+TEXTCLIENT_ON_EVENT_DESC,The '%s' event is underway! %s,'%s' event sedang berlangsung! %s
+TEXTCLIENT_START_EVENT,The '%s' event has just started. Visit %s for event details!,'%s' event telah dimulai. Kunjungi %s untuk detail event!
+TEXTCLIENT_START_EVENT_DESC,The '%s' event has just started. %s,'%s' event telah dimulai. %s
+TEXTCLIENT_END_EVENT,The '%s' event is over.,'%s' event telah selesai.
+TEXTCLIENT_ARENA_DISABLED,Arena is not available on this channel.,Arena tidak tersedia di Channel ini.
+TEXTCLIENT_CREATEMON_F_15,Summoning should be used on players that are 15 meters or closer to you.,Summoning dapat digunakan pada pemain yang berjarak 15 meter atau lebih dekat dengan Anda.
+TEXTCLIENT_CREATEMON_F_AREA,You can not summon there.,Kamu tidak dapat Summon disana.
+TEXTCLIENT_CREATEMON_S,You have summoned %s.,Kamu telah Summon %s.
+TEXTCLIENT_PRIORITYSUMMONMOB,This monster was summoned by %s. You cannot attack it.,Monster ini telah di Summon oleh %s. Kamu tidak dapat menyerangnya.
+TEXTCLIENT_CREATEMON_LIMIT,You cannot summon anymore monsters. Please wait and try again.,Kamu tidak dapat Summon monster lagi. Mohon tunggu dan coba lagi.
+TEXTCLIENT_GETPKPOINT,You recovered your Karma points by %d.,Kamu memulihkan Karma poin sebesar %d.
+TEXTCLIENT_DECPKPOINT,%d Karma points have been reduced.,%d Karma poin telah berkurang.
+TEXTCLIENT_PK_MARKETNOUSE,You cannot use stores if your Karma grade is Vicious.,Tidak dapat mengakses store ketika karma mu tinggi.
+TEXTCLIENT_PKDEAD,You have been slain by %s.,Kami telah dikalahkan oleh %s.
+TEXTCLIENT_GETFAMEPOINT,You gained %d fame points.,Kamu mendapatkan %d Fame Poin.
+TEXTCLIENT_DECFAMEPOINT,You lost %d fame points.,Kamu kehilangan %d Fame poin.
+TEXTCLIENT_BANKWRONGPASS,Wrong password. Please try again.,Password salah. Silakan coba lagi.
+TEXTCLIENT_BANKFULL,The bank is full.,Bank penuh.
+TEXTCLIENT_PK_LEVEL_GAP,Unable to duel. Level gap is more than 30.,Tidak dapat memulai Duel. Perbedaan level lebih dari 30.
+TEXTCLIENT_PK_SAFETY_NO,You cannot duel in a safety zone.,Kamu tidak dapat memulai Duel didalam Safety Zone.
+TEXTCLIENT_PK_SAME_NO,You can duel only if the other player is in the same place as you.,Kamu dapat memulai Duel dengan Player lain yang berada dilokasi yang sama.
+TEXTCLIENT_PK_CHANGEJOB_NO,You can only duel after your 1st job-change.,Kamu hanya dapat memulai Duel setelah 1st Job Change.
+TEXTCLIENT_PK_PARTY_LIMIT,You cannot duel with party members.,Kamu tidak dapat memulai Duel dengan anggota Party.
+TEXTCLIENT_PK_MODE_REJECT,The other player is in duel rejection mode.,Player sedang mengaktifkan Duel Rejection Mode.
+TEXTCLIENT_DUELNO,%s refused to duel.,%s Menolak ajakan Duel.
+TEXTCLIENT_DUELSTART,Duel with %s started!,Duel dengan %s dimulai!
+TEXTCLIENT_DUELCANCEL,The duel has been cancelled.,Duel telah dibatalkan.
+TEXTCLIENT_PK_NO_IPARTYLEADER,You are not the Party leader.,Kamu bukanlah Party Leader.
+TEXTCLIENT_PK_NO_UPARTYLEADER,The other member is not the Party leader.,Anggota lain bukan Party Leader.
+TEXTCLIENT_PK_NO_DUEL,You cannot duel with the other player currently.,Saat ini kamu tidak dapat memulai Duel dengan Player lain.
+TEXTCLIENT_PDSTART,Duel has started with %s party.,Duel telah dimulai dengan %s party.
+TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.","Party Duel Mode dengan %s telah selesai. Kalau kamu bergabung kembali dalam Duel, kamu akan mendapatkan Penalty PK."
+TEXTCLIENT_PDCANCEL,Duel has been cancelled.,Duel telah dibatalkan.
+TEXTCLIENT_PDVICTORY,You won the party duel.,Kamu memenangkan Party Duel.
+TEXTCLIENT_PDLOSE,You lost the party duel.,Kamu kalah dalam Party Duel.
+TEXTCLIENT_DONOTUSE_SHOP,You cannot use that item while using Hair Stylist or Plastic Surgeon.,Kamu tidak dapat menggunakan Item tersebut saat sedang memakai Hair Stylist atau Plastic Surgeon.
+TEXTCLIENT_CASHSHOP_NOACCOUNT,You cannot use the Flyff Shop without account. Please link an account.,Kamu tidak dapat menggunakan fitur Flyff Shop tanpa mengubungkan Account. Silakan hubungkan Account terlebih dahulu.
+TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,Produk ini tidak valid.
+TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,"Server sedang Offline, tidak dapat mengakses Flyff Shop."
+TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,Kamu tidak memiliki cukup Kredit untuk membeli item. Mohon isi Saldo anda terlebih dahulu.
+TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,Kamu telah mancapai batas maksimum pembelian perkarakter untuk produk ini.
+TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Kesalahan tidak diketahui, harap coba lagi."
+TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,"Terima kasih atas pembeliannya! Jika inventory penuh, mohon kosongkan beberapa ruangan dan mencoba login kembali untuk menerima item."
+TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,"ID Player tidak valid, tidak dapat mengakses Flyff Shop."
+TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,Proses terlalu memakan banyak waktu. Silakan coba lagi.
+TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ff Aku adalah Ayahmu!#nc
+TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,#cff0000ff Aku adalah Ibumu!#nc
+TEXTCLIENT_COMNOHAVECOM,Cannot cancel because you do not belong to a guild.,Tidak dapat dibatalkan karena kamu tidak memiliki Guild.
+TEXTCLIENT_COMDELNOKINGPIN,Only the guild leader can disband the guild.,Guild hanya dapat dibubarkan oleh Guild Leader.
+TEXTCLIENT_GUILDWARREQLV6,Your guild level has to be higher than 5 to declare a guild duel.,Guildmu harus diatas Level 5 jika ingin mendeklarasikan Guild Duel.
+TEXTCLIENT_GUILDWARSTILLNOWAR,Unable to declare war during guild duel.,Tidak dapat mendeklarasikan War pada saat Guild Duel.
+TEXTCLIENT_GUILDWARNOTHINGGUILD,That Guild does not exist.,Guild tidak ditemukan.
+TEXTCLIENT_GUILDWAROTHERLV6,Unable to declare a guild duel. Opposing guild level is below 6.,Tidak dapat mendeklarasikan Guild Duel pada Guild dibawah Level 6.
+TEXTCLIENT_GUILDWARMASTEROFF,The opposing Guild Leader is offline.,Guild Leader lawan sedang Offline.
+TEXTCLIENT_GUILDWARMEMBER10,The opposing guild must have at least 10 members.,Guild lawan harus memiliki minimum 10 anggota.
+TEXTCLIENT_GUILDWAROTHERWAR,The other guild is already participating in a guild duel.,Guild lain telah berpartisipasi dalam Guild Duel.
+TEXTCLIENT_GUILDWARDECLINED,Opposing guild leader declined the duel.,Guild Leader lawan menolak Duel.
+TEXTCLIENT_GUILDWARNOFINDGUILD,Cannot find the guild that declared a guild duel.,Tidak dapat menemukan Guild yang mendeklarasikan Guild Duel.
+TEXTCLIENT_PK_NOFLIGHT_DURING,You cannot duel when only one player is flying.,Kamu tidak dapat Duel jika hanya satu player yang terbang.
+TEXTCLIENT_GUILDWARERRORDUEL,You cannot duel during a guild duel.,Kamu tidak dapat memulai Duel Selama Guild Duel.
+TEXTCLIENT_GUILDWARSTART,A guild duel has started between %s Guild and %s Guild.,Guild Duel telah dimulai antara Guild %s dan Guild %s.
+TEXTCLIENT_GUILDWARSTILL,A guild duel between %s Guild and %s Guild is in progress.,Guild Duel antara Guild %s dan Guild %s sedang berlangsung.
+TEXTCLIENT_GUILDWARDOING,You are at war with another guild.,Kamu sedang berperang dengan Guild lain.
+TEXTCLIENT_SHOUTAGREE,Shout messages allowed,Shout Messages diijinkan.
+TEXTCLIENT_SHOUTREFUSE,Shout messages refused,Shout Messages ditolak.
+TEXTCLIENT_GUILDWARWIN_MASTER,A Guild Leader has been killed!,Guild Leader telah terbunuh!
+TEXTCLIENT_GUILDWARWIN_GIVEUP,Victory! Opponent guild has conceded.,Kemenangan! Guild musuh telah menyerah.
+TEXTCLIENT_GUILDWARWIN_TIMEUP,Victory by default!,Kemenangan secara default!
+TEXTCLIENT_GUILDWARWIN_KILLNUM,Victory due to number of opponents killed!,Kemenangan karena jumlah lawan yang terbunuh!
+TEXTCLIENT_GUILDWARWIN,The guild duel between %s and %s has finished. The Guild %s has won. %s.,Guild Duel antara %s dan %s telah selesai. Guild %s memenangkannya. %s.
+TEXTCLIENT_GUILDWARPEACE,%s and %s have agreed to a truce.,%s dan %s setuju untuk gencatan senjata.
+TEXTCLIENT_GUILDWARDRAW,The guild duel between %s and %s resulted in a tie.,Guild Duel antara %s dan %s berakhir seimbang.
+TEXTCLIENT_GUILDWARNOETC,You are either not participating in a guild duel or have already given up.,Kamu sedang tidak berpartisipasi di Guild Duel atau telah menyerah.
+TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s dari %s Guild telah menyerah.
+TEXTCLIENT_GUILDWARPEACEDECLINED,Opposing guild declined the truce.,Guild lawan menolak gencatan senjata.
+TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.","Warrior dari Guild %s, %s, telah dikalahkan."
+TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same time.,Kamut tidak dapat menggunakan Trans dan Glow item secara bersamaan.
+TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,Kamu telah menggunakan item tersebut. Silakan coba lagi saat durasi efeknya habis.
+TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,Kamu telah mengukir nama '%s' pada Ring ini. Berikan ke orang tersayangmu!
+TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,Sebuah ukiran bertuliskan '%s'. Berikan ke orang tersayangmu!
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,Player dengan nama yang terukir pada Ring ini sedang Offline.
+TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,Kamu tidak dapat pergi ke %s dari sini.
+TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,Kamu tidak dapat menuju Player yang sedang mode terbang.
+TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,Item ini hanya dapat digunakan pada Weapon dan Armor yang masih berlaku.
+TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,Apa kamu ingin menerapkan Random Stat Upgrade pada item ini?\n%s
+TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,Ini akan menimpa Random Stat Upgrade yang sudah ada. Apa kamu mau melanjutkannya?
+TEXTCLIENT_RANDOMSCROLL_SUCCESS,%s has been enchanted with %s +%d.,%s telah di enchant dengan %s +%d.
+TEXTCLIENT_STATE_NOTUSE,You cannot use %s,Kamu tidak dapat menggunakan %s
+TEXTCLIENT_TRADE_NOTUSE,Trading,Trading
+TEXTCLIENT_TRADE_NOTUSE1,Because the person is trading.,Karena orang itu sedang melakukan Trade.
+TEXTCLIENT_DIE_NOTUSE,If the person is dead,If the person is dead
+TEXTCLIENT_DIE_NOTUSE1,Because the person is dead,Karena orang itu mati.
+TEXTCLIENT_VENDOR_NOTUSE,On opening a private shop,On opening a private shop
+TEXTCLIENT_VENDOR_NOTUSE1,Because the person is on opening a private shop,Karena orang itu sedang membuka Private Shop
+TEXTCLIENT_ATTACK_NOTUSE,In Combat,In Combat
+TEXTCLIENT_ATTACK_NOTUSE1,Because the person is in combat.,Karena orang itu sedang dalam pertarungan.
+TEXTCLIENT_FLY_NOTUSE,On flying,On flying
+TEXTCLIENT_FLY_NOTUSE1,Because the person is flying.,Karena orang itu sedang terbang.
+TEXTCLIENT_DUEL_NOTUSE,In Duel,In Duel
+TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,Karena orang itu sedang dalam Duel.
+TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,Dalam area Event
+TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,Dalam Kebaras
+TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,Kamu tidak dapat menggunakan item itu pada dirimu sendiri.
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s sedang Offline.
+TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,Player ini tidak ada dalam Friendlist atau telah di Blacklist.
+TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,Kamu tidak dapat summon %s
+TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,Kamu tidak dapat menerima %s
+TEXTCLIENT_WORLD_NOTUSE,Because you are in different areas,Karena kamu berada di area yang berbeda
+TEXTCLIENT_DUNGEON_NOTUSE,Because you are in a dungeon,Karena kamu berada dalam dungeon.
+TEXTCLIENT_SUMMONFRIEND_CONFIRM,You have asked to summon %s,Kamu telah diminta untuk summon %s
+TEXTCLIENT_SUMMON_FRIEND_CANCEL,%s has cancelled the summon.,%s telah membatalkan summon.
+TEXTCLIENT_SUMMONFRIEND_NOITEM,You don't have %s. You cannot summon %s.,Tidak memiliki %s. Kamu tidak dapat summon %s.
+TEXTCLIENT_SUMMON_SUCCESS1,You are summoned to %s,Kamu di summon ke %s
+TEXTCLIENT_SUMMON_SUCCESS,%s is summoned,%s telah di summon
+TEXTCLIENT_SUMMONPARTY_NOTTIME,You can not go.,Kamu tidak dapat pergi.
+TEXTCLIENT_TROUPECREATE,Only the party leader can use this function.,Hanya Party Leader yang dapat menggunakan fungsi ini.
+TEXTCLIENT_ITEM_TRANSY,This item is not available. Please input another item.,Item ini tidak tersedia. Silakan masukkan item lain.
+TEXTCLIENT_ITEM_TRANSY_NOT_LEVEL,Only %d-%d level items are usable.,Hanya %d-%d level item yang bisa digunakan.
+TEXTCLIENT_ITEM_TRANSY_SUCCESS,The change from %s to %s was successful.,Pergantian dari %s ke %s sukses.
+TEXTCLIENT_GUILDCREATE,Only the guild master can use this function.,Hanya Guild Master yang dapat menggunakan fungsi ini.
+TEXTCLIENT_CHANGENAME,Player name successfully changed.,Nama Player berhasil diubah.
+TEXTCLIENT_MAP_MARK_MAX_NUMBER,You can't save your position any more. Please arrange your saved postion first and try again.,Kamu tidak dapat menyimpan posisi lagi. Silakan atur posisi yang telah disimpan dan mencoba kembali.
+TEXTCLIENT_UPGRADE_ERROR_NOUNICK,You cannot upgrade a unique item.,Kamu tidak dapat mengupgrade Unique Item.
+TEXTCLIENT_NOTEQUALELEM,The attribute of %s and the applied attribute of the item are not the same.,Atribut %s dan atribut item yang diterapkan tidak sama.
+TEXTCLIENT_NOTELEMENT,The attribute has not been applied to the selected item. Please finish the attribute refining first.,Atribut belum diterapkan ke item yang dipilih. Harap selesaikan refining atribut terlebih dahulu.
+TEXTCLIENT_ALREADYELEM,Charge attribute has already been applied.,Biaya attribute telah diterapkan.
+TEXTCLIENT_REMOVEELEMENT,The attribute of the selected item has been deleted.,Atribut item yang dipilih telah dihapus.
+TEXTCLIENT_CHATSAMETEXT,Unable to enter the same sentence twice in a row.,Tidak dapat memasukkan kalimat yang sama dua kali berturut-turut.
+TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to chat spam limitations.,Pesan terakhir tidak dapat dikirim karena adanya batasan Spam Chat..
+TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),Saat ini Chat Anda telah diblokir.(Sisa: %d menit %d detik)
+TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,Shouting hanya diperbolehkan 5 kali per 60 detik.
+TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,Shouting dengan fitur Full Shout hanya diperbolehkan sekali setiap 2 menit.
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,Kamu sedang tidak bergabung dengan guild atau kamu bukanlah Guild Master.
+TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Guild Siege telah ditutup.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,Level Guild minimal harus %d untuk dapat melakukan Siege.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,Kamu akan dikenakan biaya setidaknya %d penya untuk mendaftar ke Siege.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,Kamu akan dikenakan biaya %d penya untuk mendaftar ke Siege.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Kamu dapat mendaftar ke Guild Siege jika kamu memiliki Penya yang diperlukan.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,Kamu telah meminta %d penya terlebih dahulu. Dan kemudian kamu meminta tambahan %d penya.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Kamu telah berhasil mendaftar ke Guild Siege. Kamu dapat mengatur masuknya Guild mulai pukul 5 pm (PST) setiap hari Sabtu.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,Registrasi untuk Guild Siege telah selesai.
+TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Kamu tidak dapat menggunakannya sekarang.
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Kamu tidak terdaftar pada Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,Biaya akan dikembalikan jika kamu gagal bergabung dengan Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,Guid Siege yang kamu ikuti telah dibatalkan.
+TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Payback Penya
+TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,"Halo. Aku Guild Manager Donaris.\nKarena telah dibatalkan, aku akan mengembalikan uangmu setelah dikurangi 20% sebagai komisi.\nSemoga harimu menyenangkan!"
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Semoga harimu menyenangkan!
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","Kamu memenuhi syarat untuk memasuki Guild siege. Silakan selesaikan ""Line up for Guild Siege"" di Flaris sekarang."
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","Kamu gagal memenuhi syarat. Silakan coba lagi minggu depan. Setelah menyelesaikan Guild Siege, terima biaya masuk di Flaris."
+TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,Guild Siege segera dimulai. Kamu akan diteleport secara otomatis ke flaris dalam %d detik.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","Mulai sekarang, Franky di Flarine bisa membiarkanmu masuk ke arena Guild Siege."
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.","Mulai sekarang, kamu dapat mengatur masuknya Guild Siege."
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,Saatnya mengatur barisan dan persiapan Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Guild Siege dimulai dalam
+TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,End combat
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Teleporting to Flaris
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,Mode Guild Siege sekarang tersedia.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.","Untuk saat ini, Kamu tidak dapat mengatur entri."
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.","Anda tidak menerapkan guild siege atau, Anda tidak diterima untuk menghadiri guild siege."
+TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,Jumlah orang yang %d terlampaui.
+TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Kamu harus melebihi level %d untuk sebuah entri.
+TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Terdaftar. Daftar lagi.
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Guild Master tidak bisa menjadi defender.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,Tidak ada kingpin atau master guild dalam sebuah entri.
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Tidak ada defender. Pilih defender.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Tidak ada peserta. Pilih peserta.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,Guild siege diadakan untuk minggu ini.
+TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Silakan bergabung setelah beberapa saat.
+TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Persiapan sedang berlangsung.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Gelandangan tidak memenuhi syarat untuk pengepungan guild. Coba lagi setelah kesempatan job pertama Anda.
+TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Selamat datang di Pengepungan Guild.
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,Anda dapat memperbesar kamera dengan menekan tombol [Scroll Lock].
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.","Kamu adalah master guild! Mengalahkan defender, Anda akan mendapatkan bonus."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.","Anda defender! Jika Anda dikalahkan oleh musuh, mereka akan mendapatkan bonus."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.","Kalahkan lawanmu untuk kemuliaan guildmu! Mengalahkan defender, Anda akan mendapatkan bonus."
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!","Selamat, Anda mendapatkan peta guild!"
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,Pertempuran dimulai tepat setelah pemeliharaan server. Bersiaplah untuk perang!
+TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Start Combat
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Master guild telah memperoleh %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,Guildmu telah mendapatkan %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Defendermu sudah mati! %s guild telah mendapatkan poin!
+TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,Kamu harus terhubung di Channel 1 untuk masuk ke Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,Guild Siege telah berakhir.
+TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,Guild pemenang untuk minggu ini: %s guild.
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVP adalah %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Selamat!
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Time Limit
+TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Kamu tidak bisa mengundang seseorang ke guild saat berada di Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,Kamu bisa membubarkan guild yang telah mengajukan Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Kamu tidak bisa berhenti dari guild saat berada di Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,Tidak dapat menggunakan fungsi manajemen anggota selama Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,Kamu tidak dapat mengubah logo guild selama Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,Kamu tidak dapat mengubah nama guild selama Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Tidak dapat menyatakan perang selama Guild Siege.
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,Kamu tidak dapat menggunakan item selama acara.
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,Kamu tidak dapat menggunakan skills selama acara.
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,Kamu tidak dapat enchant selama acara.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,Kamu tidak bisa shout selama acara berlangsung.
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,Itu tidak tersedia selama Guild Siege.
+TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Refund dari kegagalan tender untuk guild siege
+TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,Halo. Aku seorang manajer guild bernama Donaris.\nAku akan mengembalikan sebagian uangmu. Aku telah mengurangi 2% sebagai komisi.\nAku berharap dapat melihatmu di Guild Siege lagi.\nTerima kasih atas minatmu
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.","Kamu telah menerima hadiah uang untuk MVP atau, Kamu bukan MVP."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.","Karena jumlahnya melebihi penya persediaan setelah menambahkan hadiah uang guild siege, silakan minta untuk mendapatkan hadiah uang kepada GM di situs web. Maaf atas ketidaknyamanannya."
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,Kamu telah menerima %d penya sebagai MVP. Selamat!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.","Kamu telah menerima hadiah uang atau, Kamu bukan orang yang perlu menerima biaya aplikasi kembali."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,Kamu menerima %d penya sebagai hadiah uang untuk pengepungan guild. Selamat!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Kamu menerima %d penya dikurangi jumlah yang Kamu bayarkan untuk aplikasi.
+TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Kamu tidak dapat menggunakan ini saat transy sedang digunakan.
+TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Akun ini diblokir. Hubungi FlyFF Support untuk mendapatkan bantuan.
+TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Kamu tidak bisa pergi dengan cara ini.
+TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,Akun Anda tidak diverifikasi. Silakan periksa mailboxmu.
+TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,Karakter ini diblokir dan tidak bisa diakses. Silakan menghubungi Flyff Universe customer service untuk informasi lebih lanjut.
+TEXTCLIENT_RECONNECT_QUESTION,Do you want to try to reconnect?,Apakah Kamu ingin mencoba reconnect?
+TEXTCLIENT_ROSHAMBO_STARTGUID1,You need a Rock-Paper-Scissors Coupon in order to play.,Kamu memerlukan Rock-Paper-Scissors Coupon untuk bermain.
+TEXTCLIENT_MINIGAME_USING,You are playing a game now!,Kamu sedang bermain game sekarang!
+TEXTCLIENT_MINIGAME_ITEM_POST,Item / Penya was sent to your mailbox.,Item / Penya dikirim ke mailbox.Anda.
+TEXTCLIENT_ERROR_TRYLATER,Please try again later,Silakan coba lagi nanti
+TEXTCLIENT_ERROR_LACKITEM,You don't have the right item.,Kamu tidak memiliki item yang tepat.
+TEXTCLIENT_EXCHANGE_SUCCESS,You have received %s x%d.,Kamu telah menerima %s x%d.
+TEXTCLIENT_REAPITEM_EVENT,You have received %s as a reward!,Kamu telah menerima %s sebagai hadiah!
+TEXTCLIENT_DISCONNECTED_CHEAT,"You have been disconnected from server due to abnormal detected activity. A GM will analyse the report and may decide to ban your account. If you think this is an error, please fill out a bug report indicating exactly what you were doing in game before this message. Thank you.","Kamu telah terputus dari server karena aktivitas terdeteksi yang tidak normal. GM akan menganalisis laporan dan dapat memutuskan untuk memblokir akunmu. Jika menurutmu ini adalah kesalahan, silakan isi laporan bug yang menunjukkan dengan tepat apa yang Kamu lakukan dalam game sebelum pesan ini. Terima kasih."
+TEXTCLIENT_DISCONNECTED_HACK,Your character has been banned because the system detected a cheating software. A partial copy of your client memory has been stored as legal proof. You can create a new character and stop using any external tool. Thank you.,Karaktermu di banned karena sistem mendeteksi adanya software cheat. Sebagian memori clientmu telah tersimpan sebagai bukti yang legal. Kamu dapat membuat karakter baru dan berhenti menggunakan tool lain apapun. Terima kasih.
+TEXTCLIENT_CASHMAP_MAPITEMUSE,"If you use the torch, you will be able to see this map. Continue?","Jika Kamu menggunakan torch, Kamu akan dapat melihat peta ini. Lanjut?"
+TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,Kamu sudah memiliki hewan peliharaan yang disummon.
+TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Karakter dengan Disposition yang buruk tidak bisa terbang.
+TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Pemberitahuan] Ini adalah tes! Server akan menutup di %s dan karakter akan dihapus.
+TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Pemberitahuan] Ini adalah Early Access! Masalah stabilitas server dan bug dapat terjadi.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Pemberitahuan] GM (Game Master) tidak akan pernah meminta Akun atau Kata Sandi Bankmu.
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Pemberitahuan] Jangan meminjamkan atau membiarkan pemain meminjam itemmu. Jika mereka tidak mengembalikan barang itu, itu hilang selamanya."
+TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Kamu terlalu jauh dari target.
+TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s sedang dalam pembunuhan besar-besaran!
+TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s sedang mengamuk!
+TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%s tak terbendung!
+TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,%d menit tersisa untuk membunuh bos
+TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s membunuh %s!
+TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s dari Guild %s membunuh %s!
+TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,%d menit tersisa untuk menjarah barang
+TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,Seorang gelandangan tidak dapat bergabung dengan Arena.
+TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,Silakan keluar dari Arena dulu.
+TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,Kamu hanya dapat menggunakan teleportasi Arena setiap 3 menit.
+TEXTCLIENT_CHANGE_FACE,Change your Appearance.,Change your Appearance.
+TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,Apakah Kamu ingin mengubah penampilan?
+TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%s harus menunggu %s sebelum melakukan dungeon lagi.
+TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,Kamu kehilangan %s Penya (Total: %s Penya).
+TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,Kamu tidak dapat melakukan itu selama duel.
+TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,Item ini bisa kamu gunakan dengan menu Card Upgrade di Card Master.
+TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,Card upgrade berhasil!
+TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,Card upgrade gagal.
+TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,Card upgrade gagal. %d kartu yang terdaftar akan dihancurkan.
+TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,Kamu mendapatkan %s.
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,Konversi sukses!
+TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s meningkatkan jumlah anggota yang dapat Anda miliki di guild sebesar 5!
+TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,Berhasil mengirim laporan.
+TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,Kamu harus menunggu sebelum melaporkan pemain yang sama.
+TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,Achievements
+TEXTCLIENT_ACHIEVEMENT_CLAIMSUCCESS,Successfully claimed,Klaim berhasil
+TEXTCLIENT_ACHIEVEMENT_CLAIMNOTHING,You have nothing to claim,Kamu tidak memiliki apa pun untuk diklaim
+TEXTCLIENT_ACHIEVEMENT_LEVELREACH,"You reached level %d of achievement ""%s""","Kamu mencapai level %d achievement ""%s"""
+TEXTCLIENT_ACHIEVEMENT_COMPLETE,"You completed ""%s""","Kamu telah menyelesaikan ""%s"""
+TEXTCLIENT_ACHIEVEMENT_TITLEUNLOCK,You unlocked title [%s],Kamu mengunlock title [%s]
+TEXTCLIENT_PARTYMESSAGEERROR3,Your party is already level 40. You cannot use this item.,Partymu sudah level 40. Anda tidak dapat menggunakan item ini.
+TEXTCLIENT_PARTYALREADYPERMANENT,The party is already permanent.,Party sudah permanen.
+TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatically ejected when they are offline.,Party itu sekarang permanen! Anggota tidak dikeluarkan secara otomatis saat mereka offline.
+TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,Kamu hanya dapat menyerang monster ini selama quest %s.
+TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,Tidak cukup Protection Scroll.
+TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,Tidak cukup Upgrade Material.
+TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,Tidak cukup Penya
+TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,Wrong Upgrade Material.
+TEXTCLIENT_UPGRADESAFE_NOMINERAL,You need at least #b%d#nb additional %s.,Kamu memerlukan setidaknya #b%d#nb tambahan %s.
+TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,Pengalaman Party berubah menjadi %s.
+TEXTCLIENT_PARTY_CHANGEITEM,Party Distribute Item changed to %s.,Party Distribute Item diubah menjadi %s.
+TEXTCLIENT_JOIN_GROUP_APPROVAL,Please wait for Leader Approval.,Harap tunggu Leader Approval.
+TEXTCLIENT_JOIN_GUILD_APPROVAL,Please wait for Master Approval.,Harap tunggu Master Approval.
+TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%s menolak bahwa Kamu bergabung dengan party.
+TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%s menolakmu bergabung dengan guild.
+TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,Tidak dapat menggunakan skill ini saat terbang.
+TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,Bodoh! Aku akan melelehkan kalian semua!
+TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,Kamu akan terbakar! Kamu semua akan terbakar!
+TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s! Mendekatlah! Hadapi aku! Bakar!
+TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,Kau kira aku sendirian?!
+TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,Tidak dapat menghapus Buff sekarang.
+TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,Buff telah dihapus.
+TEXTCLIENT_ERROR_SNATCH,No Penya to steal from this target.,Tidak ada Penya yang bisa dicuri dari target ini.
+TEXTCLIENT_ERROR_ITEM_ACCESSLEVEL,You don't have the required access to use this item.,Kamu tidak memiliki akses yang diperlukan untuk menggunakan item ini.
+TEXTCLIENT_ERROR_CATCHERPRIORITY,You can only kill and collect one Catcher at a time.,Kamu hanya dapat membunuh dan mengumpulkan satu Catcher pada satu waktu.
+TEXTCLIENT_MAX_COLLECTOR_LEVEL,Collector can be upgraded up to +5.,Collector dapat ditingkatkan hingga +5.
+TEXTCLIENT_MAX_HARVEST_LEVEL,Harvesting gloves can only be upgraded up to +5.,Harvesting glover hanya dapat diupgrade sampai +5.
+TEXTCLIENT_CAN_JOIN_GUILD,You can already join a guild.,Kamu sudah bisa bergabung dengan guild.
+TEXTCLIENT_CAN_REJOIN_GUILD,You can join a guild now.,Kamu bisa bergabung dengan guild sekarang.
+TEXTCLIENT_NEED_PET,You must summon a pet first.,Kamu harus summon pet terlebih dahulu.
+TEXTCLIENT_CHANGENAME_PET,Pet name successfully changed.,Nama pet berhasil diubah.
+TEXTCLIENT_PET_SKILL_NOUSE,Your pet must have at least %d energy and a full progress bar to use the skill.,Hewan peliharaan Anda harus memiliki setidaknya %d energi dan bilah kemajuan penuh untuk menggunakan keterampilan tersebut.
+TEXTCLIENT_PET_SKILL_HASBUFF,The skill is already active.,Keterampilannya sudah aktif.
+TEXTCLIENT_REAPMONEY_SHORT,Received %s Penya - Total %s,Menerima %s Penya - Total %s
+TEXTCLIENT_REAPITEM_SHORT,Received %s,Menerima %s
+TEXTCLIENT_TROUPEREAPITEM_SHORT,%s received %s,%s received %s
+TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,Server Maintenance dalam %s
+TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,Server Maintenance dibatalkan
+TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,Harga %s tidak dapat melebihi %s Penya.
+TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,Vendor Shopmu sekarang buka.
+TEXTCLIENT_VENDOR_SHOP_CLOSE,Your Vendor Shop has been closed.,Vendor Shopmu telah ditutup.
+TEXTCLIENT_VENDOR_SHOP_NOTOWN,You cannot purchase items from your own Vendor.,Kamu tidak dapat membeli barang dari Vendormu sendiri.
+TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your inventory and login again.,Kamu memiliki item %d untuk diterima. Harap beri ruang di inventorymu dan masuk lagi.
+TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,Item ini ditandai sebagai Favorit.
+TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,Kamu sudah menggunakan 2 Extra Bags.
+TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,Inventory sekarang diperluas.
+TEXTCLIENT_APP_EXTRABAG,Inventory View,Inventory View
+TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,Seseorang harus membunuhmu untuk menaruh bounty.
+TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,Bounty berhasil didaftarkan.
+TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,Kamu harus menunggu sebelum mendaftarkan bounty pada pemain ini.
+TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s saat ini sedang offline.
+TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,Ruang inventory Anda meningkat sebesar %d!
+TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s ditingkatkan %s menjadi %s+%d!
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s ditingkatkan [Soul-Bound] %s menjadi %s+%d!
+TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s mencapai level %d!
+TEXTCLIENT_APP_GACHA,Gacha,Gacha
+TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,Kotak telah berhasil direset.
+TEXTCLIENT_APP_BOT,Bot,Bot
+TEXTCLIENT_SKILL_AWAKE,Item received a bonus.,Item menerima bonus.
+TEXTCLIENT_SKILL_AWAKE_FAILED,No bonus is available for this item.,Tidak ada bonus yang tersedia untuk item ini.
+TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,Tidak bisa dilakukan.
+TEXTCLIENT_ITEM_LEVELDOWN_ALREADY,Better effect has already been activated.,Efek yang lebih baik telah diaktifkan.
+TEXTCLIENT_UNBINDING,The item is now tradable.,Barang itu sekarang dapat diperdagangkan.
+TEXTCLIENT_EXPSTOP_EMPTY,Reload the Experience Lock gauge first.,Reload pengukur Experience Lock terlebih dahulu.
+TEXTCLIENT_EXPSTOP_STOP,You receive experience from monsters now!,Kamu menerima experience dari monster sekarang!
+TEXTCLIENT_EXPSTOP_START,Your experience is now locked.,Experiencemu sekarang terkunci.
+TEXTCLIENT_EXPSTOP_ALMOST,Your Experience Lock gauge is almost empty.,Experience Lockmu hampir kosong.
+TEXTCLIENT_EXPSTOP_ACTIVE,You don't receive experience because Experience Lock is active.,Kamu tidak menerima experience karena Experience Lock aktif.
+TEXTCLIENT_EXPSTOP_RELOAD,Your Experience Lock gauge is now %d.,Experience Lockmu sekarang %d.
+TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please refresh in a few seconds.,Peringkat arena saat ini sedang dimuat. Harap refresh dalam beberapa detik.
+TEXTCLIENT_ARENA_RANKING_WINNER,The best player of the Arena this week is %s!,Pemain terbaik Arena minggu ini adalah %s!
+TEXTCLIENT_ARENA_RANKING_MAIL,Congratulations for your rank %d in the PvP Arena this week!,Selamat atas peringkatmu %d di PvP Arena minggu ini!
+TEXTCLIENT_QUEST_NOTELEPORT,Blinkwings are not allowed during the quest %s.,Blinkwings tidak diperbolehkan selama quest %s.
+TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,Kamu baru saja menemukan %s!
+TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s baru saja menemukan %s!
+TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,Barang itu tidak bisa diberkati.
+TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,Item telah dibangkitkan.
+TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,Fitur ini hanya dapat digunakan pada item yang diberkati.
+TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,Berkat Goddess telah dihapus.
+TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,Ini adalah hadiah karena Kamu sudah lama tidak login!
+TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,Ada terlalu banyak barang yang sudah ada di tanah.
+TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,Kamu telah membuat %dx %s.
+TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,Penciptaan Jewel gagal.
+TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,Selamat atas peringkatmu %d (%s) di peringkat Combat Power!
+TEXTCLIENT_PVPLIMIT,This PvP kill is not counted because you already fought together a little while ago.,Kill PvP ini tidak dihitung karena kamu sudah bertarung bersama beberapa waktu yang lalu.
+TEXTCLIENT_GEM_WRONG,Please use the correct Jewel for the weapon.,Silakan gunakan Jewel yang benar untuk senjatanya.
+TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,Konversi ke Unique weapon berhasil!
+TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,Konversi ke Unique weapon gagal.
+TEXTCLIENT_BOUNTY_OTHERCHANNEL,The player is currently in a different channel.,Pemain saat ini berada di saluran yang berbeda.
+TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,Pemain saat ini berada di zona aman.
+TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,Kamu sudah sangat dekat dengan tempat ini!
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,Selamat atas peringkat anda %d di peringkat Giant Hunt!
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,Selamat telah mencapai %d poin di peringkat Giant Hunt!
+TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,Anda menerima %d Giant Hunting Points (Total %d)!
+TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,Kamu tidak dapat membeli karena server akan memiliki pemeliharaan dalam beberapa detik.
+TEXTCLIENT_CTRLRECOVERY,You found a HP container!,Kamu menemukan HP container!
+TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,Hadiah berhasil diklaim
+TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,Kamu menerima %s Bonus fCoins.
+TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,Senjata itu tidak memiliki efek upgrade apa pun.
+TEXTCLIENT_UPGRADEEFFECT,Upgrade effects are changed for this weapon.,Efek upgrade diubah untuk senjata ini.
+TEXTCLIENT_INVALIDOTP,Invalid Two Factor authentication code.,Two Factor authentification code tidak valid.
+TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,Gagal menyelesaikan tantangan. Silahkan coba lagi .
+TEXTCLIENT_SERVERCLOSED,The game is in maintenance. Please wait.,Game ini dalam maintenance. Harap tunggu.
+TEXTCLIENT_PRIVATE_SHOP_LEVEL,You must complete your 1st Job Change to open a Private Shop.,Kamu harus menyelesaikan 1st Job Change untuk membuka Private Shop.
+TEXTCLIENT_VENDOR_SHOP_LEVEL,You must reach level %d to open a Vendor Shop.,Kamu harus mencapai level %d untuk membuka Vendor Shop.
+TEXTCLIENT_CANT_CHAT_LEVEL,Guest Characters under Level %d cannot use the chat.,Guest Characters di bawah Level %d tidak dapat menggunakan chat
+TEXTCLIENT_CANT_CHAT_LEVEL2,Characters under Level %d cannot use the chat.,Karakter di bawah Level %d tidak dapat menggunakan chat.
+TEXTCLIENT_TOOMANYREQUESTS,Too many requests. Please try again later.,Terlalu banyak requests. Silakan coba lagi nanti.
+TEXTCLIENT_PLAYERDISCONNECTED,Player %s disconnected.,Player %s disconnected
+TEXTCLIENT_ERROR_CATCHERLEVEL,You must complete your 1st Job Change to attack this monster.,Kamu harus menyelesaikan 1st Job Change untuk menyerang monster ini.
+TEXTCLIENT_ERROR_RESURRECTPK,You can only be resurrected on a PK channel.,Kamu hanya dapat dibangkitkan di PK channel.
+TEXTCLIENT_GUILD_ADDBAG,%s expanded the guild bank!,%s memperluas bank guild!
+UI_CASHSHOP_MAXPURCHASE,Maximum amount of purchases per character: %d,Jumlah maksimum pembelian per karakter: %d
+TEXTCLIENT_LEADERSHIPOFF,Cannot transfer Leadership to offline player.,Tidak dapat mentransfer Leadership ke pemain offline.
+TEXTCLIENT_PET_NOTFOUND,You do not have a summoned pet.,Kamu tidak memiliki pet untuk disummon.
+TEXTCLIENT_PET_USEFEED,You have used %d pet candy.,Kamu telah menggunakan %d pet candy.
+TEXTCLIENT_PET_HATCH,Bring your Pet to the Pet Tamer to upgrade it!,Bawa pet kamu ke Pet Tamer untuk mengupgradenya!
+TEXTCLIENT_PET_WRONGCANDY,You must use the correct Pet Candy to feed your pet.,Kamu harus menggunakan Pet Candy yang sesuai untuk memberi makan Pet.
+TEXTCLIENT_PET_HATCH_CONF,Turns an egg into a D Level pet. Pet class will be decided at random.,Mengubah telur menjadi Pet Level D. Pet class akan diputuskan secara random.
+TEXTCLIENT_PET_REQEGG,Use on your egg.,Gunakan pada telurmu.
+TEXTCLIENT_PET_REROLL_TIER,The tier of the pet must be higher or equal.,Tier pet harus lebih tinggi atau sama.
+TEXTCLIENT_PET_REROLL_ALREADY,Your pet already has the maximum level possible.,Pet kamu telah mencapai level maksimum.
+TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!",Petmu telah mendapatkan level tinggi yang baru!
+TEXTCLIENT_PET_REROLL_LOWER,"You rolled the same or a lower level, so nothing changed.","Kamu dapat level yang sama atau lebih rendah, jadi tidak ada yang berubah."
+TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,Energi bar telah full.
+TEXTCLIENT_PET_NOTEGG,Cannot use on egg.,Tidak bisa digunakan pada telur.
+TEXTCLIENT_PET_TRANSMUTE,Your pet has got a new appearance!,Pet kamu telah mendapatkan tampian baru!
+TEXTCLIENT_GUILDCOMBAT_REDCHIPS,%d Red Chips have been sent to your inventory or mail box.,%d Red Chips telah dikirim ke inventaris atau kotak surat Anda.
+TEXTCLIENT_PET_TRANSMUTE_CONF,Your pet will get a new appearance. Do you want to continue?,Peliharaanmu akan mendapat penampilan baru. Kamu ingin melanjutkannya?
+TEXTCLIENT_ITEM_TRANSMUTE_SUCCESS,You have transmuted your item!,Kamu sudah mentransmutasikan itemmu!
+TEXTCLIENT_ITEM_TRANSMUTE_INCOMPATIBLE,These items are not compatible for transmutation.,Item ini tidak kompatibel untuk transmutasi.
+TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,Transmutasi sudah dihapus.
+TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,Item telah ditambahkan ke lemari pakaianmu.
+TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,Tidak dapat menyatakan perang dalam saluran ini.
+TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Battle Pass
+TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s misi %s selesai.
+TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,Kamu menerima %d %s poin
+TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,Musim %s telah direset!
+TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,Kamu mencapai %s tingkat %d!
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,You reached the %s bonus grade %d+%d!
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,Tidak ada lagi Battle Pass yang aktif.
+TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Terima kasih telah membeli Perpanjangan %s!
+TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Beli Perpanjangan %s untuk menerima lebih banyak hadiah!
+TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Hanya karakter level 80 atau kurang yang dapat ikut ke Lv80 Guild Siege.
+TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,Hanya karakter yang tidak menyelesaikan perubahan kelas kedua yang dapat mendaftar ke Guild Siege Lv60 ini.
+TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,Lv80 Guild Siege akan dilaksanakan pada minggu ini.
+TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,Lv60 Guild Siege akan dilaksanakan pada minggu ini.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Level 80 Guild Siege telah berakhir.
+TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Level 60 Guild Siege telah berakhir.
+TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s sudah dikirim ke inventorimu atau kotak mail.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.","Mulai sekarang, Atlas di Flarine membiarkanmu masuk arena Lv80 Guild Siege."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.","Mulai sekarang, Olivia di Flarine membiarkanmu masuk ke arena Lv60 Guild Siege."
+TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,Guild Siege lainnya sedang terjadi.
+TEXTCLIENT_SKILL_ROOT,You cannot move right now.,Kamu tidak bisa bergerak sekarang.
+TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s telah jatuh!
+TEXTCLIENT_EVENT_REQGUILD,You should join a Guild to participate to the event!,Kamu harus bergabung dengan Guild untuk berpartisipasi kedalam event!
+TEXTCLIENT_GUILD_WORLDCUP_POINTS,%s brought %d GET'EM B'ALL points to the Guild (Total: %d)!,%s membawa %d GET'EM B'ALL poin ke Guild (Total: %d)!
+TEXTCLIENT_WORLDCUP_RANKING_MAIL,Congratulations for your rank %d in the GET'EM B'ALL ranking!,Selamat atas peringkatmu %d di peringkat GET'EM B'ALL!
+TEXTCLIENT_REMOVEPIERCING_NOSELECTION,You need to select a card to remove !,Kamu harus memilih kartu untuk dihapus !
+TEXTCLIENT_REMOVEPIERCING_NOCARD,The slot you selected has no card in it !,Slot yang Kamu pilih tidak memiliki kartu di dalamnya !
+TEXTCLIENT_DUNGEON_FAIL_ENTER,Unable to enter the dungeon.,Tidak dapat memasuki ruang dungeon.
+TEXTCLIENT_DUNGEON_FAIL_LEADER,Your leader must enter the dungeon first.,Pemimpinmu harus memasuki dungeon terlebih dahulu.
+TEXTCLIENT_DUNGEON_START,%s started the dungeon %s!,%s memulai dungeon %s!
+TEXTCLIENT_DUNGEON_START_DIFFICULTY,%s started the dungeon %s (%s)!,%s memulai dungeon %s (%s)!
+TEXTCLIENT_DUNGEON_FULL,Too many players are in this dungeon. Please wait a moment.,Terlalu banyak pemain di dungeon ini. Silakan tunggu beberapa saat.
+TEXTCLIENT_DUNGEON_NOTRANS,You cannot enter an instanced dungeon while you are using a Trans.,Anda tidak dapat memasuki instanced dungeon saat sedang menggunakan Trans.
+TEXTCLIENT_DUNGEON_NOTRANSUSE,You cannot use a Trans inside of an instanced dungeon.,Kamu tidak dapat menggunakan Trans di dalam instanced dungeon.
+TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a moment.,Instance sebelumnya sedang ditutup. Silakan tunggu beberapa saat.
+TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,Dungeon ini tidak mengizinkan lebih dari %d anggota grup.
+TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,Tidak diizinkan masuk untuk saat ini.
+TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,%d menit tersisa untuk membasmi %d monster
+TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...","Waktu habis, kamu telah gagal di dungeon..."
+TEXTCLIENT_LACKITEM,You do not have the required items.,Kamu tidak memiliki item yang diperlukan.
+TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,Persiapkan dirimu!
+TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,Dungeon Anda berjalan di channel lain.
+TEXTCLIENT_DUNGEON_COOLDOWN,Please wait before challenging this dungeon again.,Harap tunggu sebelum menantang dungeon ini lagi.
+TEXTCLIENT_DUNGEON_PARTY_REQ,You must be in a Party to enter this dungeon.,Kamu harus berada dalam Party untuk memasuki dungeon ini.
+TEXTCLIENT_DUNGEON_GUILD_REQ,You must be in a Guild to enter this dungeon.,Kamu harus berada di Guild untuk memasuki dungeon ini.
+TEXTCLIENT_GUILDCOMBAT_NOMASTERS,You cannot join a Lv80 Guild Siege or Lv60 Guild Siege when doing a master quest!,Kamu tidak dapat bergabung dengan Guild Siege Lv80 atau Guild Siege Lv60 saat sedang melakukan master quest!
+TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,Kamu membuka skill [%s] lv.%d!
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL,Congratulations for your rank %d in the Thief Santa Hunt ranking!,Selamat atas peringkat %d di peringkat Thief Santa Hunt!
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Thief Santa Hunt ranking!,Selamat telah mencapai %d poin di peringkat Thief Santa Hunt!
+TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,Kamu menerima %d Poin Thief Santa Hunting (Total %d)!
+TEXTCLIENT_APP_LOTTERY,Lottery,Lottery
+TEXTCLIENT_LOTTERY_LOWLEVEL,"Your level is too low, you must be level %d minimum to start this lottery!","Levelmu terlalu rendah, Kamu harus mencapai level %d minimum untuk memulai lotre ini!"
+TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!","Levelmu terlalu tinggi, Kamu harus mencapai level %d maksimal untuk memulai lotre ini!"
+TEXTCLIENT_LOTTERY_ITEMSMISSING,You must have %d %s to start this lottery!,Kamu harus memiliki %d %s untuk memulai lotre ini!
+TEXTCLIENT_LOTTERY_ERRORSTARTED,You already started a lottery! Wait for it to finish!,Kamu sudah memulai lotre! Tunggu sampai selesai!
+TEXTCLIENT_LOTTERY_NOREWARD,Unlucky.. You got no reward this time!,Sial.. Kamu tidak mendapat hadiah kali ini!
+TEXTCLIENT_LOTTERY_NOFREESPINS,You don't have any free spins left!,Kamu tidak memiliki putaran gratis yang tersisa!
+TEXTCLIENT_LOTTERY_FREESPIN,You can now claim your free Lottery Wheel spin!,Kamu sekarang dapat mengklaim putaran Lottery Wheel gratis!
+TEXTCLIENT_APP_EVENTPASS,Lunar Pass,Lunar Pass
+TEXTCLIENT_BATTLEPASS_REWARD,You need to be at least level %d to claim %s rewards!,Kamu harus setidaknya level %d untuk mengklaim hadiah %s!
+TEXTCLIENT_EXCHANGECONSUME_ERROR,You already have one buff of that type active.,Kamu sudah memiliki satu buff jenis itu yang aktif.
+TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,Guild %s tidak ditemukan.
+TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,Kamu harus memberikan alasan.
+TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,Kamu telah menerima peringatan dari %s: %s
+TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s telah diperingatkan.
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.","%s tidak online, tetapi peringatan tetap dicatat."
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,%d menit tersisa untuk membunuh %s
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,%d menit tersisa untuk membunuh %dx %s
+TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,Tiketmu telah kedaluwarsa! Kamu diteleportasi kembali ke Madrigal!
+TEXTCLIENT_PETCAGE_FAIL01,The pet inside did not survive.,Pet di dalam tidak selamat.
+TEXTCLIENT_MINTARGETLEVEL,This item can only be used on items level %d and above.,Item ini hanya bisa digunakan pada item level %d ke atas.
+TEXTCLIENT_DUNGEON_MAXENTRY,Your reached the maximum entrance amount for today.,Kamu telah mencapai jumlah masuk maksimum untuk hari ini.
+TEXTCLIENT_DUNGEON_MAXINSTANCE,You already have %d dungeon running. Please wait.,Kamu sudah menjalankan %d dungeon. Harap tunggu.
+TEXTCLIENT_DUNGEON_RATELIMIT,Too many players are starting dungeons. Please try again soon.,Terlalu banyak pemain yang memulai dungeon. Silahkan coba lagi nanti.
+TEXTCLIENT_DUNGEON_FAILMASTER,You cannot enter dungeons while on a Master quest.,Kamu tidak dapat memasuki dungeon saat sedang melakukan Master quest.
+TEXTCLIENT_ITEM_PK,This item is only usable on a PK Channel.,Item ini hanya dapat digunakan di PK Channel.
+TEXTCLIENT_DUNGEON_RANKING_MAIL,Congratulations for your rank %d in the %s!,Selamat atas peringkatmu %d di %s!
+TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,Pemenang %s minggu ini adalah %s Guild
+TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,Tidak ada Guild pemenang dari %s
+TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,Kamu tidak dapat berteleportasi di saluran non-PK saat menggunakan tiket PK
+TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,Dungeon diselesaikan dalam %s!
+TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,Selamat! Kamu membunuh semua %s(s)! Boss akan muncul dengan bonus!
+TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,Pemain lain menggunakan ini! Tolong tunggu..
+TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,Item %s hanya dapat dikumulatifkan jika buff tersebut adalah item yang sama persis. Item buff saat ini %s.
+TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,Kostum sudah digunakan.
+TEXTCLIENT_COSTUMECOLLECTION_NOTHING,You have nothing to submit.,Tidak ada yang perlu Kamu kirimkan.
+TEXTCLIENT_APP_EVENTS,Events,Events
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_1,You have nothing to submit.,Tidak ada yang perlu Kamu kirimkan.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_2,Achievement collection error 02.,Achievement collection error 02.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_3,Achievement collection error 03.,Achievement collection error 03.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_4,Achievement collection error 04.,Achievement collection error 04.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_5,Costume is already used.,Kostum sudah digunakan.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_6,Achievement collection error 06.,Achievement collection error 06.
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_7,Achievement collection error 07.,Achievement collection error 07.
+TEXTCLIENT_ACHIEVEMENT_COLLECTIONSUCCESS,Costumes successfully submitted.,Kostum berhasil dikirimkan.
+TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""",Kamu telah mencapai %d dari “%s”
+TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Pesanmu melebihi panjang maksimum.
+TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,Kamu tidak dapat berteleportasi jika membeku.
+TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,Kamu harus mencapai level %d untuk memperdagangkan item premium.
+TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,Kamu harus mencapai level %d untuk menggunakan gerakan ini.
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Switch Equip
+TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,Kamu hanya dapat melengkapi item dari menu/pintasan SwitchEquip.
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,Kamu Berhasil memperbarui preset %s!
+TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,Kamu memiliki terlalu banyak preset!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,Kamu berhasil membuat preset %s!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,Kamu berhasil menghapus preset %s!
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,You don't have access to this preset anymore.. You need battlepass for it.,Kamu tidak memiliki akses ke preset ini lagi.. Kamu perlu battlepass untuk itu.
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,Kamu tidak dapat menambahkan %s ke peralatan yang telah ditetapkan. Persyaratan tidak terpenuhi.
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,Pertama-tama Kamu harus melengkapi item tersebut satu kali sebelum menambahkannya ke peralatan yang telah ditetapkan.
+TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,Harap tunggu sebentar sebelum menggunakan sakelar lain.
+TEXTCLIENT_PVPCONTEST_NOGUILD,You need a guild and be the leader to register.,Kamu membutuhkan guild dan menjadi pemimpin untuk mendaftar.
+TEXTCLIENT_PVPCONTEST_ALREADYREGISTERED,Your guild is already registered for the FWC PVP Contest!,Guild Anda sudah terdaftar dalam Kontes PVT FWC!
+TEXTCLIENT_PVPCONTEST_NOTCLOSED,You can't register now. FWC PVP Contest has already started or will start tomorrow!,Kamu tidak dapat register sekarang. Kontes FWC PVP telah dimulai atau akan dimulai besok!
+TEXTCLIENT_PVPCONTEST_COMPOSITIONNOTCLOSED,You can't change your participating players now. FWC PVP Contest has already started or will start tomorrow!,Kamu tidak dapat merubah player yang berpartisipasi sekarang. Kontes FWC PVP telah dimulai atau akan dimulai besok!
+TEXTCLIENT_PVPCONTEST_NOTREGISTERED,Your guild is not registered for the FWC PVP Contest.,Guildmu belum diregister untuk kontes FWC PVP.
+TEXTCLIENT_PVPCONTEST_COMPOSITIONSUCCESS,You successfully set your player composition!,Kamu berhasil melakukan komposisi player!
+TEXTCLIENT_PVPCONTEST_REGISTRATIONSUCCESS,You successfully registered your guild for the FWC PVP Contest!,Kamu berhasil register guildmu untuk kontes FWC PVP!
+TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s penyas to register to the FWC PVP Contest!,Kamu membutuhkan setidaknya %s penyas untuk register kontes FWC PVP!
+TEXTCLIENT_PVPCONTEST_STATE_REGISTRATIONS,Registrations for FWC PVP Contest are now open! ,Registrasi kontes FWC PVP dibuka sekarang!
+TEXTCLIENT_PVPCONTEST_STATE_PRELIMINARY,Preliminaries will start from now on!,Persiapan akan dimulai dari sekarang!
+TEXTCLIENT_PVPCONTEST_STATE_BACKUP,Backup Match will start from now on!,Backup Match akan dimulai dari sekarang!
+TEXTCLIENT_PVPCONTEST_STATE_FINALS,Final Matchs will start from now on!,Final Match akan dimulai dari sekarang!
+TEXTCLIENT_PVPCONTEST_HAVENOT_PLAYER,You need to select players to participate the FWC PVP Contest!,Kamu perlu memilih beberapa player untuk berpartisipasi pada kontes FWC PVP!
+TEXTCLIENT_PVPCONTEST_SELECTION_MAX,You can only select %d players maximum!,Kamu hanya dapat memilih %d maksimum player!
+TEXTCLIENT_PVPCONTEST_LIMIT_LEVEL_NOTICE,Selected player must be at least level %d!,Player yang dipilih harus memiliki minimum level %d!
+TEXTCLIENT_PVPCONTEST_ALREADY_ENTRY,That player is already selected! Please pick another.,Pemain ini sudah dipilih! Coba pilih yang lain.
+TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC PVP Contest!,Guild Leader telah berpartisipasi dalam kontes FWC PVP!
+TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,Registrasi untuk kontes FWC PVP akan berakhir dalam satu jam! Pastikan kamu telah register guildmu untuk berpartipasi!
+TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,Terdapat error ketika menarik list pemain yang dipilh. Coba lagi.
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,Kamu perlu memilih match.
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %02d:%02d today.","Terima kasih sudah melakukan konfirmasi, pertandinganmu selanjutnya akan dimulai pada %02d:%02d hari ini."
+TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.","Tidak dapat menggunakan fungsi member management ketika kontes FWC PVP, atau kamu sedang melakukan edit member yang telah terpilih untuk registrasi."
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,Kamu tidak dapat mengganti nama guild mu ketika kontes FWC PVP berlangsung.
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,Kamu tidak dapat mengganti logo guild ketika kontes FWC PVP berlangsung.
+TEXTCLIENT_PVPCONTEST_NOT_WAR,Unable to declare war during FWC PVP Contest.,Tidak dapat declare war ketika kontes FWC PVP berjalan.
+TEXTCLIENT_PVPCONTEST_CANNOT_FRIENDADD,You cannot add friends in the FWC PVP Contest.,Kamu tidak dapat menambah teman di kontes FWC PVP.
+TEXTCLIENT_PVPCONTEST_CANNOT_PARTY,You cannot make a party in the FWC PVP Contest.,Kamu tidak dapat membuat party di kontes FWC PVP.
+TEXTCLIENT_PVPCONTEST_NO_OUTWAR,You cannot use Blinkwings to escape the FWC PVP Contest.,Kamu tidak dapat menggunakan Blinkwings untuk berlari dari kontes FWC PVP.
+TEXTCLIENT_PVPCONTEST_MATCHEND_WINNER,Match has ended! Winner is %s!,Pertandingan telah berakhir! Pemenangnya adalah %s!
+TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Pertandingan telah berakhir! Tidak ada pemenang untuk saat ini!
+TEXTCLIENT_PVPCONTEST_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,Menunggu lawan..
+TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,Preparation phase. Match will start in: 
+TEXTCLIENT_PVPCONTEST_CAPTION_FIGHT,End combat  ,Akhiri pertarungan
+TEXTCLIENT_PVPCONTEST_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in ,Pertandingan berakhir! Kamu akan diteleport didalam Madrigal.
+TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedules!,Hanya leader yang dapat memilih jadwal pertandingan!
+TEXTCLIENT_PVPCONTEST_ALREADYPLAYEDTODAY,You already played a match today! You can't select another schedule.,Kamu telah bertanding hari ini! Kamu tidak dapat memilih jadwal yang lain.
+TEXTCLIENT_PVPCONTEST_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Kamu tidak dapat teleport didalam pertandingan lagi. Pertandingan sudah dimulai.
+TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there is no match waiting for you.,Teleport tidak memungkinkan karena tidak ada pertandingan yang menunggumu.
+TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Tidak ada lawan yang bergabung! Pertandingan akan diakhiri, kamu ditetapkan menjadi pemenang!"
+TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Tidak ada lawan didalam pertandinganmu! Dengan ini kamu dinyatakan sebagai pemenang!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s terbunuh oleh [%s] %s!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s killed [%s] %s and stopped their killing spree!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s is on a killing spree!
+TEXTCLIENT_PVPCONTEST_MATCHSOON,You can't change your participation now. Matches are starting soon!,Kamu tidak dapat merubah partisipasimu sekarang. Pertandingan akan segera dimulai!
+TEXTCLIENT_PVPCONTEST_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Seorang pemain belum bergabung atau telah meninggalkan pertandingan! Total nyawa guild yang tersisa telah berkurang sebanyak %d!
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT,The FWC PVP Contest Preliminary %d:%d UTC matches have ended! The next matches will start at %d:%d UTC!,The FWC PVP Contest Preliminary %d:%d UTC telah berakhir! Pertandingan berikutnya akan dimulai pada %d:%d UTC!
+TEXTCLIENT_TRANSITEM_TRANSY,Your transmuted item does not have an equivalent item for the other gender. Please consider removing the transmutation or trying a different item.,Item yang kamu transmutasi tidak memiliki item yang setara untuk gender lainnya. Harap pertimbangkan untuk menghapus transmutasi atau mencoba item yang berbeda.
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD,The FWC PVP Contest has ended! The winner is: %s! Congratulations!,The FWC PVP Contest telah berakhir! Pemenangnya adalah: %s! Selamat!
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD,The FWC PVP Contest has ended on a draw! Congratulations!,The FWC PVP Contest telah berakhir dengan hasil seri! Selamat!
+TEXTCLIENT_PVPCONTEST_NOMATCHS,There is no match to spectate.,Tidak ada pertandingan yang dapat ditonton.
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_1,You can't spectate if you're already participating in a match.,Kamu tidak dapat menonton jika sudah berpartisipasi dalam pertandingan.
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,Pertandingan yang ingin kamu tonton telah berakhir. Silakan pilih yang lain.
+TEXTCLIENT_PVPCONTEST_RANK34,"You lost that match, but you will have the opportunity to compete in a final match for the 3rd rank against the other losing guild when the final match takes place. Best of luck!","Kamu kalah dalam pertandingan itu, tetapi kamu akan memiliki kesempatan untuk bertanding dalam pertandingan final untuk memperebutkan peringkat ke-3 melawan guild lain yang kalah saat pertandingan final berlangsung. Semoga beruntung!"
+TEXTCLIENT_SERVERTRANSFER,You have requested a server transfer to %s.,Kamu telah meminta transfer server ke %s.
+TEXTCLIENT_RPS_DAILYLIMITOVER,You've used all the chances for today.,Kamu telah menggunakan semua kesempatan hari ini.
+TEXTCLIENT_RPS_SOLDOUT,All the rewards for today are gone. See you tomorrow.,Semua hadiah untuk hari ini sudah habis. Sampai jumpa besok.
+TEXTCLIENT_RPS_ISOPENED,You are already speaking with this NPC.,Kamu sudah berbicara dengan NPC ini.
+TEXTCLIENT_RPS_MINTARGETLEVEL,Only available to level %d or above.,Hanya tersedia untuk level %d atau lebih tinggi.
+TEXTCLIENT_RPS_PLAYABLE,You can't play Lucky RPS. Check your state.,Kamu tidak dapat memainkan Lucky RPS. Periksa negaramu.
+TEXTCLIENT_RPS_DAYCHANGE,You do not have the right to acquire the item.,Kamu tidak memiliki hak untuk memperoleh barang tersebut.
+TEXTCLIENT_PVPCONTEST_SPECTATE_AUTH,You don't have the required auth to spectate.,Kamu tidak memiliki autentikasi yang diperlukan untuk menonton.
+TEXTCLIENT_GUILDBUFF_NEW,Your Guild just unlocked Guild Buff Level %d!,Guild barumu saja membuka Guild Buff Level %d!
+TEXTCLIENT_GUILDBUFF_DONATE,%s donated %s #bx%d#nb to the Guild (Total: %d)!,%s donated %s #bx%d#nb to the Guild (Total: %d)!
+TEXTCLIENT_GUILDBUFF_RANKING_MAIL,Congratulations for your rank %d in the First Come First Served ranking!,Selamat atas peringkatmu %d dalam peringkat First Come First Served!
+TEXTCLIENT_PURCHASE_ERROR_LEVEL,You cannot purchase this item because your level is too low. (Req Lev: %d),Kamu tidak dapat membeli item ini karena levelmu terlalu rendah. (Req Lev: %d)
+TEXTCLIENT_PURCHASE_ERROR_COUNT,You can purchase this item up to %d times.,Kamu dapat membeli barang ini hingga %d kali.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_LEVEL,This monster can only be attacked by level %d or higher,Monster ini hanya bisa diserang oleh level %d atau lebih tinggi
+TEXTCLIENT_REAPITEMCOUNT,You received %d %s.,Kamu menerima %d %s.
+TEXTCLIENT_GUILDBANKSCROLL_NOGUILD,You can’t use this item because you are not part of a guild,Kamu tidak dapat menggunakan item ini karena kamu bukan bagian dari guild
+TEXTCLIENT_CANNOT_USE_OTHER_ACTIONS,You cannot use the item during other actions.,Kamu tidak dapat menggunakan item tersebut selama tindakan lainnya.
+TEXTCLIENT_CANNOT_USE_CURRENT_STATE,You cannot use the item in the current state.,Kamu tidak dapat menggunakan item tersebut dalam kondisi saat ini.
+TEXTCLIENT_ACCEL_FUEL_PRIORITY01,"You are currently using Acceleration Fuel. When you use this item, the existing effect will not be applied any more. Are you sure you want to use this?","Kamu saat ini menggunakan Acceleration Fuel. Saat kamu menggunakan item ini, efek yang ada tidak akan berlaku lagi. Apakah kamu yakin ingin menggunakan ini?"
+TEXTCLIENT_ACCEL_FUEL_PRIORITY02,"You are currently using Nitro Booster. When you use this item, the existing effect will still take priority. Are you sure you want to use this?","Kamu saat ini menggunakan Nitro Booster. Saat kamu menggunakan item ini, efek yang ada akan tetap diutamakan. Apakah kamu yakin ingin menggunakan ini?"
+TEXTCLIENT_DAILY_LOTTERY_COUNT,You've used all the roulette chances today.,Kamu telah menggunakan semua peluang roulette hari ini.
+TEXTCLIENT_TRANS_LOTTERY_TRANS,You can't use the roulette while being transformed.,Kamu tidak dapat menggunakan roulette saat sedang bertransformasi.
+TEXTCLIENT_TRANS_LOTTERY_WING,You can't use the roulette while using the wing effect.,Kamu tidak dapat menggunakan roulette saat menggunakan wing effect.
+TEXTCLIENT_TRANS_LOTTERY_FLY,You can't use the roulette while flying.,Kamu tidak dapat menggunakan roulette saat terbang.
+TEXTCLIENT_TRANS_LOTTERY_DUNGEON,You can't use the roulette in this dungeon.,Kamu tidak dapat menggunakan roulette di dungeon ini.
+TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,Kamu sudah menggunakan Bank Extra Bag.
+TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,Bank sekarang telah diperluas.
+TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,Kamu tidak dapat menggunakan item tersebut selama pertempuran.
+TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s Menggunakan %s padamu!
+TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,You used %s on %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,You used %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,Tidak ada target yang ditemukan.
+TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,Target diblokir dengan Rainbow Barrier!
+TEXTCLIENT_RAINBOWRACE_USEITEM_USERBARRIER,You've blocked an item with your Rainbow Barrier!,Kamu telah memblokir suatu item dengan Rainbow Barriermu!
+TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory period.,Kamu tidak dapat mulai terbang selama preparatory period.
+TEXTCLIENT_RAINBOWRACE_NOSTAND,You cannot stop flying during the racing period.,Kamu tidak dapat berhenti terbang selama racing period.
+TEXTCLIENT_RAINBOWRACE_NOSTACK,Your target is already suffering from this item!,Targetmu sudah menderita akibat item ini!
+TEXTCLIENT_RAINBOWRACE_PREP,The Rainbow Race begins in %d seconds...,The Rainbow Race dimulai dalam %d detik...
+TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,The Rainbow Race dimulai sekarang!
+TEXTCLIENT_RAINBOWRACE_FINISH,You've finished the race!,Kamu telah menyelesaikan lomba!
+TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,The Rainbow Race telah usai! Pemenangnya adalah %s!
+TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,Kamu tidak memiliki cukup Penya untuk mendaftar Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,Kamu telah mendaftar untuk lomba berikutnya.
+TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,The Rainbow Race tidak jadi dilaksanakan karena minimnya peserta.
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,Konversi Berhasil!
+TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,Bahan tidak cukup.
+TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,Item ini telah mencapai maximum upgrade level.
+TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,Peningkatan tersebut merupakan kegagalan besar.
+TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,Tingkatkan kesuksesan besar!
+TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,Item ini tidak dapat digunakan untuk target.
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,Kamu dapat menggunakan item ini dengan menu Create Ultimate Weapon di Weapon shop
+TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,Kamu harus menetapkan item target terlebih dahulu.
+TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,Kamu harus menjadi bagian dari suatu guild untuk dapat menawar guild ship.
+TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,Hanya guild leader yang dapat membeli guild ship.
+TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,Guildmu sudah memiliki guild ship.
+TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,Kamu berhasil mengajukan tawaran pada guild ship!
+TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,Guild ship ini sudah menjadi milik guild lain. Kamu tidak dapat mengajukan penawaran untuk ini.
+TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,Kapal ini bukan milik guildmu.
+TEXTCLIENT_HOUSEOBJECTS_TOOFAR,The position you're trying to put your furniture at is too far from you.,Posisi kamu ingin menaruh perabotan terlalu jauh darimu.
+TEXTCLIENT_HOUSEOBJECTS_ALREADYPLACED,You already placed that furniture. Please disable it before.,Kamu sudah meletakkan furnitur itu. Harap nonaktifkan terlebih dahulu.
+TEXTCLIENT_HOUSEOBJECTS_NOTPLACED,You first need to place that furniture before disabling it.,Kamu perlu meletakkan perabotan itu terlebih dahulu sebelum menonaktifkannya.
+TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,Kamu tidak dapat menaruh perabotan di sini.
+TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,Sentuh tanah tempatmu ingin meletakkan objek. Putar dengan mouse wheel. Tekan mouse wheel dan gerakkan mouse ke kiri/kanan untuk mengubah ukurannya.
+TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,Penempatan objek dekorasi dibatalkan.
+TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,Kamu tidak memiliki hak menaruh perabotan di rumah itu.
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,Kamu perlu berada di rumahmu atau guild house untuk menaruh perabotan itu.
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,Kamu tidak memiliki rumah maupun guild house.
+TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,Kamu berhasil menambahkan %s sebagai pengunjung!
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,Pemain yang kamu pilih sedang tidak online.
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,Kamu berhasil menghapus player terpilih dari daftar pengunjung.
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,Kamu berhasil melepaskan player terpilih dari daftar pengunjung.
+TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,Kamu belum memiliki rumah.
+TEXTCLIENT_PLAYERHOUSING_BUYSUCCESS,You successfully setup your house.,Kamu berhasil mempersiapkan rumahmu.
+TEXTCLIENT_HOUSING_PACKOWNED,You already unlocked that housing pack!,Kamu berhasil membuka housing pack tersebut!
+TEXTCLIENT_HOUSING_PACKSUCCESS,You successfully unlocked %s!,Kamu berhasil membuka %s!
+TEXTCLIENT_PLAYERHOUSING_VISIT_EMPTY,There are currently no available houses to visit from your friends list.,Tidak terdapat rumah yang tersedia untuk dikunjungi dari daftar teman-temanmu.
+TEXTCLIENT_PLAYERHOUSING_VISIT_OFFLINE,The owner of that house is currently offline.,Pemilik rumah tersebut sedang offline saat ini.
+TEXTCLIENT_PLAYERHOUSING_VISIT_NOHOUSE,That player has no house to visit.,Player tersebut tidak memiliki rumah yang dapat dikunjungi.
+TEXTCLIENT_HOUSEOBJECTS_RESET_NOTOWNER,Only the owner can reset the house decorations!,Hanya pemilik yang dapat reset dekorasi rumah!
+TEXTCLIENT_HOUSEOBJECTS_RESET_SUCCESS,You successfully reset the house decorations.,Kamu berhasil reset dekorasi rumah.
+TEXTCLIENT_HOUSEOBJECTS_NOPACKS,You do not have any unlocked decoration packs.,Kamu tidak memiliki decoration pack yang terbuka.
+TEXTCLIENT_HOUSEOBJECTS_NOTUNLOCKED,You do not have that decoration unlocked.,Kamu tidak memiliki decoration yang terbuka itu..
+TEXTCLIENT_HOUSEOBJECTS_NPCEXIST,This NPC already exists in the house.,NPC ini sudah ada di dalam rumah.
+TEXTCLIENT_PLAYERHOUSINGWND_BUYNOTEMPLATES,There are currently no house templates available. ,Saat ini tidak ada house template yang tersedia. 
+TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase the template again or set a different one to access your house.,House template %s telah kadaluwarsa! Beli template lagi atau pasang yang lain untuk dapat akses ke rumahmu.
+TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,Kamu telah memiliki house template ini.
+TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","Kamu berhasil membuka house template ""%s""!"
+TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,Kamu perlu membuka housing template itu terlebih dahulu.
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild house does not belong to anyone. Place a bid if you want it!,Guild house belum dipegang oleh siapapun. Lakukan penawaran jika menginginkannya!
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild house does not belong to your guild. You can't enter.,Guild house ini belum dipegang oleh guildmu. Kamu tidak dapat masuk.
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. You can't place a bid on it.,Guild house ini sudah menjadi milik sebuah guild. Kamu tidak dapat mengajukan penawaran untuk ini.
+TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,Guildmu memenangkan lelang kapal guild! Kamu sekarang bisa teleport ke situ dengan menggunakan map dan klik kanan ke arah kapalmu. Selamat!
+TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,Kamu tidak memiliki hak untuk mengajukan penawaran.
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!,Penawaran barumu untuk guild house itu sekarang adalah %s!
+TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough penya in your guild bank.,Kamu tidak memiliki penya yang cukup didalam guild bankmu.
+TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,Kamu telah melakukan penawaran pada kapal guild yang berbeda.
+TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s penya.,Kamu harus set minimum penawaran awal dari %s penya.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,Silakan tunggu beberapa saat...
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,Kamu berhasil set posisi spawn artifact milikmu! Biaya sebesar %s telah ditarik dari guild bankmu!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,Kamu tidak memiliki wewenang untuk mengatur posisi spawn artefak.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough penya in your guild bank to set the artifact spawn position.,Kamu tidak memiliki cukup penya di guild bankmu untuk mengatur posisi spawn artefak
+TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.","Guildmu sekarang dapat menempatkan ship artifact! Periksa tab jendela Guild ""Housing"" untuk informasi lebih lanjut."
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,Belum saatnya untuk mengatur posisi spawn artefak.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,Guildmu telah kehilangan kepemilikan atas guild ship karena tidak ada Artefak yang ditempatkan minggu ini.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,Guild Ship Artifacts telah muncul! Buru mereka untuk mendapatkan kepemilikan kapal di channel PK!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,Timmu telah menghancurkan artefak guild ship! Guild ship itu sekarang menjadi milik guildmu!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,Timmu telah menghancurkan artefak guild ship!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s penya has been deposited into your guild bank. Congratulations!,%s penya telah disetorkan ke guild bankmu. Selamat!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,Artefak guildmu telah hancur! Kamu kehilangan kepemilikan kapal.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,Guildmu berhasil mempertahankan artefak kapal!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s penya has been deposited into the guild bank. Congratulations!,Kamu tetap memiliki kepemilikan dan %s penya telah disetorkan ke guild bank. Selamat!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,Guild %s berhasil melindungi artefak! Kamu akan lebih beruntung lain kali.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,Kamu harus berada dalam guild untuk menyerang artefak.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,Kamu tidak dapat menyerang artefak kapalmu sendiri!
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on the channel 1 to teleport to the guild house ship!,Kamu harus berada di channel 1 untuk berteleportasi ke guild house ship!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,Kamu berhasil memperbarui posisi spawn artefakmu.
+TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,Kamu perlu memilih preset yang akan dihapus.
+TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,Kamu memiliki terlalu banyak preset untuk peta itu.
+TEXTCLIENT_HOUSINGPRESETS_NORIGHTS,You don't have rights to make a preset of that house.,Kamu tidak mempunyai hak untuk membuat preset rumah itu.
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS,"You successfully created housing preset ""%s""","Kamu berhasil membuat housing preset ""%s"""
+TEXTCLIENT_HOUSINGPRESETS_EXIST,You already have a preset with that name. Please use another name.,Kamu sudah memiliki preset dengan nama itu. Silakan gunakan nama lain.
+TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?,Itemmu akan hancur jika proses gagal. Sebaiknya gunakan menu upgrade di Armor shop. Apakah kamu yakin ingin melanjutkan?
+TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,Kamu tidak dapat memiliki lebih dari %d properti jenis ini.
+TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,Roda macet... Kapal tampaknya tidak dapat dikendalikan untuk saat ini.
+TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,Beberapa barang tidak dapat ditempatkan karena sudah kadaluwarsa.
+TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,Kamu menerima %s Penya sebagai pengembalian dana dari Rainbow Race.
+TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,Kamu telah mencapai slot maksimum yang dapat dibuka untuk housing presets!
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,Sekarang kamu dapat memiliki maksimal %d housing presets!
+TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,Kamu tidak dapat membuka private shop di rumah!
+TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,Kamu tidak dapat menggunakan return scroll di rumah!
+TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,Item ini sudah memiliki random stat terbaik yang memungkinkan.
+TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,%d menit tersisa hingga %s
+TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,Kamu tidak dapat berteleportasi selama rainbow race.
+TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,Kamu telah didiskualifikasi dari perlombaan.
+TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,The Rainbow Race akan dimulai dalam 10 menit! Daftar di Darken City.
+TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,Bank sekarang telah diperluas.
+TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,Direct sign in tidak tersedia. Silakan masuk melalui website.
+TEXTCLIENT_EVENTBUFF,%s is active!,%s aktif!
+TEXTCLIENT_STORAGEFULL,The bag is full.,Tasnya penuh.
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s Armor Pack (%d/%d)
+TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,Kamu hanya dapat menggunakan satu tas dalam satu waktu
+TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,Kamu tidak dapat memainkan gerakan ini di area PvP.
+TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,Upgrade berhasil.
+TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,Kamu memerlukan lebih banyak prop untuk menaruhnya.
+TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,Kamu memerlukan lebih banyak NPC untuk menempatkannya.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.,Kamu tidak mendaftar pada artifact battle ini.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!,Kamu memerlukan guild untuk bergabung dalam artifact battle!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing permission to register to the artifact battle.,Kamu memerlukan guild housing permission untuk mendaftar pada artifact battle.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d penyas to register to the artifact battle.,Kamu memerlukan sedikitnya %d penyas untuk mendaftar pada artifact battle.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the artifact battle!,Guildmu telah terdaftar dalam artifact battle!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d penyas fee has been taken off your guild bank.,Kamu berhasil mendaftar untuk artifact battle berikutnya. %d biaya penyas telah dipotong dari guild bankmu.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d penyas fee has been deposited back into your guild bank.,Kamu berhasil membatalkan pendaftaranmu untuk artifact battle berikutnya. Biaya penyas sebesar %d telah disetorkan kembali ke guild bankmu.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!","Artifact Battle telah dimulai, kamu tidak dapat membatalkan pendaftaranmu!"
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,Tidak ada artifact battle minggu ini. Silakan coba lagi minggu depan!
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,Kamu hanya dapat menempatkan NPC guild house di sini.
+TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,Item ini tidak dapat digunakan.
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Berhasil dikirimkan.
+TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,Kamu hanya dapat menempatkan NPC Personal House di sini.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,Posisi kemunculan artefak ini sudah diambil oleh guild lain.
+TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,Kamu tidak dapat menempatkan lebih dari %d properti pada saat yang bersamaan!
+TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,The %s can only be obtained while the %s is in progress.
+TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.","Kamu dapat memindahkan props/npc menggunakan menu edit. Untuk keluar dari mode tersebut, tekan ESC."
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,Guild %s telah menghancurkan artefak Guild %s!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled the guild!,The owner of this guild house has dismantled the guild!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant.","The guild house's artifact is now in ruins, and the ownership of the house is now vacant."
+TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
+TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,You cannot trade in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,You cannot use items in the Kalgas Assault.
+TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,You can't use the roulette in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,You cannot use Blinkwings to escape the Kalgas Assault.
+TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
+TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
+TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
+TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
+TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
+TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,You cannot enter an Kalgas Assault while you are using a Trans item.
+TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,You cannot use party skills in this area.
+TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,Please wait a little before posting another guest book message.
+TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,There are still some players in your house. You can't change the template until there's nobody left inside.
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s does not have enough Penya to apply for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s is during other actions.
+TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Teams will be randomly matched after %d seconds
+TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Teleportation is no longer available.
+TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Team member invitations are in progress.
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
+TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
+TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
+TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
+TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
+TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,You received %dx %s.
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
+TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
+TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Re-entry cooldown for %s has been reduced by %d minutes.
+TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,There is no dungeon where cooldown reduction is possible.
+TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,You've already used maximum count of Magic Clock
+TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?
+TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You must reach level %d to access this area.
+TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
+TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
+TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
+TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
+TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
+TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,The coupon has been submitted successfully. Please check in the Flyff Shop.
+TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Coupon has already been used.
+TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,The coupon usage limit has been reached.
+TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,No coupon found with this code. Please try again.
+TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Invalid coupon code. Please try again.
+TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
+TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
+TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
+TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
+TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
+TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
+TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,It can only be used when the target is within 15 meters.
+TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,There is no target to use it on.
+TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,You cannot use it there.
+TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,You cannot teleport to yourself.
+TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,The shop has been closed.
+TEXTCLIENT_PVPMATCH_TEAM,Team ,Team 
+TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,Pertandingan telah berakhir! Pemenangnya adalah %s!
+TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Pertandingan telah berakhir! Tidak ada pemenang untuk saat ini!
+TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
+TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Tidak ada lawan yang bergabung! Pertandingan akan diakhiri, kamu ditetapkan menjadi pemenang!"
+TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,Tidak ada lawan didalam pertandinganmu! Dengan ini kamu dinyatakan sebagai pemenang!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s terbunuh oleh [%s] %s!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_PVPMATCH_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,Seorang pemain belum bergabung atau telah meninggalkan pertandingan! Total nyawa guild yang tersisa telah berkurang sebanyak %d!
+TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,Pertandingan yang ingin kamu tonton telah berakhir. Silakan pilih yang lain.
+TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,You cannot add friends in a PVP Match.
+TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You cannot make a party in a PVP Match.
+TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
+TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
+TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
+TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
+TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
+TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,You can't use the roulette in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,You cannot trade in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_PARTY,You cannot make a party in the Madrigal Tournament.,You cannot make a party in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_FRIENDADD,You cannot add friends in the Madrigal Tournament.,You cannot add friends in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_HAVENOT_MASTER,party leader has to participate to the Madrigal Tournament!,party leader has to participate to the Madrigal Tournament!
+TEXTCLIENT_MATOURNAMENT_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,Menunggu lawan..
+TEXTCLIENT_MATOURNAMENT_CAPTION_PREPARE,Preparation phase. Match will start in ,Preparation phase. Match will start in 
+TEXTCLIENT_MATOURNAMENT_CAPTION_FIGHT,End combat  ,Akhiri pertarungan
+TEXTCLIENT_MATOURNAMENT_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in,Match has ended! You will be teleported on Madrigal in
+TEXTCLIENT_MATOURNAMENT_NOT_REGISTRABLE_TIME,Registration is not available at this time.,Registration is not available at this time.
+TEXTCLIENT_MATOURNAMENT_NOPARTY,You are not in a party.,You are not in a party.
+TEXTCLIENT_MATOURNAMENT_NOTPARTYLEADER,You are not the party leader.,You are not the party leader.
+TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,Invalid number of party members.
+TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
+TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
+TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
+TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
+TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
+TEXTCLIENT_MATOURNAMENT_TELEPORTNOMATCH,You can't enter because there is no match available.,You can't enter because there is no match available.
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!","Tidak ada lawan yang bergabung! Pertandingan akan diakhiri, kamu ditetapkan menjadi pemenang!"
+TEXTCLIENT_MATOURNAMENT_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT_WIN,No opponent was found for your match! We then considered your match as won!,Tidak ada lawan didalam pertandinganmu! Dengan ini kamu dinyatakan sebagai pemenang!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,Pertandingan telah berakhir! Tidak ada pemenang untuk saat ini!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_WINNER,Match has ended! Winner is %s!,Pertandingan telah berakhir! Pemenangnya adalah %s!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s terbunuh oleh [%s] %s!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Kamu tidak dapat teleport didalam pertandingan lagi. Pertandingan sudah dimulai.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,You have received the betting dividends.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,Failed to send the dividends. Check your state.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.,You bet %s penya to %s.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,You already bet other team.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,You can't bid at this time.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.,You have no penya to collect.
+TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,You have no participation or rewards to receive.
+TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,You have received a reward.
+TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,You can't receive the reward. Check your mail.
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT_MAIL,Madrigal Tournament Betting Payout,Madrigal Tournament Betting Payout
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT,You receive betting's payout.,You receive betting's payout.
+TEXTCLIENT_MATOURNAMENT_BETTING_FAIL,Betting failed. Please try again.,Betting failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.,Registration failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_FAIL_ENTER,Unable to enter the Madrigal Tournament.,Unable to enter the Madrigal Tournament.
+TEXTCLIENT_ULTIMATE_JEWEL_POSSIBLE_ITEM,The item is not allowed to add jewel.,The item is not allowed to add jewel.
+TEXTCLIENT_ERROR_NOULTIMATEJEWEL,There is no space to put a ultimate jewel.,There is no space to put a ultimate jewel.
+TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel is available.,Only ultimate weapon equipped with jewel is available.
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOSELECTION,You need to select a jewel to remove!,You need to select a jewel to remove!
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOJEWEL,The slot you selected has no jewel in it !,The slot you selected has no jewel in it !
+TEXTCLIENT_ULTIMATE_JEWEL_REMOVE_SUCCESS,Your ultimate jewel has been removed succesfully.,Your ultimate jewel has been removed succesfully.
+TEXTCLIENT_COMPOSEJEWEL_SUCCESS,You received %s.,Kamu menerima %s.
+TEXTCLIENT_ERROR_SAMEKIND_JEWEL,You can only attach one of each kind of jewel or rune.,You can only attach one of each kind of jewel or rune.
+TEXTCLIENT_COMPOSEJEWEL_FAIL,Fusion failed. Returned %d %s.,Fusion failed. Returned %d %s.
+TEXTCLIENT_COMPOSEJEWEL_REGISTER_SAMEKIND,Only the same jewel can be registered.,Only the same jewel can be registered.
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_SUCCESS,Ultimate jewel creation successful!,Ultimate jewel creation successful!
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,Ultimate jewel creation failed.
+TEXTCLIENT_COUPLENOTARGET,You must select a player first.,You must select a player first.
+TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,Your proposal was refused.
+TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,Your request for break up was refused.
+TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!","You are now a couple, congratulations!"
+TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,Your target is already in a couple.
+TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s and %s have become a couple!
+TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,The couple skill %s has been used.
+TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,You already have the %s skill active.
+TEXTCLIENT_COUPLE_SKILL_NOPOINTS,You do not have enough points.,You do not have enough points.
+TEXTCLIENT_COUPLE_SKILL_NOPARTY,You must be in the same party to use this skill.,You must be in the same party to use this skill.
+TEXTCLIENT_COUPLE_REPLACE_RING,This will replace your current couple ring. Are you sure you would like to send this request to your partner?,This will replace your current couple ring. Are you sure you would like to send this request to your partner?
+TEXTCLIENT_COUPLE_NEW_RING,Your ring has been replaced!,Your ring has been replaced!
+TEXTCLIENT_COUPLE_SAME_RING,You are already using this ring.,You are already using this ring.
+TEXTCLIENT_COUPLE_MISSING,You must be in a couple to use this item.,You must be in a couple to use this item.
+TEXTCLIENT_COUPLE_QUESTEXP,Your couple has gained experience!,Your couple has gained experience!
+TEXTCLIENT_COUPLE_NOTITLE,You must be in a couple to use this title.,You must be in a couple to use this title.
+TEXTCLIENT_COUPLE_BREAKUP_DEADLINE,The break up request was not answered. Forceful break up notification timer has begun.,The break up request was not answered. Forceful break up notification timer has begun.
+TEXTCLIENT_COUPLE_MAX_POINTS,Your couple cannot exceed the maximum skill points.,Your couple cannot exceed the maximum skill points.
+TEXTCLIENT_COUPLE_CHEER_SEND,You have cheered your partner.,You have cheered your partner.
+TEXTCLIENT_COUPLE_CHEER_REC,You have been cheered by your partner.,You have been cheered by your partner.
+TEXTCLIENT_COUPLE_MINLEVEL,You and your target must both be at least level %d.,You and your target must both be at least level %d.
+TEXTCLIENT_COUPLE_COOLDOWN,You need to wait %s to form a couple with this player.,You need to wait %s to form a couple with this player.
+TEXTCLIENT_COUPLE_PROPOSAL_SENT,You have sent a proposal!,You have sent a proposal!
+TEXTCLIENT_COMPOSE_RAINBOWJEWEL_FAIL,Composing rainbow jewel failed.,Composing rainbow jewel failed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_SUCCESS,Dismantle rainbow jewel succeed.,Dismantle rainbow jewel succeed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_FAIL,Dismantle rainbow jewel failed.,Dismantle rainbow jewel failed.
+TEXTCLIENT_HOUSINGWARDROBE_NPCNOTFOUND,The NPC you intended to edit does not exist in your house!,The NPC you intended to edit does not exist in your house!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMNOTFOUND,The item you intented to equip is not in your wardrobe!,The item you intented to equip is not in your wardrobe!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMALREADYUSED,There is already an NPC using that item!,There is already an NPC using that item!
+TEXTCLIENT_HOUSINGEQUIP_NORIGHTS,You don't have permission to edit the equipment of that NPC.,You don't have permission to edit the equipment of that NPC.
+TEXTCLIENT_HOUSINGINVENTORY_NORIGHTS,You don't have permission to edit the inventory of this house.,You don't have permission to edit the inventory of this house.
+TEXTCLIENT_HOUSINGINVENTORY_WRONGITEM,You can only put pets or eggs in the house pet inventory.,You can only put pets or eggs in the house pet inventory.
+TEXTCLIENT_HOUSEOBJECTS_PETEXIST,This pet already exists in the house.,This pet already exists in the house.
+TEXTCLIENT_HOUSINGPET_SPAWNED,You need to remove that pet before taking it out of the pet inventory!,You need to remove that pet before taking it out of the pet inventory!
+TEXTCLIENT_PETTRAINING_MAXLEVEL,This pet has already reached its maximum experience!,This pet has already reached its maximum experience!
+TEXTCLIENT_PETTRAINING_WRONGPET,This trainer can't accept that pet.,This trainer can't accept that pet.
+TEXTCLIENT_HOUSINGINVENTORY_FULL,Pet inventory is full!,Pet inventory is full!
+TEXTCLIENT_PETTRAINING_PETINUSE,You need to remove that pet from the field before training it!,You need to remove that pet from the field before training it!
+TEXTCLIENT_PETTRAINING_NAME,[Training],[Training]
+TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,Trainer %s has completed your pet training!
+TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,You have already unlocked the maximum pet inventory slots!
+TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,You have successfully unlocked a new pet inventory slot for your house!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,You need a guild to use this scroll!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses.","You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses."
+TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,You must be in a level %d couple to use this motion.
+TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,You must select your partner in order to request this motion.
+TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Your partner refused to perform the motion.
+TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,You are too far away from each other to perform this motion.
+TEXTCLIENT_APP_LIFE,Life,Life
+TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,You need to equip a(n) %s.
+TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Please check the correct tool.
+TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
+TEXTCLIENT_GATHERING_HOE,hoe,hoe
+TEXTCLIENT_GATHERING_AXE,axe,axe
+TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pickaxe
+TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Fishing failed.
+TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Too many players are using this prop. Please try again later.
+TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,Repaired %s for %s points.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,You cannot change your expertise yet.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Successfully changed your expertise.
+TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,Failed to use the production reduction item. Please check your production status.
+TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,You do not have enough ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Unable to check your ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,You are already producing this item.
+TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,The production time has been reduced by %d minutes.
+TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,Wondering shop inventory renewed successfully.
+TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No space in inventory, %d empty slots needed."
+TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,You can only fish near a body of water.
+TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,You need to equip a fishing rod.
+TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Your fishing rod must be repaired.
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Not enough bait.
+TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
+TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,You cannot produce this item without the required title.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,You need to add the correct ingredients.
+TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,This item does not require repairing.
+TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Product upgrade failed.
+TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,Product upgrade successful!
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,%s's recipe has been unlocked.
+TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,You cannot stack this item anymore. This item can only be stacked %d times.
+TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
+TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
+TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
+TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
+TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
+TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,You are too far.
+TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,You need to use that pet at least once before putting it in the pet inventory.
+TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,You cannot put eggs in the pet inventory.
+TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,You have exceeded the maximum number of invitees.
+TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,The entrance time for the tournament match is now.
+TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,You can't use an equipment preset while attacking.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,There are currently no races available to enter.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,You are not a registered player.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,You cannot enter on the current channel.
+TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
+TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,You can't harvest this now.
+TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,You can't harvest this here.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this motion.,You must complete the quest %s to use this motion.
+TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,You cannot use this item in a PvP setting.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!,You can now use the motion %s!
+TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.,The motion %s has expired.
+TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,You can't remove a Blessing of the Demon!
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,This feature is only available with the Extended Battle Pass.
+TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,You already used all your daily teleports.
+TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,You cannot teleport to this shop because it is on a different channel.
+TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Harvests %d/%d
+TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,Infinite harvests
+TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,The same level was rolled. No scrolls were consumed.
+TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,The selected tier has been rerolled to a %d.
+TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Legendary fighters, imbued with the spirit of war."
+TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.","Mystical leaders, channeling Rhisis' powers to command and protect their allies."
+TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.","Cunning tricksters, weaving illusions and chaos."
+TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.","Elusive hunters, guided by the spirits of nature."
+TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolve.","Noble defenders, bound by honor and unbreakable resolve."
+TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
+TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
+TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
+TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,The start of all. You are Vagrant.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Failed to reveal a recipe.
+TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
+TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
+TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,You can't fly when fishing.
+TEXTCLIENT_COUPLEHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your current or further couple house!,You have successfully unlocked a new pet inventory slot for your current or further couple house!
+TEXTCLIENT_WANDERING_SHOP_TICKET_FAIL,You can only use this item when the Wandering Shop is open.,You can only use this item when the Wandering Shop is open.
+TEXTCLIENT_VENDOR_RADIUS,"There is already a Private Shop at this position, please move a little bit.","There is already a Private Shop at this position, please move a little bit."
+TEXTCLIENT_NO_SPECTATE_WORLD,You cannot spectate in this world.,You cannot spectate in this world.
+TEXTCLIENT_NO_SPECTATE_PLAYER,You cannot spectate this player.,You cannot spectate this player.
+TEXTCLIENT_NO_SPECTATE_WAR,You cannot spectate right now.,You cannot spectate right now.
+TEXTCLIENT_NO_SPECTATE_SELF,You cannot spectate yourself.,You cannot spectate yourself.
+TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not have permission to spectate.
+TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
+UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
+TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
+TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
+TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
+TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
+TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,Item hancur karena kegagalan.
+TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
+TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
+TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
+TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
+TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d hours have passed] Excessive gaming can interfere with normal daily life.
+TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Your account is not allowed to access this server.
+TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,A statue in the name of the first person to reach maximum level.
+TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maximum upgrade.,A statue in the name of the first person to reach maximum upgrade.
+TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid material item for upgrade.
+TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
+TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
+TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
+TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
+TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
+TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
+TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
+TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,Kamu telah menerima %s x%d.
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.
+TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
+TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
+TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.
+TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,You do not have enough Trap Tool.
+TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping the same jewel failed.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,You do not have enough jewel or penya for synthesis.
+TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
+TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
+TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
+TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
+TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
+TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.

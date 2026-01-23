@@ -1,0 +1,159 @@
+﻿Key,English,Portuguese
+PROPMAP_TXT_000000,,
+PROPMAP_TXT_000001,World,Mundo
+PROPMAP_TXT_000002,Region,Região
+PROPMAP_TXT_000003,Town,Cidade
+PROPMAP_TXT_000004,Madrigal,Madrigal
+PROPMAP_TXT_000005,"Darkon 1, 2","Darkon 1,2"
+PROPMAP_TXT_000006,Darkon 3,Darkon 3
+PROPMAP_TXT_000007,Garden of Rhisis,Jardim de Rhisis
+PROPMAP_TXT_000008,Saint Morning,Saint Morning
+PROPMAP_TXT_000009,Flaris,Flaris
+PROPMAP_TXT_000012,Flarine,Flarine
+PROPMAP_TXT_000013,Saint City,Cidade de Saint
+PROPMAP_TXT_000014,Darken,Darken
+PROPMAP_TXT_000242,Dungeon,Masmorra
+PROPMAP_TXT_000263,Mars Dungeon,Masmorra Mars
+PROPMAP_TXT_000265,Dekane Mine,Mina Dekane
+PROPMAP_TXT_000266,Iblis Temple,Templo Iblis
+PROPMAP_TXT_000274,Forsaken Tower 1F,Torre Abandonada 1° Andar
+PROPMAP_TXT_000275,Forsaken Tower 2F,Torre Abandonada 2° Andar
+PROPMAP_TXT_000276,Forsaken Tower 3F,Torre Abandonada 3° Andar
+PROPMAP_TXT_000277,Forsaken Tower 4F,Torre Abandonada 4° Andar
+PROPMAP_TXT_000278,Forsaken Tower 5F,Torre Abandonada 5° Andar
+PROPMAP_TXT_000279,Forsaken Tower 6F,Forsaken Tower 6F
+PROPMAP_TXT_000280,Forsaken Tower 7F,Forsaken Tower 7F
+PROPMAP_TXT_100000,Kebaras,Kebaras
+PROPMAP_TXT_100001,North-Fl,Z. Norte
+PROPMAP_TXT_100002,Cen Flarine,Centro
+PROPMAP_TXT_100003,East-Fla,Z. Leste
+PROPMAP_TXT_100004,Darkon,Darkon
+PROPMAP_TXT_100005,The North of Leren Mountains,Montanhas Leren do Norte
+PROPMAP_TXT_100006,The River of Weeping,O Rio das Lágrimas
+PROPMAP_TXT_100007,Saint Hall,Palácio de Saint
+PROPMAP_TXT_100008,Pumpkin Town,Vila das Abóboras
+PROPMAP_TXT_100009,Plateau of Silence,Planalto do Silêncio
+PROPMAP_TXT_100010,The North of Hillid Mountains,Norte das Montanhas Hillid
+PROPMAP_TXT_100011,The Middle of Hillid Mountains,Centro das Montanhas Hillid
+PROPMAP_TXT_100012,The South of Hillid Mountains,Sul das Montanhas Hillid
+PROPMAP_TXT_100013,Guardian's Room,Sala do Guardião
+PROPMAP_TXT_100014,Heret,Heret
+PROPMAP_TXT_100015,Cendil,Cendil
+PROPMAP_TXT_100016,Aniceknight,Bomcavaleiro
+PROPMAP_TXT_100017,Arians,Arians
+PROPMAP_TXT_100018,Deadwallderness,Deserto da Morte
+PROPMAP_TXT_100019,Brekin,Brekin
+PROPMAP_TXT_100020,Guardiane,Guardiane
+PROPMAP_TXT_100021,Darkon 2 (Cave of Envy),Darkon 2 (Caverna da Inveja)
+PROPMAP_TXT_100022,Clockworks' Cage,Cela do Clockworks
+PROPMAP_TXT_100023,Erons Factories,Fábricas Erons
+PROPMAP_TXT_100024,Gouthan Mountains,Montanhas Gouthan
+PROPMAP_TXT_100025,Darkon 1 (KhipRa),Darkon 1 (KhipRa)
+PROPMAP_TXT_100026,Unknown,Desconhecido
+PROPMAP_TXT_100029,Armory,Arsenal
+PROPMAP_TXT_100030,Center for Guild Combat,Centro de Combate de Guilda
+PROPMAP_TXT_100031,Arena Manager,Supervisor da Arena
+PROPMAP_TXT_100032,Azria,Azria
+PROPMAP_TXT_100033,Guild Siege,Batalha de Guildas
+PROPMAP_TXT_100034,Quiz,Quiz
+PROPMAP_TXT_100035,Village of Kan,Aldeia de Kan
+PROPMAP_TXT_100036,Area,Área
+PROPMAP_TXT_100037,Saint Morning Station,Estação de Saint Morning
+PROPMAP_TXT_100038,Garden of Rhisis II,Jardim de Rhisis II
+PROPMAP_TXT_100039,Cave of Envy,Caverna da Inveja
+PROPMAP_TXT_100040,Darkon 2,Darkon 2
+PROPMAP_TXT_100041,Volkane,Volkane
+PROPMAP_TXT_100042,Abandoned Erons Factory,Fabrica Erons Abandonada
+PROPMAP_TXT_100043,Frozen Forest,Floresta Congelada
+PROPMAP_TXT_100044,Forgotten Bridge,Ponte Esquecida
+PROPMAP_TXT_100045,Azria Village,Vila de Azria
+PROPMAP_TXT_100046,Frozen Lakes,Lagos Congelados
+PROPMAP_TXT_100047,Castle Ruins,Ruínas do Castelo
+PROPMAP_TXT_100048,High Mountains,Montanhas Altas
+PROPMAP_TXT_100049,Redchip Dealer,Comerciante de Chips
+PROPMAP_TXT_100050,Storm Peak,Cume da Tormenta
+PROPMAP_TXT_100051,Envy Depths,Profundezas da Avareza
+PROPMAP_TXT_100052,Leren Chasm,Abismo de Leren
+PROPMAP_TXT_100053,Rhisis Catacombs,Catacumbas de Rhisis
+PROPMAP_TXT_100054,Guardiane Sanctuary,Santuário de Guardiane
+PROPMAP_TXT_100055,Leren Chasm (Medium),Abismo de Leren (Médio)
+PROPMAP_TXT_100056,Leren Chasm (Hard),Abismo de Leren (Difícil)
+PROPMAP_TXT_100057,Leren Chasm (Extra Hard),Abismo de Leren (Muito Difícil)
+PROPMAP_TXT_100058,Leren Chasm (Nightmare),Abismo de Leren (Pesadelo)
+PROPMAP_TXT_100059,Rhisis Catacombs (Hard),Catacumbas de Rhisis (Difícil)
+PROPMAP_TXT_100060,Rhisis Catacombs (Extra Hard),Catacumbas de Rhisis (Muito Difícil)
+PROPMAP_TXT_100061,Rhisis Catacombs (Nightmare),Catacumbas de Rhisis (Pesadelo)
+PROPMAP_TXT_100062,Envy Depths (Extra Hard),Profundezas da Avareza (Muito Difícil)
+PROPMAP_TXT_100063,Envy Depths (Nightmare),Profundezas da Avareza (Pesadelo)
+PROPMAP_TXT_100064,Guardiane Sanctuary (Nightmare),Santuário de Guardiane (Pesadelo)
+PROPMAP_TXT_100065,Envy Depths (Medium),Profundezas da Avareza (Médio)
+PROPMAP_TXT_100066,Eggcellent's Meadow,Campo da Eggcelência
+PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),Campo da Eggcelência (Médio)
+PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),Campo da Eggcelência (Difícil)
+PROPMAP_TXT_100069,Leren Chasm (Story),Abismo de Leren (História)
+PROPMAP_TXT_100070,Rhisis Catacombs (Story),Catacumbas de Rhisis (História)
+PROPMAP_TXT_100071,Envy Depths (Story),Profundezas da Avareza (História)
+PROPMAP_TXT_100072,Guardiane Sanctuary (Story),Santuário de Guardiane (História)
+PROPMAP_TXT_100073,Storm Peak (Story),Pico Tempestuoso (História)
+PROPMAP_TXT_200000,The Colosseum,O Coliseu
+PROPMAP_TXT_100074,The Wilds (Story),Salvabruta (História)
+PROPMAP_TXT_100075,The Wilds,Selvabruta
+PROPMAP_TXT_230001,Instance,Instância
+PROPMAP_TXT_100076,FWC Arena,FWC Arena
+PROPMAP_TXT_100081,Leren Chasm (Cursed),Abismo de Leren (Amaldiçoado)
+PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),Catacumba de Rhisis (Amaldiçoado)
+PROPMAP_TXT_100083,Envy Depths (Cursed),Profundezas da Avareza (Amaldiçoado)
+PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),Santuário de Guardiane (Amaldiçoado)
+PROPMAP_TXT_100085,Storm Peak (Cursed),Pico Tempestuoso (Amaldiçoado)
+PROPMAP_TXT_200001,Beach House,Casa de Praia
+PROPMAP_TXT_200002,Blank World,Mundo em Branco
+PROPMAP_TXT_200003,Guild Ship,Navio da Guilda
+PROPMAP_TXT_200004,Forest House,Casa Florestal
+PROPMAP_TXT_200005,Volcano House,Casa Vulcânica
+PROPMAP_TXT_200006,Snow House,Casa Gelada
+PROPMAP_TXT_200007,Housing Specialist,Especialista em Habitações
+PROPMAP_TXT_200008,Pet Tamer,Domador de Mascotes
+PROPMAP_TXT_200009,Beach House (S),Casa de Praia (P)
+PROPMAP_TXT_200010,Beach House (M),Casa de Praia (M)
+PROPMAP_TXT_200011,Beach House (L),Casa de Praia (G)
+PROPMAP_TXT_200012,Kalgas Assault Realm,Território de Invasão Kalgas
+PROPMAP_TXT_200013,Darken House,Darken House
+PROPMAP_TXT_100086,2nd Anniversary,2º Aniversário
+PROPMAP_TXT_100087,2nd Anniversary (Medium),2º Aniversário (Médio)
+PROPMAP_TXT_100088,2nd Anniversary (Hard),2º Aniversário (Difícil)
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Envy Depths (Easy)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Envy Depths (Medium)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Envy Depths (Hard)
+PROPMAP_TXT_100089,Lv.15+,Lv.15+
+PROPMAP_TXT_100090,Lv.20+,Lv.20+
+PROPMAP_TXT_100091,Lv.80+,Lv.80+
+PROPMAP_TXT_100092,Lv.100+,Lv.100+
+PROPMAP_TXT_100093,Lv.25+,Lv.25+
+PROPMAP_TXT_100097,Lv.120+,Lv.120+
+PROPMAP_TXT_200014,Fall House,Fall House
+PROPMAP_TXT_200015,Fall House (S),Fall House (S)
+PROPMAP_TXT_200016,Fall House (M),Fall House (M)
+PROPMAP_TXT_200017,Fall House (L),Fall House (L)
+PROPMAP_TXT_200018,Blank House (Couple),Blank House (Couple)
+PROPMAP_TXT_200019,Beach House (Couple),Beach House (Couple)
+PROPMAP_TXT_200020,Darken House (Couple),Darken House (Couple)
+PROPMAP_TXT_200021,Forest House (Couple),Forest House (Couple)
+PROPMAP_TXT_200022,Fall House (Couple),Fall House (Couple)
+PROPMAX_TXT_200023,Herneos,Herneos
+PROPMAP_TXT_200024,Boss Monster Raid,Boss Monster Raid
+PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Dungeon
+PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Dungeon (Normal)
+PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Hard)
+PROPMAP_TXT_200025,Snowfield,Snowfield
+PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
+PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
+PROPMAP_TXT_200028,Eillun,Eillun
+PROPMAP_TXT_200029,Kaillun,Kaillun
+PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
+PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
+PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
+PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
+PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
+PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Story)
+PROPMAP_TXT_200037,Seabed,Seabed

@@ -1,0 +1,1544 @@
+﻿Key,English,Thai
+TEXTCLIENT_CONNECTING,Connecting. Please wait.,กำลังเชื่อมต่อ โปรดรอสักครู่
+TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,ไม่สามารถเชื่อมต่อกับเกม โปรดตรวจสอบเครือข่าย
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,เกมได้รับการอัปเดต กรุณาปิดเพจแล้วเปิดใหม่อีกครั้ง
+TEXTCLIENT_WRONGSERVER,Wrong server identifier.,ตัวระบุเซิร์ฟเวอร์ไม่ถูกต้อง
+TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.",ข้อผิดพลาดที่ไม่รู้จัก โปรดลองอีกครั้ง
+TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,บัญชีของคุณเชื่อมต่อแล้ว
+TEXTCLIENT_DISCONNECTOTHER,Do you want to disconnect the other device?,คุณต้องการยกเลิกการเชื่อมต่ออุปกรณ์อื่นหรือไม่?
+TEXTCLIENT_DISCONNECTING,The device is being disconnected. Please login again in 10 seconds.,อุปกรณ์กำลังถูกตัดการเชื่อมต่อ กรุณาเข้าสู่ระบบอีกครั้งใน 10 วินาที
+TEXTCLIENT_CHANNELFULL,"This channel is currently full, please wait a moment or select another channel.",ขณะนี้ช่องนี้เต็ม โปรดรอสักครู่ หรือเลือกช่องอื่น
+TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,ชื่อตัวละครนี้ถูกใช้ไปแล้ว
+TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,ตรวจพบบอสมอนสเตอร์!
+TEXTCLIENT_APP_MAP,World Map,แผนที่โลก
+TEXTCLIENT_APP_OPTION,Options,Options
+TEXTCLIENT_APP_LOGOUT,Logout,ออกจากระบบ
+TEXTCLIENT_APP_QUIT,Quit,ออก
+TEXTCLIENT_APP_SUPPORT,Support,สนับสนุน
+TEXTCLIENT_APP_PRIVACY,Privacy,Privacy
+TEXTCLIENT_APP_NAVIGATOR,Navigator,Navigator
+TEXTCLIENT_APP_DEBUG,Debug,Debug
+TEXTCLIENT_LOGGINGOUT,Logging out in %d sec(s).,ออกจากระบบใน %d sec(s)
+TEXTCLIENT_CHARACTERCHANGE,Changing character in %d sec(s).,กำลังเปลี่ยนตัวละครใน %d sec(s)
+TEXTCLIENT_LINKACCOUNT,Linking account in %d sec(s).,กำลังเชื่อมบัญชีใน %d sec(s)
+TEXTCLIENT_LOGOUT,Do you want to disconnect?,ต้องการยกเลิกการเชื่อมต่อหรือไม่?
+TEXTCLIENT_LOGOUT_GUEST,#cffff0000You will lose your guest character.#nc Please link an account.,#cffff0000คุณจะสูญเสียตัวละคร Guest ของคุณ#nc โปรดเชื่อมต่อบัญชี
+TEXTCLIENT_EXIT,Do you want to exit the program?,คุณต้องการออกจากโปรแกรมหรือไม่?
+TEXTCLIENT_DISCONNECTED,Disconnected from the server.,ตัดการเชื่อมต่อจากเซิร์ฟเวอร์
+TEXTCLIENT_CREATIONDISABLED,Character creation is disabled on this server.,การสร้างตัวละครถูกปิดการใช้งานบนเซิร์ฟเวอร์นี้
+TEXTCLIENT_MAPHIDDEN,There seems to be an evil force clouding your vision of the area.,ดูเหมือนว่าจะมีพลังชั่วร้ายมาบดบังการมองเห็นของคุณในพื้นที่
+TEXTCLIENT_ITEM_DESC,Description:,คำอธิบาย:
+TEXTCLIENT_INVALIDCHARACTERS,This name contains unauthorized characters.,ชื่อนี้มีตัวอักษรที่ไม่ได้รับอนุญาต
+TEXTCLIENT_INVALIDNAME,This name contains unauthorized words.,ชื่อนี้มีคำที่ไม่ได้รับอนุญาต
+TEXTCLIENT_IPBANNED,Your public internet address has been banned. Contact the administrator for more informations.,ที่อยู่อินเทอร์เน็ตสาธารณะของคุณถูกแบน ติดต่อผู้ดูแลระบบสำหรับข้อมูลเพิ่มเติม
+TEXTCLIENT_IPRESTRAINTED,The game is currently not available in your country.,ขณะนี้เกมยังไม่พร้อมให้บริการในประเทศของคุณ
+TEXTCLIENT_IPBLOCKED,An important activity has been detected on your public internet address. Please wait %s before trying again.,ตรวจพบกิจกรรมที่สำคัญในที่อยู่อินเทอร์เน็ตสาธารณะของคุณ โปรดรอ %s ก่อนลองอีกครั้ง
+TEXTCLIENT_SECS,second(s),วินาที
+TEXTCLIENT_MINS,minute(s),นาที
+TEXTCLIENT_HOURS,hour(s),ชั่วโมง
+TEXTCLIENT_SESSIONEXPIRED,"Your session has expired, please enter your login and password again.",เซสชั่นของคุณหมดอายุแล้ว โปรดเข้าสู่ระบบและใส่รหัสผ่านของคุณอีกครั้ง
+TEXTCLIENT_ADMIN,Admin,แอดมิน
+TEXTCLIENT_DEVELOPER,Dev,Dev
+TEXTCLIENT_GAMEMASTER,Game Master,Game Master
+TEXTCLIENT_MODERATOR,MOD,MOD
+TEXTCLIENT_VENDOR_NPC,[Vendor],[ผู้ขาย]
+TEXTCLIENT_APP_CHAT,Chatting,แชท
+TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,การเข้าสู่ระบบหรือรหัสผ่านของคุณไม่ถูกต้อง
+TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,รับรองความถูกต้องล้มเหลว กรุณาลองอีกครั้ง
+TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f",ตำแหน่ง: x = %f y = %f z = %f มุม = %f
+TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,คุณไม่สามารถส่ง PM ถึงตัวคุณเอง
+TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is not online.,%s ไม่มีอยู่หรือไม่ได้ออนไลน์
+TEXTCLIENT_APP_NOTICE,Notice,ประกาศ
+TEXTCLIENT_APP_STATUS,Status,Status
+TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s - เลเวล: %d
+TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,คุณไม่สามารถใช้ได้ระหว่าง skill motion
+TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,คุณไม่สามารถใช้ Blinkwing ขณะนั่งได้
+TEXTCLIENT_STAND_LIMIT,You can use it when you stand up.,คุณสามารถใช้ได้เมื่อคุณยืนขึ้น
+TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,ใช้งานขณะบินไม่ได้
+TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,ในพื้นที่นี้ไม่สามารถบินได้
+TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,คุณไม่ได้รับอนุญาตให้พูดคุย
+TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,คุณได้รับโทษ %d นาที เนื่องจากการแชทมากเกินไป
+TEXTCLIENT_APP_MOTION,Motion,Motion
+TEXTCLIENT_APP_CHARINFO,Character,ตัวละคร
+TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s การกู้คืนถูกจำกัดไว้ที่ %d
+TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,โปรดรอสักครู่ก่อนที่จะใช้ไอเท็มอีกครั้ง
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,กด Lodestar เพื่อชุบชีวิต (เมืองที่ใกล้ที่สุด) หรือใช้รายการเพื่อชุบชีวิตในสถานที่
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,กด Lodestar เพื่อฟื้นคืนชีพใกล้อารีน่า
+TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,คุณไม่สามารถโจมตีมอนสเตอร์ที่กำลังต่อสู้กับผู้เล่นอื่น
+TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,คุณไม่สามารถยกเลิกระหว่างการต่อสู้
+TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,เลเวลอัพ! คุณสามารถเพิ่มค่าสถานะของคุณในหน้าต่างตัวละครของคุณ
+TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,ยินดีด้วย! เลเวลอัพแล้ว!
+TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,คุณต้องการใช้การตั้งค่าสถานะปัจจุบันหรือไม่?
+TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,ค่าสถานะของคุณจะถูกรีเซ็ตหลังจากเปลี่ยนอาชีพครั้งแรกของคุณ
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,คุณสมบัตินี้ใช้ได้เฉพาะกับ Extended Battle Pass หรือ Hero Quest เท่านั้น
+TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,คุณสามารถสลับหน้า Stat ได้ในทุก ๆ %d วินาที
+TEXTCLIENT_ADMIN_STATE,Status,สเตตัส
+TEXTCLIENT_ADMIN_NORMAL,Normal,ปกติ
+TEXTCLIENT_SPEED_VERYSLOW,Very slow,ช้ามาก
+TEXTCLIENT_SPEED_LOW,Slow,ช้า
+TEXTCLIENT_SPEED_NORMAL,Normal,ปกติ
+TEXTCLIENT_SPEED_FAST,Fast,เร็ว
+TEXTCLIENT_SPEED_VERYFAST,Very fast,เร็วมาก
+TEXTCLIENT_SPEED_FASTEST,Fastest,เร็วที่สุด
+TEXTCLIENT_ITEMPRIORITY,The %s belongs to another player at the moment. Please wait a while.,%s เป็นของผู้เล่นอื่นในขณะนี้ กรุณารอสักครู่
+TEXTCLIENT_LACKSPACE,Inventory is full. Please make room and try again.,ช่องเก็บของเต็ม โปรดเพิ่มพื้นที่ว่างและลองอีกครั้ง
+TEXTCLIENT_REAPITEM,You received %s.,คุณได้รับ %s
+TEXTCLIENT_REAPITEM_UPGRADE,You received %s +%d.,คุณได้รับ %s +%d
+TEXTCLIENT_TROUPEREAPITEM,%s has gained %s.,%s ได้รับ %s แล้ว
+TEXTCLIENT_APP_INVENTORY,Inventory,ช่องเก็บของ
+TEXTCLIENT_REAPMONEY,You received %s Penya (Total: %s Penya).,คุณได้รับ %s Penya (รวม: %s Penya)
+TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%s ไม่ใช่เพศของคุณ
+TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,คุณไม่สามารถสวมใส่ %s ได้ ไม่เป็นไปตามข้อกำหนด
+TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),คุณไม่สามารถสวมใส่ไอเท็มนี้ได้เนื่องจากเลเวลของคุณต่ำเกินไป (ต้องการเลเวล: %d)
+TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,คุณไม่สามารถทิ้งไอเท็มนี้
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,You are already using this item.
+TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,จำนวน %s ที่ถูกลบ: %d
+TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.",ไม่สามารถโจมตีได้ ไม่มีมอนสเตอร์ที่เป็นเป้าหมาย
+TEXTCLIENT_NOTUSE,You cannot use this yet.,คุณยังใช้สิ่งนี้ไม่ได้
+TEXTCLIENT_ERROR_NOTLEVEL,Your level is too low.,เลเวลของคุณต่ำเกินไป
+TEXTCLIENT_BLOCK_PM,%s is in the 'Refuse to Whisper/Messenger' setting.,%s อยู่ในการตั้งค่า 'ปฏิเสธที่จะกระซิบ/ส่งข้อความ'
+TEXTCLIENT_YETTRADE,That player is currently busy. Please try again after few minutes.,ผู้เล่นคนนั้นกำลังยุ่งอยู่ โปรดลองอีกครั้งหลังจากนี้สักครู่
+TEXTCLIENT_ITEMNOTUSE_TRADING,You cannot use items while trading.,คุณไม่สามารถใช้ไอเท็มขณะซื้อขายได้
+TEXTCLIENT_REDCHIP,Red Chip,Red Chip
+TEXTCLIENT_ERROR_EQUIPTRADE,Please unequip the item before selling it.,โปรดถอดอุปกรณ์ก่อนขาย
+TEXTCLIENT_ERROR_NPCBUFFLEVEL,Only level %d~%d character can get buffs.,เฉพาะตัวละครระดับ %d~%d เท่านั้นที่จะได้รับบัฟ
+TEXTCLIENT_ERROR_NPCBUFFFAIL,You cannot use %s right now.,คุณไม่สามารถใช้ %s ได้ในขณะนี้
+TEXTCLIENT_LEVEL15JOB,Now it's time to choose your job.,ถึงเวลาเลือกอาชีพของคุณแล้ว
+TEXTCLIENT_CHANGEJOB,Congratulations! You have advanced to the %s job class.,ยินดีด้วย! คุณได้ก้าวเข้าสู่อาชีพ %s แล้ว
+TEXTCLIENT_APP_SKILL,Skills,สกิล
+TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,เลเวลตัวละคร: %d
+TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,คุณกำลังเรียนรู้รูปแบบการโจมตีใหม่!
+TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,คุณต้องติดตั้งอาวุธหรือไอเท็มที่ถูกต้องเพื่อใช้ทักษะนั้น
+TEXTCLIENT_REQFP,Not enough FP.,FP ไม่เพียงพอ
+TEXTCLIENT_REQMP,Not enough MP.,MP ไม่พอ
+TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,การกระทำนี้ถูกขัดขวางโดยสิ่งกีดขวาง
+TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,%s ระดับสกิล %d เป็นสิ่งจำเป็น
+TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s ระดับสกิลเพิ่มขึ้น
+TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,ร้านค้าส่วนตัว
+TEXTCLIENT_APP_QUEST,Quests,เควส
+TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Flyff Shop
+TEXTCLIENT_PREMIUM_ITEMS,Premium Items,ไอเทมพรีเมี่ยม
+TEXTCLIENT_COMMUNICATION,Communication,การสื่อสาร
+TEXTCLIENT_COMMUNITY,Community,Community
+TEXTCLIENT_HELPER,Helper,ช่วยเหลือ
+TEXTCLIENT_APP_ITEM_DURATION,Duration,ระยะเวลา
+TEXTCLIENT_APP_MESSENGER,Messenger,Messenger
+TEXTCLIENT_APP_PARTY,Party,Party
+TEXTCLIENT_APP_GUILD,Guild,กิลด์
+TEXTCLIENT_APP_COUPLE,Couple,Couple
+TEXTCLIENT_APP_HELP,Help,ช่วยเหลือ
+TEXTCLIENT_APP_HELP_TIPS,Tips,Tips
+TEXTCLIENT_APP_FAQ,FAQ,FAQ
+TEXTCLIENT_APP_FITTINGROOM,Fitting Room,ห้องแต่งตัว
+TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Wiki Help
+TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,คุณไม่สามารถจัดปาร์ตี้ในสนามประลองกิลด์ได้
+TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,คุณไม่สามารถเชิญตัวละครอื่นให้เข้าร่วมปาร์ตี้ระหว่างปาร์ตี้ PvP ได้
+TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,คุณไม่สามารถเข้าร่วมปาร์ตี้ระหว่างการดวล
+TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,คุณไม่สามารถเข้าร่วมกิลด์ได้ในระหว่างการดวล
+TEXTCLIENT_BATTLE_NOTPARTY,You cannot invite others to join your party during a battle.,คุณไม่สามารถเชิญผู้อื่นเข้าร่วมปาร์ตี้ของคุณระหว่างการต่อสู้ได้
+TEXTCLIENT_PARTYINVITE_DIFFERENTSERVER,Cannot invite a player from a different channel.,ไม่สามารถเชิญผู้เล่นจากช่องอื่นได้
+TEXTCLIENT_PARTYOTHER,%s is currently in another party.,ขณะนี้ %s อยู่ในปาร์ตี้อื่น
+TEXTCLIENT_PARTYEXISTCHR,%s is already in your party.,%s อยู่ในปาร์ตี้ของคุณแล้ว
+TEXTCLIENT_DIFFERENTPARTY,Player cannot join the party.,ผู้เล่นไม่สามารถเข้าร่วมปาร์ตี้ได้
+TEXTCLIENT_PARTYFAILINVITATE,%s has refused to join the party.,%s ปฏิเสธที่จะเข้าร่วมปาร์ตี้
+TEXTCLIENT_PARTYDENY,%s is currently not accepting Party Invitations,ขณะนี้ %s ไม่รับคำเชิญปาร์ตี้
+TEXTCLIENT_PARTYNOINVATE,Only the party leader can invite new members.,เฉพาะหัวหน้าปาร์ตี้เท่านั้นที่สามารถเชิญสมาชิกใหม่ได้
+TEXTCLIENT_PARTYFULL,The maximum party limit of 8 players has already been reached.,ถึงขีดจำกัดสูงสุดของผู้เล่น 8 คนแล้ว
+TEXTCLIENT_PARTYFAILENTER,You have failed to join the party.,คุณล้มเหลวในการเข้าร่วมปาร์ตี้
+TEXTCLIENT_GUILDFAILENTER,You have failed to join the guild.,คุณล้มเหลวในการเข้าร่วมกิลด์
+TEXTCLIENT_PARTYCREATE,Party has been created.,ปาร์ตี้ถูกสร้างขึ้น
+TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s เข้าร่วมปาร์ตี้แล้ว
+TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s ออกจากปาร์ตี้แล้ว
+TEXTCLIENT_PARTYEXIT,You have left the party.,คุณออกจากปาร์ตี้แล้ว
+TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,ปาร์ตี้ถูกยุบแล้ว
+TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,คุณได้เลือก Lodelight เป็นจุดเกิดใหม่ของคุณ
+TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,เฉพาะหัวหน้าปาร์ตี้เท่านั้นที่สามารถโอนสถานะหัวหน้าไปยังสมาชิกคนอื่นในปาร์ตี้ได้
+TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,คุณไม่สามารถส่งหัวหน้าปาร์ตี้ให้กับผู้เล่นออฟไลน์ได้
+TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,คุณเป็นหัวหน้าปาร์ตี้อยู่แล้ว
+TEXTCLIENT_PARTY_LEADERNOCHANGEPK,Unable to change the party leader during a party duel.,ไม่สามารถเปลี่ยนหัวหน้าปาร์ตี้ระหว่างดวลปาร์ตี้ได้
+TEXTCLIENT_PARTY_TROUPEUP,Party level increased to 10.,เลเวลปาร์ตี้เพิ่มขึ้นเป็น 10
+TEXTCLIENT_PARTY_LEVELUP,Party level increased.,เลเวลปาร์ตี้เพิ่มขึ้น
+TEXTCLIENT_PARTY_NAMEINUSE,That party name is already in use. Please choose another one.,ชื่อปาร์ตี้นั้นถูกใช้ไปแล้ว โปรดเลือกใช้ชื่ออื่น
+TEXTCLIENT_PARTY_INVALIDNAME,This party name contains unauthorized characters or words.,ชื่อปาร์ตี้นี้มีอักขระหรือคำที่ไม่ได้รับอนุญาต
+TEXTCLIENT_ERROR,Error,ผิดพลาด
+TEXTCLIENT_PARTY_CHANGE,The party has been changed to an Advanced Party.,ปาร์ตี้ถูกเปลี่ยนเป็นปาร์ตี้ขั้นสูง
+TEXTCLIENT_PARTY_NAMECHANGED,Party name has been changed to %s.,เปลี่ยนชื่อปาร์ตี้เป็น %s
+TEXTCLIENT_PARTYSKILL_LEADER,Only the party leader can use party skills.,เฉพาะหัวหน้าปาร์ตี้เท่านั้นที่สามารถใช้สกิลปาร์ตี้ได้
+TEXTCLIENT_PARTYSKILL_REQLEVEL,Your party does not have the required level.,ปาร์ตี้ของคุณไม่มีเลเวลที่กำหนด
+TEXTCLIENT_PARTYSKILL_POINTS,Cannot use skill. Insufficient party experience.,ไม่สามารถใช้สกิลได้ ประสบการณ์ปาร์ตี้ไม่เพียงพอ
+TEXTCLIENT_PARTYSKILL_NOTTIME,You are still using the %s party skill. Try again later.,คุณยังคงใช้สกิลปาร์ตี้ %s ได้ ลองอีกครั้งในภายหลัง
+TEXTCLIENT_PARTYSKILL_USE,The party skill %s has been used.,ใช้สกิลปาร์ตี้ %s แล้ว
+TEXTCLIENT_PARTYSKILL_STOP,The effect of %s is about to end.,ผลของ %s กำลังจะสิ้นสุดลง
+TEXTCLIENT_ACR_FAME01,Rogue,Rogue
+TEXTCLIENT_ACR_FAME02,Outlaw,Outlaw
+TEXTCLIENT_ACR_FAME03,Vigilante,Vigilante
+TEXTCLIENT_ACR_FAME04,Pathfinder,Pathfinder
+TEXTCLIENT_ACR_FAME05,Pursuer,Pursuer
+TEXTCLIENT_ACR_FAME06,Hejerdor,Hejerdor
+TEXTCLIENT_ACR_FAME07,Phoenix,Phoenix
+TEXTCLIENT_ACR_FAME08,Splitter,Splitter
+TEXTCLIENT_ACR_FAME09,Valcan,Valcan
+TEXTCLIENT_ACR_FAME10,Lamia,Lamia
+TEXTCLIENT_MER_FAME01,Trainer,Trainer
+TEXTCLIENT_MER_FAME02,Fighter,Fighter
+TEXTCLIENT_MER_FAME03,Gladiator,Gladiator
+TEXTCLIENT_MER_FAME04,Berserker,Berserker
+TEXTCLIENT_MER_FAME05,Wardancer,Wardancer
+TEXTCLIENT_MER_FAME06,Blaster,Blaster
+TEXTCLIENT_MER_FAME07,Eraser,Eraser
+TEXTCLIENT_MER_FAME08,Champion,Champion
+TEXTCLIENT_MER_FAME09,Warrior,Warrior
+TEXTCLIENT_MER_FAME10,Bearcat,Bearcat
+TEXTCLIENT_MAG_FAME01,Apprentice,Apprentice
+TEXTCLIENT_MAG_FAME02,Mage,Mage
+TEXTCLIENT_MAG_FAME03,War Mage,War Mage
+TEXTCLIENT_MAG_FAME04,Grand Mage,Grand Mage
+TEXTCLIENT_MAG_FAME05,Arch Mage,Arch Mage
+TEXTCLIENT_MAG_FAME06,Sorcerer,Sorcerer
+TEXTCLIENT_MAG_FAME07,Warlock,Warlock
+TEXTCLIENT_MAG_FAME08,Sage,Sage
+TEXTCLIENT_MAG_FAME09,Arch Sage,Arch Sage
+TEXTCLIENT_MAG_FAME10,Elder,Elder
+TEXTCLIENT_ASS_FAME01,Protector,Protector
+TEXTCLIENT_ASS_FAME02,Guardian,Guardian
+TEXTCLIENT_ASS_FAME03,Knight,Knight
+TEXTCLIENT_ASS_FAME04,Paladin,Paladin
+TEXTCLIENT_ASS_FAME05,Crusader,Crusader
+TEXTCLIENT_ASS_FAME06,Crusader,Crusader
+TEXTCLIENT_ASS_FAME07,Chaplain,Chaplain
+TEXTCLIENT_ASS_FAME08,Luminary,Luminary
+TEXTCLIENT_ASS_FAME09,Prophet,Prophet
+TEXTCLIENT_ASS_FAME10,Oracle,Oracle
+TEXTCLIENT_ALREADYFRIEND,That player is already in your friends list.,ผู้เล่นนั้นอยู่ในรายชื่อเพื่อนของคุณแล้ว
+TEXTCLIENT_MSGINVATE,You have asked for permission to add %s to your messenger.,คุณได้ขออนุญาตเพิ่ม %s เป็นผู้ติดต่อของคุณ
+TEXTCLIENT_GUILDCOMBAT_CANNOT_FRIENDADD,You cannot add friends in the Guild Siege arena.,คุณไม่สามารถเพิ่มเพื่อนในสนามประลองกิลด์ได้
+TEXTCLIENT_BATTLE_NOTFRIEND,You cannot add someone to your friends list while dueling.,คุณไม่สามารถเพิ่มใครในรายชื่อเพื่อนของคุณขณะดวล
+TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,คำเชิญถูกปฏิเสธ
+TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s อยู่ในการตั้งค่า 'ปฏิเสธผู้ส่งสาร'
+TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,จำนวนผู้เล่นสูงสุดที่สามารถลงทะเบียนใน Messenger ได้คือ 200 คน
+TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s ได้เพิ่มคุณใน Messenger แล้ว
+TEXTCLIENT_NOTLOGIN,That player is not connected.,ผู้เล่นนั้นไม่ได้เชื่อมต่อ
+TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.",ไม่สามารถส่งข้อความ %s ถูกบล็อก
+TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,คุณมี %d ข้อความใหม่
+TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,ไม่สามารถส่งข้อความของคุณ กล่องจดหมายที่ได้รับอาจเต็ม
+TEXTCLIENT_MESSNOTE,You sent the memo.,คุณส่งบันทึกช่วยจำ
+TEXTCLIENT_MAILRECEIVE,You have received new mail!,คุณได้รับจดหมายใหม่!
+TEXTCLIENT_CANT_SHOUT_BELOW_20,Characters under Level %d cannot shout.,ตัวละครที่อยู่ในระดับต่ำ %d ไม่สามารถตะโกนได้
+TEXTCLIENT_NOPARTY,Party does not exist.,ไม่มีปาร์ตี้
+TEXTCLIENT_NOGUILD,Guild does not exist.,ไม่มีกิลด์
+TEXTCLIENT_WHISPERAGREE,Private messages allowed,อนุญาตให้ส่งข้อความส่วนตัว
+TEXTCLIENT_WHISPERREFUSE,Private messages refused,ข้อความส่วนตัวถูกปฏิเสธ
+TEXTCLIENT_MSGERAGREE,Messenger allowed,Messenger ได้รับอนุญาต
+TEXTCLIENT_MSGERREFUSE,Messenger refused,Messenger ปฏิเสธ
+TEXTCLIENT_STAGEAGREE,Party & guild invites allowed,ปาร์ตี้ & เชิญกิลด์ได้
+TEXTCLIENT_STAGEREFUSE,Party & guild invites refused,ปฏิเสธคำเชิญปาร์ตี้และกิลด์
+TEXTCLIENT_CONNAGREE,Post connection status,โพสต์สถานะการเชื่อมต่อ
+TEXTCLIENT_CONNREFUSE,Do not post connection status.,อย่าโพสต์สถานะการเชื่อมต่อ
+TEXTCLIENT_FULL_BLOCKED_USER_LIST,Ignore List is full. Please unignore some characters or relog to reset your Ignore List.,ละเว้นรายการเต็ม โปรดยกเลิกการละเว้นอักขระบางตัวหรือล็อกใหม่เพื่อรีเซ็ตรายการละเว้นของคุณ
+TEXTCLIENT_MY_CHARACTER_CANT_BLOCK,You shouldn't ignore yourself. You might have something important to say!,คุณไม่ควรละเลยตัวเอง คุณอาจมีเรื่องสำคัญจะพูด!
+TEXTCLIENT_ALREADY_BLOCKED,That character is already on your Ignore List.,ตัวละครนั้นอยู่ในรายชื่อที่เพิกเฉยอยู่แล้ว
+TEXTCLIENT_USER_CHATTING_BLOCKING,%s has been ignored. Type /Unignore <NAME> to remove them from your Ignore List.,%s ถูกละเว้น พิมพ์ /Unignore <NAME> เพื่อลบออกจากรายชื่อที่ไม่สนใจของคุณ
+TEXTCLIENT_USER_CHATTING_UNBLOCKING,%s is now unignored.,ขณะนี้ %s ไม่ถูกละเว้น
+TEXTCLIENT_THERE_IS_NO_BLOCKED_TARGET,That character is not on your Ignore List.,ตัวละครนั้นไม่อยู่ในรายชื่อที่เพิกเฉยของคุณ
+TEXTCLIENT_EQUIPPUT,Please unequip the item first.,โปรดถอดอุปกรณ์ก่อน
+TEXTCLIENT_CHARGED_NOTUSE,You can not use the premium items.,คุณไม่สามารถใช้รายการพรีเมี่ยมได้
+TEXTCLIENT_MSGSELFSENDERERROR,"You cannot send a message to yourself, silly.",คุณไม่สามารถส่งข้อความถึงตัวเอง โง่
+TEXTCLIENT_MAILBOX_FULL,%s's mail box is full.,กล่องจดหมายของ %s เต็มแล้ว
+TEXTCLIENT_LACKMONEY,You do not have enough Penya.,คุณมี Penya ไม่พอ
+TEXTCLIENT_CANNOTPOST,You cannot send this item.,คุณไม่สามารถส่งไอเท็มนี้ได้
+TEXTCLIENT_MAIL_UNKNOWN,Unknown user,ผู้ใช้ที่ไม่รู้จัก
+TEXTCLIENT_POST_ERROR,You have failed to send.,คุณล้มเหลวในการส่ง
+TEXTCLIENT_MAIL_SEND_OK,Your mail has been sent successfully.,จดหมายของคุณถูกส่งเรียบร้อยแล้ว
+TEXTCLIENT_ERROR_RETRY,"An error occured, please retry the operation.",เกิดข้อผิดพลาด โปรดลองดำเนินการอีกครั้ง
+TEXTCLIENT_REALTIME,Real Time - %s,เรียลไทม์ - %s
+TEXTCLIENT_MADRIGALTIME,Madrigal Time - %s,เวลา Madrigal - %s
+TEXTCLIENT_NEW_QUEST,New Quest,เควสใหม่
+TEXTCLIENT_CURRENT_QUEST,Quests in Progress,ภารกิจในความคืบหน้า
+TEXTCLIENT_STARTQUEST,You've received the quest: %s. Open your Quest Window for details.,คุณได้รับภารกิจ: %s เปิดหน้าต่างภารกิจเพื่อดูรายละเอียด
+TEXTCLIENT_REMOVEQUEST,%s quest has been cancelled.,ภารกิจ %s ถูกยกเลิก
+TEXTCLIENT_QUEST_FAILURE,Quest cancelled.,ภารกิจถูกยกเลิก
+TEXTCLIENT_NOTPLAYSERVER,This channel is not available. Please enter another.,ช่องนี้ไม่พร้อมใช้งาน กรุณาป้อนอื่น
+TEXTCLIENT_PK_NO_FLIGHTAREA,Flying is forbidden inside.,ห้ามบินภายใน
+TEXTCLIENT_ITEMBOX_MESSAGE1,You need %s item to open it.,คุณต้องมี %s รายการจึงจะเปิดได้
+TEXTCLIENT_ITEMBOX_MESSAGE2,"Wrong level, unable to open itembox.",เลเวลไม่ถูกต้อง เปิดกล่องไอเทมไม่ได้
+TEXTCLIENT_ITEMBOX_MESSAGE3,"Wrong sex, unable to open itembox.",เพศไม่ถูกต้อง เปิด Itembox ไม่ได้
+TEXTCLIENT_ITEMBOX_MESSAGE4,You need to be on the %s quest to open it.,คุณต้องอยู่ในภารกิจ %s เพื่อเปิดมัน
+TEXTCLIENT_ITEMBOX_MESSAGE5,"Wrong job, unable to open itembox.",ผิดอาชีพ เปิด Itembox ไม่ได้
+TEXTCLIENT_QUEST_NOINVENTORYSPACE,Unable to complete quest. Not enough room in your inventory.,ไม่สามารถทำภารกิจให้เสร็จสิ้นได้ มีพื้นที่ไม่เพียงพอในคลังของคุณ
+TEXTCLIENT_REAPEXP,You have gained Experience.,คุณได้รับค่าประสบการณ์
+TEXTCLIENT_ENDQUEST,Congratulations! %s has been completed.,ยินดีด้วย! %s เสร็จเรียบร้อยแล้ว
+TEXTCLIENT_PARTYQUEST_NOTJOIN,"If a member of party is over level %d, he cannot enter.",หากสมาชิกในปาร์ตี้มีเลเวลเกิน %d เขาจะไม่สามารถเข้าได้
+TEXTCLIENT_ERROR_DONTCHECK,You cannot check that anymore.,คุณไม่สามารถตรวจสอบได้อีกต่อไป
+TEXTCLIENT_COMACCEPT,You have joined the %s guild.,คุณได้เข้าร่วมกิลด์ %s แล้ว
+TEXTCLIENT_COMLEAVE,You are no longer a member of the %s guild.,คุณไม่ได้เป็นสมาชิกของกิลด์ %s อีกต่อไป
+TEXTCLIENT_GUILDWARERRORLOGO,You cannot change your guild logo during a guild duel.,คุณไม่สามารถเปลี่ยนโลโก้กิลด์ได้ในระหว่างการดวลกิลด์
+TEXTCLIENT_GUILDWARERRORNAME,You cannot change your guild name during a guild duel.,คุณไม่สามารถเปลี่ยนชื่อกิลด์ของคุณในระหว่างการดวลกิลด์
+TEXTCLIENT_GUILDNOTICEUPDATE,A new Guild Notice has been posted. Please check it in the guild window.,มีการโพสต์ประกาศกิลด์ใหม่ โปรดตรวจสอบในหน้าต่างกิลด์
+TEXTCLIENT_GUILD_NAMEINUSE,That guild name is already in use. Please choose another one.,ชื่อกิลด์นั้นถูกใช้ไปแล้ว โปรดเลือกอันอื่น
+TEXTCLIENT_GUILD_INVALIDNAME,This guild name contains unauthorized characters or words.,ชื่อกิลด์นี้มีอักขระหรือคำที่ไม่ได้รับอนุญาต
+TEXTCLIENT_GUILDCHANGENAME,%s guild has changed their name to %s.,%s กิลด์ได้เปลี่ยนชื่อเป็น %s
+TEXTCLIENT_GUILDWARNODISMISS,You cannot disband your guild during a guild duel.,คุณไม่สามารถยุบกิลด์ของคุณได้ในระหว่างการดวลกิลด์
+TEXTCLIENT_GUILDSALARYCHANGED,Salary for each title has been changed.,มีการเปลี่ยนแปลงเงินเดือนสำหรับแต่ละตำแหน่ง
+TEXTCLIENT_GUILDPOWERCHANGED,Authority for each title has been changed.,สิทธิ์สำหรับแต่ละชื่อมีการเปลี่ยนแปลง
+TEXTCLIENT_GUILDWARNOMEMBER,Unable to use the member management function during a guild duel.,ไม่สามารถใช้ฟังก์ชั่นการจัดการสมาชิกได้ในระหว่างการดวลกิลด์
+TEXTCLIENT_GUILDMEMBER_PROMOTED,%s has been promoted.,%s ได้รับการเลื่อนตำแหน่ง
+TEXTCLIENT_GUILDMEMBER_DEMOTED,%s has been demoted.,%s ถูกลดระดับแล้ว
+TEXTCLIENT_GUILD_TRANSFERLEADER,%s has become the guild master.,%s กลายเป็นหัวหน้ากิลด์แล้ว
+TEXTCLIENT_GUILD_MEMBERLEAVE,%s has left the guild.,%s ออกจากกิลด์แล้ว
+TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%s อยู่ในกิลด์แล้ว
+TEXTCLIENT_BATTLE_NOTGUILD,You cannot invite others to join your guild during a battle.,คุณไม่สามารถเชิญผู้อื่นเข้าร่วมกิลด์ของคุณในระหว่างการต่อสู้
+TEXTCLIENT_COMACCEPTKINGPIN,You invited %s to your guild.,คุณได้เชิญ %s เข้าร่วมกิลด์ของคุณ
+TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,ตัวละครที่คุณเชิญออฟไลน์อยู่
+TEXTCLIENT_GUILDNOTINCLUDE,You have to wait 2 days before joining another guild.,คุณต้องรอ 2 วันก่อนเข้าร่วมกิลด์อื่น
+TEXTCLIENT_GUILDFAILINVITATE,%s has refused to join the guild.,%s ปฏิเสธที่จะเข้าร่วมกิลด์
+TEXTCLIENT_COMNOEXCOM,That guild does not exist.,กิลด์นั้นไม่มีอยู่จริง
+TEXTCLIENT_GUILDWARNOINVATE,Cannot join a guild during a guild duel.,ไม่สามารถเข้าร่วมกิลด์ได้ในระหว่างการดวลกิลด์
+TEXTCLIENT_COMHAVECOM,You are already in a guild.,คุณอยู่ในกิลด์แล้ว
+TEXTCLIENT_COMOVERMEMBER,The guild is full.,กิลด์เต็มแล้ว
+TEXTCLIENT_COMACCEPTWELCOME,%s has joined the guild.,%s ได้เข้าร่วมกิลด์แล้ว
+TEXTCLIENT_GUILDNOTHINGNAME,Unable to make a contribution. Ask your Guild Leader to set the guild name first.,ไม่สามารถบริจาคได้ ขอให้หัวหน้ากิลด์ของคุณตั้งชื่อกิลด์ก่อน
+TEXTCLIENT_GUILDMERITMAXLEVEL,Unable to make a contribution. The guild has reached its maximum level.,ไม่สามารถบริจาคได้ กิลด์ถึงระดับสูงสุดแล้ว
+TEXTCLIENT_GUILDLEVELUP,Guild level has increased.,เลเวลกิลด์เพิ่มขึ้น
+TEXTCLIENT_GUILDCLOAK,%s Guild Cloak,%s Guild Cloak
+TEXTCLIENT_NOTTRADE,You cannot trade a premium item.,คุณไม่สามารถแลกเปลี่ยนไอเท็มพรีเมี่ยมได้
+TEXTCLIENT_GUILDBANKFULL,The guild warehouse is full.,โกดังกิลด์เต็มแล้ว
+TEXTCLIENT_COUPLEBANKFULL,The couple storage is full.,The couple storage is full.
+TEXTCLIENT_SLOTFULL,Your inventory is full.,ช่องเก็บของเต็ม
+TEXTCLIENT_CONFIRMMOVEITEM,Really move this item?,ย้ายรายการนี้หรือไม่
+TEXTCLIENT_GUILDCREATECLOAK,Guild cloak has been created.,Guild cloak ถูกสร้างขึ้น
+TEXTCLIENT_GUILDNEEDGOLD,Unable to create guild cloak. Insufficient Penya in the guild warehouse.,ไม่สามารถสร้าง guild cloak ได้ Penya ไม่เพียงพอในโกดังกิลด์
+TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,ได้รับเงินเดือนกิลด์ %d Penya
+TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,ไม่ทราบการตั้งค่าเป้าหมาย
+TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,ไม่ทราบอาชีพ
+TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,คะแนนสกิลของตัวละครของคุณถูกรีเซ็ต โปรดแจกจ่ายคะแนนของคุณในหน้าต่างแผนผังทักษะ
+TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,คุณต้องเลือกอาชีพที่ Lv 15
+TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,ไม่ใช่อาชีพเชี่ยวชาญ
+TEXTCLIENT_EXPERTJOBS,Expert Job: %s,อาชีพเชี่ยวชาญ: %s
+TEXTCLIENT_EXPERTLEVEL,Expert Level: %d ~ %d,ระดับผู้เชี่ยวชาญ: %d ~ %d
+TEXTCLIENT_ERROR_NOTPROFESSIONALJOB,Not Professional Job,ไม่ใช่งานมืออาชีพ
+TEXTCLIENT_ERROR_NOTSPECIALISTJOB,Not Specialist Job,Not Specialist Job
+TEXTCLIENT_PROFESSIONALJOBS,Professional Job: %s,งานมืออาชีพ: %s
+TEXTCLIENT_PROFESSIONALLEVEL,Professional Level: %d ~~~,ระดับมืออาชีพ: %d ~~~
+TEXTCLIENT_SPECIALISTJOBS,Specialist Job: %s,Specialist Job: %s
+TEXTCLIENT_SPECIALISTLEVEL,Specialist Level: %d ~~~,Specialist Level: %d ~~~
+TEXTCLIENT_SKILLPOINT_UP,New Skill Points are now available.,คะแนนสกิลใหม่พร้อมใช้งานแล้ว
+TEXTCLIENT_REAPSKILL,You've learned %s. You can now allocate skill points to this ability.,คุณได้เรียนรู้ %s แล้ว คุณสามารถจัดสรรคะแนนทักษะให้กับความสามารถนี้ได้แล้ว
+TEXTCLIENT_FLYLVLUP,Flying level up!,เลเวลการบินเพิ่มขึ้น!
+TEXTCLIENT_NEEDSATTACKITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG1,How dare you come here!,คุณกล้ามาที่นี่ได้ยังไง!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG2,You have no fear!,คุณไม่มีความกลัว!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG3,I will be your executioner!,ฉันจะเป็นเพชฌฆาตของคุณ!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG4,Don't make me angry!,อย่าทำให้ฉันโกรธ!
+TEXTCLIENT_BOSS_BIGMUSCLE_MSG5,"%s, you fool! How dare you!",%s เจ้าโง่! กล้าดียังไง!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG1,I will crush your bones!,ฉันจะบดขยี้กระดูกของคุณ!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG2,I will destroy you all!,ฉันจะทำลายพวกคุณให้หมด!
+TEXTCLIENT_BOSS_MUSHMOOT_MSG3,I will break you!,ฉันจะทำลายคุณ!
+TEXTCLIENT_BOSS_KRRR_MSG1,Who woke me?,ใครปลุกฉัน
+TEXTCLIENT_BOSS_KRRR_MSG2,%s! My axe and I will destroy you!,%s! ขวานของฉัน และฉันจะทำลายคุณ!
+TEXTCLIENT_BOSS_KRRR_MSG3,Go to Hell!,ไปลงนรกซะ!
+TEXTCLIENT_SKILLLEVELLIMIT,Set %s' skill level: 1 ~ %d.,กำหนดระดับทักษะของ %s: 1 ~ %d
+TEXTCLIENT_REQ_DARK,You are not in Dark Illusion mode.,คุณไม่ได้อยู่ในโหมด Dark Illusion
+TEXTCLIENT_NEVERKILLSTOP,You cannot use the skill.,คุณไม่สามารถใช้ทักษะนี้ได้
+TEXTCLIENT_NOTELEMWEAPON,Unable to use equipped item. Item needs an elemental upgrade first.,ไม่สามารถใช้ไอเทมที่สวมใส่ได้ ไอเทมต้องมีการอัพเกรดธาตุก่อน
+TEXTCLIENT_DONOTUSEBUFF,Cannot use the skill at this time.,ไม่สามารถใช้ทักษะนี้ได้ในขณะนี้
+TEXTCLIENT_NEEDSKILLITEM,You must equip either Arrows or the appropriate Poster or Vial to use this skill.,You must equip either Arrows or the appropriate Poster or Vial to use this skill.
+TEXTCLIENT_SKILLWAITTIME,Please wait.,โปรดรอสักครู่
+TEXTCLIENT_SKILL_SELF,You use %s.,คุณใช้ %s
+TEXTCLIENT_SKILL_SELF_INHERITED,You use %s (%s).,You use %s (%s).
+TEXTCLIENT_SKILL_MATE,%s casts %s on you.,%s ร่าย %s ให้กับคุณ
+TEXTCLIENT_SKILL_MATE_INHERITED,%s casts %s (%s) on you.,%s casts %s (%s) on you.
+TEXTCLIENT_EQUIP_DENIAL,Permission to view equipment denied.,การอนุญาตให้ดูอุปกรณ์ถูกปฏิเสธ
+TEXTCLIENT_OPTIONREBOOT,You must restart the game for all changes to take effect.,คุณต้องเริ่มเกมใหม่เพื่อให้การเปลี่ยนแปลงทั้งหมดมีผล
+TEXTCLIENT_LIMITED_USE,You are already using this item. Try again after its effects have worn off.,คุณใช้รายการนี้อยู่แล้ว ลองอีกครั้งหลังจากที่เอฟเฟกต์หมดลง
+TEXTCLIENT_ITEM_LEVEL,Your level is too low. You can use that at level %s.,เลเวลของคุณต่ำเกินไป คุณสามารถใช้มันได้ที่เลเวล %s
+TEXTCLIENT_NOTOVERLAP_USE,You cannot use these items at the same time.,คุณไม่สามารถใช้รายการเหล่านี้พร้อมกันได้
+TEXTCLIENT_COND_USE,Takes effect when player dies.,มีผลเมื่อผู้เล่นเสียชีวิต
+TEXTCLIENT_PK_LIMIT_DAY,%d Day,%d วัน
+TEXTCLIENT_PK_LIMIT_HOUR,%d Hr,%d ชั่วโมง
+TEXTCLIENT_PK_LIMIT_MINUTE,%d Min,%d นาที
+TEXTCLIENT_PK_LIMIT_SECOND,%d Sec,%d วินาที
+TEXTCLIENT_DONOTUSE_RESTATE,Unable to reset your stats since you already have basic stats.,ไม่สามารถรีเซ็ตค่าสถานะของคุณได้ เนื่องจากคุณมีค่าสถานะพื้นฐานอยู่แล้ว
+TEXTCLIENT_NOTCHOAS,Only criminals can use this item.,เฉพาะอาชญากรเท่านั้นที่สามารถใช้รายการนี้ได้
+TEXTCLIENT_GETKARMA,Recovered 1 Karma.,ได้รับ Karma 1 อัน
+TEXTCLIENT_NTROUPEO10,Either you are not a party member or the party level is higher than 10.,ไม่ว่าคุณจะไม่ใช่สมาชิกปาร์ตี้หรือระดับปาร์ตี้สูงกว่า 10
+TEXTCLIENT_EXP_NOTUSE,"You cannot stack this scroll anymore. At level %d ~ %d, this scroll can only be stacked %d times.",คุณไม่สามารถซ้อนม้วนนี้อีกต่อไป ที่ระดับ %d ~ %d ม้วนกระดาษนี้สามารถซ้อนกันได้ %d ครั้งเท่านั้น
+TEXTCLIENT_EXP_NOTUSELEVEL,You cannot use this scroll. This scroll is only available for level %d ~ %d.,คุณไม่สามารถใช้ม้วนนี้ ม้วนนี้ใช้ได้เฉพาะระดับ %d ~ %d
+TEXTCLIENT_EXPITEM_TOOLTIP,*** Your Experience rate has been amplified by #cffff5a50%d%%#nc ***,*** อัตราประสบการณ์ของคุณเพิ่มขึ้น\n#cffff5a50%d%%#nc ***
+TEXTCLIENT_EXP_COUTMSG0,The time left,เวลาที่เหลืออยู่
+TEXTCLIENT_EXP_COUTMSG1,First:,อันดับแรก:
+TEXTCLIENT_EXP_COUTMSG2,Second:,อันดับสอง:
+TEXTCLIENT_EXP_COUTMSG3,Third:,อันดับสาม:
+TEXTCLIENT_EXPBOX_INFO_MSG,You can recover some of your Experience If you return to the place where you died.,คุณสามารถกู้คืนค่าประสบการณ์บางส่วนได้หากคุณกลับมายังสถานที่ที่คุณเสียชีวิต
+TEXTCLIENT_NOT_EXPBOX,You can not use it.,คุณไม่สามารถใช้งานได้
+TEXTCLIENT_EXPBOX_EAT,You have recovered 30% of decreased Experience from your death.,คุณได้รับค่าประสบการณ์ที่ลดลง 30% จากการตายของคุณ
+TEXTCLIENT_ADMIN_INVISIBLE,Invisible,ล่องหน
+TEXTCLIENT_ADMIN_IMMORTAL,Undying1,Undying1
+TEXTCLIENT_ADMIN_IMMORTALHALF,Undying2,Undying2
+TEXTCLIENT_ADMIN_NOMOVING,Freeze player,หยุดเล่น
+TEXTCLIENT_ADMIN_MIGHTY,OneKill,OneKill
+TEXTCLIENT_TELESKILL_CLICK,Touch on the ground where you want to use %s.,แตะบนพื้นที่คุณต้องการใช้ %s
+TEXTCLIENT_CREATEMON_CLICK,Touch on the ground where you want to invoke the monster.,แตะบนพื้นที่คุณต้องการเรียกสัตว์ประหลาด
+TEXTCLIENT_TELESKILL_CANCEL,%s invocation was cancelled.,%s คำขอถูกยกเลิก
+TEXTCLIENT_CREATEMON_CANCEL,Monster invocation was cancelled.,การเรียกมอนสเตอร์ถูกยกเลิก
+TEXTCLIENT_USEAIRCRAFT,"In order to ride a flying vehicle, you must reach level 20.",เพื่อที่จะขี่ยานพาหนะที่บินได้ คุณต้องไปถึงระดับ 20
+TEXTCLIENT_QUEST_DISGUISE_NOTFLY,You cannot fly while transforming.,คุณไม่สามารถบินได้ในขณะที่แปลงร่าง
+TEXTCLIENT_UPGRADE_FIRE,Fire,ไฟ
+TEXTCLIENT_UPGRADE_WATER,Water,น้ำ
+TEXTCLIENT_UPGRADE_ELECTRICITY,Electric,ไฟฟ้า
+TEXTCLIENT_UPGRADE_WIND,Wind,ลม
+TEXTCLIENT_UPGRADE_EARTH,Earth,ดิน
+TEXTCLIENT_RUN,Run,วิ่ง
+TEXTCLIENT_WALK,Walk,เดิน
+TEXTCLIENT_CANNOT_DROPMONEY,You cannot drop your Penya on the ground.,คุณไม่สามารถวาง Penya ของคุณลงบนพื้นได้
+TEXTCLIENT_NOTDROP,You cannot drop a premium item on the ground.,คุณไม่สามารถดรอปไอเทมพรีเมี่ยมบนพื้นได้
+TEXTCLIENT_QUEITMWARNING,The quest will not progress without this item. Continue discarding item?,ภารกิจจะไม่คืบหน้าหากไม่มีรายการนี้ ต้องการทิ้งรายการต่อหรือไม่
+TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,คุณไม่สามารถวางสิ่งของขณะบินได้
+TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,คุณไม่สามารถดรอปไอเทมขณะทำการซื้อขายได้
+TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,ปีกเท่านั้นที่จะช่วยคุณได้เมื่อคุณร่วง
+TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,ไม่อนุญาตให้ใช้ชื่อร้านค้านี้
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,คุณไม่สามารถแลกเปลี่ยนระหว่างกิจกรรมได้
+TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,ร้านค้าส่วนตัวไม่สามารถใช้ได้ในพื้นที่นี้
+TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,คุณไม่สามารถเปิดร้านค้าส่วนตัวใกล้กับ NPC
+TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,รายการทั้งหมดของร้านค้าส่วนตัวถูกขาย
+TEXTCLIENT_CHEER_MESSAGE1,Cheer Message Point(s): %d/3,คะแนนข้อความเชียร์: %d/3
+TEXTCLIENT_CHEER_MESSAGE2,Time left until the next point,เหลือเวลาจนถึงจุดต่อไป
+TEXTCLIENT_CHEER_MESSAGE3,%s sent you a cheer message of friendship!,%s ส่งข้อความให้กำลังใจถึงคุณ!
+TEXTCLIENT_CHEER_MESSAGE4,%s sent you a cheer message of love!,%s ส่งข้อความเชียร์ถึงคุณด้วยความรัก!
+TEXTCLIENT_CHEER_MESSAGE5,Your cheer points have increased by 1.,คะแนนเชียร์ของคุณเพิ่มขึ้น 1
+TEXTCLIENT_CHEER_NO1,Unable to send cheer message. Please try again after %s minutes.,ไม่สามารถส่งข้อความเชียร์ได้ โปรดลองอีกครั้งหลังจาก %s นาที
+TEXTCLIENT_CHEER_NO2,Please select a player to cheer. You can only send cheer messages to players other than yourself.,กรุณาเลือกผู้เล่นที่จะเชียร์ คุณสามารถส่งข้อความเชียร์ไปยังผู้เล่นอื่นที่ไม่ใช่ตัวคุณเองเท่านั้น
+TEXTCLIENT_COLLECT_EQUIP,You need to equip a collector.,คุณต้องสวมใส่นักสะสม
+TEXTCLIENT_COLLECT_TARGET,"Cannot collect, no dead catcher monster targeted.",ไม่สามารถรวบรวม ไม่มีเป้าหมายของมอนสเตอร์ที่จับตาย
+TEXTCLIENT_COLLECT_EMPTY,Insufficient supplements.,อาหารเสริมไม่เพียงพอ
+TEXTCLIENT_COLLECT_ERROROTHER,Unable to collect resource from a monster killed by another player.,ไม่สามารถรวบรวมทรัพยากรจากมอนสเตอร์ที่ฆ่าโดยผู้เล่นอื่น
+TEXTCLIENT_HARVEST_EQUIP,You need to equip harvesting gloves.,คุณต้องสวมถุงมือเก็บเกี่ยว
+TEXTCLIENT_HARVEST_RECEIVE,You have harvested %s x%d.,คุณได้เก็บเกี่ยว %s x%d แล้ว
+TEXTCLIENT_HARVEST_CARRIER,A harvest carrier has been revealed! Kill it to gain its extra berries.,ผู้ให้บริการเก็บเกี่ยวได้รับการเปิดเผย! สังหารมันเพื่อรับผลเบอร์รี่พิเศษ
+TEXTCLIENT_HARVEST_COOLDOWN,"You cannot currently open it, try again in a few seconds.","You cannot currently open it, try again in a few seconds."
+TEXTCLIENT_NOTREADY_USESHOP,Please try again after taking off the head item,โปรดลองอีกครั้งหลังจากถอดส่วนหัวออก
+TEXTCLIENT_SHOP_CHOICE,Selected,เลือกแล้ว
+TEXTCLIENT_CHANGE_HAIR,Change your Hair,เปลี่ยนทรงผม
+TEXTCLIENT_SHOP_COST,Price is,ราคาคือ
+TEXTCLIENT_SHOP_PENYA,Penya.,Penya
+TEXTCLIENT_CHANGE_HAIR_QUESTION,Do you want to change your hair?,คุณต้องการเปลี่ยนทรงผมของคุณหรือไม่?
+TEXTCLIENT_TRADEREQUEST,You have offered to trade with %s.,คุณได้เสนอให้ซื้อขายกับ %s
+TEXTCLIENT_ALREADY_TRADING,The player is already trading.,ผู้เล่นทำการซื้อขายแล้ว
+TEXTCLIENT_BATTLE_NOTTRADE,The player cannot trade while fighting.,ผู้เล่นไม่สามารถแลกเปลี่ยนระหว่างการต่อสู้ได้
+TEXTCLIENT_TRADECANCEL,The trade has been cancelled.,การซื้อขายถูกยกเลิก
+TEXTCLIENT_CANNOTTRADE_ITEM,This item cannot be traded.,ไอเทมนี้ไม่สามารถแลกเปลี่ยนได้
+TEXTCLIENT_CANNOTTRADE_EDIT,You cannot add into or remove items from the trading window anymore after the first confirmation.,คุณไม่สามารถเพิ่มหรือลบรายการออกจากหน้าต่างการซื้อขายได้อีกต่อไปหลังจากการยืนยันครั้งแรก
+TEXTCLIENT_TRADEACCEPT,%s has completed the trade.,%s เสร็จสิ้นการแลกเปลี่ยน
+TEXTCLIENT_FINALCONFIRM,%s pushed final confirmation.,%s ผลักดันการยืนยันขั้นสุดท้าย
+TEXTCLIENT_TRADEAGREE,You agreed to trade.,คุณตกลงซื้อขาย
+TEXTCLIENT_TRADEREFUSE,You refused to trade.,คุณปฏิเสธที่จะค้าขาย
+TEXTCLIENT_SBEVE_NOTUSEITEM,You cannot use that item.,คุณไม่สามารถใช้ไอเทมนั้นได้
+TEXTCLIENT_PIERCING_POSSIBLE_ITEM,The item cannot be pierced.,ไม่สามารถเจาะไอเทมได้
+TEXTCLIENT_STILL_DEVELOPMENT,This functionality is still in development.,ฟังก์ชันนี้ยังอยู่ในระหว่างการพัฒนา
+TEXTCLIENT_ENDUSE,You may no longer use %s . That item has expired.,คุณไม่สามารถใช้ %s ได้อีกต่อไป รายการนั้นหมดอายุแล้ว
+TEXTCLIENT_DAYUSE,You can use the %s for %d days.,คุณสามารถใช้ %s เป็นเวลา %d วัน
+TEXTCLIENT_TIMEUSE,Time remaining on %s: %d days.,เวลาที่เหลืออยู่ใน %s: %d วัน
+TEXTCLIENT_ITEM_EXPIRED,This item has expired.,ไอเทมนี้หมดอายุแล้ว
+TEXTCLIENT_NOTUPGRADE,The item cannot be equipped or moved during refining.,ไอเทมนี้ไม่สามารถสวมใส่หรือเคลื่อนย้ายได้ในระหว่างการกลั่น
+TEXTCLIENT_CARDRESHUFFLE_NOTAVAILABLE,Registration is not possible because the grade is not correct.,ไม่สามารถลงทะเบียนได้เนื่องจากเกรดไม่ถูกต้อง
+TEXTCLIENT_ERROR_NOPIERCING,There is no space to put a card.,ไม่มีช่องว่างให้ใส่การ์ด
+TEXTCLIENT_PIERCINGFAIL,Piercing failed.,การเจาะล้มเหลว
+TEXTCLIENT_PIERCINGSUCCESS,Piercing Succeeded.,เจาะสำเร็จ
+TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,สามารถใช้ได้เฉพาะชุดที่เจาะด้วยการ์ดเท่านั้น
+TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfully.,การ์ดที่เจาะของคุณถูกลบออกเรียบร้อยแล้ว
+TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,ไอเทมนี้ใช้ไม่ได้
+TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,ไอเทมพรีเมียมไม่สามารถกลั่นได้
+TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,รายการเสริมที่ไม่ถูกต้อง
+TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,คุณสามารถใช้รายการนี้กับเมนูเจาะที่ร้านขายอาวุธ
+TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,คุณสามารถใช้รายการนี้กับเมนูอัพเกรดเครื่องประดับที่ร้านค้าอาวุธ
+TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,คุณสามารถใช้ไอเทมนี้กับเมนูอัพเกรดได้ที่ร้านเกราะ
+TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,ดับเบิลคลิกที่ไอเทมนี้ในหน้าต่างช่องเก็บของเพื่อใช้งาน
+TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,ไม่สามารถอัพเกรดไอเทมโดยใช้ธาตุนี้
+TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,คุณไม่สามารถใส่สองธาตุที่แตกต่างกันในไอเทมเดียว
+TEXTCLIENT_WRONGUPLEVEL,Using wrong item to upgrade.,ใช้ไอเทมที่ไม่ถูกต้องในการอัพเกรด
+TEXTCLIENT_UPGRADE_MAXOVER,Can only upgrade up to Level 10.,สามารถอัพเกรดได้ถึงระดับ 10 เท่านั้น
+TEXTCLIENT_ACCESSORY_MAXOVER,Jewelry can be upgraded to +20.,เครื่องประดับสามารถอัพเกรดเป็น +20
+TEXTCLIENT_UPGRADE_ERROR_WRONGUPLEVEL,Using wrong item to upgrade.,ใช้ไอเทมที่ไม่ถูกต้องในการอัพเกรด
+TEXTCLIENT_UPGRADE_ERROR_NOSUPSTONE,Not enough supplement item.,ไอเทมเสริมไม่เพียงพอ
+TEXTCLIENT_UPGRADE_FAIL,The upgrade has failed.,การอัพเกรดล้มเหลว
+TEXTCLIENT_UPGRADE_SUCCESSFUL,Upgrade Succesful!,อัพเกรดสำเร็จ!
+TEXTCLIENT_REMOVE_ERROR,That weapon is not possible to remove the element upgrading. Try again after checking.,อาวุธนั้นไม่สามารถลบการอัพเกรดธาตุได้ ลองอีกครั้งหลังจากตรวจสอบแล้ว
+TEXTCLIENT_REMOVE_ATTRIBUTE_CONFIRM,The element of weapon was removed.,ธาตุของอาวุธถูกลบออก
+TEXTCLIENT_DEPEN_USE,This item takes effect once your character dies. Do you want to use it?,ไอเทมนี้จะมีผลเมื่อตัวละครของคุณตาย คุณต้องการใช้หรือไม่
+TEXTCLIENT_SKILLINIT,This item resets your skills. Do you want to use this item?,ไอเทมนี้รีเซ็ตสกิลของคุณ คุณต้องการใช้ไอเทมนี้หรือไม่?
+TEXTCLIENT_ERROR_SKILLRECCURENCE,Your skill has already been reset.,สกิลของคุณถูกรีเซ็ตแล้ว
+TEXTCLIENT_NOTUSEVAG,You can use this item after your 1st job change.,คุณสามารถใช้ไอเทมนี้ได้หลังจากเปลี่ยนอาชีพครั้งแรกของคุณ
+TEXTCLIENT_CHECKEQUIP,Please unequip the item first.,โปรดถอดอุปกรณ์ก่อน
+TEXTCLIENT_PK_BLINK_NO,You cannot use a blinkwing at Kebaras.,คุณไม่สามารถใช้ blinkwing ที่ Kebaras
+TEXTCLIENT_BLINK_EVENT_NO,You cannot use a blinkwing during event.,คุณไม่สามารถใช้ blinkwing ในระหว่างกิจกรรม
+TEXTCLIENT_GUILDCOMBAT_NO_OUTWAR,You cannot use Blinkwings to escape the Guild Siege arena.,คุณไม่สามารถใช้ Blinkwings เพื่อหนีออกจากเวที Guild Siege ได้
+TEXTCLIENT_ARENA_BLINKPOOL,You cannot use Blinkpool in the Arena.,คุณไม่สามารถใช้ Blinkpool ในอารีน่าได้
+TEXTCLIENT_WARNINGCCLS,Your stats will reset after you change your job. Do you want to change your job?,สถิติของคุณจะรีเซ็ตหลังจากที่คุณเปลี่ยนอาชีพ คุณต้องการเปลี่ยนอาชีพของคุณหรือไม่?
+TEXTCLIENT_CHANGECLASS,You successfully changed your Job to %s.,คุณเปลี่ยนอาชีพเป็น %s สำเร็จแล้ว
+TEXTCLIENT_RETURN_USEITEM,The item loses its potency 4 hours after being equipped if not returned to the inventory . Do you want to use the item?,ไอเทมจะสูญเสียพลังไป 4 ชั่วโมงหลังจากติดตั้ง หากไม่ส่งคืนไปยังช่องเก็บของ คุณต้องการใช้ไอเทมหรือไม่?
+TEXTCLIENT_LIMITZONE_USE,Unable to use item in the limit zone.,ไม่สามารถใช้ไอเทมในโซนจำกัดได้
+TEXTCLIENT_ON_EVENT,The '%s' event is underway! Visit %s for event details!,กิจกรรม '%s' กำลังดำเนินอยู่! เยี่ยมชม %s สำหรับรายละเอียดกิจกรรม!
+TEXTCLIENT_ON_EVENT_DESC,The '%s' event is underway! %s,กิจกรรม '%s' กำลังดำเนินอยู่! %s
+TEXTCLIENT_START_EVENT,The '%s' event has just started. Visit %s for event details!,กิจกรรม '%s' เพิ่งเริ่มต้นขึ้น เยี่ยมชม %s สำหรับรายละเอียดกิจกรรม!
+TEXTCLIENT_START_EVENT_DESC,The '%s' event has just started. %s,กิจกรรม '%s' เพิ่งเริ่มต้นขึ้น %s
+TEXTCLIENT_END_EVENT,The '%s' event is over.,กิจกรรม '%s' จบลงแล้ว
+TEXTCLIENT_ARENA_DISABLED,Arena is not available on this channel.,Arena ไม่สามารถใช้ได้ในช่องนี้
+TEXTCLIENT_CREATEMON_F_15,Summoning should be used on players that are 15 meters or closer to you.,การอัญเชิญควรใช้กับผู้เล่นที่อยู่ในระยะ 15 เมตรหรือใกล้ตัวคุณ
+TEXTCLIENT_CREATEMON_F_AREA,You can not summon there.,คุณไม่สามารถเรียกที่นั่นได้
+TEXTCLIENT_CREATEMON_S,You have summoned %s.,คุณได้เรียก %s
+TEXTCLIENT_PRIORITYSUMMONMOB,This monster was summoned by %s. You cannot attack it.,สัตว์ประหลาดตัวนี้ถูกเรียกโดย %s คุณไม่สามารถโจมตีมันได้
+TEXTCLIENT_CREATEMON_LIMIT,You cannot summon anymore monsters. Please wait and try again.,คุณไม่สามารถเรียกมอนสเตอร์อีกต่อไป โปรดรอและลองอีกครั้ง
+TEXTCLIENT_GETPKPOINT,You recovered your Karma points by %d.,คุณกู้คืนคะแนน Karma ของคุณได้อีก %d
+TEXTCLIENT_DECPKPOINT,%d Karma points have been reduced.,คะแนน Karma ลดลง %d คะแนน
+TEXTCLIENT_PK_MARKETNOUSE,You cannot use stores if your Karma grade is Vicious.,คุณไม่สามารถใช้ร้านค้าได้หากเกรด Karma ของคุณเป็น Vicious
+TEXTCLIENT_PKDEAD,You have been slain by %s.,คุณถูกฆ่าโดย %s
+TEXTCLIENT_GETFAMEPOINT,You gained %d fame points.,คุณได้รับ %d คะแนนชื่อเสียง
+TEXTCLIENT_DECFAMEPOINT,You lost %d fame points.,คุณเสียคะแนนชื่อเสียงไป %d คะแนน
+TEXTCLIENT_BANKWRONGPASS,Wrong password. Please try again.,รหัสผ่านผิด กรุณาลองอีกครั้ง
+TEXTCLIENT_BANKFULL,The bank is full.,ธนาคารเต็มแล้ว
+TEXTCLIENT_PK_LEVEL_GAP,Unable to duel. Level gap is more than 30.,ไม่สามารถดวลได้ ช่องว่างเลเวลมากกว่า 30
+TEXTCLIENT_PK_SAFETY_NO,You cannot duel in a safety zone.,คุณไม่สามารถดวลกันในเขตปลอดภัยได้
+TEXTCLIENT_PK_SAME_NO,You can duel only if the other player is in the same place as you.,คุณสามารถดวลได้ก็ต่อเมื่อผู้เล่นคนอื่นอยู่ในที่เดียวกับคุณ
+TEXTCLIENT_PK_CHANGEJOB_NO,You can only duel after your 1st job-change.,คุณสามารถต่อสู้ได้หลังจากเปลี่ยนอาชีพครั้งแรกเท่านั้น
+TEXTCLIENT_PK_PARTY_LIMIT,You cannot duel with party members.,คุณไม่สามารถดวลกับสมาชิกในปาร์ตี้ได้
+TEXTCLIENT_PK_MODE_REJECT,The other player is in duel rejection mode.,ผู้เล่นอีกคนอยู่ในโหมดปฏิเสธการดวล
+TEXTCLIENT_DUELNO,%s refused to duel.,%s ปฏิเสธที่จะดวล
+TEXTCLIENT_DUELSTART,Duel with %s started!,เริ่มการต่อสู้กับ %s!
+TEXTCLIENT_DUELCANCEL,The duel has been cancelled.,การดวลถูกยกเลิก
+TEXTCLIENT_PK_NO_IPARTYLEADER,You are not the Party leader.,คุณไม่ใช่หัวหน้าปาร์ตี้
+TEXTCLIENT_PK_NO_UPARTYLEADER,The other member is not the Party leader.,สมาชิกอีกคนไม่ใช่หัวหน้าปาร์ตี้
+TEXTCLIENT_PK_NO_DUEL,You cannot duel with the other player currently.,คุณไม่สามารถดวลกับผู้เล่นคนอื่นได้ในขณะนี้
+TEXTCLIENT_PDSTART,Duel has started with %s party.,การต่อสู้เริ่มขึ้นแล้วกับ %s ปาร์ตี้
+TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.",โหมดการต่อสู้แบบปาร์ตี้ของ %s เสร็จสิ้นแล้ว หากคุณเข้าร่วมการต่อสู้อีกครั้ง คุณจะถูกลงโทษตามกฎ PK
+TEXTCLIENT_PDCANCEL,Duel has been cancelled.,การดวลถูกยกเลิก
+TEXTCLIENT_PDVICTORY,You won the party duel.,คุณชนะการดวลปาร์ตี้
+TEXTCLIENT_PDLOSE,You lost the party duel.,คุณแพ้การดวลปาร์ตี้
+TEXTCLIENT_DONOTUSE_SHOP,You cannot use that item while using Hair Stylist or Plastic Surgeon.,คุณไม่สามารถใช้รายการนั้นในขณะที่ใช้ช่างทำผมหรือศัลยแพทย์พลาสติก
+TEXTCLIENT_CASHSHOP_NOACCOUNT,You cannot use the Flyff Shop without account. Please link an account.,คุณไม่สามารถใช้ Flyff Shop ได้หากไม่มีบัญชี กรุณาเชื่อมโยงบัญชี
+TEXTCLIENT_CASHSHOP_INVALIDPRODUCT,This product is invalid.,ผลิตภัณฑ์นี้ไม่ถูกต้อง
+TEXTCLIENT_CASHSHOP_SERVEROFFLINE,Cannot use Flyff Shop because the server is offline.,ไม่สามารถใช้ Flyff Shop ได้เนื่องจากเซิร์ฟเวอร์ออฟไลน์
+TEXTCLIENT_CASHSHOP_LACKCASH,You don't have enough money to purchase the item. Reload your account before purchasing.,คุณไม่มีเงินเพียงพอที่จะซื้อสินค้า โหลดบัญชีของคุณใหม่ก่อนซื้อ
+TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases per character for this product.,คุณซื้อถึงจำนวนสูงสุดต่ออักขระสำหรับผลิตภัณฑ์นี้แล้ว
+TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.",ข้อผิดพลาดที่ไม่รู้จัก โปรดลองอีกครั้ง
+TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,ขอขอบคุณสำหรับการซื้อของคุณ! หากช่องเก็บของเต็ม โปรดสร้างห้องและเข้าสู่ระบบอีกครั้งเพื่อรับสินค้า
+TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,ผู้เล่นไม่ถูกต้องและไม่สามารถใช้ Flyff Shop ได้
+TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,การดำเนินการใช้เวลานานเกินไป กรุณาลองอีกครั้ง.
+TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ff ข้าคือพ่อเจ้า!#nc
+TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,#cff0000ff ข้าคือแม่เจ้า!#nc
+TEXTCLIENT_COMNOHAVECOM,Cannot cancel because you do not belong to a guild.,ไม่สามารถยกเลิกได้เนื่องจากคุณไม่ได้อยู่ในกิลด์
+TEXTCLIENT_COMDELNOKINGPIN,Only the guild leader can disband the guild.,เฉพาะหัวหน้ากิลด์เท่านั้นที่สามารถยุบกิลด์ได้
+TEXTCLIENT_GUILDWARREQLV6,Your guild level has to be higher than 5 to declare a guild duel.,ระดับกิลด์ของคุณจะต้องมากกว่า 5 เพื่อประกาศการดวลกิลด์
+TEXTCLIENT_GUILDWARSTILLNOWAR,Unable to declare war during guild duel.,ไม่สามารถประกาศสงครามได้ในระหว่างการดวลกิลด์
+TEXTCLIENT_GUILDWARNOTHINGGUILD,That Guild does not exist.,กิลด์นั้นไม่มีอยู่จริง
+TEXTCLIENT_GUILDWAROTHERLV6,Unable to declare a guild duel. Opposing guild level is below 6.,ไม่สามารถประกาศการดวลกิลด์ได้ ระดับกิลด์ฝ่ายตรงข้ามต่ำกว่า 6
+TEXTCLIENT_GUILDWARMASTEROFF,The opposing Guild Leader is offline.,หัวหน้ากิลด์ฝ่ายตรงข้ามออฟไลน์อยู่
+TEXTCLIENT_GUILDWARMEMBER10,The opposing guild must have at least 10 members.,กิลด์ฝ่ายตรงข้ามต้องมีสมาชิกอย่างน้อย 10 คน
+TEXTCLIENT_GUILDWAROTHERWAR,The other guild is already participating in a guild duel.,กิลด์อื่นเข้าร่วมในการดวลกิลด์อยู่แล้ว
+TEXTCLIENT_GUILDWARDECLINED,Opposing guild leader declined the duel.,หัวหน้ากิลด์ฝ่ายตรงข้ามปฏิเสธการดวล
+TEXTCLIENT_GUILDWARNOFINDGUILD,Cannot find the guild that declared a guild duel.,ไม่พบกิลด์ที่ประกาศดวลกิลด์
+TEXTCLIENT_PK_NOFLIGHT_DURING,You cannot duel when only one player is flying.,คุณไม่สามารถดวลได้เมื่อมีผู้เล่นเพียงคนเดียวที่บิน
+TEXTCLIENT_GUILDWARERRORDUEL,You cannot duel during a guild duel.,คุณไม่สามารถดวลระหว่างดวลกิลด์ได้
+TEXTCLIENT_GUILDWARSTART,A guild duel has started between %s Guild and %s Guild.,การดวลกิลด์ได้เริ่มขึ้นแล้วระหว่าง %s กิลด์ และ %s กิลด์
+TEXTCLIENT_GUILDWARSTILL,A guild duel between %s Guild and %s Guild is in progress.,การดวลกิลด์ระหว่าง %s กิลด์และ %s กิลด์อยู่ในระหว่างดำเนินการ
+TEXTCLIENT_GUILDWARDOING,You are at war with another guild.,คุณกำลังทำสงครามกับกิลด์อื่น
+TEXTCLIENT_SHOUTAGREE,Shout messages allowed,ข้อความตะโกนอนุญาต
+TEXTCLIENT_SHOUTREFUSE,Shout messages refused,ข้อความตะโกนปฏิเสธ
+TEXTCLIENT_GUILDWARWIN_MASTER,A Guild Leader has been killed!,หัวหน้ากิลด์ถูกฆ่า!
+TEXTCLIENT_GUILDWARWIN_GIVEUP,Victory! Opponent guild has conceded.,ชัยชนะ! กิลด์ฝ่ายตรงข้ามยอมแพ้
+TEXTCLIENT_GUILDWARWIN_TIMEUP,Victory by default!,ชัยชนะโดยปริยาย!
+TEXTCLIENT_GUILDWARWIN_KILLNUM,Victory due to number of opponents killed!,ชัยชนะเนื่องจากจำนวนฝ่ายตรงข้ามถูกฆ่า!
+TEXTCLIENT_GUILDWARWIN,The guild duel between %s and %s has finished. The Guild %s has won. %s.,การดวลกิลด์ระหว่าง %s และ %s จบลงแล้ว กิลด์ %s ชนะแล้ว %s
+TEXTCLIENT_GUILDWARPEACE,%s and %s have agreed to a truce.,%s และ %s ตกลงที่จะสงบศึก
+TEXTCLIENT_GUILDWARDRAW,The guild duel between %s and %s resulted in a tie.,การดวลกิลด์ระหว่าง %s และ %s ส่งผลให้เกิดการเสมอกัน
+TEXTCLIENT_GUILDWARNOETC,You are either not participating in a guild duel or have already given up.,คุณไม่ได้เข้าร่วมในการดวลกิลด์หรือยอมแพ้ไปแล้ว
+TEXTCLIENT_GUILDWARGIVEUP,%s of %s Guild has given up.,%s ของ %s กิลด์ยอมแพ้
+TEXTCLIENT_GUILDWARPEACEDECLINED,Opposing guild declined the truce.,กิลด์ฝ่ายตรงข้ามปฏิเสธการสงบศึก
+TEXTCLIENT_GUILDWARDEAD,"A warrior of %s Guild, %s, has been killed.",นักรบแห่งกิลด์ %s %s ถูกสังหาร
+TEXTCLIENT_DISGUISE_DNT_WING,You cannot use a Trans and Glow item at the same time.,คุณไม่สามารถใช้ไอเท็ม Trans และ Glow พร้อมกันได้
+TEXTCLIENT_NOTUSESKILL_ITEMUSE,You used the same item earlier. Try again after its effects have worn off.,คุณใช้ไอเท็มเดียวกันก่อนหน้านี้ ลองอีกครั้งหลังจากที่ผลของไอเท็มหมดลง
+TEXTCLIENT_COUPLERING_ERR01,You have engraved the name '%s' on this ring. Give it to your sweetheart!,คุณได้สลักชื่อ '%s' บนวงแหวนวงนี้ มอบให้ที่รักของคุณ!
+TEXTCLIENT_COUPLERING_CARVE,An engraving reads '%s'. Give it to your sweetheart!,การแกะสลักอ่านว่า '%s' ให้กับที่รักของคุณ!
+TEXTCLIENT_COUPLERING_NOTONLINE,The player with the name engraved on this ring is not online.,ผู้เล่นที่มีชื่อสลักอยู่บนวงแหวนวงนี้ไม่ได้ออนไลน์
+TEXTCLIENT_COUPLERING_ERR02,You can not go to %s from here.,คุณไม่สามารถไปที่ %s จากที่นี่
+TEXTCLIENT_COUPLERING_ERR03,You can not go to who is flying.,คุณไม่สามารถไปหาผู้ที่กำลังบินได้
+TEXTCLIENT_RANDOMSCROLL_ERROR,This item can only be used on applicable weapons and armor.,ไอเทมนี้สามารถใช้ได้เฉพาะกับอาวุธและชุดเกราะที่เกี่ยวข้องเท่านั้น
+TEXTCLIENT_RANDOMSCROLL_CONFIRM,Do you want to apply a random stat upgrade to the following item?\n%s,คุณต้องการใช้การอัปเกรดสถิติแบบสุ่มกับไอเท็มต่อไปนี้หรือไม่?\n%s
+TEXTCLIENT_RANDOMSCROLL_CONFIRM1,This will overwrite the previous random stat upgrade that was applied. Do you want to continue?,การดำเนินการนี้จะเขียนทับการอัปเกรดสถิติแบบสุ่มก่อนหน้านี้ที่ใช้ คุณต้องการดำเนินการต่อหรือไม่
+TEXTCLIENT_RANDOMSCROLL_SUCCESS,%s has been enchanted with %s +%d.,%s ถูกเสริมพลังด้วย %s +%d
+TEXTCLIENT_STATE_NOTUSE,You cannot use %s,คุณไม่สามารถใช้ %s ได้
+TEXTCLIENT_TRADE_NOTUSE,Trading,ซื้อขาย
+TEXTCLIENT_TRADE_NOTUSE1,Because the person is trading.,เพราะผู้เล่นกำลังทำการซื้อขาย
+TEXTCLIENT_DIE_NOTUSE,If the person is dead,ถ้าคนนี้ตาย
+TEXTCLIENT_DIE_NOTUSE1,Because the person is dead,เพราะคนๆ นั้นตายแล้ว
+TEXTCLIENT_VENDOR_NOTUSE,On opening a private shop,เมื่อเปิดร้านค้าส่วนตัว
+TEXTCLIENT_VENDOR_NOTUSE1,Because the person is on opening a private shop,เพราะคนนี้เปิดร้านส่วนตัว
+TEXTCLIENT_ATTACK_NOTUSE,In Combat,กำลังต่อสู้
+TEXTCLIENT_ATTACK_NOTUSE1,Because the person is in combat.,เพราะคนนี้อยู่ในการต่อสู้
+TEXTCLIENT_FLY_NOTUSE,On flying,กำลังบิน
+TEXTCLIENT_FLY_NOTUSE1,Because the person is flying.,เพราะคนนี้กำลังบินอยู่
+TEXTCLIENT_DUEL_NOTUSE,In Duel,กำลังต่อสู้
+TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,เพราะบุคคลนั้นอยู่ในการต่อสู้
+TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,ในพื้นที่กิจกรรม
+TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,ใน Kebaras
+TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,คุณไม่สามารถใช้ไอเทมกับตัวคุณเอง
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is not online.,%s ไม่ได้ออนไลน์
+TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,ผู้เล่นนี้ไม่ใช่เพื่อนของคุณหรือถูกบล็อก
+TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,คุณไม่สามารถเรียก %s
+TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,คุณไม่สามารถยอมรับ %s
+TEXTCLIENT_WORLD_NOTUSE,Because you are in different areas,เพราะคุณอยู่คนละพื้นที่
+TEXTCLIENT_DUNGEON_NOTUSE,Because you are in a dungeon,เพราะคุณอยู่ในดันเจี้ยน
+TEXTCLIENT_SUMMONFRIEND_CONFIRM,You have asked to summon %s,คุณได้ขอให้เรียก %s
+TEXTCLIENT_SUMMON_FRIEND_CANCEL,%s has cancelled the summon.,%s ยกเลิกการเรียก
+TEXTCLIENT_SUMMONFRIEND_NOITEM,You don't have %s. You cannot summon %s.,คุณไม่มี %s คุณไม่สามารถเรียก %s
+TEXTCLIENT_SUMMON_SUCCESS1,You are summoned to %s,คุณถูกเรียกไปที่ %s
+TEXTCLIENT_SUMMON_SUCCESS,%s is summoned,%s ถูกอัญเชิญ
+TEXTCLIENT_SUMMONPARTY_NOTTIME,You can not go.,คุณไปไม่ได้
+TEXTCLIENT_TROUPECREATE,Only the party leader can use this function.,เฉพาะหัวหน้าปาร์ตี้เท่านั้นที่สามารถใช้ฟังก์ชันนี้ได้
+TEXTCLIENT_ITEM_TRANSY,This item is not available. Please input another item.,ไอเทมนี้ไม่สามารถใช้ได้ กรุณาใส่ไอเทมอื่น
+TEXTCLIENT_ITEM_TRANSY_NOT_LEVEL,Only %d-%d level items are usable.,ใช้ได้เฉพาะไอเท็มระดับ %d-%d เท่านั้น
+TEXTCLIENT_ITEM_TRANSY_SUCCESS,The change from %s to %s was successful.,เปลี่ยนจาก %s เป็น %s สำเร็จ
+TEXTCLIENT_GUILDCREATE,Only the guild master can use this function.,เฉพาะหัวหน้ากิลด์เท่านั้นที่สามารถใช้ฟังก์ชันนี้ได้
+TEXTCLIENT_CHANGENAME,Player name successfully changed.,เปลี่ยนชื่อผู้เล่นเรียบร้อยแล้ว
+TEXTCLIENT_MAP_MARK_MAX_NUMBER,You can't save your position any more. Please arrange your saved postion first and try again.,คุณไม่สามารถบันทึกตำแหน่งของคุณได้อีกต่อไป โปรดจัดเรียงตำแหน่งที่บันทึกไว้ก่อนแล้วลองอีกครั้ง
+TEXTCLIENT_UPGRADE_ERROR_NOUNICK,You cannot upgrade a unique item.,คุณไม่สามารถอัพเกรดไอเทมยูนิคได้
+TEXTCLIENT_NOTEQUALELEM,The attribute of %s and the applied attribute of the item are not the same.,แอตทริบิวต์ของ %s และแอตทริบิวต์ที่ใช้ของไอเทมไม่เหมือนกัน
+TEXTCLIENT_NOTELEMENT,The attribute has not been applied to the selected item. Please finish the attribute refining first.,แอตทริบิวต์ไม่ได้ใช้กับไอเทมที่เลือก โปรดทำการปรับแต่งแอตทริบิวต์ให้เสร็จก่อน
+TEXTCLIENT_ALREADYELEM,Charge attribute has already been applied.,ใช้แอตทริบิวต์การชาร์จแล้ว
+TEXTCLIENT_REMOVEELEMENT,The attribute of the selected item has been deleted.,แอตทริบิวต์ของไอเทมที่เลือกถูกลบไปแล้ว
+TEXTCLIENT_CHATSAMETEXT,Unable to enter the same sentence twice in a row.,ไม่สามารถป้อนประโยคเดียวกันสองครั้งติดต่อกัน
+TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to chat spam limitations.,ไม่สามารถส่งข้อความสุดท้ายได้เนื่องจากข้อจำกัดของแชทสแปม
+TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),ขณะนี้แชทของคุณถูกบล็อก (คงเหลือ: %d นาที %d วินาที)
+TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,อนุญาตให้ตะโกนได้ 5 ครั้งต่อ 60 วินาที
+TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,อนุญาตให้ตะโกนแบบเต็มได้ทุกๆ 2 นาทีเท่านั้น
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,คุณไม่มีกิลด์หรือไม่ใช่หัวหน้ากิลด์
+TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Guild Siege ถูกปิด
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,ระดับกิลด์ของคุณต้องมีอย่างน้อย %d เพื่อสมัคร Guild Siege
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,คุณจะเสียค่าใช้จ่ายอย่างน้อย %d penya เพื่อเข้าร่วม Guild Siege
+TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,คุณจะใช้ %d penya เพื่อนำไปใช้กับ Guild Siege
+TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,คุณสามารถสมัครเข้าร่วมการสู้รบ Guild Siege ได้หากคุณมี Penya เพียงพอกับที่ต้องการ
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,คุณได้ขอ %d penya ก่อน แล้วคุณขอ %d penya เพิ่มเติม
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,คุณได้สมัครเข้าร่วม guild siege เรียบร้อยแล้ว คุณสามารถจัดระเบียบรายการของ guild ได้ตั้งแต่เวลา 17.00 น. (PST) ทุกวันเสาร์
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,การลงทะเบียนสำหรับ Guild Siege เสร็จสิ้นแล้ว
+TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,คุณไม่สามารถใช้งานได้ในขณะนี้
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,คุณไม่ได้ลงทะเบียน Guild Siege
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,การไม่เข้าร่วม Guild Wars หรือการยกเลิก Penya จะได้รับการคืนเงิน
+TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,Guild Siege ที่คุณเข้าร่วมถูกยกเลิก
+TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Payback Penya
+TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,สวัสดี ฉันเป็น Guild Wars Manager Donaris \nฉันจะให้เงินคืนเนื่องจากการยกเลิก Guild Wars ของคุณ ฉันได้หัก 2% เป็นค่าคอมมิชชั่น\nขอให้วันนี้เป็นวันที่ดีสำหรับคุณนะ!!
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,ขอให้เป็นวันที่ดี~
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","คุณมีคุณสมบัติที่จะเข้าสู่การguild siege กรุณาเสร็จสิ้นการ ""เข้าแถวเพื่อguild siege"" ใน Flaris เดี๋ยวนี้"
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.",คุณล้มเหลวในการผ่านเข้ารอบ โปรดท้าทายอีกครั้งในสัปดาห์หน้า หลังจากguild siegeเสร็จแล้ว รับค่าเข้าชมใน Flaris
+TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,Guild Siege จะเริ่มเร็วๆ นี้ คุณจะถูกส่งไปยัง Flaris โดยอัตโนมัติหลังจาก %d วินาที
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.",จากนี้ไป Franky ใน Flarine สามารถให้คุณเข้าสู่สนามประลองกิลด์ได้
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.",จากนี้ไป คุณสามารถจัดระเบียบการเข้ากิลด์ได้
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,เวลาเตรียมการสำหรับผู้เล่น Guild Wars
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Guild Siege กำลังจะเริ่มใน
+TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,สิ้นสุดการต่อสู้
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,เคลื่อนย้ายไปยัง Flaris
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,โหมด Guild Siege มีให้บริการแล้ว
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.",คุณไม่สามารถจัดผู้เข้าร่วมการแข่งขันได้ในขณะนี้
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.",คุณไม่ได้สมัคร Guild Wars หรือ ไม่ถึงอันดับสุดท้ายของ Guild เลือก
+TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,เกินจำนวน %d คนแล้ว
+TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,คุณควรมีเลเวลมากกว่า %d เพื่อทำรายการ
+TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,คุณได้ลงทะเบียนแล้ว โปรดลงทะเบียนอีกครั้ง
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,หัวหน้า Guild ไม่สามารถเป็นผู้พิทักษ์ได้
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,ไม่มีหัวหน้ากิลด์ในรายการ
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,ไม่มีผู้พิทักษ์ที่ระบุ โปรดเลือกผู้พิทักษ์
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,ไม่มีผู้เข้าร่วม โปรดเลือกผู้เข้าร่วม
+TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,Guild Siege จะจัดขึ้นในสัปดาห์นี้
+TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,โปรดเข้าร่วมหลังจากนั้นสักครู่
+TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,กำลังเตรียมการอยู่
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Vagrant ไม่ควรเป็นหัวหน้าใน Guild Siege
+TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,ยินดีต้อนรับสู่ Guild Siege
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,คุณสามารถซูมกล้องได้โดยกดปุ่ม [Scroll Lock]
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.",คุณเป็นหัวหน้ากิลด์! การเอาชนะผู้พิทักษ์ได้ คุณจะได้รับโบนัส
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.",คุณเป็นผู้พิทักษ์! หากคุณพ่ายแพ้ต่อศัตรู พวกเขาจะได้รับโบนัส
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.",เอาชนะคู่ต่อสู้ของคุณเพื่อศักดิ์ศรีของกิลด์ของคุณ! เอาชนะผู้พิทักษ์ คุณจะได้รับโบนัส
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!",ขอแสดงความยินดี คุณได้แผนที่ Guild!
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,การต่อสู้เริ่มต้นทันทีหลังจากการปิดปรับปรุง Server เตรียมพร้อม~
+TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,เริ่มการต่อสู้
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,หัวหน้ากิลด์ได้รับ %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,กิลด์ของคุณได้รับ %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,ผู้พิทักษ์ของคุณตายแล้ว! %s กิลด์ได้รับคะแนนแล้ว!
+TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,คุณต้องเชื่อมต่อกับ Channel 1 เพื่อเข้าสู่ Guild Siege
+TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,Guild Siege สิ้นสุดลงแล้ว
+TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,กิลด์ที่ชนะในสัปดาห์นี้: %s กิลด์
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVP คือ %s
+TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,ขอแสดงความยินดี!
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,เวลาที่จำกัด
+TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,คุณไม่สามารถเชิญใครเข้ากิลด์ได้ในขณะที่อยู่ใน Guild Siege
+TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,คุณสามารถยุบกิลด์ที่สมัครเข้า Guild Siege
+TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,คุณไม่สามารถออกจากกิลด์ได้ในขณะที่อยู่ใน Guild Siege
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ไม่สามารถใช้ฟังก์ชันการจัดการสมาชิกระหว่าง Guild Siege
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,คุณไม่สามารถเปลี่ยนโลโก้กิลด์ของคุณได้ระหว่าง Guild Siege
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,คุณไม่สามารถเปลี่ยนชื่อกิลด์ของคุณได้ระหว่าง Guild Siege
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ไม่สามารถประกาศสงครามระหว่าง Guild Siege
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,ไม่สามารถใช้ไอเทมได้ในช่วงกิจกรรม
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,คุณไม่สามารถใช้สกิลระหว่างกิจกรรมได้
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,คุณไม่สามารถร่ายมนต์ได้ในระหว่างกิจกรรม
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,คุณไม่สามารถตะโกนในระหว่างกิจกรรม
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,ไม่สามารถใช้ได้ระหว่าง Guild Siege
+TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,การชำระคืน Guild Wars ล้มเหลว
+TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,สวัสดี Guild Wars Manager Donaris\nค่าธรรมเนียมในการประกวดจะไม่ได้รับ การจัดอันดับสูงสุด 8 guilds ดังนั้นเราจะคืนเงิน 2% ของค่าธรรมเนียม\nเราหวังว่าคุณจะเข้าร่วมกับเราได้ในครั้งต่อไป The Guild Wars\nขอบคุณมากสำหรับความสนใจของคุณ
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.",คุณได้รับเงินรางวัลสำหรับ MVP แล้ว หรือคุณไม่ใช่ MVP
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.",เนื่องจากจำนวนเงิน penya ที่มีมากกว่าเกินกำหนด ให้ไปรับเงินรางวัลจากการ guild siege ที่ GM บนเว็บไซต์ขออภัยในความไม่สะดวก
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,คุณได้รับ %d penya เป็น MVP ยินดีด้วย!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",คุณได้รับเงินรางวัลแล้วหรือคุณไม่ใช่คนที่ต้องการรับค่าธรรมเนียมการสมัครคืน
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,คุณได้รับ %d penya เป็นเงินรางวัลสำหรับguild siege ยินดีด้วย!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,คุณได้รับ %d penya ลบด้วยจำนวนเงินที่คุณชำระสำหรับการสมัคร
+TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,คุณไม่สามารถใช้สิ่งนี้ในขณะที่transyกำลังใช้งานอยู่
+TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,บัญชีนี้ถูกแบน ติดต่อฝ่ายสนับสนุนของ FlyFF เพื่อขอความช่วยเหลือ
+TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,คุณไม่สามารถไปทางนี้ได้
+TEXTCLIENT_ACCOUNTNOTVERIFIED,Your account is not verified. Please check your mailbox.,บัญชีของคุณไม่ได้รับการยืนยัน โปรดตรวจสอบกล่องจดหมายmailboxของคุณ
+TEXTCLIENT_ACCOUNTBLOCKED,This character is blocked and cannot be accessed. Please contact the Flyff Universe customer service for more information.,ตัวละครนี้ถูกบล็อกและไม่สามารถเข้าถึงได้ โปรดติดต่อฝ่ายบริการลูกค้าของ Flyff Universe สำหรับข้อมูลเพิ่มเติม
+TEXTCLIENT_RECONNECT_QUESTION,Do you want to try to reconnect?,คุณต้องการลองเชื่อมต่อใหม่หรือไม่
+TEXTCLIENT_ROSHAMBO_STARTGUID1,You need a Rock-Paper-Scissors Coupon in order to play.,คุณต้องมีคูปอง Rock-Paper-Scissors เพื่อเล่น
+TEXTCLIENT_MINIGAME_USING,You are playing a game now!,คุณกำลังเล่นเกมในขณะนี้!
+TEXTCLIENT_MINIGAME_ITEM_POST,Item / Penya was sent to your mailbox.,ไอเท็ม/ Penya ถูกส่งไปยังกล่องจดหมายของคุณ
+TEXTCLIENT_ERROR_TRYLATER,Please try again later,โปรดลองอีกครั้งในภายหลัง
+TEXTCLIENT_ERROR_LACKITEM,You don't have the right item.,คุณไม่มีไอเท็มที่ถูกต้อง
+TEXTCLIENT_EXCHANGE_SUCCESS,You have received %s x%d.,คุณได้รับ %s x%d แล้ว
+TEXTCLIENT_REAPITEM_EVENT,You have received %s as a reward!,คุณได้รับ %s เป็นรางวัล!
+TEXTCLIENT_DISCONNECTED_CHEAT,"You have been disconnected from server due to abnormal detected activity. A GM will analyse the report and may decide to ban your account. If you think this is an error, please fill out a bug report indicating exactly what you were doing in game before this message. Thank you.",คุณถูกตัดการเชื่อมต่อจากเซิร์ฟเวอร์เนื่องจากกิจกรรมที่ตรวจพบผิดปกติ GM จะวิเคราะห์รายงานและอาจตัดสินใจแบนบัญชีของคุณ หากคุณคิดว่านี่เป็นข้อผิดพลาด โปรดกรอกรายงานข้อบกพร่องที่ระบุสิ่งที่คุณกำลังทำในเกมก่อนข้อความนี้ ขอขอบคุณ.
+TEXTCLIENT_DISCONNECTED_HACK,Your character has been banned because the system detected a cheating software. A partial copy of your client memory has been stored as legal proof. You can create a new character and stop using any external tool. Thank you.,ตัวละครของคุณถูกแบนเนื่องจากระบบตรวจพบซอฟต์แวร์โกง ส่วนหนึ่งของหน่วยความจำของตัวโปรแกรมได้ถูกบันทึกเก็บเป็นหลักฐานตามกฏหมาย คุณสามารถสร้างตัวละครใหม่และหยุดใช้เครื่องมือภายนอกได้ ขอบคุณ
+TEXTCLIENT_CASHMAP_MAPITEMUSE,"If you use the torch, you will be able to see this map. Continue?",หากคุณใช้คบเพลิง คุณจะสามารถเห็นแผนที่นี้ ดำเนินการต่อ?
+TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,คุณมีสัตว์เลี้ยงที่อัญเชิญแล้ว
+TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,ตัวละครที่มีนิสัยไม่ดีไม่สามารถบินได้
+TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[ประกาศ] นี่คือการทดสอบ! เซิร์ฟเวอร์จะปิดใน %s และตัวละครจะถูกลบ
+TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[ประกาศ] นี่คือการเล่นระหว่างการพัฒนา! ปัญหาความเสถียรของเซิร์ฟเวอร์และจุดบกพร่องอาจเกิดขึ้นได้
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[ประกาศ] GM (Game Master) จะไม่ขอบัญชีหรือรหัสผ่านธนาคารของคุณ
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,[ประกาศ] อย่าให้ยืมหรือให้ผู้เล่นยืมไอเท็มของคุณ หากไม่คืนไอเท็มนั้นก็จะสูญหายไปตลอดกาล
+TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,คุณอยู่ไกลจากเป้าหมายมากเกินไป
+TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s อยู่ในการสังหารหมู่!
+TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s กำลังอาละวาด!
+TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%s ผ่านพ้นไม่ได้!
+TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,เหลืออีก %d นาทีในการฆ่าบอส
+TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s สังหาร %s!
+TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s จากกิลด์ %s สังหาร %s!
+TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,เหลืออีก %d นาทีเพื่อปล้นไอเทม
+TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,vagrantไม่สามารถเข้าร่วมอารีน่าได้
+TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,กรุณาย้ายออกจากอารีน่าก่อน
+TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,คุณสามารถใช้การเทเลพอร์ตของ Arena ได้ทุกๆ 3 นาทีเท่านั้น
+TEXTCLIENT_CHANGE_FACE,Change your Appearance.,เปลี่ยนรูปลักษณ์ของคุณ
+TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,คุณต้องการเปลี่ยนรูปลักษณ์ของคุณหรือไม่?
+TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%s ต้องรอ %s ก่อนที่เข้าดันเจี้ยนอีกครั้ง
+TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,คุณเสีย %s Penya (รวม: %s Penya)
+TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,คุณไม่สามารถทำอย่างนั้นได้ในระหว่างการท้าดวล
+TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,คุณสามารถใช้ไอเท็มนี้กับเมนูอัปเกรดการ์ดที่ Card Master
+TEXTCLIENT_CARDUPGRADE_SUCCESS,Card upgrade successful!,อัปเกรดการ์ดสำเร็จ!
+TEXTCLIENT_CARDUPGRADE_FAIL,Card upgrade failed.,การอัปเกรดการ์ดล้มเหลว
+TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be destroyed.,การอัปเกรดการ์ดล้มเหลว %d ของบัตรที่ลงทะเบียนจะถูกทำลาย
+TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,คุณได้รับ %s
+TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Succesful!,การแปลงสมบูรณ์!
+TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s เพิ่มจำนวนสมาชิกที่คุณสามารถมีได้ในกิลด์ขึ้น 5!
+TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,ส่งรายงานเรียบร้อยแล้ว
+TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,คุณต้องรอก่อนที่จะรายงานผู้เล่นคนเดียวกัน
+TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,ความสำเร็จ
+TEXTCLIENT_ACHIEVEMENT_CLAIMSUCCESS,Successfully claimed,รับสำเร็จแล้ว
+TEXTCLIENT_ACHIEVEMENT_CLAIMNOTHING,You have nothing to claim,คุณไม่มีอะไรจะเรียกร้อง
+TEXTCLIENT_ACHIEVEMENT_LEVELREACH,"You reached level %d of achievement ""%s""","คุณถึงระดับ %d ของความสำเร็จ ""%s"""
+TEXTCLIENT_ACHIEVEMENT_COMPLETE,"You completed ""%s""","คุณบรรลุความสำเร็จ ""%s"" แล้ว"
+TEXTCLIENT_ACHIEVEMENT_TITLEUNLOCK,You unlocked title [%s],คุณปลดล็อคชื่อเรื่อง [%s]
+TEXTCLIENT_PARTYMESSAGEERROR3,Your party is already level 40. You cannot use this item.,ปาร์ตี้ของคุณมีเลเวล 40 แล้ว คุณไม่สามารถใช้ไอเท็มนี้ได้
+TEXTCLIENT_PARTYALREADYPERMANENT,The party is already permanent.,ปาร์ตี้เป็นแบบถาวรแล้ว
+TEXTCLIENT_PARTYPERMANENT,The party is now permanent! Members are not automatically ejected when they are offline.,ปาร์ตี้เป็นแบบถาวร! สมาชิกจะไม่ถูกนำออกโดยอัตโนมัติเมื่อออฟไลน์
+TEXTCLIENT_MOBQUEST,You can only attack this monster during the quest %s.,คุณสามารถโจมตีมอนสเตอร์ตัวนี้ได้ระหว่างภารกิจ %s เท่านั้น
+TEXTCLIENT_UPGRADESAFE_NOPROTECTSCROLL,Not enough Protection Scroll.,คัมภีร์ป้องกันไม่เพียงพอ
+TEXTCLIENT_UPGRADESAFE_NOMATERIAL,Not enough Upgrade Material.,วัสดุอัพเกรดไม่เพียงพอ
+TEXTCLIENT_UPGRADESAFE_NOGOLD,Not enough Penya.,Penyaไม่พอ
+TEXTCLIENT_UPGRADESAFE_WRONGMATERIAL,Wrong Upgrade Material.,วัสดุอัพเกรดไม่ถูกต้อง
+TEXTCLIENT_UPGRADESAFE_NOMINERAL,You need at least #b%d#nb additional %s.,คุณต้องการอย่างน้อย #b%d#nb %s เพิ่มเติม
+TEXTCLIENT_PARTY_CHANGEEXP,Party Experience changed to %s.,EXPปาร์ตี้เปลี่ยนเป็น %s
+TEXTCLIENT_PARTY_CHANGEITEM,Party Distribute Item changed to %s.,Party Distribute Item เปลี่ยนเป็น %s
+TEXTCLIENT_JOIN_GROUP_APPROVAL,Please wait for Leader Approval.,โปรดรอการอนุมัติผู้นำ
+TEXTCLIENT_JOIN_GUILD_APPROVAL,Please wait for Master Approval.,โปรดรอการอนุมัติจากผู้เชี่ยวชาญ
+TEXTCLIENT_PARTYFAILJOIN,%s refused that you join the party.,%s ปฏิเสธที่จะเข้าร่วมปาร์ตี้
+TEXTCLIENT_GUILDFAILJOIN,%s refused that you join the guild.,%s ปฏิเสธที่จะเข้าร่วมกิลด์
+TEXTCLIENT_FLY_NOSKILL,Cannot use this skill while flying.,ไม่สามารถใช้ทักษะนี้ในขณะบินได้
+TEXTCLIENT_BOSS_METEONYKER_MSG1,Fools! I will melt you all!,คนโง่! ฉันจะละลายคุณทั้งหมด!
+TEXTCLIENT_BOSS_METEONYKER_MSG2,You will burn! You will all burn!,คุณจะเผาไหม้! คุณจะเผาไหม้ทั้งหมด!
+TEXTCLIENT_BOSS_METEONYKER_MSG3,%s! Come closer! Face me! Burn!,%s! เข้ามาใกล้ ๆ! เผชิญหน้ากับฉัน! เผา!
+TEXTCLIENT_BOSS_CLONE,You thought I was alone?!,คุณคิดว่าฉันอยู่คนเดียวงั้นเหรอ?!
+TEXTCLIENT_BUFF_CANCEL_NO,Cannot remove the Buff now.,ไม่สามารถลบบัฟได้ในขณะนี้
+TEXTCLIENT_BUFF_CANCEL,The Buff has been removed.,บัฟถูกลบออก
+TEXTCLIENT_ERROR_SNATCH,No Penya to steal from this target.,ไม่มี Penya ที่จะขโมยจากเป้าหมายนี้
+TEXTCLIENT_ERROR_ITEM_ACCESSLEVEL,You don't have the required access to use this item.,คุณไม่มีสิทธิ์เข้าถึงที่จำเป็นเพื่อใช้ไอเท็มนี้
+TEXTCLIENT_ERROR_CATCHERPRIORITY,You can only kill and collect one Catcher at a time.,คุณสามารถฆ่าและรวบรวม Catcher ได้ครั้งละหนึ่งตัวเท่านั้น
+TEXTCLIENT_MAX_COLLECTOR_LEVEL,Collector can be upgraded up to +5.,Collectorสามารถอัพเกรดได้ถึง +5
+TEXTCLIENT_MAX_HARVEST_LEVEL,Harvesting gloves can only be upgraded up to +5.,ถุงมือเก็บเกี่ยวสามารถอัพเกรดได้ถึง +5 เท่านั้น
+TEXTCLIENT_CAN_JOIN_GUILD,You can already join a guild.,คุณสามารถเข้าร่วมกิลด์ได้แล้ว
+TEXTCLIENT_CAN_REJOIN_GUILD,You can join a guild now.,คุณสามารถเข้าร่วมกิลด์ได้แล้ว
+TEXTCLIENT_NEED_PET,You must summon a pet first.,คุณต้องเรียกสัตว์เลี้ยงก่อน
+TEXTCLIENT_CHANGENAME_PET,Pet name successfully changed.,เปลี่ยนชื่อสัตว์เลี้ยงเรียบร้อยแล้ว
+TEXTCLIENT_PET_SKILL_NOUSE,Your pet must have at least %d energy and a full progress bar to use the skill.,สัตว์เลี้ยงของคุณต้องมีพลังงานอย่างน้อย %d และแถบความคืบหน้าเต็มเพื่อใช้ทักษะ
+TEXTCLIENT_PET_SKILL_HASBUFF,The skill is already active.,ทักษะนี้ใช้งานได้แล้ว
+TEXTCLIENT_REAPMONEY_SHORT,Received %s Penya - Total %s,ได้รับ %s Penya - รวม %s
+TEXTCLIENT_REAPITEM_SHORT,Received %s,ได้รับ %s
+TEXTCLIENT_TROUPEREAPITEM_SHORT,%s received %s,%s ได้รับ %s
+TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,ปิดปรับปรุงเซิร์ฟเวอร์ใน %s
+TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,ยกเลิกการปิดปรับปรุงเซิร์ฟเวอร์
+TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,ราคาของ %s ต้องไม่เกิน %s Penya
+TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,ร้านค้าของคุณเปิดแล้ว
+TEXTCLIENT_VENDOR_SHOP_CLOSE,Your Vendor Shop has been closed.,ร้านค้าผู้ขายของคุณถูกปิด
+TEXTCLIENT_VENDOR_SHOP_NOTOWN,You cannot purchase items from your own Vendor.,คุณไม่สามารถซื้อสินค้าจากผู้ขายของคุณเองได้
+TEXTCLIENT_SENDITEM_PLACE,You have %d items to receive. Please make room in your inventory and login again.,คุณมี %d รายการที่จะได้รับ กรุณาเพิ่มพื้นที่ในคลังของคุณและเข้าสู่ระบบอีกครั้ง
+TEXTCLIENT_ERROR_ITEMLOCK,This item is marked as Favorite.,ไอเท็มนี้ถูกทำเครื่องหมายเป็นรายการโปรด
+TEXTCLIENT_EXTRABAG_INUSE,You are already using 2 Extra Bags.,คุณใช้กระเป๋าเสริม 2 ใบอยู่แล้ว
+TEXTCLIENT_EXTRABAG_USED,Inventory is now expanded.,ขณะนี้มีการขยายพื้นที่โฆษณา
+TEXTCLIENT_APP_EXTRABAG,Inventory View,มุมมองสินค้าคงคลัง
+TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,ใครบางคนต้องฆ่าคุณเพื่อที่จะได้เงินรางวัล
+TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,ลงทะเบียนรางวัลเรียบร้อยแล้ว
+TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,คุณต้องรอก่อนที่จะลงทะเบียนรางวัลกับผู้เล่นรายนี้
+TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s ออฟไลน์อยู่
+TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,พื้นที่สินค้าคงคลังของคุณเพิ่มขึ้น %d!
+TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s อัปเกรด %s เป็น %s+%d แล้ว!
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s อัปเกรด [Soul-Bound] %s เป็น %s+%d!
+TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%s ถึงระดับ %d!
+TEXTCLIENT_APP_GACHA,Gacha,กาชา
+TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,รีเซ็ตกล่องสำเร็จแล้ว
+TEXTCLIENT_APP_BOT,Bot,Bot
+TEXTCLIENT_SKILL_AWAKE,Item received a bonus.,รายการได้รับโบนัส
+TEXTCLIENT_SKILL_AWAKE_FAILED,No bonus is available for this item.,ไม่มีโบนัสสำหรับรายการนี้
+TEXTCLIENT_INVALID_TARGET_ITEM,Cannot be done.,ไม่สามารถทำได้
+TEXTCLIENT_ITEM_LEVELDOWN_ALREADY,Better effect has already been activated.,เปิดใช้งานเอฟเฟกต์ที่ดีกว่าแล้ว
+TEXTCLIENT_UNBINDING,The item is now tradable.,ไอเทมนี้สามารถซื้อขายได้
+TEXTCLIENT_EXPSTOP_EMPTY,Reload the Experience Lock gauge first.,โหลดเกจล็อคประสบการณ์ใหม่ก่อน
+TEXTCLIENT_EXPSTOP_STOP,You receive experience from monsters now!,คุณได้รับEXPจากมอนสเตอร์ทันที!
+TEXTCLIENT_EXPSTOP_START,Your experience is now locked.,EXPของคุณถูกล็อคในขณะนี้
+TEXTCLIENT_EXPSTOP_ALMOST,Your Experience Lock gauge is almost empty.,เกจล็อคEXPของคุณใกล้จะว่างแล้ว
+TEXTCLIENT_EXPSTOP_ACTIVE,You don't receive experience because Experience Lock is active.,คุณไม่ได้รับEXPเนื่องจากล็อคEXPใช้งานอยู่
+TEXTCLIENT_EXPSTOP_RELOAD,Your Experience Lock gauge is now %d.,เกจล็อคEXPของคุณตอนนี้คือ %d
+TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please refresh in a few seconds.,กำลังโหลดการจัดอันดับอารีน่า โปรดรีเฟรชในไม่กี่วินาที
+TEXTCLIENT_ARENA_RANKING_WINNER,The best player of the Arena this week is %s!,ผู้เล่นที่ดีที่สุดของอารีน่าสัปดาห์นี้คือ %s!
+TEXTCLIENT_ARENA_RANKING_MAIL,Congratulations for your rank %d in the PvP Arena this week!,ขอแสดงความยินดีสำหรับอันดับของคุณ %d ใน PvP Arena ในสัปดาห์นี้!
+TEXTCLIENT_QUEST_NOTELEPORT,Blinkwings are not allowed during the quest %s.,ไม่อนุญาตให้ใช้ Blinkwings ระหว่างทำภารกิจ %s
+TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,คุณเพิ่งพบ %s!
+TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s เพิ่งพบ %s!
+TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,ไอเทมนั้นไม่สามารถรับพรได้
+TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,ไอเท็มได้รับการปลุกให้ตื่นขึ้น
+TEXTCLIENT_BLESSING_CANCELNO,This feature can only be used on blessed items.,คุณสมบัตินี้สามารถใช้ได้เฉพาะกับไอเท็มที่ได้รับพรเท่านั้น
+TEXTCLIENT_BLESSING_CANCEL,Blessing of the Goddess has been removed.,Blessing of the Goddess ถูกลบออก
+TEXTCLIENT_RETURNING_REWARD,Here is a gift since you haven't logged in for a long time!,นี่คือของขวัญต้อนรับการกลับมา เนื่องจากคุณไม่ได้เข้าสู่ระบบเป็นเวลานาน!
+TEXTCLIENT_DROPITEM_TOOMUCH,There are too many items already on the ground.,มีไอเท็มมากเกินไปบนพื้นดินแล้ว
+TEXTCLIENT_GEM_SUCCESS,You have created %dx %s.,คุณได้สร้าง %dx %s แล้ว
+TEXTCLIENT_GEM_FAILURE,Jewel creation failed.,การสร้างอัญมณีล้มเหลว
+TEXTCLIENT_COMBATPOWER_RANKING_MAIL,Congratulations for your rank %d (%s) in the Combat Power ranking!,ขอแสดงความยินดีสำหรับอันดับของคุณ %d (%s) ในการจัดอันดับพลังต่อสู้Combat Power!
+TEXTCLIENT_PVPLIMIT,This PvP kill is not counted because you already fought together a little while ago.,การฆ่า PvP นี้ไม่นับเพราะคุณต่อสู้ด้วยกันมาสักพักแล้ว
+TEXTCLIENT_GEM_WRONG,Please use the correct Jewel for the weapon.,โปรดใช้อัญมณีที่ถูกต้องสำหรับอาวุธ
+TEXTCLIENT_CONVERTUNIQUE_SUCCESS,Conversion to Unique weapon successful!,แปลงเป็นUnique weapon สำเร็จ!
+TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,การแปลงเป็นUnique weapon ล้มเหลว
+TEXTCLIENT_BOUNTY_OTHERCHANNEL,The player is currently in a different channel.,ขณะนี้ผู้เล่นอยู่ในchannelอื่น
+TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,ผู้เล่นอยู่ในเขตปลอดภัย
+TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,คุณอยู่ใกล้ที่นี่มากแล้ว!
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,ขอแสดงความยินดีสำหรับอันดับของคุณ %d ในการจัดอันดับการล่ายักษ์Giant Hunt ranking!
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,ขอแสดงความยินดีที่ทำคะแนนได้ถึง %d คะแนนในการจัดอันดับGiant Hunt ranking!
+TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,คุณได้รับ %d คะแนน Giant Hunting Points(รวม %d)!
+TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,คุณไม่สามารถซื้อได้เนื่องจากจะมีการปิดปรับปรุงเซิร์ฟเวอร์ในไม่กี่วินาที
+TEXTCLIENT_CTRLRECOVERY,You found a HP container!,คุณพบคอนเทนเนอร์ HP แล้ว!
+TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,รับรางวัลสำเร็จแล้ว
+TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,คุณได้รับ %s โบนัส fCoins
+TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,อาวุธไม่มีผลการอัพเกรดใดๆ
+TEXTCLIENT_UPGRADEEFFECT,Upgrade effects are changed for this weapon.,เอฟเฟกต์การอัพเกรดจะเปลี่ยนไปสำหรับอาวุธนี้
+TEXTCLIENT_INVALIDOTP,Invalid Two Factor authentication code.,การตรวจสอบรหัสสองชั้นไม่ถูกต้อง
+TEXTCLIENT_CAPTCHAFAILED,Failed to complete the challenge. Try again please.,ล้มเหลวในการทำภารกิจท้าทาย โปรดลองอีกครั้ง
+TEXTCLIENT_SERVERCLOSED,The game is in maintenance. Please wait.,เกมอยู่ในการปิดปรับปรุงเซิร์ฟเวอร์ โปรดรอ
+TEXTCLIENT_PRIVATE_SHOP_LEVEL,You must complete your 1st Job Change to open a Private Shop.,คุณต้องดำเนินการเปลี่ยนอาชีพครั้งแรกให้เสร็จสิ้นเพื่อเปิดร้านค้าส่วนตัว
+TEXTCLIENT_VENDOR_SHOP_LEVEL,You must reach level %d to open a Vendor Shop.,คุณต้องถึงระดับ %d เพื่อเปิดร้านค้าผู้ขาย
+TEXTCLIENT_CANT_CHAT_LEVEL,Guest Characters under Level %d cannot use the chat.,ตัวละครรับเชิญที่อยู่ในระดับ %d จะไม่สามารถใช้การแชทได้
+TEXTCLIENT_CANT_CHAT_LEVEL2,Characters under Level %d cannot use the chat.,ตัวละครที่อยู่ในระดับ %d จะไม่สามารถใช้การแชทได้
+TEXTCLIENT_TOOMANYREQUESTS,Too many requests. Please try again later.,คำขอมากเกินไป โปรดลองอีกครั้งในภายหลัง
+TEXTCLIENT_PLAYERDISCONNECTED,Player %s disconnected.,ผู้เล่น %s ถูกตัดการเชื่อมต่อ
+TEXTCLIENT_ERROR_CATCHERLEVEL,You must complete your 1st Job Change to attack this monster.,คุณต้องทำการเปลี่ยนอาชีพครั้งแรกให้สำเร็จเพื่อโจมตีมอนสเตอร์ตัวนี้
+TEXTCLIENT_ERROR_RESURRECTPK,You can only be resurrected on a PK channel.,คุณสามารถฟื้นคืนชีพได้ในช่อง PK เท่านั้น
+TEXTCLIENT_GUILD_ADDBAG,%s expanded the guild bank!,%s ขยายคลังกิลด์!
+UI_CASHSHOP_MAXPURCHASE,Maximum amount of purchases per character: %d,จำนวนการซื้อสูงสุดต่อตัวละคร: %d
+TEXTCLIENT_LEADERSHIPOFF,Cannot transfer Leadership to offline player.,ไม่สามารถโอนความเป็นผู้นำไปยังผู้เล่นออฟไลน์
+TEXTCLIENT_PET_NOTFOUND,You do not have a summoned pet.,คุณไม่มีสัตว์เลี้ยงที่ถูกอัญเชิญ
+TEXTCLIENT_PET_USEFEED,You have used %d pet candy.,คุณใช้ %d pet candy
+TEXTCLIENT_PET_HATCH,Bring your Pet to the Pet Tamer to upgrade it!,นำสัตว์เลี้ยงของคุณไปที่ Pet Tamer เพื่ออัพเกรด!
+TEXTCLIENT_PET_WRONGCANDY,You must use the correct Pet Candy to feed your pet.,คุณต้องใช้ Pet Candy ที่ถูกต้องในการเลี้ยงสัตว์เลี้ยงของคุณ
+TEXTCLIENT_PET_HATCH_CONF,Turns an egg into a D Level pet. Pet class will be decided at random.,เปลี่ยนไข่เป็นสัตว์เลี้ยงระดับ D ส่วนคลาสสัตว์เลี้ยงจะถูกสุ่ม
+TEXTCLIENT_PET_REQEGG,Use on your egg.,ใช้กับไข่
+TEXTCLIENT_PET_REROLL_TIER,The tier of the pet must be higher or equal.,ระดับของสัตว์เลี้ยงต้องสูงกว่าหรือเท่ากัน
+TEXTCLIENT_PET_REROLL_ALREADY,Your pet already has the maximum level possible.,สัตว์เลี้ยงของคุณมีระดับสูงสุดแล้ว
+TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!",สัตว์เลี้ยงของคุณมีเลเวลสูงขึ้น!
+TEXTCLIENT_PET_REROLL_LOWER,"You rolled the same or a lower level, so nothing changed.",คุณสุ่มได้ระดับเดิมหรือน้อยกว่า จึงไม่มีอะไรเปลี่ยนแปลง
+TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,แถบพลังงานเต็มแล้ว
+TEXTCLIENT_PET_NOTEGG,Cannot use on egg.,ใช้กับไข่ไม่ได้
+TEXTCLIENT_PET_TRANSMUTE,Your pet has got a new appearance!,สัตว์เลี้ยงของคุณมีรูปลักษณ์ใหม่!
+TEXTCLIENT_GUILDCOMBAT_REDCHIPS,%d Red Chips have been sent to your inventory or mail box.,%d Red Chips ถูกส่งไปยังช่องเก็บของหรือกล่องจดหมายของคุณแล้ว
+TEXTCLIENT_PET_TRANSMUTE_CONF,Your pet will get a new appearance. Do you want to continue?,สัตว์เลี้ยงของคุณจะได้รับรูปลักษณ์ใหม่ คุณต้องการดำเนินการต่อหรือไม่
+TEXTCLIENT_ITEM_TRANSMUTE_SUCCESS,You have transmuted your item!,คุณได้เปลี่ยนแปลงไอเทมของคุณแล้ว!
+TEXTCLIENT_ITEM_TRANSMUTE_INCOMPATIBLE,These items are not compatible for transmutation.,ไอเทมเหล่านี้ไม่เข้ากันสำหรับการแปลงร่าง
+TEXTCLIENT_ITEM_TRANSMUTE_REMOVE,The transmutation has been removed.,การแปลงร่างถูกลบออก
+TEXTCLIENT_ADDWARDROBE,The item has been added to your wardrobe.,เพิ่มไอเทมลงในตู้เสื้อผ้าของคุณแล้ว
+TEXTCLIENT_GUILDWARCHANNEL,Unable to declare war in this channel.,ประกาศสงครามช่องนี้ไม่ได้
+TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,Flyff Pass
+TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s ภารกิจ %s เสร็จสิ้น
+TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,คุณได้รับ %d %s คะแนน
+TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,%s รีเซ็ทฤดูกาลแล้ว!
+TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,คุณมาถึง %s ระดับ %d!
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,You reached the %s bonus grade %d+%d!
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,ไม่มี Battle Pass ที่ใช้งานอยู่อีกต่อไป
+TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,ขอขอบคุณที่ซื้อส่วนขยาย %s!
+TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,ซื้อส่วนขยาย %s เพื่อรับรางวัลมากขึ้น!
+TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,เฉพาะตัวละครที่มีเลเวล 80 หรือน้อยกว่าเท่านั้นที่สามารถใช้กับ Lv80 Guild Siege นี้ได้
+TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,เฉพาะตัวละครที่ไม่ได้เปลี่ยนคลาสที่สองเท่านั้นที่สามารถนำไปใช้กับ Guild Siege Lv60 นี้ได้
+TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,Guild Siege เลเวล 80 จะจัดขึ้นในสัปดาห์นี้
+TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,Guild Siege เลเวล 60 จะจัดขึ้นในสัปดาห์นี้
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Guild Siegeเลเวล 80 สิ้นสุดลงแล้ว
+TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Guild Siege เลเวล 60 สิ้นสุดลงแล้ว
+TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s ถูกส่งไปยังคลังหรือกล่องจดหมายของคุณแล้ว
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",จากนี้ไป Atlas ใน Flarine สามารถให้คุณเข้าสู่สนามปะลองGuild Siege arenaเลเวล 80 ได้
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",จากนี้ไป Olivia ใน Flarine สามารถให้คุณเข้าสู่สนามปะลองGuild Siege arenaเลเวล 60 ได้
+TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,Guild Siege เกิดขึ้นอีก
+TEXTCLIENT_SKILL_ROOT,You cannot move right now.,คุณไม่สามารถเคลื่อนไหวได้ในขณะนี้
+TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s ลดลงแล้ว!
+TEXTCLIENT_EVENT_REQGUILD,You should join a Guild to participate to the event!,คุณควรเข้าร่วมกิลด์เพื่อเข้าร่วมกิจกรรม!
+TEXTCLIENT_GUILD_WORLDCUP_POINTS,%s brought %d GET'EM B'ALL points to the Guild (Total: %d)!,%s นำ %d GET'EM B'ALL คะแนนไปที่กิลด์ (ทั้งหมด: %d)!
+TEXTCLIENT_WORLDCUP_RANKING_MAIL,Congratulations for your rank %d in the GET'EM B'ALL ranking!,ขอแสดงความยินดีสำหรับอันดับ %d ของคุณในการจัดอันดับ GET'EM B'ALL!
+TEXTCLIENT_REMOVEPIERCING_NOSELECTION,You need to select a card to remove !,คุณต้องเลือกการ์ดที่จะทำการเอาออก !
+TEXTCLIENT_REMOVEPIERCING_NOCARD,The slot you selected has no card in it !,สล็อตที่คุณเลือกไม่มีการ์ดอยู่ในนั้น !
+TEXTCLIENT_DUNGEON_FAIL_ENTER,Unable to enter the dungeon.,ไม่สามารถเข้าดันเจี้ยนได้
+TEXTCLIENT_DUNGEON_FAIL_LEADER,Your leader must enter the dungeon first.,ผู้นำของคุณต้องเข้าดันเจี้ยนเป็นคนแรก
+TEXTCLIENT_DUNGEON_START,%s started the dungeon %s!,%s ได้เริ่มดันเจี้ยน %s
+TEXTCLIENT_DUNGEON_START_DIFFICULTY,%s started the dungeon %s (%s)!,%s ได้เริ่มดันเจี้ยน %s (%s)!
+TEXTCLIENT_DUNGEON_FULL,Too many players are in this dungeon. Please wait a moment.,มีผู้เล่นอยู่ในดันเจี้ยนมากเกินไป โปรดรอซักครุ่
+TEXTCLIENT_DUNGEON_NOTRANS,You cannot enter an instanced dungeon while you are using a Trans.,คุณไม่สามารถเข้าอินสแตนซ์ดันเจี้ยนได้ในขณะที่ใช้ Trans
+TEXTCLIENT_DUNGEON_NOTRANSUSE,You cannot use a Trans inside of an instanced dungeon.,คุณไม่สามารถใช้ Trans ได้ในขณะที่อยุ่ในอินสแตนซ์ดันเจี้ยน
+TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a moment.,อินสแตนซ์ก่อนหน้านีักำลังปิดตัวลง กรุณารอซักครู่
+TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,ดันเจี้ยนนี้ไม่อนุญาตให้กลุ่มมีมากกว่า %d คน
+TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,ทางเข้าไม่ถูกอนุญาตให้ใช้ตอนนี้
+TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,เหลือเวลาอีก %d นาที ที่จะกำลังมอนสเตอร์ %d ตัว
+TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...",หมดเวลา คุณไม่ผ่านดันเจี้ยน...
+TEXTCLIENT_LACKITEM,You do not have the required items.,คุณไม่มีไอเทมที่จำเป็นต้องใช้
+TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,เตรียมตัวให้พร้อม!
+TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,ดันเจี้ยนของคุณกำลังรันอยู่ที่แชนแนลอื่น
+TEXTCLIENT_DUNGEON_COOLDOWN,Please wait before challenging this dungeon again.,โปรดรอซักครู่เพื่อที่จะท้าทายดันเจี้ยนนี้อีกครั้ง
+TEXTCLIENT_DUNGEON_PARTY_REQ,You must be in a Party to enter this dungeon.,คุณต้องอยู่ในปาร์ตี้เพื่อที่จะเข้าดันเจี้ยนนี้
+TEXTCLIENT_DUNGEON_GUILD_REQ,You must be in a Guild to enter this dungeon.,คุณต้องอยู่ในกิลด์เพื่อที่จะเข้าดันเจี้ยนนี้
+TEXTCLIENT_GUILDCOMBAT_NOMASTERS,You cannot join a Lv80 Guild Siege or Lv60 Guild Siege when doing a master quest!,คุณไม่สามารถเข้าร่วม Lv80 Guild Siege หรือ Lv60 Guild Siege ได้ในขณะที่กำลังทำมาสเตอร์เควส!
+TEXTCLIENT_ACHIEVEMENT_SKILLUNLOCK,You unlocked skill [%s] lv.%d!,คุณปลดล็อค Skill [%s] lv.%d!
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL,Congratulations for your rank %d in the Thief Santa Hunt ranking!,ขอแสดงความยินดีสำหรับอันดับ %d ของคุณในการจัดอันดับ Thief Santa Hunt!
+TEXTCLIENT_THIEFSANTAHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Thief Santa Hunt ranking!,ขอแสดงความยินดีที่ได้ %d คะแนนในการจัดอันดับ Thief Santa Hunt!
+TEXTCLIENT_THIEFSANTAHUNT_RECEIVE,You received %d Thief Santa Hunting Points (Total %d)!,คุณได้รับ %d คะแนน Thief Santa Hunting (ทั้งหมด %d)!
+TEXTCLIENT_APP_LOTTERY,Lottery,ลอตเตอรี่
+TEXTCLIENT_LOTTERY_LOWLEVEL,"Your level is too low, you must be level %d minimum to start this lottery!",เลเวลของคุณต่ำเกินไป คุณต้องมีเลเวล %d ขั้นต่ำเพื่อเริ่มลอตเตอรี่นี้!
+TEXTCLIENT_LOTTERY_HIGHLEVEL,"Your level is too high, you must be level %d maximum to start this lottery!",เลเวลของคุณสูงเกินไป คุณต้องมีเลเวลสูงสุด %d เพื่อเริ่มลอตเตอรี่นี้!
+TEXTCLIENT_LOTTERY_ITEMSMISSING,You must have %d %s to start this lottery!,คุณต้องมี %d %s เพื่อเริ่มลอตเตอรี่นี้!
+TEXTCLIENT_LOTTERY_ERRORSTARTED,You already started a lottery! Wait for it to finish!,คุณเริ่มลอตเตอรีแล้ว! รอให้เสร็จ!
+TEXTCLIENT_LOTTERY_NOREWARD,Unlucky.. You got no reward this time!,ดวงซวย..งวดนี้คุณไม่ได้รางวัล!
+TEXTCLIENT_LOTTERY_NOFREESPINS,You don't have any free spins left!,คุณไม่เหลือการหมุนฟรีแล้ว!
+TEXTCLIENT_LOTTERY_FREESPIN,You can now claim your free Lottery Wheel spin!,ตอนนี้คุณสามารถรับสิทธิ์หมุนวงล้อลอตเตอรีฟรีได้แล้ว!
+TEXTCLIENT_APP_EVENTPASS,Lunar Pass,ตรุษจีน
+TEXTCLIENT_BATTLEPASS_REWARD,You need to be at least level %d to claim %s rewards!,คุณต้องมีเลเวลอย่างน้อย %d เพื่อรับรางวัล %s!
+TEXTCLIENT_EXCHANGECONSUME_ERROR,You already have one buff of that type active.,คุณมีบัฟประเภทเดียวกันใช้งานอยู่แล้ว
+TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,ไม่พบกิลด์ %s
+TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,คุณต้องให้เหตุผลด้วย
+TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,คุณได้รับคำเตือนจาก %s: %s
+TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s ได้ถูกเตือน
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is not online, but the warning was logged anyway.","%s ไม่ได้ออนไลน์, แต่คำเตือนได้ถูกบันทึกไว้แล้ว"
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,เหลือเวลา %d นาที เพื่อที่จะฆ่า %s
+TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,เหลือเวลา %d นาที เพื่อที่จะฆ่า %dx %s
+TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,Ticket ของคุณหมดอายุแล้ว! คุณจะถูกเทเลพอร์ตกลับไปยัง Madrigal!
+TEXTCLIENT_PETCAGE_FAIL01,The pet inside did not survive.,Pet ที่อยู่ด้านในไม่รอดชีวิต
+TEXTCLIENT_MINTARGETLEVEL,This item can only be used on items level %d and above.,ไอเทมนี้สามารถใช้บนไอเทมที่มี Level %d ขึ้นไปเท่านั้น
+TEXTCLIENT_DUNGEON_MAXENTRY,Your reached the maximum entrance amount for today.,จำนวนที่คุณสามารถเข้าทางเข้าได้เต็มจำนวนสูงสุดแล้ว
+TEXTCLIENT_DUNGEON_MAXINSTANCE,You already have %d dungeon running. Please wait.,คุณได้ดำเนินการ %d ดันเจี้ยนอยู่แล้ว โปรดรอซักครู่
+TEXTCLIENT_DUNGEON_RATELIMIT,Too many players are starting dungeons. Please try again soon.,มีผู้เล่นมากเกินไปกำลังเริ่มต้นเล่นดันเจี้ยน โปรดลองอีกครั้งในภายหลัง
+TEXTCLIENT_DUNGEON_FAILMASTER,You cannot enter dungeons while on a Master quest.,คุณไม่สามารถเข้าดันเจี้ยนได้ในขณะที่อยู่ในในมาสเตอร์เควส
+TEXTCLIENT_ITEM_PK,This item is only usable on a PK Channel.,ไอเทมนี้ใช้ได้ที่ PK แชนแนลเท่านั้น
+TEXTCLIENT_DUNGEON_RANKING_MAIL,Congratulations for your rank %d in the %s!,ยินดีด้วย สำหรับ Rank %d ใน %s!
+TEXTCLIENT_DUNGEON_WINNER,This week's winner of the %s is %s Guild,ผู้ชนะสัปดาร์นี้ของ %s ได้แก่ กิลด์ %s
+TEXTCLIENT_DUNGEON_NOWINNER,There is no winning Guild of the %s,ไม่มีกิลด์ที่ชนะสำหรับ %s
+TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ticket,คุณไม่สามารถเทเลพอร์ตใน non-PK แชนแนลในขณะที่ใช้ PK ticket
+TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,เคลียร์ดันเจี้ยน %s
+TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,ยินดีด้วย! คุณได้ฆ่า %s(s) ทั้งหมดแล้ว บอสจะออกมาพร้อมกับโบนัส!
+TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,ผู้เล่นอื่นกำลังใช้อยู่! โปรดรอ..
+TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,ไอเท็ม %s จะสะสมผลได้เฉพาะในกรณีที่บัฟเป็นไอเทมตัวเดียวกันเท่านั้น ไอเท็มบัฟปัจจุบันคือ %s
+TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,Costume ถูกใช้แล้ว
+TEXTCLIENT_COSTUMECOLLECTION_NOTHING,You have nothing to submit.,คุณไม่มีข้อมูลยืนยันส่ง
+TEXTCLIENT_APP_EVENTS,Events,กิจกรรม
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_1,You have nothing to submit.,คุณไม่มีข้อมูลยืนยันส่ง
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_2,Achievement collection error 02.,มีข้อผิดพลาด 02 ในหน้ารวบรวมความสำเร็จ
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_3,Achievement collection error 03.,มีข้อผิดพลาด 03 ในหน้ารวบรวมความสำเร็จ
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_4,Achievement collection error 04.,มีข้อผิดพลาด 04 ในหน้ารวบรวมความสำเร็จ
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_5,Costume is already used.,Costume ถูกใช้แล้ว
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_6,Achievement collection error 06.,มีข้อผิดพลาด 06 ในหน้ารวบรวมความสำเร็จ
+TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_7,Achievement collection error 07.,มีข้อผิดพลาด 07 ในหน้ารวบรวมความสำเร็จ
+TEXTCLIENT_ACHIEVEMENT_COLLECTIONSUCCESS,Costumes successfully submitted.,ยืนยัน Costumes สำเร็จ
+TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""","คุณไปถึง %d ของ ""%s"""
+TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,ข้อความของคุณยาวเกินขีดจำกัด
+TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,คุณไม่สามารถทเลพอร์ต ในขณะถูกแช่แข็ง
+TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,คุณต้องเลเวล %d ก่อน ถึงจะสามารถแลกเปลี่ยนไอเท็ม premium ได้
+TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,คุณต้องเลเวล %d ก่อน ถึงจะสามารถใช้งานโมชั่นนี้ได้
+TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Switch Equip
+TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,คุณสามารถติดตั้งไอเท็มจาก สลับอุปกรณ์ ผ่านเมนูหรือช่องลัด
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,คุณได้อัปเดตค่า Preset %s สำเร็จแล้ว!
+TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,คุณมี Preset มากเกินไป!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,คุณสร้าง Preset %s สำเร็จแล้ว!
+TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,คุณลบ Preset %s สำเร็จแล้ว!
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,You don't have access to this preset anymore.. You need battlepass for it.,คุณไม่สามารถใช้งาน Preset ได้.. จำเป็นจะต้องมี Battle Pass 
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,คุณไม่สามารถเพิ่ม %s ลงใน Preset อุปกรณ์ เนื่องจากไม่เป็นไปตามเงื่อนไข
+TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,คุณต้องติดตั้งอุปกรณ์ชิ้นนั้นก่อน หากต้องการเพิ่มไปใน Preset
+TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,โปรดรอซักครู่ ก่อนที่จะสลับครั้งถัดไป
+TEXTCLIENT_PVPCONTEST_NOGUILD,You need a guild and be the leader to register.,จะลงทะเบียนได้นั้น คุณต้องมีกิลและต้องเป็นหัวหน้ากิลด์
+TEXTCLIENT_PVPCONTEST_ALREADYREGISTERED,Your guild is already registered for the FWC PVP Contest!,กิลด์ของคุณลงทะเบียนการแข่ง FWC PVP Contest เรียบร้อยแล้ว!
+TEXTCLIENT_PVPCONTEST_NOTCLOSED,You can't register now. FWC PVP Contest has already started or will start tomorrow!,คุณไม่สามารถลงทะเบียนได้ เนื่องจาก FWC PVP Contest ได้เริ่มไปแล้ว หรือกำลังจะเริ่มในวันพรุ่งนี้
+TEXTCLIENT_PVPCONTEST_COMPOSITIONNOTCLOSED,You can't change your participating players now. FWC PVP Contest has already started or will start tomorrow!,คุณไม่สามารถเปลี่ยนผู้เล่นที่เข้ารวมได้แล้ว เนื่องจาก FWC PVP Contest ได้เริ่มไปแล้ว หรือกำลังจะเริ่มในวันพรุ่งนี้
+TEXTCLIENT_PVPCONTEST_NOTREGISTERED,Your guild is not registered for the FWC PVP Contest.,กิลด์ของคุณไม่ได้ลงทะเบียน FWC PVP Contest
+TEXTCLIENT_PVPCONTEST_COMPOSITIONSUCCESS,You successfully set your player composition!,คุณเซ็ตตำแหน่งผู้เล่นสำเร็จแล้ว
+TEXTCLIENT_PVPCONTEST_REGISTRATIONSUCCESS,You successfully registered your guild for the FWC PVP Contest!,คุณลงทะเบียนกิลด์ในการแข่ง FWC PVP Contest สำเร็จแล้ว!
+TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s penyas to register to the FWC PVP Contest!,ในการลงทะเบียนการแข่ง FWC PVP Contest จำเป็นต้องมี penyas อย่างน้อย %s !
+TEXTCLIENT_PVPCONTEST_STATE_REGISTRATIONS,Registrations for FWC PVP Contest are now open! ,การลงทะเบียนการแข่ง FWC PVP Contest ได้เริ่มต้นขึ้นแล้ว
+TEXTCLIENT_PVPCONTEST_STATE_PRELIMINARY,Preliminaries will start from now on!,การแข่งรอบแรกเริ่มต้นแล้ว!
+TEXTCLIENT_PVPCONTEST_STATE_BACKUP,Backup Match will start from now on!,การแข่งรอบสำรองเริ่มต้นแล้ว!
+TEXTCLIENT_PVPCONTEST_STATE_FINALS,Final Matchs will start from now on!,การแข่งรอบสุดท้ายเริ่มต้นแล้ว!
+TEXTCLIENT_PVPCONTEST_HAVENOT_PLAYER,You need to select players to participate the FWC PVP Contest!,คุณต้องเลือกผู้เล่นเพื่อเข้าร่วมการแข่ง FWC PVP Contest!
+TEXTCLIENT_PVPCONTEST_SELECTION_MAX,You can only select %d players maximum!,คุณสามารถเลือกผู้เล่นได้ไม่เกิน %d 
+TEXTCLIENT_PVPCONTEST_LIMIT_LEVEL_NOTICE,Selected player must be at least level %d!,ผู้เล่นที่ถูกเลือกต้องเลเวลอย่างน้อย %d!
+TEXTCLIENT_PVPCONTEST_ALREADY_ENTRY,That player is already selected! Please pick another.,ผู้เล่นคนนี้ถูกเลือกแล้ว! โปรดเลือกคนอื่น
+TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC PVP Contest!,หัวหน้ากิลด์ได้เข้าร่วมการแข่ง FWC PVP Contest!
+TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,การลงทะเบียนสำหรับการแข่ง FWC PVP จะสิ้นสุดในอีกหนึ่งชั่วโมง! อย่าลืมลงทะเบียนกิลด์ของคุณเพื่อเข้าร่วม!
+TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,เกิดข้อผิดพลาดในการเรียกรายชื่อผู้เล่นที่คุณเลือก กรุณาลองอีกครั้ง
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,คุณจำเป็นจะต้องเลือกการแข่ง
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %02d:%02d today.",ขอบคุณที่ยืนยัน การแข่งของคุณจะเริ่มวันนี้ ตอน %02d:%02d
+TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.",ไม่สามารถใช้ฟังก์ชันการจัดการผู้เล่นหรือการแก้ไขสมาชิกที่ได้รับเลือกสำหรับการลงทะเบียน ในระหว่างการแข่งขัน FWC PVP
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,คุณไม่สามารถเปลี่ยนชื่อกิลด์ของคุณได้ในระหว่างการแข่งขัน FWC PVP
+TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,คุณไม่สามารถเปลี่ยนโลโก้กิลด์ของคุณได้ในระหว่างการแข่งขัน FWC PVP
+TEXTCLIENT_PVPCONTEST_NOT_WAR,Unable to declare war during FWC PVP Contest.,ไม่สามารถประกาศสงครามระหว่างการแข่งขัน FWC PVP
+TEXTCLIENT_PVPCONTEST_CANNOT_FRIENDADD,You cannot add friends in the FWC PVP Contest.,คุณไม่สามารถเพิ่มเพื่อนในการแข่งขัน FWC PVP
+TEXTCLIENT_PVPCONTEST_CANNOT_PARTY,You cannot make a party in the FWC PVP Contest.,คุณไม่สามารถสร้างปาร์ตี้ได้ในการแข่งขัน FWC PVP
+TEXTCLIENT_PVPCONTEST_NO_OUTWAR,You cannot use Blinkwings to escape the FWC PVP Contest.,คุณไม่สามารถใช้ Blinkwings เพื่อออกจากการแข่งขัน FWC PVP
+TEXTCLIENT_PVPCONTEST_MATCHEND_WINNER,Match has ended! Winner is %s!,การแข่งสิ้นสุด! ผู้ชนะคือ %s!
+TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,การแข่งสิ้นสุด! ยังไม่มีผู้ชนะตอนนี้!
+TEXTCLIENT_PVPCONTEST_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,โปรดรอคู่แข่ง..
+TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,Preparation phase. Match will start in: 
+TEXTCLIENT_PVPCONTEST_CAPTION_FIGHT,End combat  ,สิ้นสุดการต่อสู้  
+TEXTCLIENT_PVPCONTEST_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in ,การแข่งจบแล้ว! คุณจะถูกเทเลพอร์ตไปยัง Madrigal
+TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedules!,เฉพาะหัวหน้าที่จะสามารถเลือกตารางการแข่งได้
+TEXTCLIENT_PVPCONTEST_ALREADYPLAYEDTODAY,You already played a match today! You can't select another schedule.,คุณแข่งรอบวันนี้ไปแล้ว! คุณไม่สามารถเลือกการแข่งในตารางเพิ่มได้
+TEXTCLIENT_PVPCONTEST_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,การแข่งเริ่มแล้ว คุณไม่สามารถใช้เทเลพอร์ตในการแข่ง
+TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there is no match waiting for you.,เทเลพอร์ตไม่สามารถใช้ได้ เนื่องจากไม่มีการแข่งรออยู่
+TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",ไม่มีคู่แข่งเข้าร่วม! การแข่งสิ้นสุดและถือว่าคุณเป็นผู้ชนะ!
+TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,ไม่พบคู่แข่ง! เราพิจารณาให้คุณชนะในการแข่งรอบนี้!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s ถูกสังหารโดย [%s] %s!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s killed [%s] %s and stopped their killing spree!
+TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s is on a killing spree!
+TEXTCLIENT_PVPCONTEST_MATCHSOON,You can't change your participation now. Matches are starting soon!,คุณไม่สามารถเปลี่ยนการเข้าร่วมได้แล้ว การแข่งกำลังจะเริ่ม
+TEXTCLIENT_PVPCONTEST_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,ผู้เล่นไม่ได้เข้าร่วมหรือออกจากเกมไปแล้ว! จำนวนแต้มชีวิตที่เหลือของกิลด์จะลดลง %d!
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT,The FWC PVP Contest Preliminary %d:%d UTC matches have ended! The next matches will start at %d:%d UTC!,การแข่งขันรอบแรกของ FWC PVP สิ้นสุดลงในเวลา %d:%d UTC การแข่งขันครั้งต่อไปจะเริ่มในเวลา %d:%d UTC!
+TEXTCLIENT_TRANSITEM_TRANSY,Your transmuted item does not have an equivalent item for the other gender. Please consider removing the transmutation or trying a different item.,โปรดถอดไอเท็มที่ถูกแปลงสภาพ หรือใช้ไอเท็มอื่น เนื่องจากเป็นไอเท็มแปลงสภาพที่ไม่เทียบเท่าสำหรับเพศอื่น
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD,The FWC PVP Contest has ended! The winner is: %s! Congratulations!,การแข่งขัน FWC PVP สิ้นสุดลงแล้ว! ผู้ชนะคือ: %s! ขอแสดงความยินดีด้วย!
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD,The FWC PVP Contest has ended on a draw! Congratulations!,การแข่งขัน FWC PVP จบลงด้วยผลเสมอ! ยินดีด้วย!
+TEXTCLIENT_PVPCONTEST_NOMATCHS,There is no match to spectate.,ไม่มีการแข่งใดให้ชม
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_1,You can't spectate if you're already participating in a match.,คุณไม่สามารถชมการแข่งอื่นได้ หากคุณอยู่ในระหว่างการแข่งขัน
+TEXTCLIENT_PVPCONTEST_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,การแข่งขันที่คุณกำลังพยายามชมกำลังจะสิ้นสุดลง โปรดเลือกการแข่งขันอื่น
+TEXTCLIENT_PVPCONTEST_RANK34,"You lost that match, but you will have the opportunity to compete in a final match for the 3rd rank against the other losing guild when the final match takes place. Best of luck!",คุณแพ้การแข่งขัน แต่คุณยังมีโอกาสแข่งขันในนัดสุดท้ายเพื่อชิงอันดับ 3 กับกิลด์อื่นที่แพ้มาเช่นกัน ขอให้โชคดี!
+TEXTCLIENT_SERVERTRANSFER,You have requested a server transfer to %s.,คุณแจ้งขอโอนย้ายเซิร์ฟเวอร์ไปยัง %s
+TEXTCLIENT_RPS_DAILYLIMITOVER,You've used all the chances for today.,คุณได้ใช้สิทธิ์ทั้งหมดแล้วในวันนี้
+TEXTCLIENT_RPS_SOLDOUT,All the rewards for today are gone. See you tomorrow.,รางวัลสำหรับวันนี้หมดแล้ว เจอกันใหม่พรุ่งนี้
+TEXTCLIENT_RPS_ISOPENED,You are already speaking with this NPC.,คุณกำลังพูดคุยกับ NPC ตัวนี้
+TEXTCLIENT_RPS_MINTARGETLEVEL,Only available to level %d or above.,ใช้ได้ที่เลเวล %d หรือมากกว่าเท่านั้น
+TEXTCLIENT_RPS_PLAYABLE,You can't play Lucky RPS. Check your state.,คุณไม่สามารถเล่น Lucky RPS ได้ ตรวจสอบสถานะของคุณ
+TEXTCLIENT_RPS_DAYCHANGE,You do not have the right to acquire the item.,คุณไม่มีสิทธิ์ในการได้รับไอเท็มดังกล่าว
+TEXTCLIENT_PVPCONTEST_SPECTATE_AUTH,You don't have the required auth to spectate.,คุณไม่มีสิทธิ์ในการรับชม
+TEXTCLIENT_GUILDBUFF_NEW,Your Guild just unlocked Guild Buff Level %d!,กิลด์ของคุณเพิ่งปลดล็อคบัฟกิลด์เลเวล %d!
+TEXTCLIENT_GUILDBUFF_DONATE,%s donated %s #bx%d#nb to the Guild (Total: %d)!,%s donated %s #bx%d#nb to the Guild (Total: %d)!
+TEXTCLIENT_GUILDBUFF_RANKING_MAIL,Congratulations for your rank %d in the First Come First Served ranking!,ขอแสดงความยินดีกับอันดับ %d ของคุณ ในการจัดอันดับ First Come First Served!
+TEXTCLIENT_PURCHASE_ERROR_LEVEL,You cannot purchase this item because your level is too low. (Req Lev: %d),คุณไม่สามารถซื้อไอเทมนี้ได้เนื่องจากเลเวลของคุณต่ำเกินไป (ต้องการเลเวล: %d)
+TEXTCLIENT_PURCHASE_ERROR_COUNT,You can purchase this item up to %d times.,คุณสามารถซื้อสินค้าชิ้นนี้ได้สูงสุด %d ครั้ง
+TEXTCLIENT_MONSTER_ATTACK_ERROR_LEVEL,This monster can only be attacked by level %d or higher,มอนสเตอร์ตัวนี้สามารถถูกโจมตีได้เมื่อเลเวล %d ขึ้นไปเท่านั้น
+TEXTCLIENT_REAPITEMCOUNT,You received %d %s.,คุณได้รับ %d %s.
+TEXTCLIENT_GUILDBANKSCROLL_NOGUILD,You can’t use this item because you are not part of a guild,คุณไม่สามารถใช้ไอเท็มนี้ได้เนื่องจากคุณไม่ได้เป็นส่วนหนึ่งของกิลด์
+TEXTCLIENT_CANNOT_USE_OTHER_ACTIONS,You cannot use the item during other actions.,คุณไม่สามารถใช้ไอเท็มระหว่างการดำเนินการอื่นได้
+TEXTCLIENT_CANNOT_USE_CURRENT_STATE,You cannot use the item in the current state.,คุณไม่สามารถใช้ไอเท็มในสถานะปัจจุบันได้
+TEXTCLIENT_ACCEL_FUEL_PRIORITY01,"You are currently using Acceleration Fuel. When you use this item, the existing effect will not be applied any more. Are you sure you want to use this?",ขณะนี้คุณกำลังใช้ Acceleration Fuel เมื่อคุณใช้ไอเท็มนี้ เอฟเฟกต์ที่มีอยู่แล้ว จะไม่บวกผลเพิ่มอีกต่อไป คุณแน่ใจหรือไม่ว่าต้องการใช้?
+TEXTCLIENT_ACCEL_FUEL_PRIORITY02,"You are currently using Nitro Booster. When you use this item, the existing effect will still take priority. Are you sure you want to use this?",ขณะนี้คุณกำลังใช้ Nitro Booster เมื่อคุณใช้ไอเท็มนี้ เอฟเฟกต์ที่มีอยู่แล้ว จะไม่บวกผลเพิ่มอีกต่อไป คุณแน่ใจหรือไม่ว่าต้องการใช้?
+TEXTCLIENT_DAILY_LOTTERY_COUNT,You've used all the roulette chances today.,วันนี้คุณได้ใช้โอกาสรูเล็ตทั้งหมดแล้ว
+TEXTCLIENT_TRANS_LOTTERY_TRANS,You can't use the roulette while being transformed.,คุณไม่สามารถใช้รูเล็ตขณะที่กำลังแปลงร่างได้
+TEXTCLIENT_TRANS_LOTTERY_WING,You can't use the roulette while using the wing effect.,คุณไม่สามารถใช้รูเล็ตในขณะที่ใช้เอฟเฟกต์ปีกได้
+TEXTCLIENT_TRANS_LOTTERY_FLY,You can't use the roulette while flying.,คุณไม่สามารถใช้รูเล็ตได้ขณะที่กำลังบิน
+TEXTCLIENT_TRANS_LOTTERY_DUNGEON,You can't use the roulette in this dungeon.,คุณไม่สามารถใช้รูเล็ตในดันเจี้ยน
+TEXTCLIENT_BANKEXTRABAG_INUSE,You are already using Bank Extra Bag.,คุณกำลังใช้ Bank Extra Bag
+TEXTCLIENT_BANKEXTRABAG_USED,Bank is now expanded.,คลังขยายแล้ว
+TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,คุณไม่สามารถใช้ไอเท็มนี้ในระหว่างการต่อสู้ได้
+TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s ใช้ %s กับคุณ!
+TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,You used %s on %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,You used %s!
+TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,ไม่พบเป้าหมาย
+TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,เป้าหมายถูก Rainbow Barrier ขวางเอาไว้!
+TEXTCLIENT_RAINBOWRACE_USEITEM_USERBARRIER,You've blocked an item with your Rainbow Barrier!,คุณถูกบล็อกไอเท็มจาก Rainbow Barrier ของคุณ!
+TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory period.,คุณไม่สามารถเริ่มบินได้ในช่วงระยะเวลาเตรียมตัว
+TEXTCLIENT_RAINBOWRACE_NOSTAND,You cannot stop flying during the racing period.,ในช่วงระหว่างการแข่งขันคุณไม่สามารถหยุดบินได้
+TEXTCLIENT_RAINBOWRACE_NOSTACK,Your target is already suffering from this item!,เป้าหมายของคุณกำลังได้รับความเสียหายจากไอเทมชิ้นนี้แล้ว!
+TEXTCLIENT_RAINBOWRACE_PREP,The Rainbow Race begins in %d seconds...,การแข่งขัน Rainbow Race จะเริ่มขึ้นใน %d วินาที...
+TEXTCLIENT_RAINBOWRACE_START,The Rainbow Race begins now!,การแข่ง Rainbow Race เริ่มแล้ว!
+TEXTCLIENT_RAINBOWRACE_FINISH,You've finished the race!,การแข่งขันสิ้นสุดลงแล้ว!
+TEXTCLIENT_RAINBOWRACE_END,The Rainbow Race is over! The winner is %s!,การแข่งสิ้นสุดแล้ว ผู้ชนะคือ %s!
+TEXTCLIENT_RAINBOWRACE_NOPENYA,You do not have enough Penya to apply for the Rainbow Race.,คุณมี Penya ไม่พอในการสมัคร Rainbow Race
+TEXTCLIENT_RAINBOWRACE_EXIST,You've already applied for the next race.,คุณได้สมัครการแข่งขันครั้งต่อไปแล้ว
+TEXTCLIENT_RAINBOWRACE_NOPLAYERS,The Rainbow Race was not held due to lack of participants.,การแข่งขัน Rainbow Race ยกเลิกเนื่องจากมีผู้เข้าร่วมไม่เพียงพอ
+TEXTCLIENT_ULTIMATE_CONVERSION_SUCCESSFUL,Conversion Succesful!,การแปลงสำเร็จแล้ว!
+TEXTCLIENT_ULTIMATE_CONVERSION_NOMATERIAL,Not enough Material.,วัตถุดิบไม่เพียงพอ
+TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,ไอเท็มนี้ได้ถึงระดับอัพเกรดสูงสุดแล้ว
+TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,การอัพเกรดประสบความล้มเหลวครั้งใหญ่
+TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,อัพเกรดสำเร็จครั้งใหญ่!
+TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,ไม่สามารถใช้ไอเท็มนี้กับเป้าหมายได้
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,คุณสามารถเลือกไอเท็มที่จะสร้างอาวุธระดับ Ultimate ที่ร้านอาวุธ
+TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,คุณจะต้องตั้งเป้าหมายของไอเท็มก่อน
+TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,คุณจะต้องเป็นส่วนหนึ่งของกิลด์ก่อน จึงจะประมูลเรือกิลด์ได้
+TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,เฉพาะหัวหน้ากิลด์เท่านั้นที่สามารถซื้อเรือกิลด์ได้
+TEXTCLIENT_GUILDHOUSING_ALREADYOWN,Your guild already owns a guild ship.,กิลด์ของคุณเป็นเจ้าของเรือกิลด์อยู่แล้ว
+TEXTCLIENT_GUILDHOUSING_BIDSUCCESS,You successfully placed a bid on this guild ship!,คุณเสนอราคาเรือกิลด์นี้สำเร็จแล้ว!
+TEXTCLIENT_GUILDHOUSING_ALREADYBELONG,This guild ship already belongs to another guild. You can't place a bid on it.,เรือของกิลด์นี้เป็นของกิลด์อื่นอยู่แล้ว คุณไม่สามารถประมูลมันได้
+TEXTCLIENT_GUILDHOUSING_NOTOWNED,This ship does not belong to your guild.,เรือลำนี้ไม่ได้เป็นของกิลด์ของคุณ
+TEXTCLIENT_HOUSEOBJECTS_TOOFAR,The position you're trying to put your furniture at is too far from you.,ตำแหน่งที่คุณพยายามวางเฟอร์นิเจอร์อยู่ไกลจากคุณมากเกินไป
+TEXTCLIENT_HOUSEOBJECTS_ALREADYPLACED,You already placed that furniture. Please disable it before.,คุณวางเฟอร์นิเจอร์นั้นไปแล้ว กรุณาปิดการใช้งานก่อน
+TEXTCLIENT_HOUSEOBJECTS_NOTPLACED,You first need to place that furniture before disabling it.,คุณต้องวางเฟอร์นิเจอร์ก่อน จึงจะปิดการใช้งานได้
+TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,คุณไม่สามารถวางเฟอร์นิเจอร์ตรงนี้ได้
+TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,แตะพื้นตรงจุดที่คุณต้องการวางวัตถุ หมุนวัตถุด้วยล้อเลื่อนของเมาส์ กดล้อเลื่อนของเมาส์แล้วเลื่อนเมาส์ไปทางซ้าย/ขวาเพื่อปรับขนาดวัตถุ
+TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,การวางวัตถุตกแต่งถูกยกเลิก
+TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,คุณไม่มีสิทธิ์วางเฟอร์นิเจอร์ในบ้านหลังนั้น
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,คุณต้องอยู่ในบ้านหรือบ้านกิลด์ของคุณเพื่อวางเฟอร์นิเจอร์
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,คุณไม่มีทั้งบ้านและบ้านกิลด์
+TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,คุณได้เพิ่ม %s เป็นผู้เยี่ยมชมสำเร็จแล้ว!
+TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is not online.,ผู้เล่นที่คุณเลือกไม่ได้ออนไลน์
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,คุณได้ลบผู้เล่นออกจากรายชื่อผู้เยี่ยมชมสำเร็จแล้ว
+TEXTCLIENT_PLAYERHOUSING_VISITORREMOVENOTEXIST,That player is not in your visitor list.,ผู้เล่นไม่อยู่ในรายชื่อผู้เยี่ยมชมของคุณ
+TEXTCLIENT_PLAYERHOUSING_NOTOWN,You do not currently own a house.,ตอนนี้คุณไม่ได้เป็นเจ้าของบ้าน
+TEXTCLIENT_PLAYERHOUSING_BUYSUCCESS,You successfully setup your house.,คุณตั้งค่าบ้านของคุณสำเร็จแล้ว
+TEXTCLIENT_HOUSING_PACKOWNED,You already unlocked that housing pack!,คุณปลดล็อคแพ็คบ้านแล้ว!
+TEXTCLIENT_HOUSING_PACKSUCCESS,You successfully unlocked %s!,คุณปลดล็อค %s สำเร็จแล้ว!
+TEXTCLIENT_PLAYERHOUSING_VISIT_EMPTY,There are currently no available houses to visit from your friends list.,ขณะนี้ไม่มีบ้านที่ให้เยี่ยมชมได้ จากรายชื่อเพื่อนของคุณ
+TEXTCLIENT_PLAYERHOUSING_VISIT_OFFLINE,The owner of that house is currently offline.,เจ้าของบ้านหลังนี้ออฟไลน์อยู่
+TEXTCLIENT_PLAYERHOUSING_VISIT_NOHOUSE,That player has no house to visit.,ผู้เล่นคนนั้นไม่มีบ้านให้เยี่ยมชม
+TEXTCLIENT_HOUSEOBJECTS_RESET_NOTOWNER,Only the owner can reset the house decorations!,เฉพาะเจ้าของเท่านั้นที่จะรีเซ็ตการตกแต่งบ้านได้!
+TEXTCLIENT_HOUSEOBJECTS_RESET_SUCCESS,You successfully reset the house decorations.,คุณรีเซ็ตการตกแต่งบ้านสำเร็จแล้ว
+TEXTCLIENT_HOUSEOBJECTS_NOPACKS,You do not have any unlocked decoration packs.,คุณไม่มีแพ็คตกแต่งที่ปลดล็อคแล้ว
+TEXTCLIENT_HOUSEOBJECTS_NOTUNLOCKED,You do not have that decoration unlocked.,คุณไม่ได้ปลดล็อครูปแบบการตกแต่งนั้น
+TEXTCLIENT_HOUSEOBJECTS_NPCEXIST,This NPC already exists in the house.,NPC นี้มีอยู่ในบ้านแล้ว
+TEXTCLIENT_PLAYERHOUSINGWND_BUYNOTEMPLATES,There are currently no house templates available. ,ยังไม่มีรูปแบบบ้านที่พร้อมใช้งานในขณะนี้ 
+TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase the template again or set a different one to access your house.,รูปแบบบ้าน %s หมดอายุแล้ว! ซื้อรูปแบบบ้านใหม่อีกครั้งหรือตั้งค่ารูปแบบบ้านแบบอื่นๆ สำหรับบ้านของคุณ
+TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,คุณเป็นเจ้าของรูปแบบบ้านหลังนี้แล้ว
+TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","คุณปลดล็อครูปแบบบ้าน ""%s"" สำเร็จแล้ว!"
+TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,คุณต้องปลดล็อครูปแบบบ้านนั้นก่อน
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild house does not belong to anyone. Place a bid if you want it!,บ้านกิลด์นี้ยังไม่มีเจ้าของ เสนอราคามาได้เลยหากคุณต้องการ!
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild house does not belong to your guild. You can't enter.,บ้านกิลด์นี้ไม่ใช่ของกิลด์ของคุณ จึงไม่สามารถเข้าไปได้
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. You can't place a bid on it.,บ้านกิลด์นี้เป็นของกิลด์อยู่แล้ว คุณไม่สามารถเสนอราคาได้
+TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,กิลด์ของคุณชนะการประมูลเรือของกิลด์! คุณสามารถเทเลพอร์ตไปที่กิลด์ได้โดยใช้แผนที่และคลิกขวาที่เรือของคุณ ขอแสดงความยินดี!
+TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,คุณไม่มีสิทธิ์เสนอราคา
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!,การเสนอราคาบ้านกิลด์ครั้งใหม่ของคุณ ตอนนี้คือ %s!
+TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough penya in your guild bank.,คุณมี penya ไม่เพียงพอในธนาคารกิลด์ของคุณ
+TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,คุณได้เสนอราคาเรือกิลด์อื่นไปแล้ว
+TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s penya.,คุณต้องเสนอราคาขั้นต่ำที่ %s penya
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,โปรดรอสักครู่...
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,คุณเซ็ตตำแหน่งการเกิดสิ่งประดิษฐ์สำเร็จแล้ว! ค่าธรรมเนียม %s ได้ถูกหักออกจากธนาคารกิลด์ของคุณแล้ว!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,คุณไม่มีอำนาจในการกำหนดตำแหน่งของสิ่งประดิษฐ์
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough penya in your guild bank to set the artifact spawn position.,คุณมี penya ในธนาคารกิลด์ไม่พอ ในการกำหนดตำแหน่งการเกิดสิ่งประดิษฐ์
+TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.","ตอนนี้กิลด์ของคุณสามารถวางสิ่งประดิษฐ์ของเรือได้แล้ว! ตรวจสอบหัวข้อ ""Housing"" ในหน้าต่างกิลด์เพื่อดูข้อมูลเพิ่มเติม"
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,ยังไม่ถึงเวลาที่จะกำหนดตำแหน่งการเกิดอาร์ติแฟกต์
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,กิลด์ของคุณสูญเสียสิทธิ์การเป็นเจ้าของเรือกิลด์ เนื่องจากไม่มีการวางอาร์ติแฟกต์ในสัปดาห์นี้
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,เรืออาร์ติแฟกต์ ปรากฏขึ้นแล้ว! ต่อสู้เพื่อแย่งชิงความเป็นเจ้าของเรือใน PK Channel
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,ทีมของคุณทำลายอาร์ติแฟกต์ของเรือแล้ว! เรือกิลด์นี้เป็นของกิลด์คุณ
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,ทีมของคุณทำลายอาร์ติแฟกต์ของเรือแล้ว!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s penya has been deposited into your guild bank. Congratulations!,ขอแสดงความยินดี %s penya ได้ถูกฝากเข้าในธนาคารกิลด์ของคุณแล้ว!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,อาร์ติแฟกต์ของกิลด์คุณถูกทำลายแล้ว! คุณเสียความเป็นเจ้าของเรือกิลด์แล้ว
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,กิลด์ของคุณปกป้องอาร์ติแฟกต์เรือได้สำเร็จ
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s penya has been deposited into the guild bank. Congratulations!,คุณยังคงเป็นเจ้าของและ penya %s ได้ถูกฝากเข้าในธนาคารกิลด์แล้ว ขอแสดงความยินดี!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,กิลด์ %s สามารถปกป้องอาร์ติแฟกต์ได้สำเร็จ! ครั้งหน้าคุณคงโชคดีกว่านี้
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,คุณต้องอยู่ในกิลด์จึงจะโจมตีอาร์ติแฟกต์ได้
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,คุณไม่สามารถโจมตีอาร์ติแฟกต์เรือของคุณเองได้!
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on the channel 1 to teleport to the guild house ship!,คุณต้องอยู่ที่ Channel 1 เพื่อเทเลพอร์ตไปยังเรือบ้านกิลด์!
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,คุณอัปเดตตำแหน่งการเกิดอาร์ติแฟกต์ของคุณสำเร็จแล้ว
+TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,คุณต้องเลือกค่า Preset ที่จะลบ
+TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,คุณมี Preset สำหรับแผนที่นั้นมากเกินไป
+TEXTCLIENT_HOUSINGPRESETS_NORIGHTS,You don't have rights to make a preset of that house.,คุณไม่มีสิทธิ์ที่จะตั้งค่า Preset ของบ้านหลังนั้น
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS,"You successfully created housing preset ""%s""","คุณได้สร้าง Preset ""%s"" สำเร็จแล้ว"
+TEXTCLIENT_HOUSINGPRESETS_EXIST,You already have a preset with that name. Please use another name.,คุณมีชื่อ Preset ที่ตั้งไว้แล้ว กรุณาใช้ชื่ออื่น
+TEXTCLIENT_UPGRADE_UNSAFE,Your item will be destroyed if the process fails. It is recommended to use the upgrade menu at the Armor shop. Are you sure you want to continue?,ไอเทมของคุณจะถูกทำลายหากกระบวนการล้มเหลว ขอแนะนำให้ใช้เมนูอัปเกรดในร้านชุดเกราะ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ
+TEXTCLIENT_HOUSEFURNITURE_TOOMUCH,You can't have more than %d props of this type.,คุณไม่สามารถมีของตกแต่งประเภทนี้มากกว่า %d รายการ
+TEXTCLIENT_CTRL_SHIPDRIVE,The wheel is stuck... The ship seems to be uncontrollable for now.,พวงมาลัยติดขัด...ดูเหมือนเรือจะไม่สามารถควบคุมได้ในตอนนี้
+TEXTCLIENT_HOUSINGPRESET_EXPIRED,Some things couldn't be placed because they are expired.,สิ่งของบางอย่างไม่สามารถวางได้ เนื่องจากหมดอายุแล้ว
+TEXTCLIENT_REAPMONEY_RAINBOWRACE_REFUND,You received %s Penya as a refund from the Rainbow Race.,คุณได้รับเงินคืนจำนวน %s Penya จากการแข่งขัน Rainbow Race
+TEXTCLIENT_HOUSINGPRESETS_MAXREACHED,You already reached the maximum unlockable slots for housing presets!,คุณปลดล็อคจำนวนช่อง Preset สูงสุดสำหรับบ้านแล้ว!
+TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing presets!,คุณมี Preset บ้านเป็นจำนวนสูงสุดแล้วจาก %d แล้ว
+TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,เปิดร้านค้าส่วนตัวในบ้านไม่ได้!
+TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,คุณไม่สามารถใช้ return scroll ในบ้านได้!
+TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,ไอเท็มนี้มีค่าพลังสูงสุดเท่าที่จะเป็นไปได้แล้ว
+TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,เหลืออีก %d นาที ที่จะ %s
+TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,คุณไม่สามารถเทเลพอร์ตได้ในระหว่างการแข่งขัน Rainbow Race
+TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,คุณถูกตัดสิทธิ์จากการแข่งขัน
+TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,การแข่งขัน Rainbow Race จะเริ่มในอีก 10 นาที! ลงทะเบียนที่เมือง Darken
+TEXTCLIENT_BANK_EXTRABAG_USED,Bank is now expanded.,คลังขยายแล้ว
+TEXTCLIENT_RAINBOWRACE_NOBOARD,You cannot enter the Rainbow Race because equipping the flying item failed.,You cannot enter the Rainbow Race because equipping the flying item failed.
+TEXTCLIENT_EXTERNALLOGIN,Direct sign in is not available. Please sign in from the website.,ไม่สามารถลงชื่อโดยตรงได้ โปรดลงชื่อเข้าใช้จากเว็บไซต์
+TEXTCLIENT_EVENTBUFF,%s is active!,%s ใช้งานแล้ว
+TEXTCLIENT_STORAGEFULL,The bag is full.,กระเป๋าเต็ม
+TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),%s แพ็คเกราะ (%d/%d)
+TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,คุณสามารถใช้งานกระเป๋าได้ทีละ 1 ครั้งเท่านั้น
+TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,คุณไม่สามารถเล่น motion นี้ในพื้นที่ PvP ได้
+TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,อัพเกรดสำเร็จ
+TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,คุณต้องมีของตกแต่ง มากกว่านี้จึงจะสามารถวางได้
+TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,คุณต้องมี NPC มากขึ้นจึงจะวางได้
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.,คุณไม่ได้สมัครเข้าร่วมการศึกอาร์ติแฟกต์
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!,คุณต้องมีกิลด์เพื่อเข้าร่วมศึกอาร์ติแฟกต์
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing permission to register to the artifact battle.,คุณต้องได้รับอนุญาตจากกิลด์เพื่อลงทะเบียนเข้าร่วมศึกอาร์ติแฟกต์
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d penyas to register to the artifact battle.,คุณต้องมี Penyas อย่างน้อย %d เพื่อลงทะเบียนศึกอาร์ติแฟกต์
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the artifact battle!,กิลด์ของคุณได้ลงทะเบียนศึกอาร์ติแฟกต์แล้ว!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d penyas fee has been taken off your guild bank.,คุณลงทะเบียนเข้าร่วมศึกอาร์ติแฟกต์ครั้งต่อไปสำเร็จแล้ว และค่าสมัคร %d penyas ได้ถูกหักออกจากธนาคารกิลด์ของคุณแล้ว
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d penyas fee has been deposited back into your guild bank.,คุณยกเลิกการเข้าร่วมศึกอาร์ติแฟกต์ครั้งต่อไปสำเร็จแล้ว และค่าสมัคร %d penyas ได้ถูกโอนคืนธนาคารกิลด์ของคุณแล้ว
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!",ศึกอาร์ติแฟกต์ได้เริ่มต้นขึ้นแล้ว คุณไม่สามารถยกเลิกการสมัครของคุณได้!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,สัปดาห์นี้ไม่มีศึกอาร์ติแฟกต์ โปรดลองอีกครั้งในสัปดาห์หน้า!
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,คุณสามารถวาง NPC บ้านกิลด์ได้ที่นี่เท่านั้น
+TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,ไอเท็มนี้ไม่สามารถใช้ได้
+TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,ยืนยันสำเร็จ
+TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,คุณสามารถวาง NPC บ้านส่วนตัวได้ที่นี่เท่านั้น
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,ตำแหน่งการเกิดอาร์ติแฟกต์นี้ถูกกิลด์อื่นยึดครองไปแล้ว
+TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the same time!,คุณไม่สามารถวางอุปกรณ์ประกอบฉากมากกว่า %d ชิ้นในเวลาเดียวกันได้!
+TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,The %s can only be obtained while the %s is in progress.
+TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.",คุณสามารถย้ายอุปกรณ์ประกอบฉาก/NPC ผ่านเมนูแก้ไข หากต้องการออกจากโหมดนี้ ให้กด ESC
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,กิลด์ %s ได้ทำลายศึกอาร์ติแฟกต์ของกิลด์ %s แล้ว!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled the guild!,The owner of this guild house has dismantled the guild!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant.","The guild house's artifact is now in ruins, and the ownership of the house is now vacant."
+TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Registration failed.
+TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,The registration is not possible due to low level.
+TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,You have successfully registered.
+TEXTCLIENT_KALGASASSAULT_ENTRY_FAILURE,Entry failed.,Entry failed.
+TEXTCLIENT_KALGASASSAULT_CANNOT_FRIENDADD,You cannot add friends in the Kalgas Assault.,You cannot add friends in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_PARTY,You cannot make a party in the Kalgas Assault.,You cannot make a party in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_CANNOT_TRADE,You cannot trade in the Kalgas Assault.,You cannot trade in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NOTUSEITEM,You cannot use items in the Kalgas Assault.,You cannot use items in the Kalgas Assault.
+TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas Assault.,You can't use the roulette in the Kalgas Assault.
+TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,You cannot use Blinkwings to escape the Kalgas Assault.
+TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
+TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,You already use Silver Coin this game.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,You require a Silver Coin.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,You require Gold Coins.
+TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Not enough Gold Coins.
+TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
+TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
+TEXTCLIENT_KALGAS_REGISTRATION_NOTIFICATION,The Kalgas Assault is scheduled to take place. Register now!!,The Kalgas Assault is scheduled to take place. Register now!!
+TEXTCLIENT_KALGAS_ENTER_NOTRANS,You cannot enter an Kalgas Assault while you are using a Trans item.,You cannot enter an Kalgas Assault while you are using a Trans item.
+TEXTCLIENT_PARTYSKILL_NOTUSE,You cannot use party skills in this area.,You cannot use party skills in this area.
+TEXTCLIENT_HOUSINGGUESTBOOK_COOLDOWN,Please wait a little before posting another guest book message.,Please wait a little before posting another guest book message.
+TEXTCLIENT_HOUSINGTEMPLATE_PLAYERSIN,There are still some players in your house. You can't change the template until there's nobody left inside.,There are still some players in your house. You can't change the template until there's nobody left inside.
+TEXTCLIENT_RAINBOWRACE_NOPENYA_TEAM,%s does not have enough Penya to apply for the Rainbow Race.,%s does not have enough Penya to apply for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_OTHER_ACTIONS,%s is during other actions.,%s is during other actions.
+TEXTCLIENT_RAINBOWRACE_TEAM_DISTRIBUTION,Teams will be randomly matched after %d seconds,Teams will be randomly matched after %d seconds
+TEXTCLIENT_RAINBOWRACE_TELEPORT_CLOSED,Teleportation is no longer available.,Teleportation is no longer available.
+TEXTCLIENT_RAINBOWRACE_INVITATION_INPROGRESS,Team member invitations are in progress.,Team member invitations are in progress.
+TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%s has already registered for the race.
+TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s has already received an invitation.
+TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,Failed to register for the Rainbow Race.
+TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,It's currently not possible to apply.
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,You can only invite users who are online.
+TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,The Rainbow Race team invitation has been canceled.
+TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s has refused to invite.
+TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,You cannot play Kalgas Assault during the master quest.
+TEXTCLIENT_ITEMOTHERPLAYER,The %s belongs to another player.,The %s belongs to another player.
+TEXTCLIENT_CHAT_NO_TEAM,You are not a member of a team.,You are not a member of a team.
+TEXTCLIENT_LOOTDISABLED,You cannot loot this item.,You cannot loot this item.
+TEXTCLIENT_NO_DUEL_BET,The other player does not accept duel bets.,The other player does not accept duel bets.
+TEXTCLIENT_REAPITEM_CNT,You received %dx %s.,You received %dx %s.
+TEXTCLIENT_REAPITEM_SHORT_CNT,Received %dx %s,Received %dx %s
+TEXTCLIENT_TELEPORTMENU,Teleport menu,Teleport menu
+TEXTCLIENT_DUNGEON_REDUCED,Re-entry cooldown for %s has been reduced by %d minutes.,Re-entry cooldown for %s has been reduced by %d minutes.
+TEXTCLIENT_DUNGEON_COOLDOWN_REDUCE_FAILURE,There is no dungeon where cooldown reduction is possible.,There is no dungeon where cooldown reduction is possible.
+TEXTCLIENT_MAGIC_CLOCK_LIMIT,You've already used maximum count of Magic Clock,You've already used maximum count of Magic Clock
+TEXTCLIENT_MAGIC_CLOCK_SHORT_TIME,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?,Remaining cooldown for the instance dungeon is shorter than the item's effect. Are you sure you want to use the item?
+TEXTCLIENT_CONTINENT_MINLEVEL,You must reach level %d to access this area.,You must reach level %d to access this area.
+TEXTCLIENT_SUMMON_MINLEVEL,You cannot summon a player below level %d.,You cannot summon a player below level %d.
+TEXTCLIENT_SUMMON_MINLEVELPARTY,You cannot summon %s because the level is below %d.,You cannot summon %s because the level is below %d.
+TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an account.,Guest Characters cannot equip this item. Please link an account.
+TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,Your account has been successfully deleted.
+TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,Your password is invalid.
+TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,Not enough %s.
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%s crafted %s!
+TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,You cannot trade due to distance.
+TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,The coupon has been submitted successfully. Please check your Post Box.
+TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,The coupon has been submitted successfully. Please check in the Flyff Shop.
+TEXTCLIENT_COUPON_ALREADYUSED,Coupon has already been used.,Coupon has already been used.
+TEXTCLIENT_COUPON_LIMITREACHED,The coupon usage limit has been reached.,The coupon usage limit has been reached.
+TEXTCLIENT_COUPON_NOTFOUND,No coupon found with this code. Please try again.,No coupon found with this code. Please try again.
+TEXTCLIENT_COUPON_INVALIDCODE,Invalid coupon code. Please try again.,Invalid coupon code. Please try again.
+TEXTCLIENT_COUPONGIFT_MAIL_TITLE,Coupon Gift,Coupon Gift
+TEXTCLIENT_COMBAT_NOTTRADE,You cannot trade during combat.,You cannot trade during combat.
+TEXTCLIENT_EVENT_PREFIX,[Event],[Event]
+TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Account %d disconnected.
+TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Account %d does not exist or is not online.
+TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,You cannot disconnect yourself.
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Search Shop
+TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,There is already a ready check in progress.
+TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,There is a Pirate Ship above the Madrigal!!
+TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
+TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,It can only be used when the target is within 15 meters.
+TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,There is no target to use it on.
+TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,You cannot use it there.
+TEXTCLIENT_SEARCHSHOP_TPSELF,You cannot teleport to yourself.,You cannot teleport to yourself.
+TEXTCLIENT_SEARCHSHOP_CLOSED,The shop has been closed.,The shop has been closed.
+TEXTCLIENT_PVPMATCH_TEAM,Team ,Team 
+TEXTCLIENT_PVPMATCH_MATCHEND_WINNER,Match has ended! Winner is %s!,การแข่งสิ้นสุด! ผู้ชนะคือ %s!
+TEXTCLIENT_PVPMATCH_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,การแข่งสิ้นสุด! ยังไม่มีผู้ชนะตอนนี้!
+TEXTCLIENT_PVPMATCH_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
+TEXTCLIENT_PVPMATCH_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",ไม่มีคู่แข่งเข้าร่วม! การแข่งสิ้นสุดและถือว่าคุณเป็นผู้ชนะ!
+TEXTCLIENT_PVPMATCH_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,ไม่พบคู่แข่ง! เราพิจารณาให้คุณชนะในการแข่งรอบนี้!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s ถูกสังหารโดย [%s] %s!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_PVPMATCH_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_PVPMATCH_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total guild remaining lives have been decreased by %d!,ผู้เล่นไม่ได้เข้าร่วมหรือออกจากเกมไปแล้ว! จำนวนแต้มชีวิตที่เหลือของกิลด์จะลดลง %d!
+TEXTCLIENT_PVPMATCH_SPECT_ERROR_2,The match you're trying to spectate is ending. Please select another one.,การแข่งขันที่คุณกำลังพยายามชมกำลังจะสิ้นสุดลง โปรดเลือกการแข่งขันอื่น
+TEXTCLIENT_PVPMATCH_CANNOT_FRIENDADD,You cannot add friends in a PVP Match.,You cannot add friends in a PVP Match.
+TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You cannot make a party in a PVP Match.
+TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
+TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
+TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!
+TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,In Madrigal Tournament
+TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,You cannot use Blinkwings to escape the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_NOTUSEITEM,You cannot use items in the Madrigal Tournament.,You cannot use items in the Madrigal Tournament.
+TEXTCLIENT_TRANS_LOTTERY_MATOURNAMENT,You can't use the roulette in the Madrigal Tournament.,You can't use the roulette in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_TRADE,You cannot trade in the Madrigal Tournament.,You cannot trade in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_PARTY,You cannot make a party in the Madrigal Tournament.,You cannot make a party in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_CANNOT_FRIENDADD,You cannot add friends in the Madrigal Tournament.,You cannot add friends in the Madrigal Tournament.
+TEXTCLIENT_MATOURNAMENT_HAVENOT_MASTER,party leader has to participate to the Madrigal Tournament!,party leader has to participate to the Madrigal Tournament!
+TEXTCLIENT_MATOURNAMENT_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,โปรดรอคู่แข่ง..
+TEXTCLIENT_MATOURNAMENT_CAPTION_PREPARE,Preparation phase. Match will start in ,Preparation phase. Match will start in 
+TEXTCLIENT_MATOURNAMENT_CAPTION_FIGHT,End combat  ,สิ้นสุดการต่อสู้  
+TEXTCLIENT_MATOURNAMENT_CAPTION_ENDING,Match has ended! You will be teleported on Madrigal in,Match has ended! You will be teleported on Madrigal in
+TEXTCLIENT_MATOURNAMENT_NOT_REGISTRABLE_TIME,Registration is not available at this time.,Registration is not available at this time.
+TEXTCLIENT_MATOURNAMENT_NOPARTY,You are not in a party.,You are not in a party.
+TEXTCLIENT_MATOURNAMENT_NOTPARTYLEADER,You are not the party leader.,You are not the party leader.
+TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,Invalid number of party members.
+TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
+TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
+TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
+TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
+TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
+TEXTCLIENT_MATOURNAMENT_TELEPORTNOMATCH,You can't enter because there is no match available.,You can't enter because there is no match available.
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",ไม่มีคู่แข่งเข้าร่วม! การแข่งสิ้นสุดและถือว่าคุณเป็นผู้ชนะ!
+TEXTCLIENT_MATOURNAMENT_PLAYERNOTJOINED_LIVES,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!,A player has not joined or has left the match! Total Team remaining lives have been decreased by %d!
+TEXTCLIENT_MATOURNAMENT_NOOPPONENT_WIN,No opponent was found for your match! We then considered your match as won!,ไม่พบคู่แข่ง! เราพิจารณาให้คุณชนะในการแข่งรอบนี้!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,การแข่งสิ้นสุด! ยังไม่มีผู้ชนะตอนนี้!
+TEXTCLIENT_MATOURNAMENT_MATCHEND_WINNER,Match has ended! Winner is %s!,การแข่งสิ้นสุด! ผู้ชนะคือ %s!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s ถูกสังหารโดย [%s] %s!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped his killing spree!,[%s] %s killed [%s] %s and stopped his killing spree!
+TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing spree!,[%s] %s is in a killing spree!
+TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,การแข่งเริ่มแล้ว คุณไม่สามารถใช้เทเลพอร์ตในการแข่ง
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,You have received the betting dividends.
+TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,Failed to send the dividends. Check your state.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.,You bet %s penya to %s.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,You already bet other team.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,You can't bid at this time.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.,You have no penya to collect.
+TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,You have no participation or rewards to receive.
+TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,You have received a reward.
+TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,You can't receive the reward. Check your mail.
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT_MAIL,Madrigal Tournament Betting Payout,Madrigal Tournament Betting Payout
+TEXTCLIENT_MATOURNAMENT_BETTING_PAYOUT,You receive betting's payout.,You receive betting's payout.
+TEXTCLIENT_MATOURNAMENT_BETTING_FAIL,Betting failed. Please try again.,Betting failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_REGISTRATION_FAIL,Registration failed. Please try again.,Registration failed. Please try again.
+TEXTCLIENT_MATOURNAMENT_FAIL_ENTER,Unable to enter the Madrigal Tournament.,Unable to enter the Madrigal Tournament.
+TEXTCLIENT_ULTIMATE_JEWEL_POSSIBLE_ITEM,The item is not allowed to add jewel.,The item is not allowed to add jewel.
+TEXTCLIENT_ERROR_NOULTIMATEJEWEL,There is no space to put a ultimate jewel.,There is no space to put a ultimate jewel.
+TEXTCLIENT_REMOVE_ULTIMATE_JEWEL_ERROR,Only ultimate weapon equipped with jewel is available.,Only ultimate weapon equipped with jewel is available.
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOSELECTION,You need to select a jewel to remove!,You need to select a jewel to remove!
+TEXTCLIENT_REMOVEULTIMATEJEWEL_NOJEWEL,The slot you selected has no jewel in it !,The slot you selected has no jewel in it !
+TEXTCLIENT_ULTIMATE_JEWEL_REMOVE_SUCCESS,Your ultimate jewel has been removed succesfully.,Your ultimate jewel has been removed succesfully.
+TEXTCLIENT_COMPOSEJEWEL_SUCCESS,You received %s.,คุณได้รับ %s
+TEXTCLIENT_ERROR_SAMEKIND_JEWEL,You can only attach one of each kind of jewel or rune.,You can only attach one of each kind of jewel or rune.
+TEXTCLIENT_COMPOSEJEWEL_FAIL,Fusion failed. Returned %d %s.,Fusion failed. Returned %d %s.
+TEXTCLIENT_COMPOSEJEWEL_REGISTER_SAMEKIND,Only the same jewel can be registered.,Only the same jewel can be registered.
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_SUCCESS,Ultimate jewel creation successful!,Ultimate jewel creation successful!
+TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,Ultimate jewel creation failed.
+TEXTCLIENT_COUPLENOTARGET,You must select a player first.,You must select a player first.
+TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,Your proposal was refused.
+TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,Your request for break up was refused.
+TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!","You are now a couple, congratulations!"
+TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,Your target is already in a couple.
+TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%s and %s have become a couple!
+TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,The couple skill %s has been used.
+TEXTCLIENT_COUPLE_SKILL_INUSE,You already have the %s skill active.,You already have the %s skill active.
+TEXTCLIENT_COUPLE_SKILL_NOPOINTS,You do not have enough points.,You do not have enough points.
+TEXTCLIENT_COUPLE_SKILL_NOPARTY,You must be in the same party to use this skill.,You must be in the same party to use this skill.
+TEXTCLIENT_COUPLE_REPLACE_RING,This will replace your current couple ring. Are you sure you would like to send this request to your partner?,This will replace your current couple ring. Are you sure you would like to send this request to your partner?
+TEXTCLIENT_COUPLE_NEW_RING,Your ring has been replaced!,Your ring has been replaced!
+TEXTCLIENT_COUPLE_SAME_RING,You are already using this ring.,You are already using this ring.
+TEXTCLIENT_COUPLE_MISSING,You must be in a couple to use this item.,You must be in a couple to use this item.
+TEXTCLIENT_COUPLE_QUESTEXP,Your couple has gained experience!,Your couple has gained experience!
+TEXTCLIENT_COUPLE_NOTITLE,You must be in a couple to use this title.,You must be in a couple to use this title.
+TEXTCLIENT_COUPLE_BREAKUP_DEADLINE,The break up request was not answered. Forceful break up notification timer has begun.,The break up request was not answered. Forceful break up notification timer has begun.
+TEXTCLIENT_COUPLE_MAX_POINTS,Your couple cannot exceed the maximum skill points.,Your couple cannot exceed the maximum skill points.
+TEXTCLIENT_COUPLE_CHEER_SEND,You have cheered your partner.,You have cheered your partner.
+TEXTCLIENT_COUPLE_CHEER_REC,You have been cheered by your partner.,You have been cheered by your partner.
+TEXTCLIENT_COUPLE_MINLEVEL,You and your target must both be at least level %d.,You and your target must both be at least level %d.
+TEXTCLIENT_COUPLE_COOLDOWN,You need to wait %s to form a couple with this player.,You need to wait %s to form a couple with this player.
+TEXTCLIENT_COUPLE_PROPOSAL_SENT,You have sent a proposal!,You have sent a proposal!
+TEXTCLIENT_COMPOSE_RAINBOWJEWEL_FAIL,Composing rainbow jewel failed.,Composing rainbow jewel failed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_SUCCESS,Dismantle rainbow jewel succeed.,Dismantle rainbow jewel succeed.
+TEXTCLIENT_DISMANTLE_RAINBOWJEWEL_FAIL,Dismantle rainbow jewel failed.,Dismantle rainbow jewel failed.
+TEXTCLIENT_HOUSINGWARDROBE_NPCNOTFOUND,The NPC you intended to edit does not exist in your house!,The NPC you intended to edit does not exist in your house!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMNOTFOUND,The item you intented to equip is not in your wardrobe!,The item you intented to equip is not in your wardrobe!
+TEXTCLIENT_HOUSINGWARDROBE_ITEMALREADYUSED,There is already an NPC using that item!,There is already an NPC using that item!
+TEXTCLIENT_HOUSINGEQUIP_NORIGHTS,You don't have permission to edit the equipment of that NPC.,You don't have permission to edit the equipment of that NPC.
+TEXTCLIENT_HOUSINGINVENTORY_NORIGHTS,You don't have permission to edit the inventory of this house.,You don't have permission to edit the inventory of this house.
+TEXTCLIENT_HOUSINGINVENTORY_WRONGITEM,You can only put pets or eggs in the house pet inventory.,You can only put pets or eggs in the house pet inventory.
+TEXTCLIENT_HOUSEOBJECTS_PETEXIST,This pet already exists in the house.,This pet already exists in the house.
+TEXTCLIENT_HOUSINGPET_SPAWNED,You need to remove that pet before taking it out of the pet inventory!,You need to remove that pet before taking it out of the pet inventory!
+TEXTCLIENT_PETTRAINING_MAXLEVEL,This pet has already reached its maximum experience!,This pet has already reached its maximum experience!
+TEXTCLIENT_PETTRAINING_WRONGPET,This trainer can't accept that pet.,This trainer can't accept that pet.
+TEXTCLIENT_HOUSINGINVENTORY_FULL,Pet inventory is full!,Pet inventory is full!
+TEXTCLIENT_PETTRAINING_PETINUSE,You need to remove that pet from the field before training it!,You need to remove that pet from the field before training it!
+TEXTCLIENT_PETTRAINING_NAME,[Training],[Training]
+TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,Trainer %s has completed your pet training!
+TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,You have already unlocked the maximum pet inventory slots!
+TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,You have successfully unlocked a new pet inventory slot for your house!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,You need a guild to use this scroll!
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses.","You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses."
+TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,You must be in a level %d couple to use this motion.
+TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,You must select your partner in order to request this motion.
+TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Your partner refused to perform the motion.
+TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,You are too far away from each other to perform this motion.
+TEXTCLIENT_APP_LIFE,Life,Life
+TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,You need to equip a(n) %s.
+TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Please check the correct tool.
+TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
+TEXTCLIENT_GATHERING_HOE,hoe,hoe
+TEXTCLIENT_GATHERING_AXE,axe,axe
+TEXTCLIENT_GATHERING_PICKAXE,pickaxe,pickaxe
+TEXTCLIENT_GATHERING_FISHING_FAIL,Fishing failed.,Fishing failed.
+TEXTCLIENT_PROPINTERACTION_MAXUSE,Too many players are using this prop. Please try again later.,Too many players are using this prop. Please try again later.
+TEXTCLIENT_GATHERING_TOOL_REPAIR,Repaired %s for %s points.,Repaired %s for %s points.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_TIME_FAIL,You cannot change your expertise yet.,You cannot change your expertise yet.
+TEXTCLIENT_CHANGE_LIFE_MASTERY_EXPERT_SUCCESS,Successfully changed your expertise.,Successfully changed your expertise.
+TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item. Please check your production status.,Failed to use the production reduction item. Please check your production status.
+TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,You do not have enough ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,Unable to check your ingredients.
+TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,You are already producing this item.
+TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,The production time has been reduced by %d minutes.
+TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,Wondering shop inventory renewed successfully.
+TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No space in inventory, %d empty slots needed."
+TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,You can only fish near a body of water.
+TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,You need to equip a fishing rod.
+TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,Your fishing rod must be repaired.
+TEXTCLIENT_FISHING_FAIL_BAIT,Not enough bait.,Not enough bait.
+TEXTCLIENT_FISHING_FAIL,You are unable to fish.,You are unable to fish.
+TEXTCLIENT_LIFEMASTERY_NEED_SKILL,You do not have the %s skill. You must complete the quest from [Life Master] Livi.,You do not have the %s skill. You must complete the quest from [Life Master] Livi.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_MASTERYPOINTS,You lack enough mastery points.,You lack enough mastery points.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_TITLE,You cannot produce this item without the required title.,You cannot produce this item without the required title.
+TEXTCLIENT_LIFEMASTERY_PROUDCTION_FAIL_INGREDIENT,You need to add the correct ingredients.,You need to add the correct ingredients.
+TEXTCLIENT_REPAIR_FAIL_FULLDURATION,This item does not require repairing.,This item does not require repairing.
+TEXTCLIENT_PRODUCTUPGRADE_FAIL,Product upgrade failed.,Product upgrade failed.
+TEXTCLIENT_PRODUCTUPGRADE_SUCCESS,Product upgrade successful!,Product upgrade successful!
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK,%s's recipe has been unlocked.,%s's recipe has been unlocked.
+TEXTCLIENT_BUFF_ITEM_NOTUSE_STACK,You cannot stack this item anymore. This item can only be stacked %d times.,You cannot stack this item anymore. This item can only be stacked %d times.
+TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
+TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
+TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
+TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
+TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
+TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
+TEXTCLIENT_PROPINTERACTION_TOOFAR,You are too far.,You are too far.
+TEXTCLIENT_HOUSINGINVENTORY_NOPET,You need to use that pet at least once before putting it in the pet inventory.,You need to use that pet at least once before putting it in the pet inventory.
+TEXTCLIENT_HOUSINGINVENTORY_NOEGG,You cannot put eggs in the pet inventory.,You cannot put eggs in the pet inventory.
+TEXTCLIENT_RAINBOWRACE_MAX_INVITEES,You have exceeded the maximum number of invitees.,You have exceeded the maximum number of invitees.
+TEXTCLIENT_MATOURNAMENT_ENTRYSTART,The entrance time for the tournament match is now.,The entrance time for the tournament match is now.
+TEXTCLIENT_SWITCHEQUIP_USEATTACK,You can't use an equipment preset while attacking.,You can't use an equipment preset while attacking.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_1,There are currently no races available to enter.,There are currently no races available to enter.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_2,You are not a registered player.,You are not a registered player.
+TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.,You cannot enter on the current channel.
+TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.
+TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,You can't harvest this now.
+TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,You can't harvest this here.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this motion.,You must complete the quest %s to use this motion.
+TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,You cannot use this item in a PvP setting.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!,You can now use the motion %s!
+TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.,The motion %s has expired.
+TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,You can't remove a Blessing of the Demon!
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,This feature is only available with the Extended Battle Pass.
+TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,You already used all your daily teleports.
+TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,You cannot teleport to this shop because it is on a different channel.
+TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Harvests %d/%d
+TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,Infinite harvests
+TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,The same level was rolled. No scrolls were consumed.
+TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,The selected tier has been rerolled to a %d.
+TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Legendary fighters, imbued with the spirit of war."
+TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.","Mystical leaders, channeling Rhisis' powers to command and protect their allies."
+TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.","Cunning tricksters, weaving illusions and chaos."
+TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.","Elusive hunters, guided by the spirits of nature."
+TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolve.","Noble defenders, bound by honor and unbreakable resolve."
+TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
+TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
+TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
+TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,The start of all. You are Vagrant.
+TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Failed to reveal a recipe.
+TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
+TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
+TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,You can't fly when fishing.
+TEXTCLIENT_COUPLEHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your current or further couple house!,You have successfully unlocked a new pet inventory slot for your current or further couple house!
+TEXTCLIENT_WANDERING_SHOP_TICKET_FAIL,You can only use this item when the Wandering Shop is open.,You can only use this item when the Wandering Shop is open.
+TEXTCLIENT_VENDOR_RADIUS,"There is already a Private Shop at this position, please move a little bit.","There is already a Private Shop at this position, please move a little bit."
+TEXTCLIENT_NO_SPECTATE_WORLD,You cannot spectate in this world.,You cannot spectate in this world.
+TEXTCLIENT_NO_SPECTATE_PLAYER,You cannot spectate this player.,You cannot spectate this player.
+TEXTCLIENT_NO_SPECTATE_WAR,You cannot spectate right now.,You cannot spectate right now.
+TEXTCLIENT_NO_SPECTATE_SELF,You cannot spectate yourself.,You cannot spectate yourself.
+TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,You do not have permission to spectate.
+TEXTCLIENT_START_SPECTATE,You are now spectating %s.,You are now spectating %s.
+UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,Pickup boost range
+TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,Server refused the connection. Please make sure you are accessing from the official game page.
+TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
+TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
+TEXTCLIENT_APP_ACCOUNT,Account,Account
+TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,You need %d %s.
+TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,ไอเท็มเสียหายจากการล้มเหลว
+TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,Item downgraded due to the failure.
+TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,This item has exceeded its upgrade attempt limit
+TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
+TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
+TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d hours have passed] Excessive gaming can interfere with normal daily life.
+TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,Your account is not allowed to access this server.
+TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,A statue in the name of the first person to reach maximum level.
+TEXTCLIENT_STATUE_BASE02,A statue in the name of the first person to reach maximum upgrade.,A statue in the name of the first person to reach maximum upgrade.
+TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid material item for upgrade.
+TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
+TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
+TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
+TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
+TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
+TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
+TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
+TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,คุณได้รับ %s x%d แล้ว
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.
+TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
+TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
+TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.
+TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,You do not have enough Trap Tool.
+TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping the same jewel failed.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,You do not have enough jewel or penya for synthesis.
+TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
+TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
+TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
+TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
+TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
+TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.
