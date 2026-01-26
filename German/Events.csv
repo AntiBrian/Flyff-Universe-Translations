@@ -65,10 +65,10 @@ UI_EVENT_LETTER_COLLECTION_PT150,150 points,150 Punkte
 UI_EVENT_LETTER_COLLECTION_PT200,200 points,200 Punkte
 UI_EVENT_CANDYEVENT,Candy Event,Candy Event
 UI_EVENT_GRAND_SPRING_HIDE_HUNT,Spring 2024 Event,Frühlings 2024 Event
-UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Angriff er hungrigen Monster
+UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,Angriff der hungrigen Monster
 UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Connection,Tägliche Verbindung
 UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate for 2nd anniversary of Flyff Universe!,Lasst uns das 2. Jubiläum von Flyff Universe feiern!
-UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2 Jahres Jubiläum!
+UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2. Jubiläum!
 UI_EVENT_ANNIVERSARY2_DESC,FlyFF Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,"FlyFF Universe wird 2 Jahre alt! Ein riesiges Dankeschön an alle Spieler, die diesen Meilenstein möglich gemacht haben!"
 UI_EVENT_ANNIVERSARY2_CAKE,Cake,Kuchen
 UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,Ehering der Legende
@@ -89,13 +89,13 @@ UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,Feier zum 1.4.1-Update
 UI_EVENT_145_ATTENDANCE,Login Event,Login Event
 UI_EVENT_145_ATTENDANCE_DESC,Login each day for 30 minutes and receive rewards!,Logge dich jeden Tag 30 Minuten ein und erhalte Belohnungen!
 UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Meisterschafts-Event
-UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Erhöht deine life sammel mastery um 20%!
+UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Erhöht deine life Sammel mastery um 20%!
 UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Meisterschafts-Event
-UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,erhöht deine life herstellungs mastery um 20%!
+UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Erhöht deine life herstellungs mastery um 20%!
 UI_EVENT_LIFEMASTERY,Life Mastery Event,Life Mastery Event
 UI_EVENT_LIFEMASTERY_DESC_20,Increase your whole life mastery gain by 20%!,Erhöht deine ganze life mastery Erfahrung um 20%!
 UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Life Gathering Speed Event
-UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Erhöht deine life Sammel-Geschwindingkeit um 20%!
+UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Erhöht deine life Sammel-Geschwindigkeit um 20%!
 UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Life Production Speed Event
 UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Erhöht deine life Herstellungs-Geschwindigkeit um 20%!
 UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Cost Reduction Event!,Event zur Reduzierung der Haltbarkeitskosten beim life sammeln!
