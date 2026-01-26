@@ -1,7 +1,7 @@
-﻿Welcome, adventurers! #bStory mode#nb dungeons have monsters with reduced attack, health, and experience compared to the normal version of a dungeon.
+欢迎各位冒险家！#b剧情模式#nb副本中的怪物，其攻击力、生命值和经验值均低于常规版本。
 
-Players may use Story mode difficulty to complete quests with friends, or enjoy a casual stroll through the scenario in a #blow risk#nb environment. Enjoy!
+玩家可使用剧情模式难度与好友一同完成任务，或在#b低风险#nb环境下轻松体验剧情。尽情享受吧！
 
-- Masquerpets in Story mode dungeons do not drop items
-- Pet cages and treasure chests do not spawn in Story mode
-- Players do not earn achievement credit in Story mode
+- 剧情模式副本中的怪物不会掉落物品
+- 宠物笼与宝箱不会在剧情模式中生成
+- 玩家在剧情模式下无法获得成就点数
