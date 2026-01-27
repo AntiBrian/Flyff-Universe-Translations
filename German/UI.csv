@@ -2310,7 +2310,7 @@ UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
 UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
-UI_OPTION_UNDERWATER,Underwater Effect,Underwater Effect
+UI_OPTION_UNDERWATER,Underwater Effect,Unterwasser Effekte
 UI_REVIVAL_LODELIGHT_CONFIRM,Are you sure that you want to resurrect to the Lodelight?,Are you sure that you want to resurrect to the Lodelight?
 UI_REVIVAL_LODESTAR_CONFIRM,Are you sure that you want to resurrect to the Lodestar?,Are you sure that you want to resurrect to the Lodestar?
 UI_CASHSHOP_CONFIRM_MSG_CMT,Do you want to purchase %dx %s (x%d) for %s?,Do you want to purchase %dx %s (x%d) for %s?
@@ -3254,11 +3254,11 @@ UI_DUNGEONTIMERECAP_HELP_2,"You become Silver Tier if you reach the boss room be
 UI_DUNGEONTIMERECAP_HELP_3,"You become Bronze Tier if you reach the boss room after %d minutes. In the Bronze Tier, the normal boss appears.","Du erreichst die Bronze-Stufe, wenn du den Boss-Raum nach %d Minuten erreichst. In der Bronze-Stufe erscheint der normale Boss."
 UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Schaden von vergifteten Gegnern
 UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,Schaden gegen vergiftete Gegner
-UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Chance, Toxine bei Tarnung zu reinigen
+UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,"Chance, Toxine bei Tarnung zu reinigen"
 UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,Suffocate Stack-Chance
 UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Schaden von brennenden Gegnern
-UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Schaden von watered Gegnern
-UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Schaden von suffocated Gegnern
+UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Schaden von nassen Gegnern
+UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Schaden von erstickenden Gegnern
 UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Schaden von geschockten Gegnern
 UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Gesundheitsschild
 UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto-Angriff-Schaden
@@ -3270,7 +3270,7 @@ UI_TOOLTIP_TENACITY,Tenacity,Zähigkeit
 UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Soul Uplift
 UI_15UPDATE_PASS,1.5 Update Pass,1.5-Update-Pass
 UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff-Dauer
-UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,Chance dasselbe ultimative Juwel auszurüsten
+UI_TOOLTIP_DST_SAME_JEWEL_RATE,Chance to equip the same ultimate jewel,"Wahrscheinlichkeit, dass dasselbe ultimative Juwel ausgerüstet wird"
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026-Neujahrspass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In deiner Garderobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Nicht in deiner Garderobe

@@ -10,7 +10,7 @@
 * Zeitplan:  
   - Aufstellung (10 Minuten): Der Gildenmeister oder jeder Kingpin kann die Aufstellung festlegen und bearbeiten. Bis zu 15 Gildenmitglieder können teilnehmen. Ein Teilnehmer muss als Verteidiger bestimmt werden.
   - Eintrittsphase (7 Minuten): Teilnehmende Spieler können die Gildenkampf-Arena betreten und warten.
-  - Vorbereitungsphase (3 Minuten): Die ersten 6 Spieler jeder teilnehmenden Gilde werden in das Gildenkampf-Kampfgebiet teleportiert.
+  - Vorbereitungsphase (3 Minuten): Die ersten 6 Spieler jeder teilnehmenden Gilde werden in das Gildenkampfgebiet teleportiert.
   - Kampfphase (40 Minuten): Der Kampf beginnt und dauert an, bis der Gildenkampf endet.
 * Hinweise
   - Wenn mehr als 5 Gilden teilnehmen, wird ein großes Schlachtfeld verwendet und die Kampfphase dauert 55 Minuten.
