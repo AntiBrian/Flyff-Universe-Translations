@@ -241,10 +241,10 @@ UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,Renvoi des dégâts
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,Réduction de la consommation de PM
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,Réduction de la consommation de PF
 UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,Vitesse d'incantation
-UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Action Speed
-UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Projectile Speed
-UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Disable Effect
-UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Weaken Effect
+UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Vitesse d'action
+UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Vitesse des projectiles
+UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Effet d'inhibition
+UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Effet d'affaiblissement
 UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,Dégâts des coups critiques
 UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),Puissance d'attaque du yo-yo
 UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),Puissance d'attaque de l'arc
@@ -826,11 +826,11 @@ UI_MAP_MARK_NAME_TITLE,Position Name Change,Changement du nom de position
 UI_MAP_MARK_NAME_INPUT,Please put new name,Nouveau nom
 UI_TOOLTIP_EQUIPPED,[ Equipped ],[Équipé]
 UI_TOOLTIP_ACTIVESELF,Also Casted on You,Also Casted on You
-UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Also Casted on Target
-UI_TOOLTIP_CHANGEIFHAS,If you have %s,If you have %s
-UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,If the target has %s
-UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Stacks Gained: %d
-UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Stacks Gained: %d / %d (PvP)
+UI_TOOLTIP_ACTIVETARGET,Also Casted on Target,Aussi appliqué sur la cible
+UI_TOOLTIP_CHANGEIFHAS,If you have %s,Si vous possédez %s
+UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,Si la cible possède %s
+UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Gains de cumul : %d
+UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Gains de cumul : %d / %d (PvP)
 UI_ITEM_LINK_TITLE,Linked Item Info.,Info. Objet lié
 UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,Utiliser le Coupon
 UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Do you want to use it now?,Vous avez reçu un coupon gratuit ! Souhaitez-vous l'utiliser maintenant ?
@@ -935,10 +935,10 @@ UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st area.,Vous allez entrer da
 UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd area.,Vous allez entrer dans le second secteur
 UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd area.,Vous allez entrer dans le troisième secteur
 UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th area.,Vous allez entrer dans le quatrième secteur
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th area.,You have entered the 5th area.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th area.,You have entered the 6th area.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th area.,You have entered the 7th area.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th area.,You have entered the 8th area.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th area.,Vous allez entrer dans la 5ᵉ zone.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th area.,Vous allez entrer dans la 6ᵉ zone.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th area.,Vous allez entrer dans la 7ᵉ zone.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th area.,Vous allez entrer dans la 8ᵉ zone.
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the area you wish to enter.,Sélectionner une zone d'admission
 UI_GUILDCOMBAT_JOINWAR_MSG,"After %d, you enter %s.","Après %d, vous entrez en combat %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Aléatoire
@@ -1009,7 +1009,7 @@ UI_TOOLTIP_ABILITY,Bonus,Spécial
 UI_PET_HP,Energy: %d / %d,Énergie : %d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
 UI_PET_DEAD,(DEAD),(Mort)
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled tier:
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,Niveau réinitialisé du parchemin :
 UI_TARGET_CLEAR,Clear the target,Fermer la cible
 UI_OPTION_TAB_UI,Interface,Interface
 UI_OPTION_AUTO_ATTACK,Auto Attack,Attaques automatiques
@@ -1047,13 +1047,13 @@ UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PVP & Giants),/ %.2d:%.2d (JcJ et Géants)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,Probabilité : %d%%
 UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PVP & Giants),/ %d%% (JcJ et Géants)
-UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Knockdown Probability: %d%%
+UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Probabilité de renversement : %d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Temps de recharge : %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PVP),/ %.2d:%.2d (JcJ)
 UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PVP),Temps de Recharge : %.2d:%.2d (JcJ)
 UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
 UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Durée d'incantation : %.2d:%.2d
-UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Charging Time: %.2d:%.2d
+UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Temps de charge : %.2d:%.2d
 UI_NEWCHAR_FACE,Face,Visage
 UI_NEWCHAR_HAIR,Hair,Cheveux
 UI_NEWCHAR_HAIR_COLOR,Hair Color,Couleur des cheveux
@@ -1232,7 +1232,7 @@ UI_SHOP_QUICK_SELL_RARE,Rare & Lower,Rare & inf.
 UI_SHOP_QUICK_SELL_FOOD,Food,Aliments
 UI_SHOP_QUICK_SELL_POTION,Potion,Potion
 UI_SHOP_BACK_TITLE,Buy back item,Racheter l'obj.
-UI_SHOP_BACK_CONFIRM,Do you want to purchase back the item for %s penya?,Voulez-vous racheter cet objet for %s penya ?
+UI_SHOP_BACK_CONFIRM,Do you want to purchase back the item for %s penya?,Voulez-vous racheter cet objet pour %s penya ?
 UI_TOOLTIP_BOWRANGE,Bow Range,Portée de l'arc
 UI_TOOLTIP_SKILLUP,Skill Damage,Dégât du sort
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,Dégâts de compétences 1v1
@@ -1595,16 +1595,16 @@ UI_LEVELREACH,Level Reach,Niveau atteint
 UI_LEVELREACH_DESC,"Reach new levels during the event period and receive rewards! The number of rewards is limited per level so hurry up. First come, first served!","Atteignez de nouveaux niveaux durant l'évènement pour recevoir des récompenses ! Faites vite, chaque palier a un nombre limité de récompenses. Premier arrivé, premier servi !"
 UI_LEVELREACH_LVL01,Level 1,Niveau 1
 UI_LEVELREACH_LVL02,Level 2,Niveau 2
-UI_LEVELREACH_LVL15,Level 15,Level 15
+UI_LEVELREACH_LVL15,Level 15,Niveau 15
 UI_LEVELREACH_LVL16,Level 16,Niveau 16
 UI_LEVELREACH_LVL20,Level 20,Niveau 20
-UI_LEVELREACH_LVL30,Level 30,Level 30
+UI_LEVELREACH_LVL30,Level 30,Niveau 30
 UI_LEVELREACH_LVL40,Level 40,Niveau 40
-UI_LEVELREACH_LVL45,Level 45,Level 45
+UI_LEVELREACH_LVL45,Level 45,Niveau 45
 UI_LEVELREACH_LVL60,Level 60,Niveau 60
 UI_LEVELREACH_LVL80,Level 80,Niveau 80
 UI_LEVELREACH_LVL100,Level 100,Niveau 100
-UI_LEVELREACH_LVL110,Level 110,Level 110
+UI_LEVELREACH_LVL110,Level 110,Niveau 110
 UI_LEVELREACH_LVL120,Level 120,Niveau 120
 UI_LEVELREACH_LVL125,Level 125,Niveau 125
 UI_LEVELREACH_LVL126,Level 126,Niveau 126
@@ -1625,19 +1625,19 @@ UI_LEVELREACH_LVL154,Level 154,Niveau 154
 UI_LEVELREACH_LVL156,Level 156,Niveau 156
 UI_LEVELREACH_LVL158,Level 158,Niveau 158
 UI_LEVELREACH_LVL160,Level 160,Niveau 160
-UI_LEVELREACH_LVL161,Level 161,Level 161
-UI_LEVELREACH_LVL162,Level 162,Level 162
-UI_LEVELREACH_LVL163,Level 163,Level 163
-UI_LEVELREACH_LVL164,Level 164,Level 164
-UI_LEVELREACH_LVL165,Level 165,Level 165
-UI_LEVELREACH_LVL169,Level 169,Level 169
-UI_LEVELREACH_LVL172,Level 172,Level 172
-UI_LEVELREACH_LVL175,Level 175,Level 175
-UI_LEVELREACH_LVL178,Level 178,Level 178
-UI_LEVELREACH_LVL181,Level 181,Level 181
-UI_LEVELREACH_LVL184,Level 184,Level 184
-UI_LEVELREACH_LVL187,Level 187,Level 187
-UI_LEVELREACH_LVL190,Level 190,Level 190
+UI_LEVELREACH_LVL161,Level 161,Niveau 161
+UI_LEVELREACH_LVL162,Level 162,Niveau 162
+UI_LEVELREACH_LVL163,Level 163,Niveau 163
+UI_LEVELREACH_LVL164,Level 164,Niveau 164
+UI_LEVELREACH_LVL165,Level 165,Niveau 165
+UI_LEVELREACH_LVL169,Level 169,Niveau 169
+UI_LEVELREACH_LVL172,Level 172,Niveau 172
+UI_LEVELREACH_LVL175,Level 175,Niveau 175
+UI_LEVELREACH_LVL178,Level 178,Niveau 178
+UI_LEVELREACH_LVL181,Level 181,Niveau 181
+UI_LEVELREACH_LVL184,Level 184,Niveau 184
+UI_LEVELREACH_LVL187,Level 187,Niveau 187
+UI_LEVELREACH_LVL190,Level 190,Niveau 190
 UI_GIANTHUNTING,Giant Hunting,Chasse aux Géants
 UI_WORLDCUP,GET'EM B'ALL,FOU DU BALLON
 UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,Tableau des scores FOU DU BALLON
@@ -1902,14 +1902,14 @@ UI_QUEST_KILLSTEP_COND,Defeat monsters (%d/%d),Vaincre des monstres (%d/%d)
 UI_PVPCONTEST_TELEPORT_AUTOCLOSE,You have %d seconds to join.,Vous avez %d secondes pour joindre.
 UI_PVPCONTEST_RANKING_DAILY,Today's Matchs,Matchs du Jour
 UI_PVPCONTEST_RANKING_PRELIMINARY,Preliminary,Préliminaire
-UI_PVPCONTEST_RANKING_BACKUP,Back-up,Back-up
+UI_PVPCONTEST_RANKING_BACKUP,Back-up,Sauvegarde
 UI_PVPCONTEST_RANKING_FINALS,Finals,Finales
 UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current FWC PVP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb","Contient toutes les informations de classement pour le concours JcJ FWC en cours.\nSi une seule guilde apparaît dans le classement préliminaire, cela signifie qu'elle n'avait pas d'adversaire!\n#b#uCliquez sur une guilde pour voir les statistiques des joueurs participants.#nu#nb"
 UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,Classement Concours JcJ FWC
 UI_PVPCONTEST_RANKING_RANKING,Ranking,Classement
 UI_PVPCONTEST_RANKING_RANK,Rank,Classement
 UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,Guilde
-UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,Pts Groupe
+UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,Points Groupe
 UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,Meurtres
 UI_PVPCONTEST_RANKING_DEATHS_TOOLTIP,Deaths,Morts
 UI_APP_INFO_PANG_HIDE,You can summon Info-Pang again by going to Menu > Helper > Info-Pang.,Vous pouvez àrevoir les tutoriels de Pang en allant dans Menu > Assistance > Info-Pang.
@@ -2254,7 +2254,7 @@ UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Temps avant l’apparit
 UI_KALGAS_ASSAULT_TIMER_END,Time until the Kalgas Assault end,Temps avant la fin de l’attaque Kalgas
 UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"Due to insufficient participation time, you will be excluded from rewards and rankings.","En raison d’un temps de participation insuffisant, vous serez exclu des récompenses et du classement"
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Félicitations. L’équipe %s gagne !
-UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Malheureusement aucun vainqueur n’est déterminé
+UI_KALGAS_ASSAULT_DRAW,Unfortunately the winner is not decided.,Malheureusement, aucun vainqueur n’est déterminé
 UI_KALGAS_ASSAULT_RETURN_COUNT,"After %d seconds, you will be automatically moved to town.","Après %d secondes, vous serez automatiquement ramené en ville"
 UI_BLACK,Black,Noir
 UI_WHITE,White,Blanc
