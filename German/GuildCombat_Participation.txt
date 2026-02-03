@@ -1,15 +1,17 @@
-﻿#b#cff0000ff* Participation#nb#nc
-* Application Time: Every Sunday 00:00 to Saturday 13:00 UTC
-* Combat Place: Server Channel 1
-* Conditions
- - Guild Master
- - The level of Guild should be 6 or higher.
- - The level of Guild member should be 30 or higher.
- - Guild Master or Kingpin should join together.
- - Only 8 Guilds can join in order of the amount of applying money (before the end of applification).
-* Schedule
- - 13:00  Entry
- - 13:10  Entry is ended
- - 13:20  Combat begins
- - 13:50  Combat is ended
-#b#cffff0000* Guild Siege will only begin if 2 or more Guilds are accepted.#nb#nc
+﻿#b#cff0000ff* Teilnahme#nb#nc
+* Anmeldezeit: Außerhalb der Gildenkampf Zeit
+* Kampfplatz: Server-Kanal 1
+* Bedingungen:
+  - Gildenmeister
+  - Gildenlevel mindestens 6
+  - Gildenmitglieder mindestens Level 30
+  - Gildenmeister oder Kingpin müssen gemeinsam teilnehmen
+  - Bis zu 10 Gilden können teilnehmen. Wenn sich mehr als 10 Gilden anmelden, werden die Gilden ausgewählt, die die höchsten Anmeldegebühren gezahlt haben (Gebühren werden am Ende der Anmeldezeit verglichen).
+* Zeitplan:  
+  - Aufstellung (10 Minuten): Der Gildenmeister oder jeder Kingpin kann die Aufstellung festlegen und bearbeiten. Bis zu 15 Gildenmitglieder können teilnehmen. Ein Teilnehmer muss als Verteidiger bestimmt werden.
+  - Eintrittsphase (7 Minuten): Teilnehmende Spieler können die Gildenkampf-Arena betreten und warten.
+  - Vorbereitungsphase (3 Minuten): Die ersten 6 Spieler jeder teilnehmenden Gilde werden in das Gildenkampfgebiet teleportiert.
+  - Kampfphase (40 Minuten): Der Kampf beginnt und dauert an, bis der Gildenkampf endet.
+* Hinweise
+  - Wenn mehr als 5 Gilden teilnehmen, wird ein großes Schlachtfeld verwendet und die Kampfphase dauert 55 Minuten.
+  - #b#cffff0000 Der Gildenkampf beginnt nur, wenn 2 oder mehr Gilden akzeptiert werden.#nb#nc
