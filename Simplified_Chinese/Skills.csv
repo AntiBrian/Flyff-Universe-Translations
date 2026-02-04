@@ -509,7 +509,7 @@ PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,Madrigal's most fo
 PROPSKILL_TXT_150000,Harlequin's Greeting,谑影戏礼
 PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.",使用迅捷步法，瞬间传送至目标身后并发起疾速攻击。
 PROPSKILL_TXT_150002,Shadow Attack,暗影袭击
-PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","瞬间传送至目标身后并造成伤害。若在隐身状态下使用此技能，随后三秒内的首次普通攻击将必定暴击，且技能冷却时间缩短。"
+PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.",瞬间传送至目标身后并造成伤害。若在隐身状态下使用此技能，随后三秒内的首次普通攻击将必定暴击，且技能冷却时间缩短。
 PROPSKILL_TXT_150004,Range Increase,距离增加
 PROPSKILL_TXT_150005,Harlequin's Charge,谑影蓄势
 PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,集聚力量，对单个敌人发动强力的蓄力攻击。
@@ -537,7 +537,7 @@ PROPSKILL_TXT_150030,Concentration [Nen],集中 [念气]
 PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,凝神聚意，使用时获得念气。此技能最多可积累10点念气。念气叠层效果将根据当前叠层数量倍增。
 PROPSKILL_TXT_150032,Forced Critical Hit,强制暴击
 PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,下次自动攻击必定暴击。
-PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.","你的暴击率上限为10%，但暴击伤害将大幅提升。"
+PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.",你的暴击率上限为10%，但暴击伤害将大幅提升。
 PROPSKILL_TXT_150035,Barrage,弹幕
 PROPSKILL_TXT_150036,Normal attacks have a chance to fire double arrows.,普通攻击有一定概率发射两支箭。
 PROPSKILL_TXT_150037,Increased Strike,强化打击
@@ -826,7 +826,7 @@ PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.
 PROPSKILL_TXT_150260,Hymn - Liberation,圣歌 - 解放
 PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,允许同时吟唱其他圣歌类技能。
 PROPSKILL_TXT_150262,Nen Overflow,念气溢流
-PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.","释放全部念气以进入溢流状态。念气溢流期间，将启用特定技能的念气强化变体。溢流状态下无法获得念气。"
+PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.",释放全部念气以进入溢流状态。念气溢流期间，将启用特定技能的念气强化变体。溢流状态下无法获得念气。
 PROPSKILL_TXT_150264,Form Enhancement,Form Enhancement
 PROPSKILL_TXT_150265,Mind Enhancement,Mind Enhancement
 PROPSKILL_TXT_150266,Aura Enhancement,Aura Enhancement
@@ -1145,7 +1145,7 @@ PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,Chance to gain an ext
 PROPSKILL_TXT_150609,Nen Release,念气释放
 PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,消耗一定力量，移除所有的念气叠加。
 PROPSKILL_TXT_150611,Divinecross,神圣十字
-PROPSKILL_TXT_150612,"Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again.","对目标施加神圣之力，记录其期间承受的最高单次伤害，并在效果结束时复制该伤害的至多75%。此减益效果可通过再次按键主动提前结束。"
+PROPSKILL_TXT_150612,"Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again.",对目标施加神圣之力，记录其期间承受的最高单次伤害，并在效果结束时复制该伤害的至多75%。此减益效果可通过再次按键主动提前结束。
 PROPSKILL_TXT_150613,Increased Multiplier,Increased Multiplier
 PROPSKILL_TXT_150614,Reduced PvP Cooldown,Reduced PvP Cooldown
 PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,Cooldown is reduced in PvP.

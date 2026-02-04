@@ -909,7 +909,7 @@ ACHIEVEMENT_DAILY_PLAY_TIME_LVL2,20 min
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL3,30 min
 ACHIEVEMENT_DAILY_PLAY_TIME_LVL4,40 min
 ACHIEVEMENT_CONNECTION_SERIES_NAME,Login Streak
-ACHIEVEMENT_CONNECTION_SERIES_DESC,"Log in on consecutive days to unlock increasing daily rewards. Missing a day resets the streak. Resets at midnight."
+ACHIEVEMENT_CONNECTION_SERIES_DESC,Log in on consecutive days to unlock increasing daily rewards. Missing a day resets the streak. Resets at midnight.
 ACHIEVEMENT_CONNECTION_SERIES_LVL1,Day 1
 ACHIEVEMENT_CONNECTION_SERIES_LVL2,Day 2
 ACHIEVEMENT_CONNECTION_SERIES_LVL3,Day 3

@@ -56,10 +56,10 @@ PROPMOTION_TXT_000053,Attack the Selected Target,Atakihin ang napiling target
 PROPMOTION_TXT_000054,,
 PROPMOTION_TXT_000055,You propose to the selected player.,Mag-propose sa napiling character.
 PROPMOTION_TXT_000057,Toggle Weapons,Pagpalit ng armas
-PROPMOTION_TXT_000058,Activate your summoned pet's grace,I-activate ang biyaya ng iyong ipinatawag na alaga
-PROPMOTION_TXT_000059,Follow the selected target,Sundan ang napiling target
-PROPMOTION_TXT_000060,Swap your current stat page,Palitan ang iyong stat page
-PROPMOTION_TXT_000061,Play dead,Patay na Naglalaro
+PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,I-activate ang biyaya ng iyong ipinatawag na alaga
+PROPMOTION_TXT_000059,Follow the Selected Target,Sundan ang napiling target
+PROPMOTION_TXT_000060,Switch Your Current Stat Page,Palitan ang iyong stat page
+PROPMOTION_TXT_000061,Play Dead,Patay na Naglalaro
 PROPMOTION_TXT_000062,Propose,Mag-propose
 PROPMOTION_TXT_000063,High Five (Couple),High Five (Magkasintahan)
 PROPMOTION_TXT_000064,Hug (Couple),Yakap (Magkasintahan)
@@ -100,6 +100,6 @@ PROPMOTION_TXT_000107,Provoke,Pukawin
 PROPMOTION_TXT_000108,Surprised,Sorpreso
 PROPMOTION_TXT_000109,Look Around,Tumingin-tingin
 PROPMOTION_TXT_000110,Arm Heart,Arm Heart
-PROPMOTION_TXT_000111,Swap your current skill page,Palitan ang iyong kasalukuyang skill pahina
+PROPMOTION_TXT_000111,Switch Your Current Skill Page,Palitan ang iyong kasalukuyang skill pahina
 PROPMOTION_TXT_000112,Surrender,Sumuko
 PROPMOTION_TXT_000113,Begging,Nanghihingi

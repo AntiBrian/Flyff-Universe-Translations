@@ -1,7 +1,7 @@
 ﻿Key,English,Russian
 TEXTCLIENT_CONNECTING,Connecting. Please wait.,Соединение…
 TEXTCLIENT_CANTCONNECT,Cannot connect to the game. Please check the network.,Не удалось подключиться к игре. Проверьте соединение. Вы также можете обратиться к администрации для решения проблемы.
-TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,Игра обновлена. Пожалуйста, закройте страницу и откройте её снова.
+TEXTCLIENT_OLDCLIENT,The game has been updated. Please close the page and open it again.,"Игра обновлена. Пожалуйста, закройте страницу и откройте её снова."
 TEXTCLIENT_WRONGSERVER,Wrong server identifier.,Неправильный идентификатор сервера.
 TEXTCLIENT_UNKNOWNERROR,"Unknown error, please try again.","Неизвестная ошибка, пожалуйста попробуйте ещё раз."
 TEXTCLIENT_ALREADYCONNECTED,Your account is already connected.,Ваш аккаунт уже подключен.
