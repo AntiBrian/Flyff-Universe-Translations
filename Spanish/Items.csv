@@ -19008,8 +19008,8 @@ PROPITEM_TXT_134627,Cooking Egg,Cooking Egg
 PROPITEM_TXT_134628,These eggs are used for cooking.,These eggs are used for cooking.
 PROPITEM_TXT_134629,Eighth Refresher (C),Octavo Refresco (C)
 PROPITEM_TXT_134630,MP 630 Recovery,Recupera 630 MP
-PROPITEM_TXT_134632,Eighth Refresher (A),Octavo Refresco (A)
 PROPITEM_TXT_134631,Eighth Refresher (B),Octavo Refresco (B)
+PROPITEM_TXT_134632,Eighth Refresher (A),Octavo Refresco (A)
 PROPITEM_TXT_134633,Eighth Refresher (A+),Octavo Refresco (A+)
 PROPITEM_TXT_134634,MP 683 Recovery,Recupera 683 MP
 PROPITEM_TXT_134635,Enduky +4,Enduky +4
@@ -25526,6 +25526,13 @@ PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),Noble Jockey Red Shoes (F)
 PROPITEM_TXT_902664,Noble Jockey Red Costume Set (F),Noble Jockey Red Costume Set (F)
 PROPITEM_TXT_902665,The Noble Jockey Red Set for male characters.,The Noble Jockey Red Set for male characters.
 PROPITEM_TXT_902666,The Noble Jockey Red Set for female characters.,The Noble Jockey Red Set for female characters.
+PROPITEM_TXT_135089,[Lv 120~190] 2026 Valentine's Day Reward Box A,[Lv 120~190] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135090,[Lv 80~119] 2026 Valentine's Day Reward Box A,[Lv 80~119] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135091,[Lv 20~79] 2026 Valentine's Day Reward Box A,[Lv 20~79] 2026 Valentine's Day Reward Box A
+PROPITEM_TXT_135092,2026 Valentine's Day Reward Box B,2026 Valentine's Day Reward Box B
+PROPITEM_TXT_135093,2026 Valentine's Day Reward Box C,2026 Valentine's Day Reward Box C
+PROPITEM_TXT_135094,2026 Valentine's Day Reward Box D,2026 Valentine's Day Reward Box D
+PROPITEM_TXT_135095,[Valentine] Pet Random Box,[Valentine] Pet Random Box
 PROPITEM_TXT_902667,2026 MyCard New Year Promotion Box A,2026 MyCard New Year Promotion Box A
 PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked.","A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked."
 PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,2026 MyCard New Year Promotion Box B
@@ -25565,3 +25572,112 @@ PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight
 PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,Scroll of Ultimate Bonus Select Box
 PROPITEM_TXT_902704,Select which scroll you want to receive!,Select which scroll you want to receive!
 PROPITEM_TXT_902705,Begging Motion,Begging Motion
+PROPITEM_TXT_902706,Button Mark 10% Green Set,Button Mark 10% Green Set
+PROPITEM_TXT_902707,Button Mark Green Backpack,Button Mark Green Backpack
+PROPITEM_TXT_902708,Button Mark Green Mask,Button Mark Green Mask
+PROPITEM_TXT_902709,Button Mark Green Hat (M),Button Mark Green Hat (M)
+PROPITEM_TXT_902710,Button Mark Green Suit (M),Button Mark Green Suit (M)
+PROPITEM_TXT_902711,Button Mark Green Shoes (M),Button Mark Green Shoes (M)
+PROPITEM_TXT_902712,Button Mark 10% Green Set (M),Button Mark 10% Green Set (M)
+PROPITEM_TXT_902713,The Button Mark 10% Green Set for male characters.,The Button Mark 10% Green Set for male characters.
+PROPITEM_TXT_902714,Button Mark Green Hat (F),Button Mark Green Hat (F)
+PROPITEM_TXT_902715,Button Mark Green Suit (F),Button Mark Green Suit (F)
+PROPITEM_TXT_902716,Button Mark Green Shoes (F),Button Mark Green Shoes (F)
+PROPITEM_TXT_902717,Button Mark 10% Green Set (F),Button Mark 10% Green Set (F)
+PROPITEM_TXT_902718,The Button Mark 10% Green Set for female characters.,The Button Mark 10% Green Set for female characters.
+PROPITEM_TXT_902719,Button Mark 10% Turquoise Set,Button Mark 10% Turquoise Set
+PROPITEM_TXT_902720,Button Mark Turquoise Backpack,Button Mark Turquoise Backpack
+PROPITEM_TXT_902721,Button Mark Turquoise Mask,Button Mark Turquoise Mask
+PROPITEM_TXT_902722,Button Mark Turquoise Hat (M),Button Mark Turquoise Hat (M)
+PROPITEM_TXT_902723,Button Mark Turquoise Suit (M),Button Mark Turquoise Suit (M)
+PROPITEM_TXT_902724,Button Mark Turquoise Shoes (M),Button Mark Turquoise Shoes (M)
+PROPITEM_TXT_902725,Button Mark 10% Turquoise Set (M),Button Mark 10% Turquoise Set (M)
+PROPITEM_TXT_902726,The Button Mark 10% Turquoise Set for male characters.,The Button Mark 10% Turquoise Set for male characters.
+PROPITEM_TXT_902727,Button Mark Turquoise Hat (F),Button Mark Turquoise Hat (F)
+PROPITEM_TXT_902728,Button Mark Turquoise Suit (F),Button Mark Turquoise Suit (F)
+PROPITEM_TXT_902729,Button Mark Turquoise Shoes (F),Button Mark Turquoise Shoes (F)
+PROPITEM_TXT_902730,Button Mark 10% Turquoise Set (F),Button Mark 10% Turquoise Set (F)
+PROPITEM_TXT_902731,The Button Mark 10% Turquoise Set for female characters.,The Button Mark 10% Turquoise Set for female characters.
+PROPITEM_TXT_902732,Button Mark 8% Lime Set,Button Mark 8% Lime Set
+PROPITEM_TXT_902733,Button Mark Lime Backpack,Button Mark Lime Backpack
+PROPITEM_TXT_902734,Button Mark Lime Mask,Button Mark Lime Mask
+PROPITEM_TXT_902735,Button Mark Lime Hat (M),Button Mark Lime Hat (M)
+PROPITEM_TXT_902736,Button Mark Lime Suit (M),Button Mark Lime Suit (M)
+PROPITEM_TXT_902737,Button Mark Lime Shoes (M),Button Mark Lime Shoes (M)
+PROPITEM_TXT_902738,Button Mark 8% Lime Set (M),Button Mark 8% Lime Set (M)
+PROPITEM_TXT_902739,The Button Mark 8% Lime Set for male characters.,The Button Mark 8% Lime Set for male characters.
+PROPITEM_TXT_902740,Button Mark Lime Hat (F),Button Mark Lime Hat (F)
+PROPITEM_TXT_902741,Button Mark Lime Suit (F),Button Mark Lime Suit (F)
+PROPITEM_TXT_902742,Button Mark Lime Shoes (F),Button Mark Lime Shoes (F)
+PROPITEM_TXT_902743,Button Mark 8% Lime Set (F),Button Mark 8% Lime Set (F)
+PROPITEM_TXT_902744,The Button Mark 8% Lime Set for female characters.,The Button Mark 8% Lime Set for female characters.
+PROPITEM_TXT_902745,Button Mark 8% Orange Set,Button Mark 8% Orange Set
+PROPITEM_TXT_902746,Button Mark Orange Backpack,Button Mark Orange Backpack
+PROPITEM_TXT_902747,Button Mark Orange Mask,Button Mark Orange Mask
+PROPITEM_TXT_902748,Button Mark Orange Hat (M),Button Mark Orange Hat (M)
+PROPITEM_TXT_902749,Button Mark Orange Suit (M),Button Mark Orange Suit (M)
+PROPITEM_TXT_902750,Button Mark Orange Shoes (M),Button Mark Orange Shoes (M)
+PROPITEM_TXT_902751,Button Mark 8% Orange Set (M),Button Mark 8% Orange Set (M)
+PROPITEM_TXT_902752,The Button Mark 8% Orange Set for male characters.,The Button Mark 8% Orange Set for male characters.
+PROPITEM_TXT_902753,Button Mark Orange Hat (F),Button Mark Orange Hat (F)
+PROPITEM_TXT_902754,Button Mark Orange Suit (F),Button Mark Orange Suit (F)
+PROPITEM_TXT_902755,Button Mark Orange Shoes (F),Button Mark Orange Shoes (F)
+PROPITEM_TXT_902756,Button Mark 8% Orange Set (F),Button Mark 8% Orange Set (F)
+PROPITEM_TXT_902757,The Button Mark 8% Orange Set for female characters.,The Button Mark 8% Orange Set for female characters.
+PROPITEM_TXT_902758,Button Mark 6% Purple Set,Button Mark 6% Purple Set
+PROPITEM_TXT_902759,Button Mark Purple Backpack,Button Mark Purple Backpack
+PROPITEM_TXT_902760,Button Mark Purple Mask,Button Mark Purple Mask
+PROPITEM_TXT_902761,Button Mark Purple Hat (M),Button Mark Purple Hat (M)
+PROPITEM_TXT_902762,Button Mark Purple Suit (M),Button Mark Purple Suit (M)
+PROPITEM_TXT_902763,Button Mark Purple Shoes (M),Button Mark Purple Shoes (M)
+PROPITEM_TXT_902764,Button Mark 6% Purple Set (M),Button Mark 6% Purple Set (M)
+PROPITEM_TXT_902765,The Button Mark 6% Purple Set for male characters.,The Button Mark 6% Purple Set for male characters.
+PROPITEM_TXT_902766,Button Mark Purple Hat (F),Button Mark Purple Hat (F)
+PROPITEM_TXT_902767,Button Mark Purple Suit (F),Button Mark Purple Suit (F)
+PROPITEM_TXT_902768,Button Mark Purple Shoes (F),Button Mark Purple Shoes (F)
+PROPITEM_TXT_902769,Button Mark 6% Purple Set (F),Button Mark 6% Purple Set (F)
+PROPITEM_TXT_902770,The Button Mark 6% Purple Set for female characters.,The Button Mark 6% Purple Set for female characters.
+PROPITEM_TXT_902771,Button Mark 4% Red Set,Button Mark 4% Red Set
+PROPITEM_TXT_902772,Button Mark Red Backpack,Button Mark Red Backpack
+PROPITEM_TXT_902773,Button Mark Red Mask,Button Mark Red Mask
+PROPITEM_TXT_902774,Button Mark Red Hat (M),Button Mark Red Hat (M)
+PROPITEM_TXT_902775,Button Mark Red Suit (M),Button Mark Red Suit (M)
+PROPITEM_TXT_902776,Button Mark Red Shoes (M),Button Mark Red Shoes (M)
+PROPITEM_TXT_902777,Button Mark 4% Red Set (M),Button Mark 4% Red Set (M)
+PROPITEM_TXT_902778,The Button Mark 4% Red Set for male characters.,The Button Mark 4% Red Set for male characters.
+PROPITEM_TXT_902779,Button Mark Red Hat (F),Button Mark Red Hat (F)
+PROPITEM_TXT_902780,Button Mark Red Suit (F),Button Mark Red Suit (F)
+PROPITEM_TXT_902781,Button Mark Red Shoes (F),Button Mark Red Shoes (F)
+PROPITEM_TXT_902782,Button Mark 4% Red Set (F),Button Mark 4% Red Set (F)
+PROPITEM_TXT_902783,The Button Mark 4% Red Set for female characters.,The Button Mark 4% Red Set for female characters.
+PROPITEM_TXT_902784,Button Mark 2% Blue Set,Button Mark 2% Blue Set
+PROPITEM_TXT_902785,Button Mark Blue Backpack,Button Mark Blue Backpack
+PROPITEM_TXT_902786,Button Mark Blue Mask,Button Mark Blue Mask
+PROPITEM_TXT_902787,Button Mark Blue Hat (M),Button Mark Blue Hat (M)
+PROPITEM_TXT_902788,Button Mark Blue Suit (M),Button Mark Blue Suit (M)
+PROPITEM_TXT_902789,Button Mark Blue Shoes (M),Button Mark Blue Shoes (M)
+PROPITEM_TXT_902790,Button Mark 2% Blue Set (M),Button Mark 2% Blue Set (M)
+PROPITEM_TXT_902791,The Button Mark 2% Blue Set for male characters.,The Button Mark 2% Blue Set for male characters.
+PROPITEM_TXT_902792,Button Mark Blue Hat (F),Button Mark Blue Hat (F)
+PROPITEM_TXT_902793,Button Mark Blue Suit (F),Button Mark Blue Suit (F)
+PROPITEM_TXT_902794,Button Mark Blue Shoes (F),Button Mark Blue Shoes (F)
+PROPITEM_TXT_902795,Button Mark 2% Blue Set (F),Button Mark 2% Blue Set (F)
+PROPITEM_TXT_902796,The Button Mark 2% Blue Set for female characters.,The Button Mark 2% Blue Set for female characters.
+PROPITEM_TXT_902797,Button Mark 2% Black Set,Button Mark 2% Black Set
+PROPITEM_TXT_902798,Button Mark Black Backpack,Button Mark Black Backpack
+PROPITEM_TXT_902799,Button Mark Black Mask,Button Mark Black Mask
+PROPITEM_TXT_902800,Button Mark Black Hat (M),Button Mark Black Hat (M)
+PROPITEM_TXT_902801,Button Mark Black Suit (M),Button Mark Black Suit (M)
+PROPITEM_TXT_902802,Button Mark Black Shoes (M),Button Mark Black Shoes (M)
+PROPITEM_TXT_902803,Button Mark 2% Black Set (M),Button Mark 2% Black Set (M)
+PROPITEM_TXT_902804,The Button Mark 2% Black Set for male characters.,The Button Mark 2% Black Set for male characters.
+PROPITEM_TXT_902805,Button Mark Black Hat (F),Button Mark Black Hat (F)
+PROPITEM_TXT_902806,Button Mark Black Suit (F),Button Mark Black Suit (F)
+PROPITEM_TXT_902807,Button Mark Black Shoes (F),Button Mark Black Shoes (F)
+PROPITEM_TXT_902808,Button Mark 2% Black Set (F),Button Mark 2% Black Set (F)
+PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,The Button Mark 2% Black Set for female characters.
+PROPITEM_TXT_902810,Button Mark Costume Lucky Box,Button Mark Costume Lucky Box
+PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_135096,Yetti's Precious Box,Yetti's Precious Box
+PROPITEM_TXT_135097,Reconnaissance Set Select Box,Reconnaissance Set Select Box
+PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190] Amplification ES Scroll Select Box

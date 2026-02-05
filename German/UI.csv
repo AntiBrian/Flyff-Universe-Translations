@@ -2345,8 +2345,8 @@ UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,C
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
 UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Bitte geben Sie ein gültiges Geburtsdatum ein.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,Um dieses Spiel spielen zu können, müssen Sie mindestens 16 Jahre alt sein.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,Um fortfahren zu können, müssen Sie die Nutzungsbedingungen und die Datenschutzrichtlinie lesen und akzeptieren.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,"Um dieses Spiel spielen zu können, müssen Sie mindestens 16 Jahre alt sein."
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,"Um fortfahren zu können, müssen Sie die Nutzungsbedingungen und die Datenschutzrichtlinie lesen und akzeptieren."
 UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Bitte geben Sie eine gültige Postleitzahl ein.
 UI_ROLL_AND_MOVE_START,START,START
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice

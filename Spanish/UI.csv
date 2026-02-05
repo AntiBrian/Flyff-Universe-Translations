@@ -2357,7 +2357,7 @@ UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
 UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
 UI_COUPON_TITLE,Coupon,Coupon
-UI_COUPON_ENTER,Please enter your coupon code.,Por favor, Ingrese el código de cupón.
+UI_COUPON_ENTER,Please enter your coupon code.,"Por favor, Ingrese el código de cupón."
 UI_COUPON_CODE,Coupon Code,Código de Cupón
 UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Las llaves se ven así:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,Reclamar
