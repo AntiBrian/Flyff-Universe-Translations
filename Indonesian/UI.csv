@@ -2330,7 +2330,7 @@ UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Privacy Policy
 UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
 UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
 UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Diperlukan) Silakan masukkan tanggal lahir Anda
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Diperlukan) Silakan masukkan tanggal lahir kamu
 UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
 UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Diperlukan) Saya setuju
 UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
