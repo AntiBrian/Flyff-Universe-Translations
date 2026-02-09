@@ -2613,7 +2613,7 @@ UI_LIFE_RECIPEBTN,See related recipes,See related recipes
 UI_LIFE_RECIPES,Recipes,Ricette
 UI_LIFE_RECIPES_CATEGORY,Category,Categorie
 UI_LIFE_RECIPES_DETAILS,Details,Details
-UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Nessuno ricetta selezionata
+UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Nessuna ricetta selezionata
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired\nIngredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:,Required Mastery: %d\nRequired Title: \nRequired\nIngredients:
 UI_LIFE_PRODUCTION_TITLE,Production,Produzione
