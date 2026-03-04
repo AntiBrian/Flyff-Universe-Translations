@@ -26,7 +26,7 @@ UI_CHARLIST_TITLE,Characters,Hahmot
 UI_CHARLIST_PLAY,Play,Pelaa
 UI_CHARLIST_NEW,New,Uusi
 UI_CHARLIST_DELETE,Delete,Poista
-UI_DELETECHAR_TITLE,Delete Character,Poista Hahmo
+UI_DELETECHAR_TITLE,Delete Character,Poista hahmo
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,Password for deleting character\nEnter the password
 UI_DELETECHAR_NOPASS,Do you confirm?,Vahvistatko?
 UI_DELETECHAR_NOTICE,"If you delete a character, you cannot use its name during a week.","Jos poistat hahmon, et voi käyttää sen nimeä viikon ajan."
